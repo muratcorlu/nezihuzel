@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>{{ title }} | Ex Oriente Lux</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="all"
+      href="/css/style.css"/>
+    <meta name="generator" content="Eleventy"/>
+    <link rel="canonical" href="{{ page.url }}"/>
+  </head>
+  <body class="post-template-default single single-post postid-3185 single-format-standard">
+    <div id="wrapper" class="hfeed">
+      <div id="header">
+        <div id="masthead">
+          <div id="branding" role="banner">
+            <div id="site-title">
+              <span>
+                <a href="/" title="Ex Oriente Lux" rel="home">Ex Oriente Lux</a>
+              </span>
+            </div>
+            <div id="site-description">Nezih UZEL (1938 &#8211; 2012)</div>
+            <img src="/images/sunset.jpg" width="940" height="198" alt=""/>
+          </div>
+          <div id="access" role="navigation">
+            <div class="skip-link screen-reader-text">
+              <a href="#content" title="İçeriğe atla">İçeriğe atla</a>
+            </div>
+            <div class="menu">
+              <ul>
+                <li>
+                  <a href="/">Başlangıç</a>
+                </li>
+                <li class="page_item page-item-5">
+                  <a href="/hakkinda/">Nezih UZEL</a>
+                </li>
+                <li class="page_item page-item-3177">
+                  <a href="/site-hakkinda/">Site hakkında</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="main">
+        <div id="container">
+          <div id="content" role="main">
+            {{ content | safe }}
+          </div>
+        </div>
+        <div id="primary" class="widget-area" role="complementary">
+          <ul class="xoxo">
+            <li id="search-2" class="widget-container widget_search">
+              <form role="search" method="get" id="searchform" class="searchform" action="/">
+                <div>
+                  <label class="screen-reader-text" for="s">Arama:</label>
+                  <input type="text" value="" name="s" id="s"/>
+                  <input type="submit" id="searchsubmit" value="Ara"/>
+                </div>
+              </form>
+            </li>
+            <li id="archives-2" class="widget-container widget_archive">
+              <h3 class="widget-title">Arşivler</h3>
+              <ul>
+                <li><a href='/2012/05/'>Mayıs 2012</a></li>
+              </ul>
+            </li>
+            <li id="categories-2" class="widget-container widget_categories">
+              <h3 class="widget-title">Kategoriler</h3>
+              <ul>
+                {% for category in collections.categories %}
+
+                <li class="cat-item cat-item-2">
+                  <a href="/category/{{ category.slug }}/">{{ category.title }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="footer" role="contentinfo">
+        <div id="colophon">
+          <div id="site-info">
+            <a href="/" title="Ex Oriente Lux" rel="home">
+              Ex Oriente Lux
+            </a>
+          </div>
+          <div id="site-generator">
+            <a href="https://11ty.org/" class="imprint">
+              Eleventy ile güçlendirilmiştir.
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

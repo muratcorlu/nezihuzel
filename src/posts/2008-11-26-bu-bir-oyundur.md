@@ -1,0 +1,30 @@
+---
+title: "Bu bir oyundur"
+date: "2008-11-26"
+categories: 
+  - "bas-yazi"
+---
+
+[![fft22_mf46569.jpg](/uploads/2008/11/fft22_mf46569.jpg)](/uploads/2008/11/fft22_mf46569.jpg "fft22_mf46569.jpg")
+
+Türk siyaset sahnesi **üç** kişinin arasında dönüyor. **Recep Tayyip Erdoğan, Deniz Baykal** ve **Devlet Bahçeli**. Bu kişilerinÂ  her biri birer **siyasi partinin** başkanıdır. Her üçü de **sözde** ülkede **fiilen** birbirinden ayrılmış **siyasi** görüşleri temsil ederler. SöyledikleriÂ  birbirinden pek **farklıÂ**  değildir. Ancak birinin **ak** dediğine diğeriÂ **kara** der. Birinin **kara** dediğine diğeri **ak** der.**Â Duruş** değişikliği var...
+
+Birbirlerinin söylediklerinin **tersini** söylemek **üzere** bir yerlerden programlanmışlardır. Aynı şeyin **tersini** söylerler. Böylece bir **gerçeğin** iki yüzü ortaya çıkar. İsteyen b[](/uploads/2008/11/leardvd-2.jpg "leardvd.jpg")ir **yüzüne** bakar, isteyen **öbür** yüzüne… BuÂ  bir toplumsal **işlevdir**. Bu işlevi adı geçen **üç kişi** yerine getirir.
+
+Bu bir **oyundur**. Toplumsal bir **gösteridir**.Â  Sürer gider, sadece değişik **ağızlarda** birer san’at gösterisi olur. **Politika sanatı**… İnsanlar bu dillendirmeleri **dertlerinin** çözümü zannederler. Aslında ortada **çözülecek** bir şey yoktur. **Politika** sanatı ile uğraşanlar çözüm **üretme** peşinde değil, tam **tersine** çözümÂ **gizleme** peşindedirler. Onlar **çözüleceği** vaad edilen sorunları **yaratmakla** meşguldürler. Sorun çıksın ki, varlıklarının **sebebi** anlaşılsın. Onlar sorunla **ayakta** dururlar. Sorun olmazsa onlar da olmaz. **Sorun** meslekleridir. **Kamuda** çözüleceği varsayılan **sorunlar**, genellikle ve her zaman **politikacılar** tarafından yaratılır.[](/uploads/2008/11/leardvd-2.jpg "leardvd.jpg")
+
+EskidenÂ  bu görevi **krallar, emirler, padişahlar** üstlenirdi. [](/uploads/2008/11/leardvd-2.jpg "leardvd.jpg")[](/uploads/2008/11/leardvd-2.jpg "leardvd.jpg")**Halk** onları ismen tanır,[](/uploads/2008/11/leardvd-2.jpg "leardvd.jpg") onlara güvenir hatta onların **Tanrı** tarafından gönderildiğine inanır, **sorunlarını** onlara emanet ederdi. Onlar da sorunları **çözecek** gibi yaparlardı. Bazılarını **çözerlerdi** de, ama asıl sorun hiçbir zaman **çözülmez**, sürüncemede kalır, ülkelerin **temel** dertleri sürer giderdi. **Ãnder** görünenler bu dertleri saklayabildikleri kadar **saklar**, saklayamaz hale geldiklerinde **güçlerini** ve **iktidarlarını** kaybederlerdi. Sonra onların yerine **yenileri** gelirdi. Bu düzen **yüzyıllardan** beri değişmedi.
+
+Bir farkla, eskiden **kral** sülaleleri, hanedanlar, **saltanat** aileleri ve onların varlığını sağlayan **alt yapı** vardı, başta **soylulardan** bir döşeme, onun altında **para ve iş** sahibi zenginler ve bütün bu sistemi **emeği** ile besleyen ve ayakta tutan **milyonla** sıradan insan…
+
+[](/uploads/2008/11/leardvd-2.jpg "leardvd.jpg")Â Â [![9j1hf7berlusconi.jpg](/uploads/2008/11/9j1hf7berlusconi.jpg)](/uploads/2008/11/9j1hf7berlusconi.jpg "9j1hf7berlusconi.jpg")Â  Ãağımızda eski **kralların** yerini daima seçilen ve aralarında hiçbir **yapı farkı** bulunmayan, en üst düzeydeki **politikacılar** aldı. Eskiden **kralların** varlığını sağlayan **soyluların** yerineÂ  şimdiÂ  yönetmeyi ve **devlet** geleneklerini az çok **beceren** ve yine hiç değişmeyen **bürokrat** ve **teknokrat** bir kalabalık geçti. Bunlara şimdi Batı’da “**classe dirigeant:Yönetici sınıf**”Â  deniyor. Bu sınıf bir ileri aşamada **politikacıların** işini elinden alacaktır. İlk örnek iş adamı-başbakan **Berlusconi’**nin İtalya’sından…Â  **Halkta** değişme yok... O **hep** aynı. Â 
+
+Dünyanın siyasi **tablosu** bu yüzyılda **hicran** vericidir. **Kenya**'lıÂ  **Amadu**'nun torunu ile Sakin **Bush**'un zıpır oğlu **Washington**'da oturmuşlar, **Amerikan Federal Bankası'** nın işlerini konuşuyorlar. 250 milyon **Amerikalının** günlük yaşamına **yön** verecek kararlar alıyorlar. İnsanın **tüyleri** ürperir. **Fransa**'da halkın seçtiği bir devlet düşkünü **ElyseÃ©** sarayında protokolunÂ altıntı üstüneÂ  getirdi. **Dünya** her gün **Almanya**' dan gelen resimlerdeÂ  Åansölye frau **Merkel'**in muhteşemÂ **manzarasını** seyrediyor.
+
+Pekiyi ! böylesine **çarpık** bir ilişkiler düzeyinde **kamu**’nun işleri nasıl yürüyor ? **Kamu**’nun gereksinimleri nasıl karşılanıyor ? Pek **mükemmel** karşılanıyor… **Hayat** kendi kendisini düzeltiyor. **Kamunun** gizli-gerçek kuralları öylesine güçlü ki, **politik** yaşamın cümle tahribatına rağmen **insanlar** yaşamı bir **cendere** olmaktan kendi girişimleri ile **kendileri** kurtarıyorlar. Buna **hukuk** dilinde “**Bizzat ihkak-ı hak**”Â  deniyor. Yani kendi hakkını kendi **kendine** korumak. Burada **Devletten** ümit kesen bazıları kendi **başının** çaresine bakıyor. **Mafia** da işte tam bu kökenden doğuyor. **Mafia** bir devlettir. **Adaletin** tecelli etmeyen kısmının **doğal** olarak ortaya çıkışıdır.
+
+[![korsan_gemisi.jpg](/uploads/2008/11/korsan_gemisi.jpg)](/uploads/2008/11/korsan_gemisi.jpg "korsan_gemisi.jpg")Â  Åimdi denizlerdeki eski **Korsanlık** da yeniden doğdu. Başta ülkenin tüm **suyunu** kapatarak çaresiz insanlara **damla su** bırakmayan, **Batı**'nın en soyguncu firmalarından **NestlÃ©** olmak üzere,Â cümle **hırsız** kuruluşlarının yüzyıllarca **soya soya**, tüm ekonomik ve **siyasal** gücünü sıfıra indirdiği **Afrika**’nın **Somali** ülkesinde açlığa **mahkum** olan insanlar, sonunda sahilden geçen **gemileri** ele geçirmeye başladılar… Başka **ne yapacaklardı** ki ? Kanunun suç saydığı bir **fiili** övmüyorum. Durum **tesbiti** yapıyorum.
+
+Siz **Birinci Bush, İkinci Bush, Birinci İnönü, İkinci İnönü** diyerek eski **saltanat** geleneklerini yeniden kurdunuz. **Berlüsconı, Sarkozy Obama, Medvedev** de yerine kendi çocuklarını bırakacaklardır. Böylece **yalan** ve **dolanla** devlet yürütme ve **sahtekarlığı**Â  saklama uzmanı **sülaleler**, yeniden **yer** yüzüne çıkacaklar. **Ãıktılar** bile. Eski **oyun** sürüyor. Pekiyi **dünyayı** kim düzeltecek ?
+
+O iş **evliyalara** kaldı…

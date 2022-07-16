@@ -1,0 +1,8 @@
+---
+title: "Kartın Günü Geçmiş"
+date: "2006-05-23"
+categories: 
+  - "kargadan-haberler"
+---
+
+Hoca'nın Web sayfasını ayakta tutan kredi kartının günü geçmiş, yeni kart göndermişler o da Üsküdar'daki eski adrese gitmiş...gaaak. Serverciler para çekemeyince Hoca'nın sayfasını kapamışlar. Kart bulundu, ödemeler yapıldı, bu gün şu saatte sayfa açıldı...Gaaaak. Guuk... Takır...şakır...(sevinç sesi) Ben sevindim, Fazilet de sevinmiştir herhalde. Haberi oldu mu ? bilmem, duyarsa gelir. Gelmezse üstüne balçık atarım. Paristen İstanbul'a geldiğimizden beri WEB kapalı olduğuna Fazilet kayıplara karıştı... Nerelerde gezdiğini bilen yok gaaaak.guk. Paris'te olanları kaldığı yerden anlatacağım biraz bekleyin, gaaak. Guk. Pazar günü Hocanın Sapancadaki sallantılı evine İstanbul'dan misafirler geldi. Hocanın yirmi yıllık eski öğrenci arkadaşları... Gak. Guk. Evi bulmada biraz zorlanmışlar, halbuki çok kolay, hangi kargaya sorsalar bilirdi. Gaak. Grısskkk.(Kıs kıs gülme sesi) Hocayı artık Sapanca'da tanımayan yok...Geçen hafta da asker arkadaşları gelmişti... Hoca dedi ki: “ 42 yıl önce tezkere almıştık... daha dün gibi” Gelenler üç kişi: Atilla, Duray, Ergül... 1964 yılı Ağustos ayında eğitim için Edremit'te 67. alayda toplanan 480 kişiden üç kişi kalmış... Gaaak guuuuk.Guruk. Atilla İstanbul'dan gelirken yüz gram tahin helvası almış... Hoca küçük paketi görünce dayanamadı “bu adam Edremitte 400 kişilik aday taburuna da bir gece elinde küçük bir kavunla gelmiş – kalkın bunu yiyelim,diye herkesi yatağından indirmişti” gaaak.gaak.guk. Neyse anlatacak çok şey birikti... Fazilet de gelsin de anlatırız...Gak. Guk. Takır.

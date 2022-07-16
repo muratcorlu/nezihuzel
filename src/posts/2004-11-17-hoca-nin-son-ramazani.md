@@ -1,0 +1,8 @@
+---
+title: "Hoca'nın Son Ramazanı"
+date: "2004-11-17"
+categories: 
+  - "kargadan-haberler"
+---
+
+Hoca bu ramazanı tam tuttu... Birkaç yıldır şekerini bahane eden adamcağız, oruçtan nasibinin kesildiğine inanıyordu Gak...Gak... öyle sıkı oruç tuttu ki beni bile aç bıraktı. Yanında uçarken utancımdan bir yerlere konup birşeyler yiyemedim. Gak... guk... takır. İftar davetlerine pek itibabar etmedi. Zaten Sapanca'da çağıran da olmadı. Bir gün Metin Sakarya'nın, bir gün Kırkpınar'da Ercan Pir'in , bir gün de Sapanca Gölünün kuzey yakasındaki Eşme Köyü ülkücülerinin iftar sofrasına oturdu o kadar. Kadir gecesi İstanbul'da “Özbekler Tekkesi”ndeydi. Gak.Gak... Bayram namazını Uzunkum'da, Sultan II.Abdülhamid 'in analığı Perestu Valide Sultan'ın vakfettiği küçük camide kıldı. Gak...Gak...Gak Hoca bu camiyi pek sevdi. Hocasına da ısındı. Bayramın birinci günü tebriğe gelenler oldu. Ben de bahçedeki kurumuş yapraklı ceviz ağaçlarından birine konup uzaktan Hoca'nın bayramını kutladım. Bahçe kalabalık olsun diye diğer Karga'ları da çağırdım. Gak...Gak. Hoca kalabalığı seviyor. Adam kalabalıkların içinde doğup büyümüş. Şimdi burada darlanıyor. Gak. Ben yanından ayrılmıyorum...Ama o bana pek aldırmıyor...benim gibi yaşlı bir karga ile ne konuşacak... Kargaca da öğrenemedi... Bayram Sapanca'da yağışlı. Günlerdir kanatlarımız ıslak uçuyoruz. Dam altı serindir, karganın yolu derindir diyerek saçak altlarına sığınıyoruz. Bu yıl ben de ihtiyarladım. Torunlarımdan birini Hoca'nın hizmetine hazırlıyorum.Emri hak vukuunda Hoca'nın yanında uçacak bir karga olsun...Gak.Guk. Hoca'nın dostları bana alıştılar... Allahın günü benden haber bekliyorlar...gak...Gak...Gak... Guuuuk. Hadi şimdi eyvallah...yarın görüşürüz.

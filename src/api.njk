@@ -1,0 +1,14 @@
+---
+permalink: api.json
+---
+{
+  "posts": [
+    {% for item in collections.blog %}
+      {
+        "title": "{{ item.data.title }}",
+        "url": "{{ item.url }}",
+        "date": "{{ item.date.toISOString() }}"
+      }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}

@@ -1,0 +1,28 @@
+---
+title: "Uygarlık adına Cinayet"
+date: "2011-05-04"
+categories: 
+  - "gunun-cilesi"
+---
+
+[![ladin-turizm.jpg](/uploads/2011/05/ladin-turizm.jpg)](/uploads/2011/05/ladin-turizm.jpg "ladin-turizm.jpg") Vaktiyle 2000 silahlı adamı ile dağlarda saklandığı anlatılan Bin Ladin’in, çan kulesi gibi ortada duran bir villa’da nasıl kuş misali avlandığına hayret ediyorum doğrusu.. Nereye gitti o 2000 silahlı adam ? liderin hayatını kendi hayatlarından üstün tuttukları ileri sürülen o insanlar nerede ? Neden şeflerini korumadılar..
+
+Profesyonel bir savaşçı böylesine kolaylıkla derdest edilebilir miydi ?  On yıldır başta el Cezire TV olmak üzere dünyanın sayılı haber kanallarında günlük demeçleri yayınlanan bu adam, böylesine korumasız dolaşabilir miydi ? Amerikan ordusuna tek bir Tomahawk füzesine mal olacak bir suikastten bunca zaman başarıyla kurtulabilir miydi ?  Filistin’li şeyh Yasin’i uzaydan tek kurşunla nokta atışı yok eden ABD, neden bin Ladin’i on yıl yaşattı ?  Bin Ladin konusunda daha pek çok soru cevap beklemektedir. Ve zamanla yeni sorular da ortaya çıkacaktır.
+
+[![osama_binladen_1238702c.jpg](/uploads/2011/05/osama_binladen_1238702c.jpg)](/uploads/2011/05/osama_binladen_1238702c.jpg "osama_binladen_1238702c.jpg")
+
+Bin Ladin Birleşik Amerika’nın hizmetinde geçici bir CİA ajanıydı. Bir terör uzmanı, taşaron bir savaşçıydı. Afganistan’da Ruslara karşı başarılı direniş örgütlemişti. “Rusya Afganistan’dan çekilince sıra Amerikalılara gelecek diyordu” Öyle oldu. Rusların Afganistan’dan çıkmasına yardım eden Bin Ladin ve CİA’nın o sırada kullandığı  diğer ajan grupları olan Arab gençleri bir anda silahları patronlarına doğrultuverdiler. O çağda Afganistan’da gelişen Taliban rejimi, bu kişilere kucak açtı. Amerikalıları en çok kızdıran da bu oldu. Daha dün kendilerine para ve malzeme vererek müşterek düşmana karşı omuz omuza savaştığı kişiler, ona sırt çevirmişlerdi. Amerika işte bu ihaneti hazmedemedi.
+
+Amerika’nın unuttuğu bir şey vardı:  Genellikle Amerikan üniversitelerinde okuyan Suudi gençlerden oluşan bu paramiliter CİA grupları, aynı zamanda Amerikan yaşam biçimine de ters düşecek bir inanç sistemi içinde olabilirlerdi. Kendi uygarlığını hiç sorgulamayan ve sonuna kadar da sorgulamaya niyeti olmayan Amerikan toplumu, o noktada çileden çıktı. Afganistan savaşının en kızgın günlerinde Kuzey’de Mezar-ı Şerif’teki “Kale-i Ceng”te[![cenk-kalesi.jpg](/uploads/2011/05/cenk-kalesi.jpg)](/uploads/2011/05/cenk-kalesi.jpg "cenk-kalesi.jpg")   Taliban saflarına geçen bu gençleri, müttefik güçlerle birlikte kıstıran gerçek CİA ajanları o sırada Amerikan Savunma Bakanı olan Donald Rumsfeld’in Washington’dan verdiği "kill him: hepsini öldürün" emriyle tek tek yok ettiler. 600’e yakın genci ellerini bağlayıp yüz üstü yatırarak enselerinden birer kurşunla öldürdüler. Bu katliamın bir bölümünü, ünlü Özbek general Raşit Dostum kendi belindeki tabancasıyla bizzat sürdürdü. Dostumun yardımcısı Alim  Razm ölü sayısını doğruladı.
+
+[![rasss.jpg](/uploads/2011/05/rasss-1.jpg)](/uploads/2011/05/rasss-1.jpg "rasss.jpg")
+
+Amerika tüm dünya insanlarının kayıtsız şartsız kendisine teslim olmasını istiyor. Kendi yaşam biçimine tüm insanlığın uymasını bekliyor. Vaktiyle Rus Komünistleri de bunu beklerdi: Yeryüzünde tarih boyunca  her ideolojik devlet, kendi ideolojisinin gücünü  kanıtlamak ve devamını sağlama bağlamak için  taraftar bulmak zorunda kalmıştır. Tek bir kişi karşı çıksa manevraları bozuluyor, güven duyguları zedeleniyor, imanları sarsılıyor. Kendi kendilerini sorgulamak zorunda kalıyorlar ve bir anda çılgına dönüyorlar. Bu halden kurtulabilmiş hiçbir uygarlık yoktur. Amerikan devlet adamları bunu açıkça ifade ediyorlar: Sözü geçen eski Amerikan savunma bakanı Rumsfeld “Amerikaya nasıl karşı çıkılır ? anlamıyorum..” demişti..” Rumsfeld için uygarlık demek Amerika demekti. Amerikaya karşı çıkmak da uygarlığa karşı çıkmaktı. Ne var ki, Amerika açıkça cinayet işliyor, adını “uygarlık” koyuyordu. Uygarlık adına cinayet.[![rums.jpg](/uploads/2011/05/rums.jpg)](/uploads/2011/05/rums.jpg "rums.jpg")
+
+Vaktiye Romalı’lar da böyle söylüyordu. Romalı zenginler göre Roma’ya karşı çıkmak ugarlığa karşı çıkmaktı  ama dört filli bir Afrika yerli ordusu  Roma’yı kuşa çevirdi. Asya steplerinden kopup gelen ve Avrupa içlerine yerleşen  Kıpçak ulusu ve Hun Türkleri efsane lider, Atilla ile Roma’yı dizüstü yere yapıştırdı.
+
+Uygarlık iddiaları ispat ister. Cinayet sorumluları uygarlık kuramazlar. Eşkiyalık devlet hukuku geliştirmeye engeldir. Devletler savaş da etse erkekçe ve mertçe savaşırlar. Savaşın da üstün bir asaleti vardır. Asaleti olmayan savaş zaferle sonuçlanmaz… Ona kayıkçı kavgası derler. Düşmanlarınızı gece yarısı evlerinden alıp meçhul semtlerde  işkence odalarına sokmakla, size karşı çıkanları yüzüstü yere yatırıp enselerine birer kurşun sıkmakla devlet hukuku kurulmaz. Kurulursa ona devlet denmez.. Eşkiyalık denir. Devlet Adalet ister. Dürüstlük ister... Açıklık, nizam ve berraklık ister.
+
+[![anit.jpg](/uploads/2011/05/anit-1.jpg)](/uploads/2011/05/anit-1.jpg "anit.jpg")
+
+Amerika Birleşik Devletleri vaktiyle Thomas Jefferson, George Washington, Benjamin Franklin, Abraham Lincoln gibi dünya siyaset sahnesinin dev isimleriyle kurulmuştu. O kişiler Newyork’un önünde dünyaya sembolik ışık saçan Hürriyet anıtı kadar muhteşem varlıklardı.  Bunlar dürüst insanlardı. Niyet ve amaçları dürüsttü, insanlığın faydasınaydı. Onlar geleceğin ümidiydi. İnsanoğlu’nun çektiği sıkıntıları yok edeceğine inanılan adamlardı.  Şimdikilerin resimlerine biraz dikkatli bakınız… Bunlar Kazanlı Sultan Galiyev’in değimi ile Cristof Kolomb’un gösterdiği yoldan Amerika’ya doluşan  Avrupa’nın deniz eşkiyalarıdır.

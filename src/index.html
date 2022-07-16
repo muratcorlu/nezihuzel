@@ -1,0 +1,47 @@
+---
+pagination:
+  data: collections.blog
+  size: 10
+  reverse: true
+  alias: posts
+layout: layout.njk
+title: Nezih Uzel
+qeleventyNavigation:
+  key: Home
+  order: 1
+---
+
+{%- for post in posts %}
+  <div
+    id="post-3185"
+    class="post-3185 post type-post status-publish format-standard hentry">
+    <h2 class="entry-title">
+      <a href="{{ post.url | url }}" rel="bookmark">{{ post.data.title }}</a>
+    </h2>
+    <p class="entry-meta">{{ post.date | date:'DD/MM/YYYY' }} tarihinde yayınlandı. Kategori: <a href="/category/site-yonetiminden/" rel="category tag">Site yönetiminden</a></p>
+    <div class="entry-content">
+      {{ post.templateContent }}
+    </div>
+  </div>
+{% endfor -%}
+
+<nav aria-labelledby="my-pagination">
+  <h2 id="my-pagination">This is my Pagination</h2>
+  <ol>
+    <li>
+      {% if pagination.href.previous %}
+        <a href="{{ pagination.href.previous }}">Previous</a>
+        {% else %}Previous{% endif %}
+    </li>
+    {%- for pageEntry in pagination.pages %}
+      <li>
+        <a href="/{{ pageEntry.url }}/" {% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page" {% endif %}>Page {{ loop.index }}</a>
+      </li>
+    {%- endfor %}
+    <li>
+      {% if pagination.href.next %}
+        <a href="{{ pagination.href.next }}">Next</a>
+        {% else %}Next{% endif %}
+    </li>
+  </ol>
+</nav>

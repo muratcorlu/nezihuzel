@@ -1,0 +1,30 @@
+---
+title: "Bayram'da Âhîlik Haftası"
+date: "2007-10-11"
+categories: 
+  - "bas-yazi"
+---
+
+![](/uploads/image/hnkarjn8.jpg)
+
+Bu yıl **ramazan bayramı Âhilik Haftası** ile birlikte geldi.Â  Nedir **Âhilik** ? “**Kardeşilik**” demek. Bu bir **Arapça** kelimedir. Sözlüklerde **böylece** yer alır. Kelimenin çoğulu “**İhvan**” yani “**kardeşle**r” anlamında...
+
+**Âhilik, Selçuk** ve **Osmanlı Türkleri** zamanı esnafa yön veren bir **sosyo-ekonomik** kuruluştur. **6\. Hicrî** Yüzyılda **Bağdat**’ta **Abbasî Halifesi NÃ¢sır LidinillÃ¢h** (1180-1225)Â  tarafından, **İslamın** ilk yüzyıllarından beri **toplumda** yaşamakta olan kuralların saptanarak bir **devlet kuruluşu** şeklindeÂ  **örgütlenmesi** ile ortaya çıkan “**eski Fütüvvet**” teşkilatına dayanır. Bu teşkilatın **Anadolu’**ya yansıyan şeklidir. Yörede **yedi yüz yıl** yaşamıştır.
+
+Dr. **Haluk Nurbaki “Fütüvvet ve Âhilik"** hakkında şu bilgileri veriyor.
+
+“Gençlik, erlik, yiğitlik anlamında Arapça bir kelime. İlk defa NÃ¢sır Lidinillah (566/575) tarafından kurulmuş, bir fedakarlık, mertlik, yiğitlik örgütü. Horasanîler, yani MelÃ¢metîler, esnaf ve zanaat erbabını teşkilatlandırarak, loncalar oluşturmuşlardır. Bu organizasyon 3 kıtaya yayılarak, sosyo-ekonomik hayatın temel direği olma fonksiyonunu icra etmiştir.. Horasan'daki fütüvvet teşkilatlanmasının Anadolu'ya yansıması, Ahilik adıyla olmuştur. Osmanlı Devleti'nde bu teşkilat, 1908 yılına kadar varlığını sürdürmüştür.Ahilik, başta İbn Batuta (XIV. yüzyıl) olmak üzere, çok sayıda yabancının dikkatini çekmiştir. Ahilerin özelliklerini şöyle sıralamak mümkündür:
+
+Â Â  1. Zaviyelerine gelenlere nazik ve kibar davranırlar. Â Â  2. Yabancıların karınlarını doyururlar. Â Â  3. Gelen misafirlerin her türlü ihtiyaçlarını karşılarlar. Â Â  4. Halka zulmeden zalimlerle savaşırlar. Â Â  5. Her ahînin mutlaka bir işi ve sanatı vardır. Â Â  6. Başlarında, aralarından seçtikleri bir reis bulunur. Â Â  7. Seçilen reis, bir zaviye kurar. Â Â  8. Reis, zaviyenin içini tefriş ederek, her türlü ihtiyacını karşılar. Â Â  9. Bu gençler, gündüz kendi işlerinde çalışırlar. Â Â  10. Günlük kazançlarını ikindiden sonra reislerine getirirler. Â Â  11. Toplanan bu paralar, zaviyenin, yiyecek, içecek gibi, çeşitli giderleri için sarfolunur. Â Â  12. Åehre gelen yabancıları, zaviyeye davet ederek orada misafir ederler. Â Â  13. Eğer misafir edecek bir yabancı bulamazlarsa, kendileri toplanıp yemek yer, ilahi söyler, zikir çeker, sema ederler. Â Â  14. Sabah namazını kıldıktan sonra işyerine gitmek üzere zaviyeden ayrılırlar. Â Â  Rahmetli Hilmi Ziya Ãlken (Ord. Prof.)'in ifade ettiği gibi, bu zaviyeler topluma sosyal Ã¢dab-ı muaşereti öğreten kurumlardı. Bu kurumlar, kaldırıldığında o görevi yerine getirecek yapısallaşmaya gidilmediği için sosyal ahlÃ¢k dejenerasyonu bugünkü noktalara gelmiştir.”
+
+Bir “**davranış ve yaşam biçimi**” olarak **Âhiliğin** kurallarını belirleyen “**tüzükler”** vardır. Bunlara "**Fütüvvetnameler”** deniyor.Â Eski “**AhlÃ¢k**” kitapları da denebilir. Bu metinlerde **dürüst olmayan** halleri dolayısı ile kendilerine **“fütüvvet**” verilemeyecek ve **Âhî** sayılamayacak **kişi** ve **mesleklerin** listeleri vardır. Bu güne kadar **bulunabilen** ve sayıları fazla olmayan **fütüvvetnamelerden** , rahmetli hocamız **AbdülbÃ¢ki Gölpınarlı** tarafından uzun yıllar önce yayınlanan, **Karaman**, **Akşehir**’deÂ  HicrîÂ 689 Â yılında yazılmış “**NÃ¢sırî” Fütüvvetnamesinde** şu sözler dikkat çekicidir:
+
+**“Adam olmak isteyip duruyorsan adamlık et, adamlık et, adamlık...Â  Bütün bunlar bir sözle tamamlanır, kötülükten sakın vesselam. Cömertliği ve iyi sözü san’at edin. Kendine yapılmasını istemediğin şeyi kimseye yapma. NÃ¢sırî’nin öğütlerini kabullenirsen bu sözler, kulağına taktığın inciden daha iyidir, güzeldir. Onun sözünü inci gibi kulağına tak da ondan sonra sedef gibi sus**...”Â 
+
+**Fütüvvetnamelerde** rastlanan en çarpıcı ve **günümüze en uygun** nokta “Bir **Âhî**’nin **18 dirhemden** fazla parası olmaması” kuralıdır. **Âhi**’nin 18 dirhemden fazla parası **kendisinin** değil “**toplumun”** malıdır, kendisine **haramdır,** O para topluma dönmelidir. **Âhi** paranın geri kalanını **insanla**r için harcayacaktır. Bu aynı zamanda “ **zenginin malında fakirin hakkı vardır**” şeklindeki muhteşem **Kur’an** hükmüdür. Ahilikte “**18 dirhem**” kavramı itikÃ¢dî bir **zorunluluğun** rakkama bağlanmış **sistematik** şeklidir.
+
+Ben **hesap** ettim **yüzlerce yıl** öncesinin **18 dirhemi** bu gün yaklaşık **150 bin YTL** ediyor. Buna göre çağımızda **Âhiliği** yol edinecek bir kişinin **150 bin YTL’**den fazla parasını **topluluğa** geri vermesi gerekir, veya **hayır** yapacak... AncakÂ  çağımızın **Virjil adası** zenginleri “ **Bizim paramız Rwanda zencilerinin yüzü gibi kapkaradır, Tanganika gölünün suları bile bu paraları arındıramaz, dolayısıyle böylesine alçak bir paranın topluma geri dönmesi ve hayra yaraması söz konusu değildir...”** diyerek “**18 dirhem**” kuralını **rafa** kaldıracak olurlarsa **o zaman da** hiçbirine “**fütüvvet”** verilemez... Kara **paralarının** karanlık boşluğunda **cehennemin** esfeli **safilinine** doğru dönüşsüz yolculuğa **şimdiden** başlamalıdırlar...
+
+**İstanbul**'da bilginler toplanmış, günlerdir "**Âhilik"** haftası diye "**kellim kellim lÃ¢yemfÃ¢**" programı uyguluyorlar... Yani **boş** lafın boş **salatası**...
+
+Efendiler, siz **Âhilikten** dem vuracaksanız bu **hesapları** yapın... O zaman **Hakk**'a ve **Halka** yarar bir tarafınız olur... Yoksa siz de **zenciler** sınıfından.

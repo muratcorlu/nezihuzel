@@ -1,0 +1,18 @@
+---
+title: "Fetih Nasıl anılır ?"
+date: "2011-05-28"
+categories: 
+  - "bas-yazi"
+---
+
+[![fetihcoskusu.jpg](/uploads/2011/05/fetihcoskusu.jpg)](/uploads/2011/05/fetihcoskusu.jpg "fetihcoskusu.jpg")  (Arşiv’den) İstanbul’un fethinin 500. yılında on dört yaşında bir çocuktum. Hatırladığım tek şey ikinci dünya harbinden kalma ışıldakların göklere saldığı ışık huzmeleriydi. Fethin 500. anma gecesinde o ışıktan sütunlar Kız Kulesi üzerinde buluşarak şimdiki laser ışıkları gibi bulutlarla kaynaşıp hoş şekiller yaratmışlardı. Devrin ünlü fotografçısı Macar Othmar’ın bir klişesinde ebedileşen bu manzara, yıllarca akıllardan ve gözlerden silinmedi. O ışıldaklar Alaman savaşında gece İstanbul’u bombardıman etmeye gelecek Messerchimit uçaklarını karanlık gökyüzünde yakalayıp “uçaksavar” toplarına hedef göstermek üzere hazırlanmıştı. Savaş bittiğinde işe yaramaz oldular . Depolara atıldılar. Bazı geceler çıkarılıp İstanbul göklerini süslerlerdi. Fetih gecesinde ise daha başka bir coşkuyla şenliğe katılmışlardı...
+
+Aslında o fetih sönük geçti. O zaman dedikodular çıktı. Bazıları dediler ki – Yöneticilerimiz Yunanlı dostlarımızı kızdırmamak için fethin 500. anma törenlerinin sönük geçmesini kasden sağlamışlar. Hatta o sırada hayatının son yıllarını yaşayan Osmanlı artığı ve Cumhuriyet başlangıcı eşrafından Hamdullah Suphi Tanrıöver, yetkilileri aşırı bir heyecanla uyararak – aman efendim siz ne gaflet içindesiniz, Bizans imparatorlarının ruhlarını muazzep etmeye ne hakkınız var diye bağırmıştı. Bu menkıbeyi rahmetli Münevver Ayaşlı Hanımefendi’den dinlemiş hayretler içinde kalmıştım. Bazı Türk aydınlarının Bizans merakı günümüzde de devam etmektedir...
+
+Önceki kutlamanın üzerinden elli yıl geçti. Elhamdülillah şimdiki kutlamayı da gördük. İstanbul’un Osmanlı Sultanı II. Mehmed ve Ordusu tarafından fethedilişinin 550. yılı, 500. yıldan da sönük geçmiştir. Anlaşılan yine Yunanlıları darıltmak istemediler... Her yıl yapılan geleneksel kutlamalardan farklı olmayan bir tavır sergilerdiler... Mehter her zaman çaldığı havaları tekrar etti durdu. Üniversite profesörleri kürsülerde oluşmuş gelenekle ruhsuz konferanslar verdiler. Birkaç sokak bandosu o kadar... Oldu sana fethi anma...
+
+Biz, şu nesil, İstanbul’un fethini kutlayacak yeterli kudrete sahip değiliz... Dava Yunanlıları kızdırmak falan değil... Önce kültürümüz yok... İstanbul’un fethini değerlendirmek bir “uygarlık” olayıdır. Samuel Hantington’un uyarmasıyla bu olayın, yaşanan Ango-Sakson Batı kültürüyle alakası yoktur. Dolayısıyle bu kültürün eteğine yapışmış çağdaş aydınlarımızın da böyle bir olaydan nasibi yoktur. İstanbul’un Fethi bir başka dünyanın ve bir başka zaman kesitinin zengin macerasıdır. Dar pencerelerden bakıldığında hiç bir yanı görülmez... Adamın mangal kadar yüreği, çalışan bir kafası ve işleyen vicdanı olmalı. Belki gelecek zamanlarda bir gün olur...
+
+Fethin gelecek yıllarını doğru dürüst kutlayacaklar bulunur... Bu tren yine kaçtı. Yunanlı üzülmesin. Ama ben çok üzülüyorum. Mehter tiridine bandım türküsü çalacağına Fatih devri müziğini çalabilirdi. Bu müzik TRT arşivinde sıra dağlar gibi duruyor... TRT’nin kendisi de bilmiyor... Bilse çıkarır çalardı... Bir gün bir müzik arkeoloğu gelecek bunları TRT arşivinin dibinden bulup çıkaracak.. TRT'de şaşacak bu işe..
+
+Fethi kutlamak için önce değerini anlamalı... Fetih ve Fatih olmasaydı. Türkiye şimdi Haymana’nın doğusunda kalırdı... Nallıhan’dan öteye geçemezdi. Unutulmasın. Müslümanlar Endülüsten 800 yıl sonra geri döndüler... Bizim fetih daha 550 yıllık... Korkuyorum... aramızda “ Keşke Türkler İstanbulu almasaydı” diyenler de var... Hak şerlerinden bizleri korur mu dersiniz ?  (Arşiv’den)

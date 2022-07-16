@@ -1,0 +1,24 @@
+{
+  "name": "nezihuzel-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy",
+    "debug": "DEBUG=* npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy-navigation": "^0.3.3",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "dayjs": "^1.11.3",
+    "eleventy-plugin-page-assets": "^0.3.0",
+    "eleventy-plugin-youtube-embed": "^1.7.0",
+    "lodash": "^4.17.21",
+    "slugify": "^1.6.5"
+  }
+}

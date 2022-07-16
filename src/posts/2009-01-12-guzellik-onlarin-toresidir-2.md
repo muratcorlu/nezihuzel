@@ -1,0 +1,18 @@
+---
+title: "Güzellik Onların töresidir"
+date: "2009-01-12"
+categories: 
+  - "dervish"
+---
+
+[![n_semazen.jpg](/uploads/2009/01/n_semazen.jpg)](/uploads/2009/01/n_semazen.jpg "n_semazen.jpg") İnsanın **yüceliği** geçmişe dayanır. **Hatır gönül** bilenler yüksek bir **ruh** ve erdem taşıyan insanlardır. Bir işe giriyorsanız o işin içinde harcanmış **emeklere**, geçmiş yıllara, saygı göstermelisiniz , sizden önce o **kapılardan** geçmiş kimseleri nazarı itibara almazsanız sonra o kapılar **yüzünüze** çarpılır. Ağır bir konudur, şöyle bir **etrafınıza** bakmanız gerekir....
+
+**Mevlevî** büyüklerinden rahmetli **Şefik Can Hoca** odaya bir **çocuk** girse ayağa kalkardı. Siz yarım yüzyıldan fazla hayatını bu işlere **vakfetmiş** adamlara aldırış ettiğiniz yok... **Tekkelerimiz** birer ikişer **tami**r oluyor ama içine koyacak “**Mevlevî**” nerede ? Bir gün çıkacaktır **bekliyoruz.**
+
+**Mevlevîlik** yedi yüz yıl yaşadı. **Tanrı aşkına** dayalı bu eğitim sistemi bir **insan modeli** çizdi.O model yeryüzüne **salınalı** birkaç yüz yıl geçti. **Şimdi** yerinde duruyor, üstü örtülü... Nasibi olan **örtüyü** aralar bakar. **Mevlevîler** güzel insanlardı. Güzellik onların **töresiydi**. Temiz ahlak, **dürüst** tavır, kuşkusuz **yaşam** şiarlarıydı. **Mevlevîler** bu sonuca ulaşabilmek için **uzun zaman** çaba harcadılar. Aralarında “yolda **tökezleyenler**” oldu. Onlara diğerleri “**yolsuz”** dedi. Yer vermedi, **pabucunu** çevirdi, postekisini dürdü. **Mevlevî** saymadı. Bu **ölçü** bugün için de geçerlidir.  
+
+Mevlevîler “**gönül kalsın** yol kalmasın” demişler, **yoldan** çıkanı uyarmışlar, darılırsa  aldırmamışlar. Yolun değerlerini, **kişiden** üstün tutmuşlar, “ya **uyarsın** ya, seni bizden saymayız” diyerek işin içinden çıkmışlar. **Tekkelerde** ceza yoktur sadece insanın adı “**yolsuz**”a çıkar bu da topluluğun dışına itilmektir. **Mevlânâ Celaleddin Rumî’**nin hayat felsefesi ve **yaşam** şekilleri çevresinde odaklaşan Mevlevilik **Pir**’in kökeni itibarıyle **Horasan** geleneğine dayanır. **Horasan** geleneğinde “**Hacegan efendilerimizin**” tavrı vardır. Bu da doğruca **Cenabı Peygambere**’e varır.
+
+**Mevleviliğin** strateji yönünden **Ahilikten** kaynaklandığı kesindir. Eski **çağların** sistematiğe bağlanmış bu en değerli **yaşam formülüne** göre yeryüzünde son **aç** doymadıkça bir **ahi** doyamaz, yeryüzünde son **çıplak** giyinmedikçe bir **ahi** giyinemez. Ahi, **Yunus Emre**’nin değimiyle “yaradılmışı **sever,** yaradandan ötürü...” **Ahi** zenginin malında **fakirin** hakkı vardır diyen muhteşem **Kur’an** hükmüne **sımsıkı** sarılmıştır. O herşeyi insanlar ve **topluluk** için ister. Kendisine yeterinden **fazlasını** ayırmaz. O fenafillah makamına **gönül** bağlamıştır. **Hiçliğe** taliptir. Varlık **konusu** değildir.  “Sen **çık** aradan kalsın seni **yaradan**...” Çağlar ötesinden bize **miras** kalan bu favkalade **iman neş’esi** günümüzde de **canlılığını** koruyor. **Aramızda** tarife uygun **genç** veya yaşlı **kimseler** vardır.
+
+Bu günün **Mevlevi**’si dünün **Mevlevi’** sinden farklı olamaz... Bu bir **akımdır** ki sürer gider. **Devran** yüz bin şekle girer, **ruh** onların hepsine sahip çıkar.... Şekiller doğar, şekiller **yaşar**, şekiller ölür, “**Tanrı aşkı**” cümlesini aşar gider. “**Aş**k gelince cümle **eksikler** biter” denmiştir. Bir aşktır **Mevlevilik**, güzellik aşkıdır, **yaradılış** aşkıdır, yaşam **neş’esidir**, erdemli insanın kendisi ile **barışıklığıdır**. Kimse ile **dalaşmamaktır.** Herkesi, her varlığı sevmektir. Kutlu olsun dünya, **Mevlevî** gibi, **Ahi** gibi, **adam** gibi yaşayanlara... (Arşiv'den)
