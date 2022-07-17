@@ -56,12 +56,6 @@
               <label class="screen-reader-text" for="s">Arama:</label>
               <iframe src="https://duckduckgo.com/search.html?site=nezihuzel.net&prefill=Ara" style="overflow:hidden;margin:0;padding:0;width:200px;height:40px;" frameborder="0"></iframe>
             </li>
-            <li id="archives-2" class="widget-container widget_archive">
-              <h3 class="widget-title">Arşivler</h3>
-              <ul>
-                <li><a href="/2012/05/">Mayıs 2012</a></li>
-              </ul>
-            </li>
             <li id="categories-2" class="widget-container widget_categories">
               <h3 class="widget-title">Kategoriler</h3>
               <ul>
@@ -71,6 +65,18 @@
                   <a href="/category/{{ category.slug }}/">{{ category.title }} ({{ category.totalCount }})</a>
                 </li>
                 {% endfor %}
+              </ul>
+            </li>
+            <li class="widget-container widget_categories">
+              <h3 class="widget-title">Fotoğraf</h3>
+              <ul>
+                <li><a href="https://www.flickr.com/photos/nezihuzel/">Flickr</a></li>
+              </ul>
+            </li>
+            <li id="archives-2" class="widget-container widget_archive">
+              <h3 class="widget-title">Arşivler</h3>
+              <ul>
+                <li><a href="/2012/05/">Mayıs 2012</a></li>
               </ul>
             </li>
           </ul>
