@@ -2,7 +2,7 @@
 title: "Tepkiden İlgi Doğar"
 date: "2007-10-14"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 Â Â Â Â Â Â Â Â Â Â Â Â Â ![](/uploads/image/Gokay_Goksen2.jpg)Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

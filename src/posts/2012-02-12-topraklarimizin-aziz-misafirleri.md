@@ -2,7 +2,7 @@
 title: "Topraklarımızın Aziz misafirleri"
 date: "2012-02-12"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [](/uploads/2012/02/ingiliz-mezarligi-161.jpg "ingiliz-mezarligi-161.jpg")

@@ -2,7 +2,7 @@
 title: "Yıkık Şehrin Güzeli"
 date: "2011-04-14"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![istanbul1.jpg](/uploads/2011/04/istanbul1.jpg)](/uploads/2011/04/istanbul1.jpg "istanbul1.jpg")

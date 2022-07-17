@@ -2,7 +2,7 @@
 title: "Kendini ele verdi"
 date: "2010-01-10"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/11242_103618946323933_100000274856463_95150_2891138_n.jpg)

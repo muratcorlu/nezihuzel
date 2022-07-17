@@ -2,7 +2,7 @@
 title: "Gemiler Geçmeyen Umman"
 date: "2010-01-31"
 categories: 
-  - "altin-sorular"
+  - Altın Sorular
 ---
 
 _![](/uploads/image/durru.jpg)_

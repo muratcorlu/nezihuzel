@@ -2,7 +2,7 @@
 title: "Anlamakta zorluk çekenler"
 date: "2009-09-21"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/ziya-pasa.jpg)  

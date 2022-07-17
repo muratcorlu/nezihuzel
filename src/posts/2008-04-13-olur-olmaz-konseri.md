@@ -2,7 +2,7 @@
 title: "Olur Olmaz Konseri"
 date: "2008-04-13"
 categories: 
-  - "olurla-olmaz-muhabbeti"
+  - Olurla Olmaz Muhabbeti
 ---
 
 [![etkinlik_konser_foto.jpg](/uploads/2008/04/etkinlik_konser_foto.jpg)](/uploads/2008/04/etkinlik_konser_foto.jpg "etkinlik_konser_foto.jpg")

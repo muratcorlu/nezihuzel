@@ -2,7 +2,7 @@
 title: "Onyedi yüzyıllık anı"
 date: "2009-11-11"
 categories: 
-  - "kaptanin-seyir-defteri"
+  - Kaptanın Seyir Defteri
 ---
 
 ![](/uploads/image/ben.JPG)

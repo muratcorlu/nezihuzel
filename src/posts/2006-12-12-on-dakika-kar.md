@@ -2,7 +2,7 @@
 title: "On dakika kar"
 date: "2006-12-12"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![karyagisi_.jpg](/uploads/2006/12/karyagisi_.jpg)](http://nezihuzel.net/2006/12/12/on-dakika-kar/karyagisi_jpg/ "karyagisi_.jpg")

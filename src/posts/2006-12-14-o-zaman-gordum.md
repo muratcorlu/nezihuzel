@@ -2,7 +2,7 @@
 title: "O zaman gördüm"
 date: "2006-12-14"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
   ![nb11_1.jpg](/uploads/2006/12/nb11_1.kucukresim.jpg)                          O  zaman gördüm

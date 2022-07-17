@@ -2,7 +2,7 @@
 title: "Gökten bela yağdı"
 date: "2010-01-14"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **![](/uploads/image/yunusss.jpg)**

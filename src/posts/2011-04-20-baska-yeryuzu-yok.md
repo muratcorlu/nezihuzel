@@ -2,7 +2,7 @@
 title: "Başka Yeryüzü Yok"
 date: "2011-04-20"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![johannesbourg-sandton.jpg](/uploads/2011/04/johannesbourg-sandton.jpg)](/uploads/2011/04/johannesbourg-sandton.jpg "johannesbourg-sandton.jpg") (Arşiv'den, ağustos 2002) Dünyayı düzeltmek, zenginleri fakirlerle barıştırmak ve gelecek nesillere yaşanabilir bir gezegen bırakmak amacıyla düzenlenen Johannesbourg “Dünya Zirvesinde”  Pazartesi günü Justin Friesen isimli 11 yaşında bir çocuk, 100’den fazla devlet başkanına karşı “ Pek çok yetişkin insan, geleceğimizi ilgilendiren sorunlara eğilmekten çok para ve zenginlik peşine fazlasıyle koşuyor...” dedi.

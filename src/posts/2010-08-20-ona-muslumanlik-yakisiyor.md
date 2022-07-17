@@ -2,10 +2,10 @@
 title: "Ona müslümanlık yakışıyor"
 date: "2010-08-20"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
-[![obama.jpeg](/uploads/2010/08/obama.thumbnail.jpeg)](/uploads/2010/08/obama.jpeg "obama.jpeg")
+[![obama.jpeg](/uploads/2010/08/obama.jpeg)](/uploads/2010/08/obama.jpeg "obama.jpeg")
 
 [](/uploads/2010/08/obama.jpeg "obama.jpeg")Plus d’un quart des **Américains** pensent, à tort, que **Barack Obama** n’est pas né sur le sol **américain**. Ils sont également de plus en plus **nombreux** (18 % de la population américaine aujourd’hui, contre 12 % à son arrivée à la **Maison Blanche)** à croire que ce dernier est **musulman.**
 

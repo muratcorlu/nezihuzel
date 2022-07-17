@@ -2,7 +2,7 @@
 title: "Nurdan doğmuş Anneler"
 date: "2011-05-08"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![anne.jpg](/uploads/2011/05/anne.jpg)](/uploads/2011/05/anne.jpg "anne.jpg")

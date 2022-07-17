@@ -2,7 +2,7 @@
 title: "Soygunun adı medeniyet"
 date: "2008-12-03"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![dolar__.jpg](/uploads/2008/12/dolar__.jpg)](/uploads/2008/12/dolar__.jpg "dolar__.jpg")
@@ -15,7 +15,7 @@ Ben bu yaşta **hayretten hayrete** düşüyorum… Åimdiye kadar bunu neden 
 
 Bir eve birbirinden habersiz **iki hırsız** aynı anda girmiş, **katları** dolaşırken karşılaşmış ve âSen **soyacaksın** âBen **soyacağım**, diye aralarında **döğüş** kavga etmişler, Ev sahibinin bundan **haberi** olmamış… Bu nasıl bir **iman gücü**Â  veya ne çeşit bir **beyin yıkama**, çitileme, **asıp kurutma** işlemidir ki, **ev sahibi** bütün hunlardan habersiz **yaşamaya** devam etmiş, başına gelenleri **Yaratıcısından** bilip sesini çıkarmamış, fiili görmüş, **yaşamış**, canını vermiş, **kanını** dökmüş, **faili** merak etmemiştir. **HÃ¢lÃ¢** da merak etmiyor…
 
-[![nato_logo.gif](/uploads/2008/12/nato_logo.thumbnail.gif)](/uploads/2008/12/nato_logo.gif "nato_logo.gif")Â Â Kısacası **dünyayı soymak** için yola çıkan **Atlantik güçleri** ile yaşlı Avrupa’nın **Germen** takımı iki defa kapışmış, **Germenler i**ki defa yenilmiş **atlantikçiler** ortada rakipsiz kalmışlardır. **Atlantikçiler**, seksen yıl kadar, ayağı **yer yüzüne** basmadan, **başı** bulutlarda serseri dolaşan **Stalin** komunistleri ileÂ  uğraşmışlar, onları **yok** ettikten sonra da işte şimdi **soygun** sahnesinde **tek** başlarına kalmışlardır. ÅimdiÂ  oyunun son **perdesi** oynanacak.
+[![nato_logo.gif](/uploads/2008/12/nato_logo.gif)](/uploads/2008/12/nato_logo.gif "nato_logo.gif")Â Â Kısacası **dünyayı soymak** için yola çıkan **Atlantik güçleri** ile yaşlı Avrupa’nın **Germen** takımı iki defa kapışmış, **Germenler i**ki defa yenilmiş **atlantikçiler** ortada rakipsiz kalmışlardır. **Atlantikçiler**, seksen yıl kadar, ayağı **yer yüzüne** basmadan, **başı** bulutlarda serseri dolaşan **Stalin** komunistleri ileÂ  uğraşmışlar, onları **yok** ettikten sonra da işte şimdi **soygun** sahnesinde **tek** başlarına kalmışlardır. ÅimdiÂ  oyunun son **perdesi** oynanacak.
 
 Irak **petrolü** atlantikçilerin elindedir. **Somali** petrolü atlantikçilerin elindedir, dünyada daha ne kadar **zenginlik** ve enerji kaynağı sayarsanız, hepsi istisnasız **atlantikçilerin** torbasındadır. Bunlar dünya **soyguncularıdır**. Adını **medeniyet** koymuşlar. Soygunun adı **medeniyet.** Ve bu **soygun,** yasallığına inanılanÂ  **devletler** tarafından yapılıyor. **Soyguncu** devletin de adı **yasal** devlet. Başkan **Bush** soyguna karşı çıkanları “**şer ekseni”** olarak tanımlamıştı. Siz de “**Soygun ekseni**…”Â Â Â Â Â 
 

@@ -2,7 +2,7 @@
 title: "Yüksek Gelirlere vergi"
 date: "2011-09-06"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 [![bernard-accoyer-v1.jpg](/uploads/2011/09/bernard-accoyer-v1.jpg)](/uploads/2011/09/bernard-accoyer-v1.jpg "bernard-accoyer-v1.jpg")[](/uploads/2011/09/accoyer.bmp "accoyer.bmp")

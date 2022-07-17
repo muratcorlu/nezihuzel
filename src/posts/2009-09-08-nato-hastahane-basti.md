@@ -2,7 +2,7 @@
 title: "Nato hastahane bastı"
 date: "2009-09-08"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![](/uploads/image/61657.jpg)

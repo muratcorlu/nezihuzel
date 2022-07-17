@@ -2,7 +2,7 @@
 title: "Devlet batıran bankerler"
 date: "2011-10-03"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
  [![soros.jpg](/uploads/2011/10/soros.jpg) George Soros](/uploads/2011/10/soros.jpg "soros.jpg") (Arşiv'den)

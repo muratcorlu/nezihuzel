@@ -2,7 +2,7 @@
 title: "Amerika’dan uzak durun"
 date: "2011-05-06"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![am1.jpg](/uploads/2011/05/am1.jpg)](/uploads/2011/05/am1.jpg "am1.jpg")

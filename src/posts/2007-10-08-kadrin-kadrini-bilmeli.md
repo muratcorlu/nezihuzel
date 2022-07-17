@@ -2,7 +2,7 @@
 title: "Kadrin Kadrini Bilmeli"
 date: "2007-10-08"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/dua_hands.jpg)

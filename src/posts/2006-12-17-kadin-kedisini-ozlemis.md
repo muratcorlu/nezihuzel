@@ -2,7 +2,7 @@
 title: "Kadın kedisini özlemiş"
 date: "2006-12-17"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![kedi23.jpg](/uploads/2007/08/kedi23.jpg)](/uploads/2007/08/kedi23.jpg "kedi23.jpg")Hoca'nın tam "kadın yollarda **kayboldu** galiba..." dediği günün sabahında **Hakikat hanım** telefon etti... Gaaak. Guk

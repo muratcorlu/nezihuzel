@@ -2,7 +2,7 @@
 title: "Bilgi iyi gelir..."
 date: "2006-09-06"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![slayt1.JPG](/uploads/2006/09/slayt1.jpg)

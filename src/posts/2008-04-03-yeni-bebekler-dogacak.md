@@ -2,7 +2,7 @@
 title: "Yeni Bebekler doğacak"
 date: "2008-04-03"
 categories: 
-  - "olurla-olmaz-muhabbeti"
+  - Olurla Olmaz Muhabbeti
 ---
 
 **[![bebek11.jpg](/uploads/2008/04/bebek11.jpg)](/uploads/2008/04/bebek11.jpg "bebek11.jpg")**

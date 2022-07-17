@@ -2,7 +2,7 @@
 title: "Gönüldeki &quot;gerçek resim&quot;"
 date: "2010-02-11"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/hus son.jpg)

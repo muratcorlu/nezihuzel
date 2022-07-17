@@ -2,7 +2,7 @@
 title: "Zamanın Anayasa Çocukları"
 date: "2008-03-31"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![1225.jpg](/uploads/2008/03/1225.jpg)](/uploads/2008/03/1225.jpg "1225.jpg")

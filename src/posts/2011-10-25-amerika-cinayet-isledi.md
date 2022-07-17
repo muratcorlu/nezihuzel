@@ -2,7 +2,7 @@
 title: "Amerika Cinayet işledi"
 date: "2011-10-25"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![dec5rumsfeldlarryking.jpg](/uploads/2011/10/dec5rumsfeldlarryking.jpg)](/uploads/2011/10/dec5rumsfeldlarryking.jpg "dec5rumsfeldlarryking.jpg")[![147489661.jpg](/uploads/2011/10/147489661.jpg)](/uploads/2011/10/147489661.jpg "147489661.jpg") Bakanlar:Rumsfeld ve Clington

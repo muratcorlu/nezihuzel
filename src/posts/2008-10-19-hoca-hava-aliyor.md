@@ -2,10 +2,10 @@
 title: "Hoca hava alıyor"
 date: "2008-10-19"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
-[![dsc02146.JPG](/uploads/2008/10/dsc02146.thumbnail.JPG)](/uploads/2008/10/dsc02146.jpg "dsc02146.JPG")[![dsc02139.JPG](/uploads/2008/10/dsc02139.thumbnail.JPG)](/uploads/2008/10/dsc02139.jpg "dsc02139.JPG")
+[![dsc02146.JPG](/uploads/2008/10/dsc02146.JPG)](/uploads/2008/10/dsc02146.jpg "dsc02146.JPG")[![dsc02139.JPG](/uploads/2008/10/dsc02139.JPG)](/uploads/2008/10/dsc02139.jpg "dsc02139.JPG")
 
 \-Yine **nerelere** kayboldun ? -Korktum kaçtım, Gaaak.**Guuk** -Neden **korktun** ?, -**Herşeyden**, gaaak guk ? -Sen korkmazsın, bir şeylere **sıkılmışsındır**, Gaak. -**Fazilet** üstüme varma, sen de biliyorsun olanları… -Senin kadar **bilmem**; sen arsız-yüzsüz, ruhsuz-**uğursuz**, sapsız-çapsız, **künyesiz**\-terbiyesiz, ahlaksız-**mendebur**, huysuz- çulsuz, **densiz**\-donsuz, şırfıntı-**şirret**, kaba **lÃ¢net** bir kargasın. Her yere dalar çıkar **haber** toplarsın, **gagan** çöplükten çıkmaz, **başın** beladan kurtulmaz, gaaaak, takır. -Ne **yaptım** şimdi ben sana ? -Hiçbir şey yapmadın , **yaparsın** diye **önlem** alıyorum.Gaaak. Söyle ne oldu ? Â Hiç…**Hoca** yeniden hastaneye yattı…Bu defa **Deniz kuvvetlerine**. -Onu biliyorum, **Gölcük Donanma hastahanesi** değil mi ? -Evet…Gaak, guuk. **Nereden** bildin ? -Söylediler… Åimdi iyi mi ? -Değil…**sıkılıyor**. Gaaak. -Neden ? -Yemeklerden… Adam **diyabet**, rejim yemeği vermiyorlar, dışardan **getirtse** içeri almıyorlar **Amerikan** icadı bir takım gereksiz **ilaçları** yazıp -bunları **Emekli Sandığı** ödemiyor, sen parayla **dışardan** al, diyorlar…gaak guuk, **takır**, tısss. -Neden yattı **Hoca** o hastaneye ? -**Oksijen** tedavisi için… -O da ne ? -Gel gidelim de **bak**…Gaaak. -Bırakırlar mı ? -**Nöbetçi subayından** izin alırız. Subayla **kanka** olursan bırakırlar.Â  Guuuk.Tısss.**Faziletle Rezalet** Marmara denizinin doğusunda **Donanma** şehri şirin **Gölcük**’te bulunan **Deniz Kuvvetleri** Hastahanesine doğru **kanat** açtılar. Bir süre uçtuktan sonra **çam** ağaçları ile kaplı bir **bahçenin** üzerine geldiler, aşağı doğru **pike** yaparak bir dala kondular. Aradıkları yerin tam **karşısına** gelmişlerdi. İçeriyi görebilmek için pencerelere yaklaştılar. **Fazilet Rezalete** takıldı: -Fazla sokulma seni **terörist** diye vururlar…
 

@@ -2,7 +2,7 @@
 title: "eski zaman kırıntıları"
 date: "2011-04-14"
 categories: 
-  - "sundan-bundan"
+  - Şundan Bundan
 ---
 
 [![tekke.jpg](/uploads/2011/04/tekke.jpg)](/uploads/2011/04/tekke.jpg "tekke.jpg")

@@ -2,7 +2,7 @@
 title: "Ne için Bayram ?"
 date: "2010-09-09"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **![](/uploads/2010/09/bayram_el3.jpg)**

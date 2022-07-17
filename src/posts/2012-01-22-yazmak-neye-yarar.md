@@ -2,7 +2,7 @@
 title: "Yazmak Neye Yarar"
 date: "2012-01-22"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![cel.bmp](/uploads/2012/01/cel.bmp)](/uploads/2012/01/cel.bmp "cel.bmp")[](/uploads/2012/01/celebi.jpg "celebi.jpg")                                    Bu ülkenin şerefli aydınlarından Katip Çelebi üç yüz yıl önce yaşadı.O zaman şimdiki kadar gel-git yok ama, yine de Batı ülkelerinde de tanındı. Avrupalılar O’na Hacı Kalfa adını taktılar.                      İstanbul’da,Unkapanı köprüsünü geçerek Bozdoğan Kemeri’ne doğru yürüyenler,oradaki plakçılar çarşısının gürültülü dükkanlarını geride bıraktıklarında sol tarafta, salkım söğüt ve kavak ağaçlarının serin gölgesinde Efendi’nin açık türbesini görürler...Bir Fatiha-i şerife okumalı...                       Katip Çelebi bilgili, kültürlü, sezgili,doğuştan icazetli, feyizli ve vicdanlı bir adamdır.Devrin kötülüklerini  yorulmak bilmeden yıllarca sayıp dökerek, kitaplara yazarak, vaazlar, nasihatler vererek o zamanın Devlet  büyüklerine anlatmaya çalışmış ve bu alanda bir ölçüde başarılı olmuştur.                       Bu günkü dille şu sözler O’nundur:                       “Bu yazıp söylediklerimin devrin büyüklerinin kulaklarına gitmeyeceğini biliyorum. Ama yarın ahrette –neden sesini çıkarmadın diyecek olurlarsa kendimi kurtarmak için yazdım.”

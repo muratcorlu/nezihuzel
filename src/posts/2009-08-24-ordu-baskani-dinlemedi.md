@@ -2,7 +2,7 @@
 title: "Ordu Başkanı dinlemedi"
 date: "2009-08-24"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![](/uploads/image/troopsdm0803_468x432.jpg)

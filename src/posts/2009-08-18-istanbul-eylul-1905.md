@@ -2,7 +2,7 @@
 title: "İstanbul, eylül 1509"
 date: "2009-08-18"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 _![](/uploads/image/300px-1509petercoecke.jpg)  

@@ -2,7 +2,7 @@
 title: "Hizmet eden Efendi'dir"
 date: "2009-10-03"
 categories: 
-  - "altin-sorular"
+  - Altın Sorular
 ---
 
 ![](/uploads/image/tekke.jpg)

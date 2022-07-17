@@ -2,7 +2,7 @@
 title: "Şimdi çılgınlık zamanıdır"
 date: "2008-11-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![79218346eo3.jpg](/uploads/2008/11/79218346eo3.jpg)](/uploads/2008/11/79218346eo3.jpg "79218346eo3.jpg")

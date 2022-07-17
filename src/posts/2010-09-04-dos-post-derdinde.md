@@ -2,7 +2,7 @@
 title: "Dost Post derdinde"
 date: "2010-09-04"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![post13.jpg](/uploads/2010/09/post13.jpg)](/uploads/2010/09/post13.jpg "post13.jpg")

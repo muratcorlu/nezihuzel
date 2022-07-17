@@ -2,7 +2,7 @@
 title: "Gönlü Gördün mü ?"
 date: "2006-11-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
   

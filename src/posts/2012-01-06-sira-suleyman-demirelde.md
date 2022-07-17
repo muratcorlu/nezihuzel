@@ -2,7 +2,7 @@
 title: "Sıra Süleyman Demirel'de"
 date: "2012-01-06"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![dem.bmp](/uploads/2012/01/dem.bmp)](/uploads/2012/01/dem.bmp "dem.bmp")

@@ -2,7 +2,7 @@
 title: "Dizi manyağı Fazilet"
 date: "2007-11-13"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![televizyon.jpg](/uploads/2007/11/televizyon.jpg)](/uploads/2007/11/televizyon.jpg "televizyon.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

@@ -2,7 +2,7 @@
 title: "Sana Çok yakınız"
 date: "2006-12-14"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![evren.jpg](/uploads/2006/12/evren.jpg)  

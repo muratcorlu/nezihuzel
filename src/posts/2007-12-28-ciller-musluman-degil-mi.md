@@ -2,7 +2,7 @@
 title: "Çiller Müslüman değil miydi ?"
 date: "2007-12-28"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![bhutto_benazir.jpg](/uploads/2007/12/bhutto_benazir.jpg)](/uploads/2007/12/bhutto_benazir.jpg "bhutto_benazir.jpg")

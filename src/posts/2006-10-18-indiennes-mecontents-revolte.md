@@ -2,7 +2,7 @@
 title: "İndiens mécontents révoltent"
 date: "2006-10-18"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
   [![indiens.jpg](/uploads/2006/10/indiens.kucukresim.jpg)](http://fr.fc.yahoo.com/b/bresil.html)

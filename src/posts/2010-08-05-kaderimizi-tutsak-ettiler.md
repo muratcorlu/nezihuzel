@@ -2,7 +2,7 @@
 title: "Kaderimizi tutsak ettiler"
 date: "2010-08-05"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![sari-gul-resmi.jpg](/uploads/2010/08/sari-gul-resmi.jpg)](/uploads/2010/08/sari-gul-resmi.jpg "sari-gul-resmi.jpg")

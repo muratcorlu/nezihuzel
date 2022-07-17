@@ -2,7 +2,7 @@
 title: "Sana ne ilahiden"
 date: "2009-08-31"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/_Meister_002b.jpg)

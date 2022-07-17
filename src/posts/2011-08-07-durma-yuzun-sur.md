@@ -2,7 +2,7 @@
 title: "Durma Yüzün sür"
 date: "2011-08-07"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 _**[![ahmet.jpg](/uploads/2011/08/ahmet.jpg)](/uploads/2011/08/ahmet.jpg "ahmet.jpg")**_

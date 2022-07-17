@@ -2,7 +2,7 @@
 title: "Hain İktidarların Sonu"
 date: "2007-09-29"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![bonz.bmp](/uploads/2007/09/bonz.bmp)](/uploads/2007/09/bonz.bmp "bonz.bmp") 

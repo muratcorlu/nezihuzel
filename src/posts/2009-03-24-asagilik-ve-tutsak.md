@@ -2,7 +2,7 @@
 title: "Aşağılık ve tutsak"
 date: "2009-03-24"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![](/uploads/image/_Kemal_Ataturk(1).jpg)

@@ -2,7 +2,7 @@
 title: "Acaba hanginiz İktidar ?"
 date: "2008-03-17"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

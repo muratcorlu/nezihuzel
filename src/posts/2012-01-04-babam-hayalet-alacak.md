@@ -2,8 +2,8 @@
 title: "Baba hayalet al.."
 date: "2012-01-04"
 categories: 
-  - "destur"
-  - "sundan-bundan"
+  - Destur
+  - Şundan Bundan
 ---
 
 [![hay.jpg](/uploads/2012/01/hay.jpg)](/uploads/2012/01/hay.jpg "hay.jpg")

@@ -2,7 +2,7 @@
 title: "Bu Nasıl Papalık ?"
 date: "2006-10-16"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![papessa.jpg](/uploads/2006/10/papessa.kucukresim.jpg)  

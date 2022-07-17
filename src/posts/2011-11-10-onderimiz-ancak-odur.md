@@ -2,7 +2,7 @@
 title: "Önderimiz Ancak O’dur"
 date: "2011-11-10"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **[![ata.jpg](/uploads/2011/11/ata.jpg)](/uploads/2011/11/ata.jpg "ata.jpg")**

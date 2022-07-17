@@ -2,7 +2,7 @@
 title: "Yine tepki anayasası"
 date: "2010-03-04"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/babalar.jpg)

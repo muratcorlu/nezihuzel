@@ -2,7 +2,7 @@
 title: "Aldı Başını Gidiyor"
 date: "2007-09-27"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![tasavv22.jpg](/uploads/2007/09/tasavv22.jpg)](/uploads/2007/09/tasavv22.jpg "tasavv22.jpg")

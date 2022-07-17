@@ -2,7 +2,7 @@
 title: "ol Hulki hasen"
 date: "2011-08-09"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **[![mevlut1.jpg](/uploads/2011/08/mevlut1.jpg)](/uploads/2011/08/mevlut1.jpg "mevlut1.jpg")**

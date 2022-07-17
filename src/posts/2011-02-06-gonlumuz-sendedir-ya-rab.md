@@ -2,10 +2,10 @@
 title: "Yareye Çare sendedir"
 date: "2011-02-06"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
-[![hex6.JPG](/uploads/2011/02/hex6-2.thumbnail.JPG)](/uploads/2011/02/hex6-2.jpg "hex6.JPG")
+[![hex6.JPG](/uploads/2011/02/hex6-2.JPG)](/uploads/2011/02/hex6-2.jpg "hex6.JPG")
 
 **Gönlümüz** her an sendedir ya **Rab** Derdime **derman** sendedir ya Rab
 

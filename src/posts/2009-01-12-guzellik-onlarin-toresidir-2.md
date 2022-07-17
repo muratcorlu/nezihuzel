@@ -2,7 +2,7 @@
 title: "Güzellik Onların töresidir"
 date: "2009-01-12"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![n_semazen.jpg](/uploads/2009/01/n_semazen.jpg)](/uploads/2009/01/n_semazen.jpg "n_semazen.jpg") İnsanın **yüceliği** geçmişe dayanır. **Hatır gönül** bilenler yüksek bir **ruh** ve erdem taşıyan insanlardır. Bir işe giriyorsanız o işin içinde harcanmış **emeklere**, geçmiş yıllara, saygı göstermelisiniz , sizden önce o **kapılardan** geçmiş kimseleri nazarı itibara almazsanız sonra o kapılar **yüzünüze** çarpılır. Ağır bir konudur, şöyle bir **etrafınıza** bakmanız gerekir....

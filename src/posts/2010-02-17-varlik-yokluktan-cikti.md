@@ -2,7 +2,7 @@
 title: "varlık Yoklukla arkadaş"
 date: "2010-02-17"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/var.jpg)

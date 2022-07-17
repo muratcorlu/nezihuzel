@@ -2,7 +2,7 @@
 title: "Terörü kim kullanıyor ?"
 date: "2009-04-07"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **![](/uploads/image/yy.jpg)**

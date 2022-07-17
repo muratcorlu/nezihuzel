@@ -2,7 +2,7 @@
 title: "Her zerre uyanıktır"
 date: "2008-02-26"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![5039027.jpg](/uploads/2008/02/5039027.jpg)](/uploads/2008/02/5039027.jpg "5039027.jpg")[](/uploads/2008/02/96db232a19f5af59875c3a6fc1.jpg "96db232a19f5af59875c3a6fc1.jpg")

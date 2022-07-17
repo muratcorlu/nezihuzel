@@ -2,7 +2,7 @@
 title: "Biftek bin dolar"
 date: "2007-01-13"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
                                                    **[](/uploads/2007/08/wagyu-tofu.jpg "wagyu-tofu.jpg")[![wagyu-tofu.jpg](/uploads/2007/08/wagyu-tofu.jpg)](/uploads/2007/08/wagyu-tofu.jpg "wagyu-tofu.jpg")**  

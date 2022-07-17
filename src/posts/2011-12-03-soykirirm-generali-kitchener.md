@@ -2,7 +2,7 @@
 title: "Soykırım generali Kitchener"
 date: "2011-12-03"
 categories: 
-  - "muhtasar-dunya-hikayeleri"
+  - Muhtasar Dünya Hikayaleri
 ---
 
 [![kitch.jpg](/uploads/2011/12/kitch.jpg)](/uploads/2011/12/kitch.jpg "kitch.jpg") (Tarihten ibretli kesitler)

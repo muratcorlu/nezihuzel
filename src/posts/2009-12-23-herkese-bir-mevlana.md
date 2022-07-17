@@ -2,9 +2,9 @@
 title: "Herkese bir Mevlânâ"
 date: "2009-12-23"
 categories: 
-  - "dervish"
-  - "destur"
-  - "gunun-cilesi"
+  - Dervish
+  - Destur
+  - Günün Çilesi
 ---
 
 _![](/uploads/image/mevlana.jpg)_

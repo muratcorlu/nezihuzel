@@ -2,7 +2,7 @@
 title: "Krallar da hastalanır"
 date: "2009-09-07"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![](/uploads/image/mohammed_six_200.jpg)

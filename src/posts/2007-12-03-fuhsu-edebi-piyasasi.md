@@ -2,7 +2,7 @@
 title: "Fuhşu edebî piyasası"
 date: "2007-12-03"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 # [![2463597_0.jpg](/uploads/2007/12/2463597_0.jpg)](/uploads/2007/12/2463597_0.jpg "2463597_0.jpg")Â 

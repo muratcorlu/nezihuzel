@@ -2,7 +2,7 @@
 title: "Barış için Savaş"
 date: "2009-12-11"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **![](/uploads/image/obamaMOS0202_468x558.jpg)**

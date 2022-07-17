@@ -2,7 +2,7 @@
 title: "Ya hazreti Mevlânâ"
 date: "2008-09-15"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![erzincan_kemah_savagedii_geidi.jpg](/uploads/2008/09/erzincan_kemah_savagedii_geidi.jpg)](/uploads/2008/09/erzincan_kemah_savagedii_geidi.jpg "erzincan_kemah_savagedii_geidi.jpg") _Kemah Savaş Gediği geçidi_

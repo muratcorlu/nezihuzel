@@ -2,7 +2,7 @@
 title: "Bizi köpekbalığı yesin"
 date: "2009-09-09"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **![](/uploads/image/great_219330g.jpg)**

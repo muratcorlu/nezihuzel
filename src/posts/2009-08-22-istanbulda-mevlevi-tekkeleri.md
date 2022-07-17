@@ -2,7 +2,7 @@
 title: "İstanbul’da Mevlevî tekkeleri"
 date: "2009-08-22"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 _Nezih Uzel'den not: İstanbul'da Yenikapı Mevlevihanesinin onarımı dolayısısyle TC Vakıflar Genel Müdürlüğü, geçtiğimiz yıl bana bu tekke  ve genel Mevlevilik kültürü ile ilgili bir yazı yazdırmıştı. Bu yazı dergahın onarımını içeren doküman ve fotograflarla birlikte "Aşıkların Dünyası" isimli tanıtım kitabında yer aldı. Ancak çok sınırlı basılan, ve çok az dağıtılan bu kitabın yeni bir baskısının yapılacağını da sanmıyorum. Bu yüzden bu eserde yer alan yazılarımı bölüm sırası ve pek az değişiklik ve ilavelerle sunuyorum._  

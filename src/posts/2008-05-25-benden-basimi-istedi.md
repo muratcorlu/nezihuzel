@@ -2,7 +2,7 @@
 title: "Benden başımı istedi"
 date: "2008-05-25"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
  [![mevlana.jpg](/uploads/2008/05/mevlana-3.jpg)](/uploads/2008/05/mevlana-3.jpg "mevlana.jpg")

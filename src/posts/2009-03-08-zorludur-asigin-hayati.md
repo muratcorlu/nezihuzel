@@ -2,7 +2,7 @@
 title: "Zorludur Aşığın hayatı"
 date: "2009-03-08"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/nezih.jpg)

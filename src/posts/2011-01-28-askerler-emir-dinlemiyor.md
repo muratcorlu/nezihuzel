@@ -2,7 +2,7 @@
 title: "Asker emir dinlemiyor"
 date: "2011-01-28"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![askerler.jpg](/uploads/2011/01/askerler.jpg)](/uploads/2011/01/askerler.jpg "askerler.jpg")

@@ -2,7 +2,7 @@
 title: "Yaradan aşkı öğretti"
 date: "2009-09-29"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 ![](/uploads/image/yusufcuk-dragonfly04.jpg)

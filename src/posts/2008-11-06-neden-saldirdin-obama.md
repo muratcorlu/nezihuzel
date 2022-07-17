@@ -2,7 +2,7 @@
 title: "Neden saldırdın Obama"
 date: "2008-11-06"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![ee.bmp](/uploads/2008/11/ee.bmp)](/uploads/2008/11/ee.bmp "ee.bmp")

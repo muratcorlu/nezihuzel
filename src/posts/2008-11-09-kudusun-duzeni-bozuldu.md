@@ -2,7 +2,7 @@
 title: "Kudüs'ün düzeni bozuldu"
 date: "2008-11-09"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 [![papaz.jpg](/uploads/2008/11/papaz.jpg)](/uploads/2008/11/papaz.jpg "papaz.jpg")

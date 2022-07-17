@@ -2,7 +2,7 @@
 title: "Din dar geldi"
 date: "2010-03-09"
 categories: 
-  - "olurla-olmaz-muhabbeti"
+  - Olurla Olmaz Muhabbeti
 ---
 
 ![](/uploads/image/ikizler_burcu.jpg)  

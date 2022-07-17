@@ -2,7 +2,7 @@
 title: "Yıkılırken yapılan dünya"
 date: "2008-06-01"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![kralice-113.bmp](/uploads/2008/06/kralice-113.bmp)](/uploads/2008/06/kralice-113.bmp "kralice-113.bmp")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â **Â** Â 

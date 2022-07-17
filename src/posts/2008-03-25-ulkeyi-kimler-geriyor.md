@@ -2,7 +2,7 @@
 title: "Ülkeyi kimler geriyor…"
 date: "2008-03-25"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![ulke.bmp](/uploads/2008/03/ulke.bmp)](/uploads/2008/03/ulke.bmp "ulke.bmp")

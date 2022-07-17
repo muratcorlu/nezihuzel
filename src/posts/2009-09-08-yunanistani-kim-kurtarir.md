@@ -2,7 +2,7 @@
 title: "Yunanistanı kim kurtarır ?"
 date: "2009-09-08"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![](/uploads/image/yunanistan-26.jpg)

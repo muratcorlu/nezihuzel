@@ -2,7 +2,7 @@
 title: "MuhammedÎ Olanlar nerede ?"
 date: "2011-07-16"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![yahya.jpg](/uploads/2011/07/yahya.jpg)](/uploads/2011/07/yahya.jpg "yahya.jpg")

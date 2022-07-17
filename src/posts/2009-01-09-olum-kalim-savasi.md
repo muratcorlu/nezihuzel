@@ -2,7 +2,7 @@
 title: "Ölüm kalım savaşı"
 date: "2009-01-09"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![1952dulles.jpg](/uploads/2009/01/1952dulles.jpg)](/uploads/2009/01/1952dulles.jpg "1952dulles.jpg") John Foster Dalles

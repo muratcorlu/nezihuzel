@@ -2,7 +2,7 @@
 title: "Güneşi Gördün mü ?"
 date: "2009-05-12"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/gunes.jpg)

@@ -2,7 +2,7 @@
 title: "Kadın evine gitti"
 date: "2006-12-07"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
                                            ![dscf3269.JPG](/uploads/2006/12/dscf3269.kucukresim.JPG)  

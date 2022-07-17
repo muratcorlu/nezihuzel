@@ -2,7 +2,7 @@
 title: "Joseph Goebbels revient"
 date: "2006-11-10"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![goebbels-joseph.jpg](/uploads/2006/11/goebbels-joseph.jpg)CHARLOTTE (AFP) - Un passage de 90 secondes d'un discours de **Joseph Goebbels**, numéro deux du **régime nazi**, a été diffusé avant un match de [**football**](http://fr.sports.yahoo.com/fo/) opposant deux lycées de **Charlotte** (Caroline du nord).

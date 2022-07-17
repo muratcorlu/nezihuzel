@@ -2,7 +2,7 @@
 title: "Create İndependent Kurdistan [Bağımsız Kürdistan kurmak]"
 date: "2006-11-08"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![israil.jpg](/uploads/2006/11/israil.jpg)The **Iraqi** authorities have deeply refuted **British channel _BBC 2_** information, according to which, **Israeli** instructors would train **Kurdish soldiers** in Iraq. Yet, the concerned **authorities** were not able to explain the **testimonys** and the images **collected.**

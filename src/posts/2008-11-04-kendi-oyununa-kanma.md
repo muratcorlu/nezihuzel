@@ -2,7 +2,7 @@
 title: "Kendi oyununa kanma"
 date: "2008-11-04"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![1212310022ask.jpg](/uploads/2008/11/1212310022ask.jpg)](/uploads/2008/11/1212310022ask.jpg "1212310022ask.jpg")

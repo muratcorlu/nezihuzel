@@ -2,7 +2,7 @@
 title: "İşte o kadar"
 date: "2010-11-12"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![mevlana.jpg](/uploads/2010/11/mevlana.jpg)](/uploads/2010/11/mevlana.jpg "mevlana.jpg")

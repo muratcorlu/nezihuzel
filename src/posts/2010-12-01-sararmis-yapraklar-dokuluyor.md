@@ -2,7 +2,7 @@
 title: "Sararmış yapraklar dökülüyor"
 date: "2010-12-01"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![yaprak.jpg](/uploads/2010/12/yaprak.jpg)](/uploads/2010/12/yaprak.jpg "yaprak.jpg")

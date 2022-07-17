@@ -2,7 +2,7 @@
 title: "Yandım Allah Mevlevîhânesi"
 date: "2007-09-26"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![2-copy.jpg](/uploads/2007/09/2-copy.jpg)](/uploads/2007/09/2-copy.jpg "2-copy.jpg")

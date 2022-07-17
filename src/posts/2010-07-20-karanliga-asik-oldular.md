@@ -2,7 +2,7 @@
 title: "Karanlığa aşık oldular"
 date: "2010-07-20"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![gul36.jpg](/uploads/2010/07/gul36.jpg)](/uploads/2010/07/gul36.jpg "gul36.jpg")

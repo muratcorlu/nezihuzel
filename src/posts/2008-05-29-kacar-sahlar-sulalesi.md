@@ -2,7 +2,7 @@
 title: "Kaçar Şahlar sülalesi"
 date: "2008-05-29"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![180px-rezashah.jpg](/uploads/2008/05/180px-rezashah.jpg)](/uploads/2008/05/180px-rezashah.jpg "180px-rezashah.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

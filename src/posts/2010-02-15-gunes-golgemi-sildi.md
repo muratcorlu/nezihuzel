@@ -2,7 +2,7 @@
 title: "Güneş Gölgemi sildi"
 date: "2010-02-15"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/gun.jpg)

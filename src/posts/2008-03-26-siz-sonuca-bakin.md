@@ -2,7 +2,7 @@
 title: "Siz sonuca bakın"
 date: "2008-03-26"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **[![images2.jpg](/uploads/2008/03/images2.jpg)](/uploads/2008/03/images2.jpg "images2.jpg")**

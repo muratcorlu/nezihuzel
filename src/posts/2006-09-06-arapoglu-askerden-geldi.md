@@ -2,7 +2,7 @@
 title: "Arapoğlu Askerden Geldi"
 date: "2006-09-06"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 ![adsiz-copy.jpg](/uploads/2006/09/adsiz-copy.jpg)Gak gara gak gak, guk guk guk... Araboğlu askerden geldi. Hocanın ağzı   kulaklarında, bir sevindi, bir sevindi... Faziletle ikimiz de sevindik. Fazilet Araboğlu'nu tanımıyor. Onaltı ay önce askere giderken Fazilet ortalarda yoktu. Gak.Guk. Ama benim anlatmalarımdan karga kulağında birşeyler kalmış olmalı. Gak guuuuk. Bana sordu:                          –Kim bu Araboğlu ?

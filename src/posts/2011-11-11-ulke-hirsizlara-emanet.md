@@ -2,7 +2,7 @@
 title: "Ülke Hırsızlara Emanet"
 date: "2011-11-11"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [](/uploads/2011/11/imagescaik3ywm.jpg "imagescaik3ywm.jpg")

@@ -2,7 +2,7 @@
 title: "Bush'un İftar Çadırı"
 date: "2006-10-18"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![tali-bush.jpg](/uploads/2006/10/tali-bush.kucukresim.jpg)  

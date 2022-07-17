@@ -2,7 +2,7 @@
 title: "Herkes Gülmek zorunda"
 date: "2009-07-18"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![](/uploads/image/komik.jpg)

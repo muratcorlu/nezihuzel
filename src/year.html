@@ -1,0 +1,28 @@
+---
+pagination:
+  data: collections.postsByYears
+  size: 1
+  alias: year
+permalink: "{{ year.year }}/"
+layout: layout
+---
+
+<h1>"{{ year.year }}" yılındaki yazılar</h1>
+
+{%- for post in year.items %}
+  <div
+    id="post-3185"
+    class="post-3185 post type-post status-publish format-standard hentry">
+    <h2 class="entry-title">
+      <a href="{{ post.url | url }}" rel="bookmark">{{ post.data.title }}</a>
+    </h2>
+    <p class="entry-meta">{{ post.date | date:'DD/MM/YYYY' }} tarihinde yayınlandı.</p>
+  </div>
+{% endfor -%}
+
+{% if year.totalPages > 1 %}
+<ul>
+  {% if year.pageSlugs.previous %}<li><a href="/{{ year.pageSlugs.previous }}/">Önceki Sayfa</a></li>{% endif %}
+  {% if year.pageSlugs.next %}<li><a href="/{{ year.pageSlugs.next }}/">Sonraki Sayfa</a></li>{% endif %}
+</ul>
+{% endif %}``

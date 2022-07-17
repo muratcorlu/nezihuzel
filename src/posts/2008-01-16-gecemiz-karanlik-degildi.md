@@ -2,7 +2,7 @@
 title: "Gecemiz karanlık değildi"
 date: "2008-01-16"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
  [![gece.jpg](/uploads/2008/01/gece.jpg)](/uploads/2008/01/gece.jpg "gece.jpg")

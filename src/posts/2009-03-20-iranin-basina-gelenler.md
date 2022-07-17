@@ -2,7 +2,7 @@
 title: "İran’ın başına gelenler"
 date: "2009-03-20"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![](/uploads/image/8249.jpg)

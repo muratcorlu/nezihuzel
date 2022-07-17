@@ -2,7 +2,7 @@
 title: "Sonra ne oldu ?"
 date: "2012-04-27"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![indir.jpg](/uploads/2012/04/indir.jpg)](/uploads/2012/04/indir.jpg "indir.jpg")

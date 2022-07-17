@@ -2,7 +2,7 @@
 title: "&quot;Üsküdar'a Giderken&quot; Öldü"
 date: "2008-12-26"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![erthakit1.jpg](/uploads/2008/12/erthakit1.jpg)](/uploads/2008/12/erthakit1.jpg "erthakit1.jpg")

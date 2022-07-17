@@ -2,7 +2,7 @@
 title: "Lady Teacher öldü"
 date: "2009-11-13"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
   **![](/uploads/image/margaret-thatcher.jpg)  Canada** \- Alors qu'un **message** informait de la mort d'une **chatte** nommée **Lady Thatcher**, une rumeur a alors laissé **croire** qu'il s'agissait de l'ancien **Premier ministre britannique, Margaret Thatcher** qui était décédée.  

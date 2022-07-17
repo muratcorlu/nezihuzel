@@ -2,7 +2,7 @@
 title: "Rezalet ses yarışmasında"
 date: "2007-12-15"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
                       [![crow152da66ut8.jpg](/uploads/2007/12/crow152da66ut8.jpg)](/uploads/2007/12/crow152da66ut8.jpg "crow152da66ut8.jpg")

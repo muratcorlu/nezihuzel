@@ -2,7 +2,7 @@
 title: "Söylenecek ne kaldı ?"
 date: "2010-10-20"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![sus.jpg](/uploads/2010/10/sus.jpg)](/uploads/2010/10/sus.jpg "sus.jpg")

@@ -2,7 +2,7 @@
 title: "Gücümüze Aşk olsun"
 date: "2007-09-01"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 Bazen **temizliğimizi**

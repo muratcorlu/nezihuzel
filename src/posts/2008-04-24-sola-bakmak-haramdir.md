@@ -2,7 +2,7 @@
 title: "Sola bakmak haramdır"
 date: "2008-04-24"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana.jpg](/uploads/2008/04/mevlana.jpg)](/uploads/2008/04/mevlana.jpg "mevlana.jpg")

@@ -2,7 +2,7 @@
 title: "Bizi dinazor yesin"
 date: "2009-09-06"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/dinazor1.jpg)

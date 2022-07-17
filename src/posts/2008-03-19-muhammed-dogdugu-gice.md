@@ -2,7 +2,7 @@
 title: "Muhammed doğduğu Gice"
 date: "2008-03-19"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **[![bluemooncb2.jpg](/uploads/2008/03/bluemooncb2.jpg)](/uploads/2008/03/bluemooncb2.jpg "bluemooncb2.jpg")[](/uploads/2008/03/gece.jpg "gece.jpg")**

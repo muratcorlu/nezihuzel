@@ -2,7 +2,7 @@
 title: "Laiklik yara aldı"
 date: "2006-12-01"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
                                                     ![altiok.jpg](/uploads/2006/12/altiok.kucukresim.jpg)  

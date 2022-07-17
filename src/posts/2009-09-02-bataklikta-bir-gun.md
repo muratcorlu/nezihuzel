@@ -2,7 +2,7 @@
 title: "Bataklıkta bir gün"
 date: "2009-09-02"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
  ![](/uploads/image/idolomantis.jpg)

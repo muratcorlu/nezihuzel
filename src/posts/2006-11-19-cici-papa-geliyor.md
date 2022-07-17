@@ -2,7 +2,7 @@
 title: "Cici Papa Geliyor..."
 date: "2006-11-19"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![papa-luc-g.jpg](/uploads/2006/11/papa-luc-g.jpg)

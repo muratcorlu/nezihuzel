@@ -1,5 +1,5 @@
 module.exports = {
-  layout: 'layout',
+  layout: 'page',
   tags: "page",
   permalink: data => `/${ data.page.fileSlug }/`
 };

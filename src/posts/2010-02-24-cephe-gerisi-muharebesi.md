@@ -2,7 +2,7 @@
 title: "Cephe Gerisi muhabbeti"
 date: "2010-02-24"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![](/uploads/image/pasa.Jpeg)

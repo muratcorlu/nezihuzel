@@ -2,7 +2,7 @@
 title: "Kalenderin zırhı kalındı"
 date: "2009-11-27"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 **![](/uploads/image/cekirge.jpg)**

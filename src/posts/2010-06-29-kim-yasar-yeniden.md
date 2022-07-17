@@ -2,7 +2,7 @@
 title: "Kim yaşar yeniden ?"
 date: "2010-06-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![gul.jpg](/uploads/2010/06/gul-1.jpg)](/uploads/2010/06/gul-1.jpg "gul.jpg")

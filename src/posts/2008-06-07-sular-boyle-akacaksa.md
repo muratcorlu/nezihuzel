@@ -2,7 +2,7 @@
 title: "sular böyle akacaksa..."
 date: "2008-06-07"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 [![yusufcukk.jpg](/uploads/2008/06/yusufcukk.jpg)](/uploads/2008/06/yusufcukk.jpg "yusufcukk.jpg")

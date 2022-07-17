@@ -2,7 +2,7 @@
 title: "Âşık kendini seyreder"
 date: "2009-07-17"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/AQAM.jpg)

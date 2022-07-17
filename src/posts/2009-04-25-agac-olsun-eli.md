@@ -2,7 +2,7 @@
 title: "Ağaç Olsun eli"
 date: "2009-04-25"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **![](/uploads/image/HPIM2851.JPG)**

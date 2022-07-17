@@ -2,7 +2,7 @@
 title: "Mevlevilik Soytarılık Değildir"
 date: "2011-09-15"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![800px_mevleviler1.jpg](/uploads/2011/09/800px_mevleviler1.jpg)](/uploads/2011/09/800px_mevleviler1.jpg "800px_mevleviler1.jpg")(Arşiv’den) İçinde bulunduğumuz aralık ayında, ülkemizde ve Bazı yabancı ülkelerde Sema gösterileriyle Mevlana anma toplantıları yapılıyor. Hz Pir’in şehri Konya kırkbeş yıldan beri bu toplantılara sahne oluyor. Önceki yıllarda ihtifal adı verilen toplantıları rahmetli Konya Belediye Başkanı,Mesnevi mütercimi Muhlis Koner başlatmıştı. İhtifal Şair Fevzi Halıcı’nın başkanlığında Konya Turizm Derneği’nce uzun yıllar devam ettirildi. Sonra TC Kültür Bakanlığı devreye girdi ve Konya Tasavvuf Müziği Topluluğu kuruldu.

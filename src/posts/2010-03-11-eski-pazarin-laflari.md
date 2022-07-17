@@ -2,7 +2,7 @@
 title: "Eski pazarın malları"
 date: "2010-03-11"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/sosyalyapi2.jpg)

@@ -2,7 +2,7 @@
 title: "Bitmeyen Huzur yolculuğu"
 date: "2009-12-22"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **![](/uploads/image/asker-sapkasi.jpg)**

@@ -2,7 +2,7 @@
 title: "Ben O olunca"
 date: "2007-01-04"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 Beni önce binlerce **sunuyla** okşadı.

@@ -2,7 +2,7 @@
 title: "Dünya'da mola verdik"
 date: "2009-09-23"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/niyazi.jpg)

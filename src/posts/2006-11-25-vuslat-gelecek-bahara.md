@@ -2,7 +2,7 @@
 title: "Vûslat Gelecek Bahara"
 date: "2006-11-25"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![ekmel.jpg](/uploads/2006/11/ekmel.jpg)Papa tartışmalarının göz gözü görmeyen **sisli** atmosferinde **akıllı,** bir söz aradan çıkarak **sabah yıldızı** gibi parladı. Sayın **Ekmeleddin İhsanoğlu** konuştu. **Papa**'nın "**iki büyük hata"** yaptığını anlatan İhsanoğlu şöyle dedi:

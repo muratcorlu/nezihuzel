@@ -2,7 +2,7 @@
 title: "Mevlevilik Soytarılık Değildir"
 date: "2011-11-17"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![sema.jpg](/uploads/2011/11/sema.jpg)](/uploads/2011/11/sema.jpg "sema.jpg")(Arşi'den)

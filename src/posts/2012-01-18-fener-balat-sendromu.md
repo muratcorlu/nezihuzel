@@ -2,7 +2,7 @@
 title: "Fener-Balat Sendromu"
 date: "2012-01-18"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![fenerr.jpg](/uploads/2012/01/fenerr.jpg)](/uploads/2012/01/fenerr.jpg "fenerr.jpg")(arşiv’den) Avrupa birliği İstanbul’un Fener-Balat semtini onarmak üzere 7 milyon euro ayırmış. Projenin adı “rehabilitasyon” yani “ayağa kaldırmak” Fener, şehrin en eski semtlerinden biri, Halic’in güney kıyısında yer alıyor.Burada vaktiyle “Fenerli Beyler” otururlarmış.

@@ -2,7 +2,7 @@
 title: "Derviş Eşikte oturur"
 date: "2009-04-29"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/DSC03632.JPG)  

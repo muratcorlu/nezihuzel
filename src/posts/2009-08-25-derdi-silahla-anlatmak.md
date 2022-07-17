@@ -2,7 +2,7 @@
 title: "Derdi silahla anlatmak"
 date: "2009-08-25"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/teror.jpg)

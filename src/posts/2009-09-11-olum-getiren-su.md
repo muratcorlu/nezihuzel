@@ -2,7 +2,7 @@
 title: "Suyla gelen ölüm"
 date: "2009-09-11"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/_moglova_kemeri.jpg)  

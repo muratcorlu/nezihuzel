@@ -2,7 +2,7 @@
 title: "Sincaplar Bayrakları çalıyor"
 date: "2009-10-19"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 **![](/uploads/image/hampton2.jpg)**

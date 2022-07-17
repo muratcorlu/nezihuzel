@@ -2,7 +2,7 @@
 title: "Varlığa giden yol"
 date: "2010-02-28"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
  **![](/uploads/image/kitap.jpg)**

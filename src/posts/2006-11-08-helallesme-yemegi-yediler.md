@@ -2,7 +2,7 @@
 title: "Köylülerin Helâlleşme günü"
 date: "2006-11-08"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 Nuri ÇAÃ„Å¾LAR/ ŞARKÖY(Tekirdağ), (DHA)

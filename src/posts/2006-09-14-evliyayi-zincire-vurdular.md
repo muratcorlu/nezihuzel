@@ -2,7 +2,7 @@
 title: "Evliyayı Zincire Vurdular"
 date: "2006-09-14"
 categories: 
-  - "destur"
+  - Destur
 ---
 
     **![hacibayram-01-b.jpg](/uploads/2006/09/hacibayram-01-b.kucukresim.jpg)**Bir zamandan beri **Radikal** gazetesine tarih yazıları yazan **Avni Öztürel**, geçen hafta bir yazısında **Ankara**'da yatan **Hacı Bayram Veli**'yi "tutuklatarak **zincire** vurdurdu" ve **Edirne**'ye Osmanlı Padişahı'nın yanına gönderdi. Destur...

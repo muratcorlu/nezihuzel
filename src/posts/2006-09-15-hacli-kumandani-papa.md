@@ -2,7 +2,7 @@
 title: "Haçlı Kumandanı Papa"
 date: "2006-09-15"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![sovalyeler.jpg](/uploads/2006/09/sovalyeler.kucukresim.jpg)

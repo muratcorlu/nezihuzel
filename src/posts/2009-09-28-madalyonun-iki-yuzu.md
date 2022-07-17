@@ -2,7 +2,7 @@
 title: "Madalyon'un iki yüzü"
 date: "2009-09-28"
 categories: 
-  - "sundan-bundan"
+  - Şundan Bundan
 ---
 
 ![](/uploads/image/kertenkele.jpg)  

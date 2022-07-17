@@ -2,7 +2,7 @@
 title: "Nur Hayat'a Döndü"
 date: "2007-10-02"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![dscf0325.JPG](/uploads/2007/10/dscf0325-1.jpg)](/uploads/2007/10/dscf0325-1.jpg "dscf0325.JPG") 

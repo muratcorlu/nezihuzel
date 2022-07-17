@@ -2,7 +2,7 @@
 title: "Yusufçuk kendisiyle barışacak"
 date: "2009-01-26"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 ![](/uploads/image/800px-Sympetrum_flaveolum_-_side_(aka).jpg)

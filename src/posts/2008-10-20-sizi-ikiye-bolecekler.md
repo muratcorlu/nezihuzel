@@ -2,7 +2,7 @@
 title: "Sizi ikiye bölecekler"
 date: "2008-10-20"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 [![11370.jpg](/uploads/2008/10/11370.jpg)](/uploads/2008/10/11370.jpg "11370.jpg")

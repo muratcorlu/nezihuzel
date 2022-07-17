@@ -2,7 +2,7 @@
 title: "Dağda fuhuş odası"
 date: "2006-09-06"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 ![Altın Bacaklar](/uploads/2006/09/fuhus_fahiseler.jpg)Devir ne kadar değişmiş... Demek ki şimdi de insanlar ibadethâne yerine fuhûşhâne yapıyorlar... Gark, gurk. Artık iyice anlaşıldı ki, dünyamızda iki çeşit insan var: kalbiyle yaşayan, çükü ile yaşayan... gark gurk. Bu ikisi bir arada olmuyor. Her ne kadar iki alet de aynı bedene bağlıysa da birinin derdi, diğerine uymuyor.  

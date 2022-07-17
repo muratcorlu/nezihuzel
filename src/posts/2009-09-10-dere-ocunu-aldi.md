@@ -2,7 +2,7 @@
 title: "Dere öcünü aldı"
 date: "2009-09-10"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **![](/uploads/image/sel.jpg)**

@@ -2,7 +2,7 @@
 title: "Bardakoğlu was strong"
 date: "2006-09-14"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![bardakoglu1476_ic.jpg](/uploads/2006/09/bardakoglu1476_ic.kucukresim.jpg)

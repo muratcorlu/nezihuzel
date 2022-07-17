@@ -2,7 +2,7 @@
 title: "Bademi yer dururduk"
 date: "2009-10-17"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/Badem+.jpg)

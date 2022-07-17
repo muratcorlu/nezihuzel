@@ -2,7 +2,7 @@
 title: "Bakanlık tekke açsın"
 date: "2008-12-10"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlevi1.jpg](/uploads/2008/12/mevlevi1.jpg)](/uploads/2008/12/mevlevi1.jpg "mevlevi1.jpg")[](/uploads/2008/12/mevlevi.jpg "mevlevi.jpg")

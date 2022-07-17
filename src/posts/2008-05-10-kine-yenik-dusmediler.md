@@ -2,8 +2,8 @@
 title: ""
 date: "2008-05-10"
 categories: 
-  - "destur"
-  - "kalender-cekirge"
+  - Destur
+  - Kalender Çekirge
 ---
 
 **[![img_yusufcuk210511.jpg](/uploads/2008/05/img_yusufcuk210511.jpg)](/uploads/2008/05/img_yusufcuk210511.jpg "img_yusufcuk210511.jpg")**

@@ -2,7 +2,7 @@
 title: "Mahallenin yaramaz çocuğu"
 date: "2010-03-05"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/SittingBull.jpg)   

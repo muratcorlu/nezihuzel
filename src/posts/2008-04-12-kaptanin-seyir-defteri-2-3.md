@@ -2,16 +2,16 @@
 title: "İlâhilerle Kırk Yıl"
 date: "2008-04-12"
 categories: 
-  - "kaptanin-seyir-defteri"
+  - Kaptanın Seyir Defteri
 ---
 
-[![dsc00078.JPG](/uploads/2008/04/dsc00078.thumbnail.JPG)](/uploads/2008/04/dsc00078.jpg "dsc00078.JPG")[![dsc00109.JPG](/uploads/2008/04/dsc00109-2.thumbnail.JPG)](/uploads/2008/04/dsc00109-2.jpg "dsc00109.JPG")[](/uploads/2008/04/dsc00109-2.jpg "dsc00109.JPG")[](/uploads/2008/04/kudsi-nezih.jpg "kudsi-nezih.jpg")Â Â Â Â Â Â Â 
+[![dsc00078.JPG](/uploads/2008/04/dsc00078.JPG)](/uploads/2008/04/dsc00078.jpg "dsc00078.JPG")[![dsc00109.JPG](/uploads/2008/04/dsc00109-2.JPG)](/uploads/2008/04/dsc00109-2.jpg "dsc00109.JPG")[](/uploads/2008/04/dsc00109-2.jpg "dsc00109.JPG")[](/uploads/2008/04/kudsi-nezih.jpg "kudsi-nezih.jpg")Â Â Â Â Â Â Â 
 
 Bu gün **6 nisan 2008** Pazar. Sabah saatlerinde **Hakikat** hanımın **yaris**’î ile **Sapanca**’dan yola çıktık. Yarın **İstanbul**’da konser var. **Cemal Reşit Rey** Konser salonunda **Kutsi Erguner** ve **Nezih Uzel**, bermutad iki kişi... **Kutsi** ney üfleyecek, ben **bendir vurup ilahi** okuyacağım. Halk adam başı **on iki lira** verip dinleyecek. **Bu** gece **İstanbul**’da kalacağız. **Kutsi** akşama **Paris**’ten gelecek. Bu **konser** için **aylar** öncesinden karar verildi.
 
 Aslında adı geçen **konseri**, geçen yıl yapacaktık. Yine bir **arıza** oldu. Ben o **konseri** tek başıma yaptım. Bunun üzerine, üzerimize **çöken** ağırlığı kaldırmak için, haydi bir **konser** daha yapalım, **son olsun**, dedik yola koyulduk. Adını da “**ilahilerle kırk yıl**” koyduk. **Kutsi** ona bir de “**Tekke’den sahneye”** diye bir başlık ekledi, ben **uzun başlıkları** sevmiyorum, böyle şeyler hep **üç kelime** olmalı, bizim **yazıları** okuyanlar **fark** etmiştir, **makale** ve **kitap** başlıkları birkaç yıldan beri hep **üç kelime**, **Konserlerin** adı da öyle olsun dedim. **Olmadı**. Neyse… iyi **olur** inşallah. Biraz daha **zaman** var.
 
-[![dsc00073.JPG](/uploads/2008/04/dsc00073.thumbnail.JPG)](/uploads/2008/04/dsc00073.jpg "dsc00073.JPG")[![dsc00081.JPG](/uploads/2008/04/dsc00081.thumbnail.JPG)](/uploads/2008/04/dsc00081.jpg "dsc00081.JPG")
+[![dsc00073.JPG](/uploads/2008/04/dsc00073.JPG)](/uploads/2008/04/dsc00073.jpg "dsc00073.JPG")[![dsc00081.JPG](/uploads/2008/04/dsc00081.JPG)](/uploads/2008/04/dsc00081.jpg "dsc00081.JPG")
 
 Bu konsere “**kırk yıl”** adını takmamın **nedeni** var. **Kutsi’**nin babası, **TRT İstanbul Radyosu Türk San’at Müziği Åube Müdürü Ulvi Erguner** “**mucip**” göstererek 1967’de beni **TRT**’ye aldırdığında kadromu “**kudümzen**” olarak çıkartmıştı. Ben **1967** yılında **TRT**’ye **“kudümzen**” olarak girdim. O yıllarda **TRT**’de “**Mevlevi Âyini**” çalmak **yasak** değil ama **ilahiler** yasaktı. **Ulvi Erguner** bu yasağı **delmeye** çalışıyordu. Beni o yüzden **TRT**’ye aldırdı.
 

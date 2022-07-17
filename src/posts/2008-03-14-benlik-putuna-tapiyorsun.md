@@ -2,7 +2,7 @@
 title: "Benlik putuna tapıyorsun"
 date: "2008-03-14"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana.jpg](/uploads/2008/03/mevlana-6.jpg)](/uploads/2008/03/mevlana-6.jpg "mevlana.jpg")

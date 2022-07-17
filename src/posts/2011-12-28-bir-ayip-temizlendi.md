@@ -2,7 +2,7 @@
 title: "Bir ayıp temizlendi"
 date: "2011-12-28"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![caami-3.bmp](/uploads/2011/12/caami-3.bmp)](/uploads/2011/12/caami-3.bmp "caami-3.bmp")Osmanlı İmparatorluğu’nun temeli zamanımızdan yedi asır önce Batı Anadolu’da Söğüt’te atılmıştı. O çağda henüz Beylik olan bu devletin ikinci hükümdarı Orhan Gazi’dir. Orhan Gazi devleti gerçek anlamda örgütleyen ve Sultan ünvanını ilk defa kullanan Osmanlı Padişahı’dır.

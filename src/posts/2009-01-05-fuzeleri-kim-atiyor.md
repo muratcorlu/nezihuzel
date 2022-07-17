@@ -2,7 +2,7 @@
 title: "Füzeleri kim atıyor ?"
 date: "2009-01-05"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![shylock.jpg](/uploads/2009/01/shylock.jpg)](/uploads/2009/01/shylock.jpg "shylock.jpg") Venedik Taciri                                            

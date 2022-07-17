@@ -2,7 +2,7 @@
 title: "Atatürkçü ideoloji nedir ?"
 date: "2011-11-12"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [](/uploads/2011/11/mec.bmp "mec.bmp")

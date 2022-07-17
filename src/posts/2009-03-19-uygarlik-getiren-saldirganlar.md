@@ -2,7 +2,7 @@
 title: "Uygarlık getiren saldırganlar"
 date: "2009-03-19"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/asker_ve_afganistan.jpg)   ![](/uploads/image/Afganistan8217da_bir_kz_ocuu.jpg)

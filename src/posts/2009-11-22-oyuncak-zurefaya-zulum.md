@@ -2,7 +2,7 @@
 title: "Oyuncak zürefa'ya zulüm"
 date: "2009-11-22"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
   **![](/uploads/image/zurefa.jpg)  Oregon, Etats-Unis** - **Sean McDowell**, 24 ans, a été aperçu par la **police** en train d'essayer d'avoir des **relations sexuelles** avec une **girafe** en **peluch**e alors qu'il était **ivre.**   

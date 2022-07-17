@@ -2,7 +2,7 @@
 title: "Guerre contre peuples (Halklara Karşı Savaş)"
 date: "2006-11-14"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![yusuf-askar.jpg](/uploads/2006/11/yusuf-askar-2.jpg)

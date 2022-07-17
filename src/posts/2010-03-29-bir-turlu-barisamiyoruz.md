@@ -2,7 +2,7 @@
 title: "Bir türlü barışamıyoruz"
 date: "2010-03-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![molla.jpg](/uploads/2010/03/molla.jpg)](/uploads/2010/03/molla.jpg "molla.jpg")

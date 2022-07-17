@@ -2,7 +2,7 @@
 title: "Çanakkale imha savaşı"
 date: "2010-03-18"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [](/uploads/2010/03/savas.jpg "savas.jpg")

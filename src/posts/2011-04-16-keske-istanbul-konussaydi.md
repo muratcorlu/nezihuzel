@@ -2,7 +2,7 @@
 title: "Keşke İstanbul Konuşsaydı"
 date: "2011-04-16"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![tumblr_.jpg](/uploads/2011/04/tumblr_.jpg)](/uploads/2011/04/tumblr_.jpg "tumblr_.jpg") (Arşiv'den,16 eylül 2002)

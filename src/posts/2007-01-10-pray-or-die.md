@@ -2,7 +2,7 @@
 title: "Pray or Die"
 date: "2007-01-10"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
   MOGADISHU (Reuters) - A leading **Mogadishu** sheikh said on **Friday Muslims** who do not pray **five times** a day should be put **to death** -- the latest sign of a fast-emerging hardline face to **Somalia** Ã¢â‚¬Ëœs newly-**powerful Islamists.**

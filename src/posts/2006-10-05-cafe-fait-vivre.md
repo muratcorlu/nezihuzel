@@ -2,7 +2,7 @@
 title: "Café fait vivre"
 date: "2006-10-05"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 **![kubali.jpg](/uploads/2006/10/kubali.kucukresim.jpg)LA HAVANE** (AFP) - Cuba est connu pour sa proportion très **élevée de centenaires**, et le secret de la **longévité** des habitants réside dans une recette **simple**, selon une étude publiée mercredi: une vie **méthodique,** pas trop d'alcool mais beaucoup de **café**, des **cigares** et du **sexe.**

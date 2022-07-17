@@ -2,7 +2,7 @@
 title: "Siyaset denge demektir"
 date: "2009-12-12"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![](/uploads/image/meclis.jpg)

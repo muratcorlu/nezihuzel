@@ -2,7 +2,7 @@
 title: "Açıl Susam Açıl"
 date: "2007-11-03"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **[![alib.jpg](/uploads/2007/11/alib.jpg)](/uploads/2007/11/alib.jpg "alib.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 

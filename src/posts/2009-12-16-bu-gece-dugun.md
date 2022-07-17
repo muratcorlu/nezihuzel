@@ -2,7 +2,7 @@
 title: "Bu gece düğün"
 date: "2009-12-16"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/pir(1).jpg)  

@@ -2,7 +2,7 @@
 title: "Azgın Düşman'a ayakkabı"
 date: "2009-03-12"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![](/uploads/image/Bushduck.png)

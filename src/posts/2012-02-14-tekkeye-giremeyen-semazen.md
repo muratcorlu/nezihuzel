@@ -2,7 +2,7 @@
 title: "Tekkeye giremeyen Semazen"
 date: "2012-02-14"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![bahariye.bmp](/uploads/2012/02/bahariye.bmp)](/uploads/2012/02/bahariye.bmp "bahariye.bmp")

@@ -2,7 +2,7 @@
 title: "Sultanahmet’te 4000 Kişi"
 date: "2011-04-19"
 categories: 
-  - "sundan-bundan"
+  - Şundan Bundan
 ---
 
 [![meczet_rb1.jpg](/uploads/2011/04/meczet_rb1.jpg)](/uploads/2011/04/meczet_rb1.jpg "meczet_rb1.jpg") (arşiv’den , aralık 2002)

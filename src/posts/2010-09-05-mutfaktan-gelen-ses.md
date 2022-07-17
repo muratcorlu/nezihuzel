@@ -2,7 +2,7 @@
 title: "Mutfaktan gelen ses"
 date: "2010-09-05"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![hedik-kazan.jpg](/uploads/2010/09/hedik-kazan.jpg)](/uploads/2010/09/hedik-kazan.jpg "hedik-kazan.jpg")

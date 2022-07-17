@@ -2,7 +2,7 @@
 title: "Keyif sandı aşkını"
 date: "2010-09-01"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![bahar-orman.jpg](/uploads/2010/09/bahar-orman.jpg)](/uploads/2010/09/bahar-orman.jpg "bahar-orman.jpg")

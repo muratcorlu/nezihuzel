@@ -2,7 +2,7 @@
 title: "Gemiyi sürüp duruyoruz"
 date: "2006-11-21"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![gemi.jpg](/uploads/2006/11/gemi.jpg)

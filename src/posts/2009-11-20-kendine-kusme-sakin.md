@@ -2,7 +2,7 @@
 title: "Kendine küsme sakın"
 date: "2009-11-20"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/kusme(1).jpg)  

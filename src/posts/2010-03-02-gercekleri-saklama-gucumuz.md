@@ -2,7 +2,7 @@
 title: "Gerçekleri saklama gücümüz"
 date: "2010-03-02"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/madalya.jpg)

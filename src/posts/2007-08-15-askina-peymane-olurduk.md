@@ -2,7 +2,7 @@
 title: "Aşkına Peymane Olurduk"
 date: "2007-08-15"
 categories: 
-  - "destur"
+  - Destur
 ---
 
       Mecnun gibi nam istesek **efsane olurduk**

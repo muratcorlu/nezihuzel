@@ -2,7 +2,7 @@
 title: "Gözler Asya’ya Dönüyor"
 date: "2007-11-07"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **[![asyaa.jpg](/uploads/2007/11/asyaa.jpg)](/uploads/2007/11/asyaa.jpg "asyaa.jpg")Â Â Â Â** 

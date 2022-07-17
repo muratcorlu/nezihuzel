@@ -2,7 +2,7 @@
 title: "Uyanırsak ne âlâ"
 date: "2008-02-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![50390272.jpg](/uploads/2008/02/50390272.jpg)](/uploads/2008/02/50390272.jpg "50390272.jpg")

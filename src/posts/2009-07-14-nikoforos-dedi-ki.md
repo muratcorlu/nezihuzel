@@ -2,7 +2,7 @@
 title: "Heybeliada'dan ses geldi:"
 date: "2009-07-14"
 categories: 
-  - "destur"
+  - Destur
 ---
 
  ![](/uploads/image/heybeli-ada.jpg)

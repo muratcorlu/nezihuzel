@@ -2,7 +2,7 @@
 title: "İrtica Vatikan'ı Sardı"
 date: "2006-09-16"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![paleologos.jpg](/uploads/2006/09/paleologos.jpg)

@@ -2,7 +2,7 @@
 title: "Suçları Müslüman olmaktı"
 date: "2009-10-16"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![](/uploads/image/serebranica.jpg)

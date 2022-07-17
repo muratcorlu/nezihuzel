@@ -2,7 +2,7 @@
 title: "lâzım olan İrfan"
 date: "2009-03-07"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 Dermân arardım **derdime** derdim bana **derman** imiş  

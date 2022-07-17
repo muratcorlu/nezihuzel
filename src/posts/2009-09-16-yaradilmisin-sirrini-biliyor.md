@@ -2,7 +2,7 @@
 title: "Adı Nefret'ti onun"
 date: "2009-09-16"
 categories: 
-  - "sundan-bundan"
+  - Şundan Bundan
 ---
 
 ![](/uploads/image/nefret.jpg)Adı Adı **Nefret’**ti onun,  

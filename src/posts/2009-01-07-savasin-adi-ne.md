@@ -2,7 +2,7 @@
 title: "Savaşın adı ne ?"
 date: "2009-01-07"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **[![19049_10_jul_2007_020755.jpg](/uploads/2009/01/19049_10_jul_2007_020755.jpg)](/uploads/2009/01/19049_10_jul_2007_020755.jpg "19049_10_jul_2007_020755.jpg")**

@@ -2,7 +2,7 @@
 title: "Ayasofya Bizi Affet"
 date: "2011-04-16"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![ayasofya.jpg](/uploads/2011/04/ayasofya.jpg)](/uploads/2011/04/ayasofya.jpg "ayasofya.jpg") (Arşiv'den, Üsküdar, 26 aralık 2002)

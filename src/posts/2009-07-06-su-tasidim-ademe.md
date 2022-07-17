@@ -2,7 +2,7 @@
 title: "Su taşıdım Âdeme"
 date: "2009-07-06"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **![](/uploads/image/dunya.jpg)**

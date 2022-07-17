@@ -2,7 +2,7 @@
 title: "Beethoven'in Anısına Semaî"
 date: "2007-10-13"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/beet(2).jpg)

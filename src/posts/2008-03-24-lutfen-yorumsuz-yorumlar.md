@@ -2,7 +2,7 @@
 title: "lütfen, yorumsuz yorumlar"
 date: "2008-03-24"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **Nezih Uzel**'den not: 

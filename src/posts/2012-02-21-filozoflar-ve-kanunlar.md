@@ -2,7 +2,7 @@
 title: "Filozoflar ve kanunlar"
 date: "2012-02-21"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![filozof.jpg](/uploads/2012/02/filozof.jpg)](/uploads/2012/02/filozof.jpg "filozof.jpg")

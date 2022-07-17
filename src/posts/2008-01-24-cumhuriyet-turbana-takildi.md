@@ -2,7 +2,7 @@
 title: "Cumhuriyet Türban'a takıldı"
 date: "2008-01-24"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![turban031qh3.jpg](/uploads/2008/01/turban031qh3.jpg)](/uploads/2008/01/turban031qh3.jpg "turban031qh3.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

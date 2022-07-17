@@ -2,7 +2,7 @@
 title: "Telefon çok karıştı"
 date: "2009-11-15"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
  ![](/uploads/image/martincooper.jpg)  

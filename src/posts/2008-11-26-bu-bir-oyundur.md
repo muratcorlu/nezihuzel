@@ -2,7 +2,7 @@
 title: "Bu bir oyundur"
 date: "2008-11-26"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![fft22_mf46569.jpg](/uploads/2008/11/fft22_mf46569.jpg)](/uploads/2008/11/fft22_mf46569.jpg "fft22_mf46569.jpg")

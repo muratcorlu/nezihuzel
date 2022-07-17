@@ -2,7 +2,7 @@
 title: "Boşver, yaşa gitsin"
 date: "2009-11-24"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/tayf.jpg)  

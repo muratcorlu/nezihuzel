@@ -2,7 +2,7 @@
 title: "Mevleviliği  Harcadık  Gitti..."
 date: "2011-11-18"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mezar-tasi.jpg](/uploads/2011/11/mezar-tasi.jpg)](/uploads/2011/11/mezar-tasi.jpg "mezar-tasi.jpg")(Arşiv'den)

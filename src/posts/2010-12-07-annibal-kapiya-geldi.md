@@ -2,7 +2,7 @@
 title: "Annibal Kapıya geldi"
 date: "2010-12-07"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![nnn.jpg](/uploads/2010/12/nnn.jpg)](/uploads/2010/12/nnn.jpg "nnn.jpg")  **Roma** çökerken tüm suçu **Kartaca**’nın üzerine yüklemişti. **Romalı**’lara göre başlarına gelen her **felaketin** sorumlusu  **Kartaca**’şehriydi.. Her **kötülük** onun  başının altından çıkıyordu. Bu yüzden hain **Kartaca**’nın yok edilmesi **gerektiğine** inandılar. **Kartaca** yok olmalı ki **Roma** yaşasın. **Kartaca** o çağda **Akdeniz'**in güneyinde,  **küçük** bir **Kuzey Afrika** liman kentiydi.
@@ -13,7 +13,7 @@ Roma **Senato**’sunda Senatör **Kato** “**Delenda Carthaga**\= Kartacayı y
 
 O zaman **Latince** konuşan **Roma**’nın diline bir cümle düştü: “**Hannibal at Portas=Annibal kapıya** geldi..”  Annibal kapıya dayanıncaya kadar “**Delenda Carthaga”** diye bağıran **Romalı'**lar bir türlü uyanamıyorlardı **Kartaca**'yı öylesine küçümsüyor, **kendilerine** öylesine güveniyolardı ki..
 
-[![romalilar.jpeg](/uploads/2010/12/romalilar.thumbnail.jpeg)](/uploads/2010/12/romalilar.jpeg "romalilar.jpeg") **Roma** **Kartaca'**yı yok edemedi. **Kartaca** **Roma**’nın yok oluşunu hazırladı. Çünkü **Roma**’nın altı boşalmıştı. **Roma** tümüyle çökmüştü. **dünyaya** asırlarca örnek olan **Roma hukuku** yok olmuş, **Roma** sarayı  iğrenç bir **bataklığa** dönüşmüş, artık **kimsenin** inanmaz olduğu **Roma tanrıları** güçlerini yitirmişlerdi, **Roma ordusu** İmparatorluğun her yerinden yükselen **isyan** yangınlarını bastıramıyordu. Ayaklanan **toplum** sindirilemiyordu, **Roma** halkı dağılan **toplum** güçlerinin yıkıntısı altında **feleğini** şaşırmıştı. **Duygusuz**, kör ve **sağır** yaşıyorlardı.
+[![romalilar.jpeg](/uploads/2010/12/romalilar.jpeg)](/uploads/2010/12/romalilar.jpeg "romalilar.jpeg") **Roma** **Kartaca'**yı yok edemedi. **Kartaca** **Roma**’nın yok oluşunu hazırladı. Çünkü **Roma**’nın altı boşalmıştı. **Roma** tümüyle çökmüştü. **dünyaya** asırlarca örnek olan **Roma hukuku** yok olmuş, **Roma** sarayı  iğrenç bir **bataklığa** dönüşmüş, artık **kimsenin** inanmaz olduğu **Roma tanrıları** güçlerini yitirmişlerdi, **Roma ordusu** İmparatorluğun her yerinden yükselen **isyan** yangınlarını bastıramıyordu. Ayaklanan **toplum** sindirilemiyordu, **Roma** halkı dağılan **toplum** güçlerinin yıkıntısı altında **feleğini** şaşırmıştı. **Duygusuz**, kör ve **sağır** yaşıyorlardı.
 
 Sonunda **ayakta** duramayacak İmparatorluğu **çingeneler** yıktılar. **Annibal Roma**’ya çeşitli sebeplerle girip **İmparator locasına** bayrağını dikemedi ama adını **tarihe** yazdırdı. **Roma**’nın sonu pek **firaklı** olmuştu.
 
@@ -25,6 +25,6 @@ Sonunda **ayakta** duramayacak İmparatorluğu **çingeneler** yıktılar. **Ann
 
 **Dünyanın** geri kalan halkı şimdi “**altına biz el koysak**” ya demiştir. **Bin Ladin** mi olur **? Wikileaks** mi olur ? bir **kumandan** bularak **Batı kapitalizmi**’nin üzerine bir **çingene** ordusu göndermenin **tam** zamanıdır.
 
-[![annibal1.gif](/uploads/2010/12/annibal1.thumbnail.gif).](/uploads/2010/12/annibal1.gif "annibal1.gif")
+[![annibal1.gif](/uploads/2010/12/annibal1.gif).](/uploads/2010/12/annibal1.gif "annibal1.gif")
 
 Annibal M.Ö.247

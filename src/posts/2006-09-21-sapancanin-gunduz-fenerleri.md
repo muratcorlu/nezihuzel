@@ -2,7 +2,7 @@
 title: "Sapanca'nın Gündüz fenerleri"
 date: "2006-09-21"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 ![fener.jpg](/uploads/2006/09/fener.kucukresim.jpg)Usta biriyle telefonla konuşuyordu. Yüzü **gergindi**. Gaaak.Gaaak. Yaklaşarak dinledim:

@@ -2,7 +2,7 @@
 title: "Alman Katolikleri zorda"
 date: "2011-09-23"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 [![papaa.jpg](/uploads/2011/09/papaa.jpg)](/uploads/2011/09/papaa.jpg "papaa.jpg")

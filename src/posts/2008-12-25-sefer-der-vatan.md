@@ -2,7 +2,7 @@
 title: "Sefer der vatan"
 date: "2008-12-25"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **[![nur.jpg](/uploads/2008/12/nur.jpg)](/uploads/2008/12/nur.jpg "nur.jpg")**

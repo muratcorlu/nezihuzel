@@ -2,7 +2,7 @@
 title: "O, İnsanlık Ordusu'dur"
 date: "2006-10-21"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
   ![mehmet.bmp](/uploads/2006/10/mehmet.bmp)

@@ -2,7 +2,7 @@
 title: "Yenikapı Mevlevihânesi"
 date: "2007-11-25"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 

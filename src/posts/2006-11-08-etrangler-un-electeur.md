@@ -2,7 +2,7 @@
 title: "Etrangler un électeur"
 date: "2006-11-08"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![secim.jpg](/uploads/2006/11/secim.jpg)LOUISVILLE, **Kentucky** (AP) - Un employé d'un bureau de vote du **Kentucky** a été arrêté mardi et **inculpé d'agression** et d'entrave ÃƒÂ  un **scrutin** pour avoir tenté **d'étrangler un électeur** et l'avoir sorti **manu militari** du bureau, ÃƒÂ  l'occasion des **élections de mi-mandat** au **Congrès américain,** ont indiqué les autorités.

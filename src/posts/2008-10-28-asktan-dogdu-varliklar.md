@@ -2,7 +2,7 @@
 title: "Aşktan doğdu varlıklar"
 date: "2008-10-28"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **[![dsc_0059.jpg](/uploads/2008/10/dsc_0059.jpg)](/uploads/2008/10/dsc_0059.jpg "dsc_0059.jpg")**

@@ -2,7 +2,7 @@
 title: "Yuvarlak masa muhabbeti"
 date: "2010-02-26"
 categories: 
-  - "olurla-olmaz-muhabbeti"
+  - Olurla Olmaz Muhabbeti
 ---
 
 ![](/uploads/image/masa.jpg)

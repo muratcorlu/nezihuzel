@@ -2,7 +2,7 @@
 title: "Tarih ve insanlık"
 date: "2008-12-31"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![zaharof1.jpg](/uploads/2008/12/zaharof1.jpg)](/uploads/2008/12/zaharof1.jpg "zaharof1.jpg")  

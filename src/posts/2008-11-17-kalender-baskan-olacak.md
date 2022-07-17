@@ -2,7 +2,7 @@
 title: "Kalender başkan olacak"
 date: "2008-11-17"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 **[![cekirge_0005.jpg](/uploads/2008/11/cekirge_0005.jpg)](/uploads/2008/11/cekirge_0005.jpg "cekirge_0005.jpg")**

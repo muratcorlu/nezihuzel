@@ -2,7 +2,7 @@
 title: "Aziz Dostum Karavaj"
 date: "2009-08-05"
 categories: 
-  - "kaptanin-seyir-defteri"
+  - Kaptanın Seyir Defteri
 ---
 
 ![](/uploads/image/paris.jpg)

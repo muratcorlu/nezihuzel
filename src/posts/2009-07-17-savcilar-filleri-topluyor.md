@@ -2,7 +2,7 @@
 title: "Savcılar filleri topluyor"
 date: "2009-07-17"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 ![](/uploads/image/fil.jpg)

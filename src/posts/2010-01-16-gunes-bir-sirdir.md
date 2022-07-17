@@ -2,7 +2,7 @@
 title: "Sır sır'da saklanır"
 date: "2010-01-16"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/sir.jpg)

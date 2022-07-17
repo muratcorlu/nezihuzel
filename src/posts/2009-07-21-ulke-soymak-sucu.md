@@ -2,7 +2,7 @@
 title: "Ülke soymak suçu"
 date: "2009-07-21"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![](/uploads/image/taylor.jpg)

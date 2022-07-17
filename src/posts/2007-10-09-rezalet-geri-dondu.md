@@ -2,7 +2,7 @@
 title: "Rezalet Geri Döndü"
 date: "2007-10-09"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 Â ![](/uploads/image/karga.jpg)

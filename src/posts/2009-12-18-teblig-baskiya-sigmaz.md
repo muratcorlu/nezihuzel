@@ -2,7 +2,7 @@
 title: "Tebliğ baskıya sığmaz"
 date: "2009-12-18"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 _![](/uploads/image/vehhabi1.jpg)_

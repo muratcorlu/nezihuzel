@@ -2,7 +2,7 @@
 title: "Diplomaside utanma yoktur"
 date: "2010-12-05"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![30-1.jpg](/uploads/2010/12/30-1.jpg)](/uploads/2010/12/30-1.jpg "30-1.jpg") A.Cevdet Paşa (1822-1895)i

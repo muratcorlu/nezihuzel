@@ -2,7 +2,7 @@
 title: "Atatürk askerlik bilirdi"
 date: "2010-06-26"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![3c24b1.jpg](/uploads/2010/06/3c24b1.jpg)](/uploads/2010/06/3c24b1.jpg "3c24b1.jpg") Gazi Mustafa Kemal Paşa hazretleri Çanakkale’de ayaktaydı. Gazi Mustafa Kemal Paşa hazretleri Kocatepe’de ayaktaydı. Gazi Mustafa KemaI Paşa hazretleri Afyon Başkumandanlık meydan savaşında ayaktaydı.  Çömelmemişti.

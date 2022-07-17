@@ -2,7 +2,7 @@
 title: "Hukuk Yasalardan üstündür"
 date: "2008-03-16"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 1453 mayısında **Türkler İstanbul’a** girdiğinde kral **Konstantin**’in başsavcısı **Fatih Sultan Mehmet**’e dava açsaydı **tarih** bunu nasıl yazardı ? Â **Romalılar** da **İsa Peygamber**’e dava açtılar, **öldürdüler**. Ãldü mü **İsa peygamber** ? Ya **Musa**’yı **Kızıl Deniz**’de kovalayan **firavun**’un adı var mı **tarihte** ?…

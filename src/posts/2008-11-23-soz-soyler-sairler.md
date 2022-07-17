@@ -2,7 +2,7 @@
 title: "Söz söyler şairler"
 date: "2008-11-23"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **[![97397582dq71.jpg](/uploads/2008/11/97397582dq71.jpg)](/uploads/2008/11/97397582dq71.jpg "97397582dq71.jpg")[](/uploads/2008/11/sair.jpg "sair.jpg")**

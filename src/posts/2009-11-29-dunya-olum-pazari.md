@@ -2,7 +2,7 @@
 title: "Kârlı ölüm pazarı"
 date: "2009-11-29"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 **![](/uploads/image/taliban.jpg)**

@@ -2,12 +2,12 @@
 title: "Aşk, Mâşuk, Aşk."
 date: "2007-12-26"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 _[](/uploads/2007/12/dscf0416.jpg "dscf0416.JPG")_
 
-_[![dscf0418.JPG](/uploads/2007/12/dscf0418.thumbnail.JPG)](/uploads/2007/12/dscf0418.jpg "dscf0418.JPG")_
+_[![dscf0418.JPG](/uploads/2007/12/dscf0418.JPG)](/uploads/2007/12/dscf0418.jpg "dscf0418.JPG")_
 
 _Gözün aç var mı ey gâfil cihanda olmayan âşık._ _Kuruldu aşk ile âlem, zemîn ü âsümân âşık._ _Nedir bu hâl-i hayretbahş, pir âşık cüvan âşık._ _Kim âşıkdır, kime âşık, niçin eyler figân, âşık._ _Hüdâ âşık, resûl âşık, bütün kevn ü mekân âşık._
 

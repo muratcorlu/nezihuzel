@@ -2,7 +2,7 @@
 title: "Vakt oldu temam"
 date: "2012-02-04"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![muh1.jpg](/uploads/2012/02/muh1.jpg)](/uploads/2012/02/muh1.jpg "muh1.jpg") Âmine eder çü vakt oldu temâm Kim vücûda gele ol hayrül enâm

@@ -2,7 +2,7 @@
 title: "Çanakkale imha savaşı"
 date: "2012-03-17"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [](/uploads/2012/04/kitchener.jpg "kitchener.jpg")[](/uploads/2012/04/kitchener.jpg "kitchener.jpg")[![hiram.jpg](/uploads/2012/03/hiram.jpg)](/uploads/2012/03/hiram.jpg "hiram.jpg")[](/uploads/2012/03/hiram.jpg "hiram.jpg")  (Arşiv'den)

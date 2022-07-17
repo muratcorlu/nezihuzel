@@ -2,7 +2,7 @@
 title: "aklı târumâr âşık"
 date: "2012-04-26"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
   [![akil.jpg](/uploads/2012/04/akil.jpg)](/uploads/2012/04/akil.jpg "akil.jpg")

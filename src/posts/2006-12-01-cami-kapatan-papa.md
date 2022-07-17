@@ -2,7 +2,7 @@
 title: "Papa denen dinsiz"
 date: "2006-12-01"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
   ![cami-2.bmp](/uploads/2006/12/cami-2.bmp)

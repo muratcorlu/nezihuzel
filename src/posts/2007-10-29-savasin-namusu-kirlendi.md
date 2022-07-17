@@ -2,7 +2,7 @@
 title: "Generaller'in Savaş Aşkı"
 date: "2007-10-29"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![5fcbfab80e.jpg](/uploads/2007/11/5fcbfab80e.jpg)](/uploads/2007/11/5fcbfab80e.jpg "5fcbfab80e.jpg")[![200px-goltz-portrait.jpg](/uploads/2007/10/200px-goltz-portrait.jpg)](/uploads/2007/10/200px-goltz-portrait.jpg "200px-goltz-portrait.jpg")[](/uploads/2007/10/hooker1.jpg "hooker1.jpg")

@@ -2,7 +2,7 @@
 title: "secrets du Monde"
 date: "2006-12-17"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 Hier au soir, en **confidence**, j'ai dit  ÃƒÂ  un **vieux sage :**

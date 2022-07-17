@@ -2,7 +2,7 @@
 title: "Sufi Müzik piyasası"
 date: "2010-02-24"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 _![](/uploads/image/sabribros.jpg)_

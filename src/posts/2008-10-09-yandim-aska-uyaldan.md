@@ -2,7 +2,7 @@
 title: "Yandım Aşka uyaldan"
 date: "2008-10-09"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![21042008078735300120878nl8.jpg](/uploads/2008/10/21042008078735300120878nl8.jpg)](/uploads/2008/10/21042008078735300120878nl8.jpg "21042008078735300120878nl8.jpg")

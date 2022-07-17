@@ -2,7 +2,7 @@
 title: "Bizi Babamız yesin"
 date: "2009-09-16"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **![](/uploads/image/eylulguz_goya_cronos.jpg)**

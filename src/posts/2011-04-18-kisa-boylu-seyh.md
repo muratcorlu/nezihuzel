@@ -2,7 +2,7 @@
 title: "Kısa boylu Şeyh"
 date: "2011-04-18"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![hus.jpg](/uploads/2011/04/hus.jpg)](/uploads/2011/04/hus.jpg "hus.jpg") (Arşiv'den, ağustos 2001) Üsküdar'da Özbekler  Dergahı şeyhi Necmeddin Efendi beni Küçük Hüseyin Efendi ile manen tanıştırdığında ben 20 yaşlarında kadardım. Bir gün beni kolumdan tuttu, Eyyub'de Pierre Loti Kahvesine çıkan dar yolu birlikte tırmanmaya başladık. Epeyi yukarıya çıktık. Aşağıda haliç ve ortasında kum tepecikleri, karşımızda uzanan manzaranın sonunda sisler içinde kaybolan İstanbul, bana doğrusu pek çekici gelmiyordu. Acaba nereye gidiyorduk ? Bir süre sonra sola döndük, taş bir merdivene sardırdık kendimizi... Acaba yoruldu mu? diye yan gözle şeyhe bakarken irkildim. Baba'nın yüzünde o zamana kadar görmediğim acaip bir neş'e dolaşıyordu.

@@ -2,7 +2,7 @@
 title: "Sonsuza Ulaşmazdı resmin…"
 date: "2009-02-24"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 Nasıl saatlerce baktım **resmine  

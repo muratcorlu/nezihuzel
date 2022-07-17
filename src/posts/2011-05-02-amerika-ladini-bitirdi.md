@@ -2,7 +2,7 @@
 title: "Amerika Ladin’i bitirdi"
 date: "2011-05-02"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![ladin.jpg](/uploads/2011/05/ladin.jpg)](/uploads/2011/05/ladin.jpg "ladin.jpg") Dünyanın bir no’lu devleti ABD baş düşmanı olarak bir süredir kullandığı Ladin’i bitirdi. Ladin isminin eskidiğine ve inandırıcılığını kaybettiğine kanaat getirerek bu adı piyasadan kaldırdı. Örtbas etti. Şimdi dünyayı korkutmak ve sindirmek için başka bir isim bulacak.

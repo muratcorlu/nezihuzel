@@ -2,7 +2,7 @@
 title: "Çobanın Oyu üstündür"
 date: "2008-03-31"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![coban.jpg](/uploads/2008/03/coban.jpg)](/uploads/2008/03/coban.jpg "coban.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

@@ -2,7 +2,7 @@
 title: "Uluslararası Boncuk Konferansı"
 date: "2007-01-17"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **[](/uploads/2007/08/boncuk.jpg "boncuk.jpg")[![boncuk1.jpg](/uploads/2007/08/boncuk1.jpg)](/uploads/2007/08/boncuk1.jpg "boncuk1.jpg")**

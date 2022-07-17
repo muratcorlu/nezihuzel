@@ -2,7 +2,7 @@
 title: "Kutsal Arkadaşlık üzerine"
 date: "2009-12-10"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/kuziiii.jpg)  

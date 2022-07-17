@@ -2,7 +2,7 @@
 title: "Kalender Çekirge Doğdu"
 date: "2008-04-30"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 [![si0095_cekirge_grasshopper.jpg](/uploads/2008/04/si0095_cekirge_grasshopper.jpg)](/uploads/2008/04/si0095_cekirge_grasshopper.jpg "si0095_cekirge_grasshopper.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

@@ -2,7 +2,7 @@
 title: "Şehvete aşk dediler"
 date: "2008-11-06"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![cc.bmp](/uploads/2008/11/cc.bmp)](/uploads/2008/11/cc.bmp "cc.bmp")

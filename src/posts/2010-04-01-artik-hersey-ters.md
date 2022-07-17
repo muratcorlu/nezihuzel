@@ -2,7 +2,7 @@
 title: "Artık herşey ters"
 date: "2010-04-01"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![alayan.jpg](/uploads/2010/04/alayan.jpg)](/uploads/2010/04/alayan.jpg "alayan.jpg")

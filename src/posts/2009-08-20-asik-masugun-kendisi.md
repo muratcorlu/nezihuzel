@@ -2,7 +2,7 @@
 title: "Aşık maşuğun kendisi"
 date: "2009-08-20"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 ![](/uploads/image/flaveolum.jpg)

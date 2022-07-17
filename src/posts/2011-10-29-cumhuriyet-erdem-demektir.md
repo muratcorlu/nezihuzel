@@ -2,7 +2,7 @@
 title: "Cumhuriyet  erdem demektir"
 date: "2011-10-29"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![cumhuriyetin-85-yili.jpg](/uploads/2011/10/cumhuriyetin-85-yili-1.jpg)](/uploads/2011/10/cumhuriyetin-85-yili-1.jpg "cumhuriyetin-85-yili.jpg") Yunanlı Platon devlet ve halk ilişkileri’ni uzun uzun irdelerken en iyi yönetim biçiminin halkın kendi gücünden çıkması gereğine inanmıştı. Ancak bu halk gelişmiş bir halk olmalıydı. Böyle bir halkın yaşadığı bir şehir hayal ederek adını “ **Cité Model**” koymuştu... “**Model şehir**.”

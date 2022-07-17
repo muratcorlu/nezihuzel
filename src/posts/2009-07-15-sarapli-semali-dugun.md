@@ -2,7 +2,7 @@
 title: "Şaraplı sema'lı düğün"
 date: "2009-07-15"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
   

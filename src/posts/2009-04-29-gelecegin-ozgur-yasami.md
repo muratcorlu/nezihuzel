@@ -2,7 +2,7 @@
 title: "Geleceğin Özgür yaşamı"
 date: "2009-04-29"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/DSC03670.JPG)  

@@ -2,7 +2,7 @@
 title: "Bana kapıyı aç"
 date: "2007-01-20"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 Benim **aşktan** başka

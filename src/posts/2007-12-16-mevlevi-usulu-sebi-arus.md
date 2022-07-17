@@ -2,7 +2,7 @@
 title: "Karnaval görüntülü Şebi arûs"
 date: "2007-12-16"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **[![436961-medium.jpg](/uploads/2007/12/436961-medium.jpg)](/uploads/2007/12/436961-medium.jpg "436961-medium.jpg")**

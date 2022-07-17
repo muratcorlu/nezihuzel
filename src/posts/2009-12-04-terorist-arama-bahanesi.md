@@ -2,7 +2,7 @@
 title: "Uzaktaki Din kardeşlerimiz"
 date: "2009-12-04"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![](/uploads/image/uygur-turkleri.jpg)

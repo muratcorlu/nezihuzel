@@ -2,7 +2,7 @@
 title: "Beyoğlu’nda Mevlevî'ler vardı"
 date: "2010-01-29"
 categories: 
-  - "kaptanin-seyir-defteri"
+  - Kaptanın Seyir Defteri
 ---
 
 **![](/uploads/image/benim.jpg)**

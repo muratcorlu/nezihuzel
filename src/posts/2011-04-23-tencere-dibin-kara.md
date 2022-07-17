@@ -2,7 +2,7 @@
 title: "Tencere dibin kara"
 date: "2011-04-23"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![220px-henry_morgenthau_crop.jpg](/uploads/2011/04/220px-henry_morgenthau_crop.jpg)](/uploads/2011/04/220px-henry_morgenthau_crop.jpg "220px-henry_morgenthau_crop.jpg")
@@ -15,7 +15,7 @@ Bunuın sebebi nedir ? Bunun sebebi ekonomiktir. Ola ki, adı geçen iki Amerika
 
 Bunun örnekler var: İkinci Dünya savaşı sırasında Alman Wolkwagen otomobil firması genel toplamadan önce Yahudileri bedava çalıştırmış.  Yahudiler şimdilerde dava açıp kazandılar ve tazminat aldılar. Alman hükümeti “Nazilerin suçunu yüklenemem” diyemedi. Bu gün eski Sovyet rejiminde zarar görmüş kimseler de açacakları bir dava ile Rusya’dan tazminat isteyebilirler. Rusya ben  “komünistlerin” “suçlarını üstlenemem diyemeyecektir. Uluslar arası kişi hakları konusunda son zamanda elde edilen gelişmeler buna olanak tanımıyor.
 
-[![talat-pasa-3-copy.gif](/uploads/2011/04/talat-pasa-3-copy.thumbnail.gif)](/uploads/2011/04/talat-pasa-3-copy.gif "talat-pasa-3-copy.gif")Ermenilerin belirli aralıklarla 1915 olaylarını gündeme getirmelerindeki  sır  Sır Morganthau’ nun hatırlarında gizlidir Talat Paşa’nın sözünü ettiği iki Amerikan Sigorta şirketinin isimleri  Büyükelçinin kitabında var… Elçi’nin anlattıklarına göre Talat paşa bu görüşmede ayrıca elçiye şunları söylemişti “Ermeni vatandaşlarımıza yardım olsun diye Amerika’da paralar toplayıp getirdiğinizi de biliyoruz, Şimdi bu paraları dağıtacaksınız. Ermeniler para sahibi olunca Kürtler onları bir kere daha öldürecektir. O paraları da bize verin.. “ Teklifin karşısında Morghantau şaşkına dönerek içinden “adamları hem boğazladılar, hem de sigorta paralarını  istiyorlar..” dediğini yazıyor.
+[![talat-pasa-3-copy.gif](/uploads/2011/04/talat-pasa-3-copy.gif)](/uploads/2011/04/talat-pasa-3-copy.gif "talat-pasa-3-copy.gif")Ermenilerin belirli aralıklarla 1915 olaylarını gündeme getirmelerindeki  sır  Sır Morganthau’ nun hatırlarında gizlidir Talat Paşa’nın sözünü ettiği iki Amerikan Sigorta şirketinin isimleri  Büyükelçinin kitabında var… Elçi’nin anlattıklarına göre Talat paşa bu görüşmede ayrıca elçiye şunları söylemişti “Ermeni vatandaşlarımıza yardım olsun diye Amerika’da paralar toplayıp getirdiğinizi de biliyoruz, Şimdi bu paraları dağıtacaksınız. Ermeniler para sahibi olunca Kürtler onları bir kere daha öldürecektir. O paraları da bize verin.. “ Teklifin karşısında Morghantau şaşkına dönerek içinden “adamları hem boğazladılar, hem de sigorta paralarını  istiyorlar..” dediğini yazıyor.
 
 Ermeni meselesinin bir başka yönü de Morganthau’nun karısının Ermeni olmasıdır. Morghantau’lar Türkiyeden sonra Bulgaristan’da görev yapmışlardı. Bu srada bayan Morghantau, bütün Batı basınını bu konuda harekete geçirmeyi başardı. Batı gazeteleri bir iç savaşın tüm gerçeklerini göz ardı ederek sadece Türklerin zulmünü yazmaya başladılar.. Ve bu günlere geldik. Hala da yazıyorlar. Kafkas ve Tuna’da iki cepheden Rusya ile savaşıp bu savaşlarda Ermeni ve Bulgar zulümleri dahil yaklaşık bir  asırda 60 milyon insan kaybeden Türkiye’ye karşı en küçük bir vicdan sıkıntısı yaşamadan.
 

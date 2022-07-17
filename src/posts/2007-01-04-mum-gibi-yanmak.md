@@ -2,7 +2,7 @@
 title: "Mum gibi yanmak"
 date: "2007-01-04"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![kandle.jpg](/uploads/2007/01/kandle.jpg)

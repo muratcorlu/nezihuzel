@@ -2,7 +2,7 @@
 title: "Borsa'nın çan sesleri"
 date: "2009-04-02"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **![](/uploads/image/new_york_borsasi_.jpg)**

@@ -2,7 +2,7 @@
 title: "Aşkın defteri kalabalık"
 date: "2009-09-29"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 **![](/uploads/image/cekirge.jpg)  

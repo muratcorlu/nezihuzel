@@ -2,7 +2,7 @@
 title: "Nefret dolandırıcı arıyor !"
 date: "2009-10-18"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![gülen kert(](/uploads/image/kewrt.jpg)  

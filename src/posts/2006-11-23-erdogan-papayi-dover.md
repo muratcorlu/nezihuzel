@@ -2,7 +2,7 @@
 title: "Erdoğan Papa'yı Döver"
 date: "2006-11-23"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **![ratzinger-papa-bentoxvi.jpg](/uploads/2006/11/ratzinger-papa-bentoxvi.jpg)Erdoğan** kaçıyor, **Papa** kovalıyor... **Erdoğan** neden kaçıyor ? **Papa** neden kovalıyor ? **Türk** gazeteleri akıllara durgunluk veren bir **Papa-Erdoğan** çatışmasına girdi. Sanki **Papa** güçlü **Erdoğan** suçlu gibi...

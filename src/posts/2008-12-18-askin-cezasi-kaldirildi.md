@@ -2,7 +2,7 @@
 title: "Aşkın cezası kaldırıldı"
 date: "2008-12-18"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana.jpg](/uploads/2008/12/mevlana-1.jpg)](/uploads/2008/12/mevlana-1.jpg "mevlana.jpg")

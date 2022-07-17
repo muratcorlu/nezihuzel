@@ -2,7 +2,7 @@
 title: "Herşey uluorta konuşulmaz"
 date: "2008-04-28"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![220px-niyazisayin.jpg](/uploads/2008/04/220px-niyazisayin.jpg)](/uploads/2008/04/220px-niyazisayin.jpg "220px-niyazisayin.jpg")

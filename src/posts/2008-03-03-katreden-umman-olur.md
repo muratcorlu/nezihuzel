@@ -2,7 +2,7 @@
 title: "Katre'den umman olur"
 date: "2008-03-03"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 Hak bir **gönül** verdi bana

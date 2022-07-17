@@ -2,7 +2,7 @@
 title: "Ruhunu rahat bırak"
 date: "2010-01-20"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **![](/uploads/image/kus.jpg)**

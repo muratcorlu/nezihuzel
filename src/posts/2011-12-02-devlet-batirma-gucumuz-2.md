@@ -2,7 +2,7 @@
 title: "nerede Hata yaptık ?"
 date: "2011-12-02"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![devolet.jpg](/uploads/2011/12/devolet.jpg)](/uploads/2011/12/devolet.jpg "devolet.jpg") (Arşiv'den)

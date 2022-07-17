@@ -2,7 +2,7 @@
 title: "Kurulu Düzenin alçaklaşması"
 date: "2009-04-27"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/1_465.jpg)

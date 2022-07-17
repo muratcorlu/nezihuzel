@@ -2,7 +2,7 @@
 title: "Kamu düzeni adına"
 date: "2009-11-17"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![](/uploads/image/Yavuz.jpg)  

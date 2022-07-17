@@ -2,7 +2,7 @@
 title: "Gurdjieff'i Türkiye'ye getiremedik"
 date: "2009-09-26"
 categories: 
-  - "altin-sorular"
+  - Altın Sorular
 ---
 
 ![](/uploads/image/gurdjieff.jpg)  

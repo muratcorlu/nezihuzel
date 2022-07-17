@@ -2,7 +2,7 @@
 title: "Namaza düşkün Köle"
 date: "2008-03-14"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![images.jpg](/uploads/2008/03/images.jpg)](/uploads/2008/03/images.jpg "images.jpg")

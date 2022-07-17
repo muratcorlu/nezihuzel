@@ -2,7 +2,7 @@
 title: "Denizden çıkan Semâzenler"
 date: "2007-12-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mehmedvwf1.jpg](/uploads/2007/12/mehmedvwf1.jpg)](/uploads/2007/12/mehmedvwf1.jpg "mehmedvwf1.jpg")[](/uploads/2007/12/1416.jpg "1416.jpg")Â Â Â Â Â 

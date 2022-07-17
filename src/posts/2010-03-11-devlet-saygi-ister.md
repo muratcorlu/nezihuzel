@@ -2,7 +2,7 @@
 title: "Devlet Saygı ister"
 date: "2010-03-11"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/small_obama_image.jpg)

@@ -2,7 +2,7 @@
 title: "Kralın parasını çaldılar"
 date: "2009-09-28"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/camondo.JPG)  

@@ -2,7 +2,7 @@
 title: "Midyenin karnındaki sedef"
 date: "2009-08-28"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 ![](/uploads/image/sedefli midye.jpg)

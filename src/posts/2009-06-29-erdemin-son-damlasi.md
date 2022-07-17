@@ -2,7 +2,7 @@
 title: "Erdemin son damlası"
 date: "2009-06-29"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![](/uploads/image/ankara_.jpg)

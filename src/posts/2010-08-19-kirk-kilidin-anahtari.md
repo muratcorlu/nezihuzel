@@ -2,7 +2,7 @@
 title: "Kırk kilidin anahtarı"
 date: "2010-08-19"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![kayip-anahtar.jpg](/uploads/2010/08/kayip-anahtar.jpg)](/uploads/2010/08/kayip-anahtar.jpg "kayip-anahtar.jpg")

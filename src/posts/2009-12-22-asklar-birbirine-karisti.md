@@ -2,7 +2,7 @@
 title: "Aşklar birbirine karıştı"
 date: "2009-12-22"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
    _![](/uploads/image/ask-me1.jpg)   Paris’te oturan neyzen Kudsi Erguner bana son şebi arus dolayısıyle yayınlanan uygunsuz bir yazıyı göndererek fikrimi soruyor, cevabımdır :_              “Elli senedir Mevlâna ile ilgili yazılar okurum daha bunun kadar seviyesiz olana rastlamadım. Bunu yazan kimse ne tasavvufu anlamış, ne bilenleri dinlemiş ne de bu alanda takvim yaprağı kadar yazı okumuş. Mecazî aşk ile bedeni aşkı böylesine birbirine karıştıran, ruhla bedeni kıyasıya harmanlayan bundan üstün bir yazı olamaz. Bir lise öğrencisi, ders ödevi olarak dahi bundan daha vakur bir yazı yazardı.  

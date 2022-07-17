@@ -2,7 +2,7 @@
 title: "Siyaset Erdem istiyor"
 date: "2006-11-07"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![platon.jpg](/uploads/2006/11/platon.jpg)Büyük **devlet adamı** olduğu ölümünden sonra anlaşılan **Bülent Ecevit'in** kaybı ülkede bir **gerçeği** ortaya çıkardı. Türk siyasetinin **erdemli isimlere** ihtiyacı var...

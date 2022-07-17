@@ -2,7 +2,7 @@
 title: "Yazı yazmak yasaklandı"
 date: "2008-03-25"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![yazi1.jpg](/uploads/2008/03/yazi1.jpg)](/uploads/2008/03/yazi1.jpg "yazi1.jpg")

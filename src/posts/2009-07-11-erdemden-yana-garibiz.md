@@ -2,7 +2,7 @@
 title: "Erdem'den yana garibiz"
 date: "2009-07-11"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/Benj.jpg)  

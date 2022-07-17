@@ -2,7 +2,7 @@
 title: "Her zerre çılgındır"
 date: "2010-03-17"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/atom.jpg)

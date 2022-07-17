@@ -2,7 +2,7 @@
 title: "O kendine âşık"
 date: "2008-11-04"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana.jpg](/uploads/2008/11/mevlana-1.jpg)](/uploads/2008/11/mevlana-1.jpg "mevlana.jpg")

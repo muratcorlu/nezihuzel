@@ -2,7 +2,7 @@
 title: "Münkirin mezarı kazılacak"
 date: "2008-11-04"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![97397582dq7.jpg](/uploads/2008/11/97397582dq7.jpg)](/uploads/2008/11/97397582dq7.jpg "97397582dq7.jpg")

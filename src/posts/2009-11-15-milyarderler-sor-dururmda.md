@@ -2,7 +2,7 @@
 title: "Milyarderler zor dururmda"
 date: "2009-11-15"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 **![](/uploads/image/milyar.jpg)**

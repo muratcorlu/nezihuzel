@@ -2,7 +2,7 @@
 title: "Kan Pazarının Baykuşları"
 date: "2011-10-04"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![bus.jpg](/uploads/2011/10/bus.jpg)](/uploads/2011/10/bus.jpg "bus.jpg")

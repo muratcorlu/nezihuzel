@@ -2,7 +2,7 @@
 title: "İlmi zulüm etti"
 date: "2009-09-20"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/yasar_nuri.jpg)

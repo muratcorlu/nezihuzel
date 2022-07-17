@@ -2,7 +2,7 @@
 title: "Cesaretin Varsa Gel"
 date: "2006-10-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![gece.jpg](/uploads/2006/10/gece.jpg)

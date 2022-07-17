@@ -2,7 +2,7 @@
 title: "Cumhuriyet Ulusun Hakkıdır"
 date: "2007-10-29"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **[![pst.jpg](/uploads/2007/10/pst-1.jpg)](/uploads/2007/10/pst-1.jpg "pst.jpg")Â** 

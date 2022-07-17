@@ -2,7 +2,7 @@
 title: "Sokakta alçaklık var"
 date: "2010-09-30"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/2010/10/sarmisak.jpg)

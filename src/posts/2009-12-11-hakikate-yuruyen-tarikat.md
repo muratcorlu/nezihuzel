@@ -2,7 +2,7 @@
 title: "Tarikat'ın Hakikate yürüyüşü"
 date: "2009-12-11"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/tarikat.jpg)  

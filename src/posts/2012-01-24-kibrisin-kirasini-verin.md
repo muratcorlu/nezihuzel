@@ -2,7 +2,7 @@
 title: "Kıbrıs'ın kirasını verin.."
 date: "2012-01-24"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![kibris.jpg](/uploads/2012/01/kibris.jpg)](/uploads/2012/01/kibris.jpg "kibris.jpg") Kıbrıs adası 1571’den beri kılıç hakkı, fetih toprağı şanlı Osmanlı ülkesinin 300 yıllık bir parçasıyken onu oradan söküp çıkaran 1800’lerde ülkemizde İngiltere’yi temsil eden  sir Henry Layard’dır.

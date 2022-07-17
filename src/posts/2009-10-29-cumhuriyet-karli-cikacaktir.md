@@ -2,7 +2,7 @@
 title: "Cumhuriyet Kârlı çıkacaktır"
 date: "2009-10-29"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![](/uploads/image/ankara_.jpg)

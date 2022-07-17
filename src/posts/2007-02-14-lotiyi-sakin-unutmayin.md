@@ -2,7 +2,7 @@
 title: "Loti'yi sakın unutmayın"
 date: "2007-02-14"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **[![Pierre Loti](/uploads/2007/08/loti.bmp)](/uploads/2007/08/loti.bmp "Pierre Loti")**

@@ -2,7 +2,7 @@
 title: "Siyasi söylemin ahlaksızlığı"
 date: "2009-06-18"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **![](/uploads/image/yavus selim.jpg)**

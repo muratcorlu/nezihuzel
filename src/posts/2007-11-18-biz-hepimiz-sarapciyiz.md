@@ -2,7 +2,7 @@
 title: "Biz hepimiz şarapçıyız"
 date: "2007-11-18"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **[![eski_siseler.jpg](/uploads/2007/11/eski_siseler.jpg)](/uploads/2007/11/eski_siseler.jpg "eski_siseler.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 

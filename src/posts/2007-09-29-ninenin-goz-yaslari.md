@@ -2,7 +2,7 @@
 title: "Nine'nin Göz Yaşları"
 date: "2007-09-29"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![nine.jpg](/uploads/2007/09/nine.jpg)](/uploads/2007/09/nine.jpg "nine.jpg")

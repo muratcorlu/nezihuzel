@@ -2,7 +2,7 @@
 title: "Halk sokaklara çıkıyor"
 date: "2009-03-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/Resim_1236599974.jpg)

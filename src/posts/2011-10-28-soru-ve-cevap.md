@@ -2,7 +2,7 @@
 title: "Soru ve Cevap"
 date: "2011-10-28"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 1. [![libya.jpg](/uploads/2011/10/libya.jpg)](/uploads/2011/10/libya.jpg "libya.jpg")

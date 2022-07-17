@@ -2,7 +2,7 @@
 title: "Batı Modeli Ramazan"
 date: "2007-09-27"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![793.jpg](/uploads/2007/09/793.jpg)](/uploads/2007/09/793.jpg "793.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â 

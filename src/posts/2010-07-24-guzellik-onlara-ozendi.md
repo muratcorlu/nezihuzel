@@ -2,7 +2,7 @@
 title: "Güzellik Varlıklarında gizliydi"
 date: "2010-07-24"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![ufufk.jpg](/uploads/2010/07/ufufk.jpg)](/uploads/2010/07/ufufk.jpg "ufufk.jpg")

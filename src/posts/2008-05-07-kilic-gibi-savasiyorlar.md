@@ -2,7 +2,7 @@
 title: "Kılıç gibi Savaşıyorlar"
 date: "2008-05-07"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **_[![mevlana.jpg](/uploads/2008/05/mevlana-3.jpg)](/uploads/2008/05/mevlana-3.jpg "mevlana.jpg")_**

@@ -2,7 +2,7 @@
 title: "Tükenmeyiz kırmak ile"
 date: "2009-11-19"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **![](/uploads/image/popopopo.jpg)**

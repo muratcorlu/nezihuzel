@@ -2,7 +2,7 @@
 title: "Ağlatmayacaktın, yola baktırmayacaktın"
 date: "2008-12-19"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![galata-mevlevihanesi.jpg](/uploads/2008/12/galata-mevlevihanesi-1.jpg)](/uploads/2008/12/galata-mevlevihanesi-1.jpg "galata-mevlevihanesi.jpg")

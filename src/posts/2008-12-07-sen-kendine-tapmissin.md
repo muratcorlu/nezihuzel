@@ -2,7 +2,7 @@
 title: "Sen kendine tapmışsın"
 date: "2008-12-07"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![45551011pf3.jpg](/uploads/2008/12/45551011pf3.jpg)](/uploads/2008/12/45551011pf3.jpg "45551011pf3.jpg")

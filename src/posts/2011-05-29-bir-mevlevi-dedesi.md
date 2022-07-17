@@ -2,7 +2,7 @@
 title: "Bir Mevlevi Dede’si"
 date: "2011-05-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [](/uploads/2011/05/17.jpg "17.jpg")

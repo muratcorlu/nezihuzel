@@ -2,7 +2,7 @@
 title: "Mevleviler onsekiz yaşında"
 date: "2009-02-05"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/hüss.jpg)   

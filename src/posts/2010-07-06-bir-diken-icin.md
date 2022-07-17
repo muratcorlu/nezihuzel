@@ -2,7 +2,7 @@
 title: "Bir diken için"
 date: "2010-07-06"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **[![gul2.jpg](/uploads/2010/07/gul2.jpg)](/uploads/2010/07/gul2.jpg "gul2.jpg")**

@@ -2,7 +2,7 @@
 title: "Sevenlere Selam olsun"
 date: "2009-12-16"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 _![](/uploads/image/mevlevi.png)_

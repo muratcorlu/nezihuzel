@@ -2,12 +2,12 @@
 title: "Yusuf Fahir Baba"
 date: "2011-03-06"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 /\* Style Definitions \*/ table.MsoNormalTable {mso-style-name:"Normal Tablo"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;}
 
-[![11.jpeg](/uploads/2011/03/11.thumbnail.jpeg)](/uploads/2011/03/11.jpeg "11.jpeg")
+[![11.jpeg](/uploads/2011/03/11.jpeg)](/uploads/2011/03/11.jpeg "11.jpeg")
 
 Kadıköy’de Fenerbahçe stadyumunun arkasında dört katlı bir apartmanın son katında o gün şenlik vardı. Burada uzun zamandan beri Cumartesi toplantıları yapılır, devrin tanınmış kişileri bu toplantılara katılır, gelir sıra sıra dizilir, makam sahibinin çevresinde toplanırlardı. Ev, son zamanların tanınmış Celveti şeyhi Yusuf Fahir Baba’nın mekanıydı. Yeni bir yapıydı  ama eski ahşap bir tekkenin yanına yapılmıştı. Tekkenin mezarlığının bir kısmını kaldırmışlar yerine ruhsuz bir taş bina kondurmuşlardı.
 
@@ -45,7 +45,7 @@ Yusuf Fahir Baba ömrünün sonlarına doğru rahmetli Niyazi Ahmet Banoğlu’n
 
 –Herkes kusur işler, Bektaşiliğin özelliği mi var ? dedi. Konu kapandı. Zaten Banoğlu’nun çıkardığı tüm mevkuteler gibi “ Tarih dergisi” nin de ömrü uzun olmamıştı. O yazıların ne kadarı yayınlandı ? devamı duruyor mu ? Bilinmiyor.
 
-Yusuf [![21.jpeg](/uploads/2011/03/21.thumbnail.jpeg)](/uploads/2011/03/21.jpeg "21.jpeg")Fahir Baba’nın manevi mimarı zannımca Merdivenköy Şahkulu Dergahı’ nın  postnişini Mehmet Ali Hilmi Dede Baba’dır. Bin yılda Anadolu Türk ruhunu şekillendiren büyük Bektaşi geleneğinin en son ortaya koyduğu ulu isim Hilmi Dede Baba, şu şiiri ile kendisini etraflıca anlatır:
+Yusuf [![21.jpeg](/uploads/2011/03/21.jpeg)](/uploads/2011/03/21.jpeg "21.jpeg")Fahir Baba’nın manevi mimarı zannımca Merdivenköy Şahkulu Dergahı’ nın  postnişini Mehmet Ali Hilmi Dede Baba’dır. Bin yılda Anadolu Türk ruhunu şekillendiren büyük Bektaşi geleneğinin en son ortaya koyduğu ulu isim Hilmi Dede Baba, şu şiiri ile kendisini etraflıca anlatır:
 
 [zümre-i nâcî](http://www.eksisozluk.com/show.asp?t=z%c3%bcmre-i+n%c3%a2c%c3%ae)leriz bende olup Hayder’e Şîr-i Hudâ [müctebâ](http://www.eksisozluk.com/show.asp?t=m%c3%bccteb%c3%a2) [safşiken](http://www.eksisozluk.com/show.asp?t=saf%c5%9fiken) ü [safder](http://www.eksisozluk.com/show.asp?t=safder)e
 

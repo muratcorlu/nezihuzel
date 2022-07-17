@@ -2,10 +2,10 @@
 title: "Tombul Sultan'ın Camii"
 date: "2010-08-23"
 categories: 
-  - "altin-sorular"
+  - Altın Sorular
 ---
 
- [![mihrimah.jpeg](/uploads/2010/08/mihrimah.thumbnail.jpeg) Mihrimah Sultan 1522-ı578](/uploads/2010/08/mihrimah.jpeg "mihrimah.jpeg")
+ [![mihrimah.jpeg](/uploads/2010/08/mihrimah.jpeg) Mihrimah Sultan 1522-ı578](/uploads/2010/08/mihrimah.jpeg "mihrimah.jpeg")
 
 _Kanuni Sultan Süleyman'în kızı Mihrimah Sultan hz. için Mimar Sinan'ın dehasından çıkan  ıki cami ve bir aşk hikayesi hakkında bir soru  üzerine görüşlerimi arzediyorum:_
 
@@ -21,6 +21,6 @@ Süleymaniye'ye Halıcıoğlu ve Sütlüce sahillerinden bakarsanız o bir tepen
 
 Sinanın Mihrimah Camii'nin Üsküdar nushası, Usta'nın oraya, Sultan hz. adına bir de köşk yapması ile "Sultantepe " adını alan tepenin alt tarafındadır. Burada da ihtişam aynıdır. Cami geniş saçakları ile Yukardan kopar aşağıya, denize kadar iner. Aynı Sultan adına yaptırılan Edirnekapıdaki cami ise güneşin battığı kesintisiz bir alanda birden yükselen bir duadır.
 
- [![e_mihrimah.JPG](/uploads/2010/08/e_mihrimah-1.thumbnail.JPG) Edirnekapı Mihrimah Camii 1562-1565](/uploads/2010/08/e_mihrimah-1.jpg "e_mihrimah.JPG")
+ [![e_mihrimah.JPG](/uploads/2010/08/e_mihrimah-1.jpg) Edirnekapı Mihrimah Camii 1562-1565](/uploads/2010/08/e_mihrimah-1.jpg "e_mihrimah.JPG")
 
 Efendimiz, Sultan Hazretlerinin topuklarına kadar inen lepik saçlarının, yeryüzünü taş ve sıvayla bezemekle görevli bir Hakk dostunu fazla ilgilendireceğini zannetmiyorum... Hem Sinan Sultan'ı nerede ve nasıl görecekti ki ? Slm

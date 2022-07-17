@@ -2,7 +2,7 @@
 title: "Uyanık’ın dengesi bozuldu"
 date: "2010-07-17"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![denge_burkay.jpg](/uploads/2010/07/denge_burkay.jpg)](/uploads/2010/07/denge_burkay.jpg "denge_burkay.jpg")

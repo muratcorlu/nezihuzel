@@ -2,7 +2,7 @@
 title: "Türkiye’nin eşsiz iktidarı"
 date: "2007-10-30"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![untitled.bmp](/uploads/2007/10/untitled.bmp)](/uploads/2007/10/untitled.bmp "untitled.bmp")

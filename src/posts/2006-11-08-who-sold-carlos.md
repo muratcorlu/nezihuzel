@@ -2,7 +2,7 @@
 title: "Who Sold Carlos ? [Carlos'u kim sattı ?]"
 date: "2006-11-08"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![carlos_jackal.jpg](/uploads/2006/11/carlos_jackal.jpg) The conditions in which **Ilich Ramirez Sanchez**, called **"Carlos",** was transferred to France on **August 1994**, to be judged, are more and more **mysterious.** At the time, it had been known that the **French** Interior Minister, **Charles Pasqua**, had negotiated this **arrest** with his friend, the **Sudanese** islamic leader **Hassan al-Tourabi**, and that the operation had been directed by the **prefect Philippe Parent.**

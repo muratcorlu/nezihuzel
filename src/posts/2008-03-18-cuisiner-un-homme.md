@@ -2,7 +2,7 @@
 title: "Cuisiner un homme"
 date: "2008-03-18"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 [![taylor.bmp](/uploads/2008/03/taylor.bmp)](/uploads/2008/03/taylor.bmp "taylor.bmp")

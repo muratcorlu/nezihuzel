@@ -2,7 +2,7 @@
 title: "Gülü yetiştiren çalı"
 date: "2011-08-20"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![gul.jpg](/uploads/2011/08/gul.jpg)](/uploads/2011/08/gul.jpg "gul.jpg")

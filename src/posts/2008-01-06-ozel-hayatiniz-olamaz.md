@@ -2,7 +2,7 @@
 title: "Özel hayatınız olamaz"
 date: "2008-01-06"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![ferdi.bmp](/uploads/2008/01/ferdi.bmp)](/uploads/2008/01/ferdi.bmp "ferdi.bmp")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

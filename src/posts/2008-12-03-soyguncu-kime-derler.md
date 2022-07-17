@@ -2,7 +2,7 @@
 title: "Soyguncu kime derler ?"
 date: "2008-12-03"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![somali.jpg](/uploads/2008/12/somali.jpg)](/uploads/2008/12/somali.jpg "somali.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

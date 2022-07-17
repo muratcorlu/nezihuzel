@@ -2,7 +2,7 @@
 title: "Milli irade yokmuş"
 date: "2008-03-18"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

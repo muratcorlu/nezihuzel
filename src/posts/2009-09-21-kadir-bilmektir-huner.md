@@ -2,7 +2,7 @@
 title: "Kadir bilmektir hüner"
 date: "2009-09-21"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/divan edeb.jpg)

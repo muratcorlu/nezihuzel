@@ -2,7 +2,7 @@
 title: "Balyoz mantığının kökeni"
 date: "2010-02-24"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/balyoz.jpg)

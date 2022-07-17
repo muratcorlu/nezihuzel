@@ -2,7 +2,7 @@
 title: "Değerli bir insandı"
 date: "2009-11-19"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/bakan.jpg)  

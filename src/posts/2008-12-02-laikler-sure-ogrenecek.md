@@ -2,7 +2,7 @@
 title: "Laikler süre öğrenecek"
 date: "2008-12-02"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![teror.jpg](/uploads/2008/12/teror.jpg)](/uploads/2008/12/teror.jpg "teror.jpg")

@@ -2,7 +2,7 @@
 title: "Gönlü Ak Şemseddin"
 date: "2011-09-18"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![u1_aksemseddin.jpg](/uploads/2011/09/u1_aksemseddin.jpg)](/uploads/2011/09/u1_aksemseddin.jpg "u1_aksemseddin.jpg")

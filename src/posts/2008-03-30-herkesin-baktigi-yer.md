@@ -2,7 +2,7 @@
 title: "Herkesin baktığı yer"
 date: "2008-03-30"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![beyoglu.jpg](/uploads/2008/03/beyoglu.jpg)](/uploads/2008/03/beyoglu.jpg "beyoglu.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

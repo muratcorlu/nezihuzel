@@ -2,7 +2,7 @@
 title: "Hükümetin gazetecileri değiliz"
 date: "2006-09-06"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
              ![abdullah_gul.jpg](/uploads/2006/09/abdullah_gul.jpg)             TC Dışişleri bakanı Abdullah Gül gazetecileri azarlayarak **“bir haber yazmadan önce bize sorun”** dedi. Böylece biz gazetecileri **“hükümetin özel yazıcıları”** olarak düşündüğünü açıkladı... Bir ufak nokta var... Sizin doğrularınız ile bizim doğrularımız **aynı değildir.** Bakış açılarımız da farklıdır. Bu bir **“görev”** farkıdır.   Bir gazetenin bir köşesine düşen bir haber, **yüzyıllar sonra** dahi okunabiliyor...

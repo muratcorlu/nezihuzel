@@ -2,7 +2,7 @@
 title: "Ya ben kimim ?"
 date: "2011-01-09"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![sari-gul-resimleri-20.jpg](/uploads/2011/01/sari-gul-resimleri-20.jpg)](/uploads/2011/01/sari-gul-resimleri-20.jpg "sari-gul-resimleri-20.jpg")

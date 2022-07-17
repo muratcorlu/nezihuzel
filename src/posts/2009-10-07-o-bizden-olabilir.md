@@ -2,7 +2,7 @@
 title: "O bizden olabilir"
 date: "2009-10-07"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/polis.jpg)

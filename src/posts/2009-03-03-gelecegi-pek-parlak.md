@@ -2,7 +2,7 @@
 title: "Geleceği pek parlak"
 date: "2009-03-03"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/images(1).jpg)

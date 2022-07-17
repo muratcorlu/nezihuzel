@@ -2,7 +2,7 @@
 title: "Borcunuzu Ödemeden gitmeyin"
 date: "2008-04-03"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
  [![311.jpg](/uploads/2008/04/311.jpg)](/uploads/2008/04/311.jpg "311.jpg")Tunalı Hilmi Bey

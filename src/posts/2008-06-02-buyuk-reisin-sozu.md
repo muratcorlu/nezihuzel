@@ -2,7 +2,7 @@
 title: "Büyük Reis'in sözü"
 date: "2008-06-02"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![sef.jpg](/uploads/2008/06/sef.jpg)](/uploads/2008/06/sef.jpg "sef.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

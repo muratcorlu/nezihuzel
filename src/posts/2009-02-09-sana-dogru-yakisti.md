@@ -2,7 +2,7 @@
 title: "Sana doğru yakıştı"
 date: "2009-02-09"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/Damla.jpg)

@@ -2,10 +2,10 @@
 title: "Olur'la Olmaz Bitpazarında"
 date: "2008-11-04"
 categories: 
-  - "olurla-olmaz-muhabbeti"
+  - Olurla Olmaz Muhabbeti
 ---
 
-[![dscf3115.JPG](/uploads/2008/11/dscf3115.thumbnail.JPG)](/uploads/2008/11/dscf3115.jpg "dscf3115.JPG")
+[![dscf3115.JPG](/uploads/2008/11/dscf3115.JPG)](/uploads/2008/11/dscf3115.jpg "dscf3115.JPG")
 
 \-Bu evde çok **eşya** birikti birazını atalım… -Olmaz… -Neden **olmaz**… -Atmak **almaktan** zordur… -Bunların çoğunu **sen** aldın… -**Aldımsa** ne oldu ? -Hadi şimdi **at** bakalım, -Atmak için mi **aldım** ? -Ya ne için aldın ? -**Marketlerde** eğlenmek için ? -Yeter eğlendiğin şimdi de **atarak** eğlen…
 

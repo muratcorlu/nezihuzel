@@ -2,7 +2,7 @@
 title: "Aşka Tevbe etmeliyim"
 date: "2010-07-14"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![buyu.jpg](/uploads/2010/07/buyu.jpg)](/uploads/2010/07/buyu.jpg "buyu.jpg")

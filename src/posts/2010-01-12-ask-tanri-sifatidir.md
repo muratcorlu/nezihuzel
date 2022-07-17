@@ -2,7 +2,7 @@
 title: "Aşk Tanrı Sıfatıdır"
 date: "2010-01-12"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/mevlana25uv.jpg)

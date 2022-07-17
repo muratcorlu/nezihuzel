@@ -2,7 +2,7 @@
 title: "Ahvali bilen bilir"
 date: "2009-11-17"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/seher.jpg)  

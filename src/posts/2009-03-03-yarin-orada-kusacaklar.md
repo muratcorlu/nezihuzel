@@ -2,7 +2,7 @@
 title: "Hep beraber seyrederiz"
 date: "2009-03-03"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
   

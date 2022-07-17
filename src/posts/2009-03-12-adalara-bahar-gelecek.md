@@ -2,7 +2,7 @@
 title: "Adalara bahar gelecek"
 date: "2009-03-12"
 categories: 
-  - "kaptanin-seyir-defteri"
+  - Kaptanın Seyir Defteri
 ---
 
 ![](/uploads/image/adalarda bahar.jpg)   ![](/uploads/image/Buyukada_130703_4.jpg)

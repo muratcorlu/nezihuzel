@@ -2,7 +2,7 @@
 title: "Mertlik yasası Bayramı"
 date: "2007-11-07"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

@@ -2,7 +2,7 @@
 title: "Eski zaman Mevlevîleri"
 date: "2011-12-09"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![21.jpg](/uploads/2011/12/21.jpg)](/uploads/2011/12/21.jpg "21.jpg") Mevlevîlik çok eski zamanlardan kalmadır. On üçüncü asrı milâdî’de Konya’da yaşamış olan Pir Mevlânâ Celâddin Rûmî adına Konya'da kurulmuş ve yedi yüz yıl yaşamıştır.

@@ -2,7 +2,7 @@
 title: "Türkler Arab Değildir"
 date: "2011-04-20"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![_namaz.jpg](/uploads/2011/04/namaz.jpg)](/uploads/2011/04/namaz.jpg "_namaz.jpg") (Arşiv’den) Necmeddin Erbakan Hoca, Türkiye Cumhuriyetinin klasik rejim karşıtı İslamcı tabakalarını, bir siyasî tavır adına, yıllardır yerinden oynatmaya çalışırken, Globalizasyonun eski isimleri: Batılılaşma ve Modernizasyona karşı Osmanlı’dan miras kalan yaşlı İslam direnişini temsil ediyordu.

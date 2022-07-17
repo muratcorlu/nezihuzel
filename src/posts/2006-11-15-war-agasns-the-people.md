@@ -2,7 +2,7 @@
 title: "War Against the People (Halklara Karşı Savaş)"
 date: "2006-11-15"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![yusuf-askar.jpg](/uploads/2006/11/yusuf-askar-2.jpg)

@@ -2,7 +2,7 @@
 title: "Uygarlık adına Cinayet"
 date: "2011-05-04"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![ladin-turizm.jpg](/uploads/2011/05/ladin-turizm.jpg)](/uploads/2011/05/ladin-turizm.jpg "ladin-turizm.jpg") Vaktiyle 2000 silahlı adamı ile dağlarda saklandığı anlatılan Bin Ladin’in, çan kulesi gibi ortada duran bir villa’da nasıl kuş misali avlandığına hayret ediyorum doğrusu.. Nereye gitti o 2000 silahlı adam ? liderin hayatını kendi hayatlarından üstün tuttukları ileri sürülen o insanlar nerede ? Neden şeflerini korumadılar..

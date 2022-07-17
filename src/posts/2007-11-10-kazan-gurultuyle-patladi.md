@@ -2,7 +2,7 @@
 title: "Kazan gürültüyle patladı"
 date: "2007-11-10"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![kazan.jpg](/uploads/2007/11/kazan.jpg)](/uploads/2007/11/kazan.jpg "kazan.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

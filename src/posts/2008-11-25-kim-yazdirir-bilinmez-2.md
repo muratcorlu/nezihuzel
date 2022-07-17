@@ -2,7 +2,7 @@
 title: "Kim yazdırır bilinmez"
 date: "2008-11-25"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![kalem1cj0pm81.jpg](/uploads/2008/11/kalem1cj0pm81.jpg)](/uploads/2008/11/kalem1cj0pm81.jpg "kalem1cj0pm81.jpg")

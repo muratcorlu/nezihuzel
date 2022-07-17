@@ -2,7 +2,7 @@
 title: "İslam size yaramaz"
 date: "2007-11-10"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![islam.jpg](/uploads/2007/11/islam.jpg)](/uploads/2007/11/islam.jpg "islam.jpg")

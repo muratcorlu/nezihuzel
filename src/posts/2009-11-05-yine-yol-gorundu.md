@@ -2,7 +2,7 @@
 title: "Yine yol göründü"
 date: "2009-11-05"
 categories: 
-  - "kaptanin-seyir-defteri"
+  - Kaptanın Seyir Defteri
 ---
 
 ![](/uploads/image/carnuntum_heidentor.jpg)

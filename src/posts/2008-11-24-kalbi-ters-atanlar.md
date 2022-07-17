@@ -2,7 +2,7 @@
 title: "Kalbi ters atanlar"
 date: "2008-11-24"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![uu.jpg](/uploads/2008/11/uu.jpg)](/uploads/2008/11/uu.jpg "uu.jpg")

@@ -2,8 +2,8 @@
 title: "Bilmem ki, söylesene"
 date: "2010-12-29"
 categories: 
-  - "dervish"
-  - "destur"
+  - Dervish
+  - Destur
 ---
 
 [![sari-gul-resimleri_resimleri-16.jpg](/uploads/2010/12/sari-gul-resimleri_resimleri-16.jpg)](/uploads/2010/12/sari-gul-resimleri_resimleri-16.jpg "sari-gul-resimleri_resimleri-16.jpg")

@@ -2,7 +2,7 @@
 title: "Ahi'nin parası toplumundur"
 date: "2008-11-21"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![kkk.bmp](/uploads/2008/11/kkk.bmp)](/uploads/2008/11/kkk.bmp "kkk.bmp")

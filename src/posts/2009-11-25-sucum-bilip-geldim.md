@@ -2,7 +2,7 @@
 title: "Suçum bilip geldim"
 date: "2009-11-25"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/mescidi_nebevi_.jpg)  

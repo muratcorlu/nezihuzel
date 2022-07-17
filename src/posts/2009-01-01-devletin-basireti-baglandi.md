@@ -2,7 +2,7 @@
 title: "Devletin Basireti bağlandı"
 date: "2009-01-01"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **[![atalarak4.jpg](/uploads/2009/01/atalarak4.jpg)](/uploads/2009/01/atalarak4.jpg "atalarak4.jpg")**

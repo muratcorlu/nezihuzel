@@ -2,7 +2,7 @@
 title: "Yüzlerce gece uyudun"
 date: "2009-04-17"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/sapanca mart 05.JPG)

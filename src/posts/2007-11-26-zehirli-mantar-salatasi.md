@@ -2,7 +2,7 @@
 title: "Zehirli Mantar salatası"
 date: "2007-11-26"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
                                                 [![gale_mar.jpg](/uploads/2007/11/gale_mar.jpg)](/uploads/2007/11/gale_mar.jpg "gale_mar.jpg")

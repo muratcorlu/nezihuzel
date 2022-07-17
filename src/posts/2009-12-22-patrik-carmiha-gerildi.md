@@ -2,7 +2,7 @@
 title: "Patrik Çarmıha gerildi"
 date: "2009-12-22"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/patrik.jpg)  

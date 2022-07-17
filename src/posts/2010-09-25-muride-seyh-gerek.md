@@ -2,7 +2,7 @@
 title: "Niyetiniz kutlu olsun"
 date: "2010-09-25"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/2010/09/zonaro.jpg)

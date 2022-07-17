@@ -2,7 +2,7 @@
 title: "Sır yumurtanın içinde"
 date: "2010-02-23"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/ejderha.jpg)

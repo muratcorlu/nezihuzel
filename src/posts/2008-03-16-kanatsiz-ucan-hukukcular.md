@@ -2,7 +2,7 @@
 title: "Kanatsız uçan hukukçular"
 date: "2008-03-16"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

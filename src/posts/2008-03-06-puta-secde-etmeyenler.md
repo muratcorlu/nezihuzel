@@ -2,7 +2,7 @@
 title: "Puta Secde etmeyenler"
 date: "2008-03-06"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana.jpg](/uploads/2008/03/mevlana-6.jpg)](/uploads/2008/03/mevlana-6.jpg "mevlana.jpg")Â Â Â Â Â Â Â Â Â Â Â Â 

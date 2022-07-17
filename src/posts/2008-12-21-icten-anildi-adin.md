@@ -2,7 +2,7 @@
 title: "İçten anıldı adın"
 date: "2008-12-21"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![f_49m_1fd9ef9.jpg](/uploads/2008/12/f_49m_1fd9ef9.jpg)](/uploads/2008/12/f_49m_1fd9ef9.jpg "f_49m_1fd9ef9.jpg")

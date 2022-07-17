@@ -2,7 +2,7 @@
 title: "Yağmuru kim yağdırdı ?"
 date: "2007-01-20"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
   YAZDAN kalma günlerin yaşandığı **Alanya**'da görev yapan **Protestan papaz Joachim Kusch,** önceki gün eşiyle birlikte **Kleopatra Plajı'**nda yağmur duası yaptı. Kağıda yazdığı duayı okuyan **papaz Kusch**, "**Tanrım**, dünyayı, ağaçları, insanları, toprağı, çiçekleri her şeyi **sen yarattın**. Yarattığın bu tüm canlılar ve cansızlar senden **su bekliyor**. Senden yardım istiyoruz. **Tanrım** bu ülke ve ülkede yaşayan insanlardan **yağmurunu** eksik etme" dedi.

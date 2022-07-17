@@ -2,7 +2,7 @@
 title: "Gerçek Bayramlara doğru"
 date: "2007-10-10"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
  ![](/uploads/image/besmele21rb.jpg)

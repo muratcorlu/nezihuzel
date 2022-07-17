@@ -2,7 +2,7 @@
 title: "Dur ve dinle"
 date: "2009-05-07"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **![](/uploads/image/kursun_37.jpg)  

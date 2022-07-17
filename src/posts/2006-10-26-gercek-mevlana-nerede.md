@@ -2,7 +2,7 @@
 title: "Mevlânâ Tanrı Aşkıdır"
 date: "2006-10-26"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
     ![konya_mevlana.jpg](/uploads/2006/10/konya_mevlana.jpg)   Ölüm yıldönümü **kutlanmaz.** İslam yaşam biçiminde **ölüm yıldönümü** diye bir şey yoktur. Bir insan **öldüğünde** onun arkasından **tören yapmak**, "ah ...vah..." etmek **matem tutmak** müslümana **yakışmaz** böyle şey **İslam'da** yoktur.. Her yıl **doğum günü** veya   ölüm yılı **kutlamak** da yoktur. Kitaba bağlı **İslam geleneği** Ölüm konusunda tarihler boyunca **denenmiş** herşeyi sollayarak **"Kur'an okuma geleneği"** getirmiştir. Ölünün ruhuna **Kur'an okunur** ve bu devamlı **tekrarlanır...** Fırsat aranmaz. **Tarihleri** karıştırıp "bu adam **hangi gün öldüydü"** demek en azında **terbiye** dışıdır. Ölüye **rüşvet** vermek gibi... Doğaya aykırıdır. Bir **Müslüman** öldüyse hayırla **yad** edilir, şerle **yad** edilenleri de vardır, onlar için de **"Allah günahlarını affetsin..."** denir o kadar.

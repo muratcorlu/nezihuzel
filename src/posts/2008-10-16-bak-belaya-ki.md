@@ -2,7 +2,7 @@
 title: "Bak Belâya ki…"
 date: "2008-10-16"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![cevdet_pasa.jpg](/uploads/2008/10/cevdet_pasa.jpg)](/uploads/2008/10/cevdet_pasa.jpg "cevdet_pasa.jpg")

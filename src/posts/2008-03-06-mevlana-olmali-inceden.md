@@ -2,7 +2,7 @@
 title: "Mevlânâ olmalı inceden….."
 date: "2008-03-06"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 Mevlânâ olmalı inceden…..

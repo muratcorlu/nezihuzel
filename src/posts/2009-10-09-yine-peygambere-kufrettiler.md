@@ -2,7 +2,7 @@
 title: "Bir skandal daha"
 date: "2009-10-09"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **_![](/uploads/image/scan1_2.jpg)_**

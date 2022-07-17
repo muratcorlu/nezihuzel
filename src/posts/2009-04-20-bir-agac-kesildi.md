@@ -2,7 +2,7 @@
 title: "Bir ağaç kesildi"
 date: "2009-04-20"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/HPIM2854.JPG)  

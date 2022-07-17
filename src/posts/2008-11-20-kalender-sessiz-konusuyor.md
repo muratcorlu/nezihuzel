@@ -2,7 +2,7 @@
 title: "Kalender sessiz konuşuyor"
 date: "2008-11-20"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 [![yusufcuk.jpg](/uploads/2008/11/yusufcuk.jpg)](/uploads/2008/11/yusufcuk.jpg "yusufcuk.jpg")

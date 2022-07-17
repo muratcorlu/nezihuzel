@@ -2,10 +2,10 @@
 title: "İslam Arab’ı kızdırdı"
 date: "2011-12-03"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
-[![islamisme-bougrab-20111203.JPG](/uploads/2011/12/islamisme-bougrab-20111203.thumbnail.JPG)](/uploads/2011/12/islamisme-bougrab-20111203.jpg "islamisme-bougrab-20111203.JPG") PARIS (Reuters) - "Je ne connais pas d'islamisme modéré", déclare samedi dans Le Parisien/ Aujourd'hui en France la secrétaire d'Etat française à La Jeunesse, Jeannette Bougrab, qui s'inquiète des résultats des récentes élections en Afrique du Nord.
+[![islamisme-bougrab-20111203.JPG](/uploads/2011/12/islamisme-bougrab-20111203.JPG)](/uploads/2011/12/islamisme-bougrab-20111203.jpg "islamisme-bougrab-20111203.JPG") PARIS (Reuters) - "Je ne connais pas d'islamisme modéré", déclare samedi dans Le Parisien/ Aujourd'hui en France la secrétaire d'Etat française à La Jeunesse, Jeannette Bougrab, qui s'inquiète des résultats des récentes élections en Afrique du Nord.
 
 Les élections organisées en Egypte, en Tunisie et au Maroc après les soulèvements populaires de ces derniers mois ont donné l'avantage à des partis se réclamant de l'islam. "C'est très inquiétant. Je ne connais pas d'islamisme modéré", déclare Jeannette Bougrab, qui est d'origine arabe.
 

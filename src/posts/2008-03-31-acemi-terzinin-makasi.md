@@ -2,7 +2,7 @@
 title: "Acemî terzinin Makası"
 date: "2008-03-31"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![makas.jpg](/uploads/2008/03/makas.jpg)](/uploads/2008/03/makas.jpg "makas.jpg")

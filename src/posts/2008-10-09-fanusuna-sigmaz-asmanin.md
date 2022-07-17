@@ -2,7 +2,7 @@
 title: "Fâ'nusuna sığmaz Asm'anın"
 date: "2008-10-09"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![untitled.bmp](/uploads/2008/10/untitled.bmp)](/uploads/2008/10/untitled.bmp "untitled.bmp")

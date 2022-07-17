@@ -2,7 +2,7 @@
 title: "Düşman Çiçek Göndermez"
 date: "2010-08-31"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![balik.jpg](/uploads/2010/08/balik.jpg)](/uploads/2010/08/balik.jpg "balik.jpg") _Kişisel konuları şuraya taşımak istemezdim fakat bir TV programı dolayısıyle öylesine dehşetli bir hakarete uğradım  ki geçmişte eşi emsali görülmemiş… Şikayetçi değilim, yeryüzünde "mahluk”lar çeşit çeşit. Yelpaze açıldıkça yeni yeni yaratıklar tanıyacağız. Vakarla karşılamaya çalışıyorum. “Düşmanın çiçek göndermeyeceğini” biliyorum. Düşmanın nerelere gömülü, ne silahları olduğunu da biliyorum. Kimseden yardım talep etmiyorum. Kalemimle Meydan savaşı verecek güçteyim. Değerli dostlar, benden yana olmak için lütfen telaşlanmayınız._ 

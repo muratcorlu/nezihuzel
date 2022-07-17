@@ -2,7 +2,7 @@
 title: "Sırrı açıkça söyle"
 date: "2008-11-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana.jpg](/uploads/2008/11/mevlana-1.jpg)](/uploads/2008/11/mevlana-1.jpg "mevlana.jpg")

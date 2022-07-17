@@ -2,7 +2,7 @@
 title: "Kadınlara pembe taksi"
 date: "2009-11-25"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 **![](/uploads/image/pembe taksi.jpg)  

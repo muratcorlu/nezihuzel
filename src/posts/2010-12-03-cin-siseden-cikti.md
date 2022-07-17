@@ -2,7 +2,7 @@
 title: "Cin şişeden çıktı"
 date: "2010-12-03"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![cinler-alemi.jpg](/uploads/2010/12/cinler-alemi.jpg)](/uploads/2010/12/cinler-alemi.jpg "cinler-alemi.jpg")

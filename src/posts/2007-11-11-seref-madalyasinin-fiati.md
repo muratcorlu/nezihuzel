@@ -2,7 +2,7 @@
 title: "Şeref Madalyası’nın fiyatı"
 date: "2007-11-11"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![anuh00005.jpg](/uploads/2007/11/anuh00005.jpg)](/uploads/2007/11/anuh00005.jpg "anuh00005.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

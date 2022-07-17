@@ -2,7 +2,7 @@
 title: "Mezarımıza  Lâle dikecek"
 date: "2007-11-15"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![pembe_lale_resimleri.jpg](/uploads/2007/11/pembe_lale_resimleri.jpg)](/uploads/2007/11/pembe_lale_resimleri.jpg "pembe_lale_resimleri.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

@@ -2,7 +2,7 @@
 title: "Sırrın sırrı çözülemiyor"
 date: "2007-12-07"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **[![4575269.jpg](/uploads/2007/12/4575269.jpg)](/uploads/2007/12/4575269.jpg "4575269.jpg")Â** 

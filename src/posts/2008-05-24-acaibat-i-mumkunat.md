@@ -2,7 +2,7 @@
 title: "Acaibat-ı mümkünat"
 date: "2008-05-24"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 Günün İncisi:

@@ -2,7 +2,7 @@
 title: "Dünyada gezen gölgelerimizdir"
 date: "2008-09-13"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![golgeler.jpg](/uploads/2008/09/golgeler.jpg)](/uploads/2008/09/golgeler.jpg "golgeler.jpg")

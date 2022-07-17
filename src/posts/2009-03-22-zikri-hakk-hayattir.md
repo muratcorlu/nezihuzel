@@ -2,7 +2,7 @@
 title: "Zikri Hakk hayattır"
 date: "2009-03-22"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **![](/uploads/image/yercekimlikaranfil_bahar.jpg)**

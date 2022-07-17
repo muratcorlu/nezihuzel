@@ -2,10 +2,10 @@
 title: "İki Kardeş Fransız"
 date: "2008-04-13"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
-[![kopyasi-dsc00170.JPG](/uploads/2008/04/kopyasi-dsc00170.thumbnail.JPG)](/uploads/2008/04/kopyasi-dsc00170.jpg "kopyasi-dsc00170.JPG")[](/uploads/2008/04/kopyasi-dsc00170.jpg "kopyasi-dsc00170.JPG")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![kopyasi-dsc00170.JPG](/uploads/2008/04/kopyasi-dsc00170.JPG)](/uploads/2008/04/kopyasi-dsc00170.jpg "kopyasi-dsc00170.JPG")[](/uploads/2008/04/kopyasi-dsc00170.jpg "kopyasi-dsc00170.JPG")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 \-**Hocanın** yanındaki kim ? \-Hangisi ? \-Åu **saçlı sakallı**, gaaak guk. \-O bir Fransız, **Pierre Marie**, yanındaki de oğlu **Gallahat**, Â sen **Fransızca** bilir misin ? \-**Kargaca**’dan başka **dil** bilmem, \-Onu da **konuşamazsın** ya… \-Sen işine bak **lavuk**, gaaak gaaak. \-O **Hoca**’nın kırk yıllık **Fransız** dostu, **Türkiye**’ye Â ilk geldiğinde **çıta** gibi bir yaratıktı, **on yedi** yaşındaydı şimdi **elli yedi** yaşında… **Lizbon**’da oturuyor, iki**, oğlu** bir kızı var…
 

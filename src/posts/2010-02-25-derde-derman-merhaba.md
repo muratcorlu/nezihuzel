@@ -2,7 +2,7 @@
 title: "Derde derman Merhaba"
 date: "2010-02-25"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/muhammed6se.jpg)

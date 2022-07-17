@@ -2,7 +2,7 @@
 title: "İstanbul'lu reis gelmedi"
 date: "2007-02-05"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **Beyoğlu Belediyesi** parasız dağıtılan bir dergi çıkarıyor. Benimler **röportaj** yaptılar, kesip biçip **kuşa** benzetip öyle yayınladılar. "**Yüreksiz"**dostlar İşlerine gelmeyen yerleri çıkarmışlar, en çok yazının sonundaki "**İstanbul'a hiç İstanbul'lu belediye reisi gelmedi ki..."** cümlesine takılmış olacaklar. ben **röportajın** tamamını yayınlıyorum. **Buyurun okuyun**, iyi gelir.

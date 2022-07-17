@@ -2,7 +2,7 @@
 title: "Bir kırıntı ışık"
 date: "2008-04-27"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![414px-gluehbirne_2_db.jpg](/uploads/2008/04/414px-gluehbirne_2_db.jpg)](/uploads/2008/04/414px-gluehbirne_2_db.jpg "414px-gluehbirne_2_db.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

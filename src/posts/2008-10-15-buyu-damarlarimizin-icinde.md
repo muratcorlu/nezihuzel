@@ -2,7 +2,7 @@
 title: "Büyü Damarlarımızın içinde"
 date: "2008-10-15"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana.jpg](/uploads/2008/10/mevlana.jpg)](/uploads/2008/10/mevlana.jpg "mevlana.jpg")

@@ -2,7 +2,7 @@
 title: "Başkan Söz verdi"
 date: "2007-11-20"
 categories: 
-  - "olurla-olmaz-muhabbeti"
+  - Olurla Olmaz Muhabbeti
 ---
 
 [![252394.jpg](/uploads/2007/11/252394.jpg)](/uploads/2007/11/252394.jpg "252394.jpg")

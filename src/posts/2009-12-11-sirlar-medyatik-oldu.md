@@ -2,7 +2,7 @@
 title: "Sırlar Medyatik oldu"
 date: "2009-12-11"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 _**![](/uploads/image/konya.jpg)  

@@ -2,7 +2,7 @@
 title: "Examine the past"
 date: "2006-10-13"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
   **![pamuk.jpg](/uploads/2006/10/pamuk.kucukresim.jpg)  [**The Observer**](http://www.observer.co.uk/)**  

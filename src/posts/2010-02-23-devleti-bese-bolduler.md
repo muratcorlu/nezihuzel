@@ -2,7 +2,7 @@
 title: "Devleti beş'e böldüler"
 date: "2010-02-23"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![](/uploads/image/osmanli-devlet-armasi2.gif)

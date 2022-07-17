@@ -2,7 +2,7 @@
 title: "Arabın Son &quot;ah&quot;ı"
 date: "2011-12-02"
 categories: 
-  - "muhtasar-dunya-hikayeleri"
+  - Muhtasar Dünya Hikayaleri
 ---
 
  [](/uploads/2011/12/alhambra_granada600.jpg "alhambra_granada600.jpg")[![alhambra_granada600.jpg](/uploads/2011/12/alhambra_granada600.jpg)](/uploads/2011/12/alhambra_granada600.jpg "alhambra_granada600.jpg") (Tarihten ibretli kesitler)

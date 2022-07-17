@@ -2,7 +2,7 @@
 title: "Bizi rahat bırakın"
 date: "2009-12-08"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 _**![](/uploads/image/ses.jpg)**_

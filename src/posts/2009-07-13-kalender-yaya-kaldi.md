@@ -2,7 +2,7 @@
 title: "Kalender yaya kaldı"
 date: "2009-07-13"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 ![](/uploads/image/yusufcuk.jpg)

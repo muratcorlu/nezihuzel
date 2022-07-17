@@ -2,7 +2,7 @@
 title: "Misafire saygı etmeli"
 date: "2008-05-14"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![4481718.jpg](/uploads/2008/05/4481718.jpg)](/uploads/2008/05/4481718.jpg "4481718.jpg")Â 

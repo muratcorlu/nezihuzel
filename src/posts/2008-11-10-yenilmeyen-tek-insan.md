@@ -2,7 +2,7 @@
 title: "Yenilmeyen tek insan"
 date: "2008-11-10"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![ataturk14vh7.jpg](/uploads/2008/11/ataturk14vh7.jpg)](/uploads/2008/11/ataturk14vh7.jpg "ataturk14vh7.jpg") Yorgun, **bitkin** ve günlerinin sonuna gelmiş **Osmanlı** yönetiminin “**ehveni şer**��? gördüğü mesnetsız kararlara “**ehveni şer, şerlerin en kötüsüdür**��? diyerek karşı çıkan tek insan **Mustafa Kemal**’di.

@@ -2,7 +2,7 @@
 title: "Coca dépasse l'eau"
 date: "2006-10-05"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 **![boycott.jpg](/uploads/2006/10/boycott.kucukresim.jpg)The Coca-Cola Company** est plus qu'une entreprise, c'est un **empire**. Chaque jour, de par le monde, il se consomme plus **d'un milliard de bouteilles** sorties de ses usines et filiales**.** Chaque jour, **un habitant sur cinq de la planèt**e boit une canette de soda estampillée **Coca-Cola** ou de l'une de ses marques. La firme d'**Atlanta** réussit ÃƒÂ  être présente dans plus de pays que **l'Organisation des Nations unies (ONU)** elle-même. Le breuvage mis au point en 1886 par l'apothicaire **John Pemberton** dans son obscur laboratoire de **Colombus** se vend désormais dans **200 pays**, quand l'ONU compte **191** États membres

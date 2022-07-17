@@ -2,7 +2,7 @@
 title: "Yargı da yargılanmalıdır"
 date: "2009-11-13"
 categories: 
-  - "destur"
+  - Destur
 ---
 
  ![](/uploads/image/adalet03.jpg)

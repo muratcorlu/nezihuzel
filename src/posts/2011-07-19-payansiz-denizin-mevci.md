@@ -2,7 +2,7 @@
 title: "Payansız Denizin mevci"
 date: "2011-07-19"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **[![images3.jpg](/uploads/2011/07/images3.jpg)](/uploads/2011/07/images3.jpg "images3.jpg")**

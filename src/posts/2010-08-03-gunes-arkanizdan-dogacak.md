@@ -2,7 +2,7 @@
 title: "Güneş Arkanızdan doğacak"
 date: "2010-08-03"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![Gündoğumu](/uploads/2010/08/gun_dogumu.jpg)](/uploads/2010/08/gun_dogumu.jpg "Gündoğumu")

@@ -2,7 +2,7 @@
 title: "Mülkün Sahibi konuşsun"
 date: "2008-11-25"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![kalem1cj0pm82.jpg](/uploads/2008/11/kalem1cj0pm82.jpg)](/uploads/2008/11/kalem1cj0pm82.jpg "kalem1cj0pm82.jpg")

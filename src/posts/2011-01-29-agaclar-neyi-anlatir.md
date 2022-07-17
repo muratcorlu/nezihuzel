@@ -2,7 +2,7 @@
 title: "Uyur gibi görünüyor"
 date: "2011-01-29"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![mevlana.jpg](/uploads/2011/01/mevlana.jpg)](/uploads/2011/01/mevlana.jpg "mevlana.jpg")

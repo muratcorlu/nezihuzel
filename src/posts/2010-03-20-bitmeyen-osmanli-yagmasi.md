@@ -2,7 +2,7 @@
 title: "Bitmeyen Osmanlı yağması"
 date: "2010-03-20"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 _[![yali.jpg](/uploads/2010/03/yali.jpg)](/uploads/2010/03/yali.jpg "yali.jpg")_

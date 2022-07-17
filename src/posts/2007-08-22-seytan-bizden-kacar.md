@@ -2,7 +2,7 @@
 title: "Şeytan Bizden Kaçar"
 date: "2007-08-22"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 Bizim **topraktan** yaratılan

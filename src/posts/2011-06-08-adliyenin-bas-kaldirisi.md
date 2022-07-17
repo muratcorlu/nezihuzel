@@ -2,7 +2,7 @@
 title: "Adliye’nin baş kaldırışı"
 date: "2011-06-08"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![subay.jpg](/uploads/2011/06/subay.jpg)](/uploads/2011/06/subay.jpg "subay.jpg")

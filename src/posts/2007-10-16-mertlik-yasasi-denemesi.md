@@ -2,7 +2,7 @@
 title: "Mertlik Yasası Denemesi"
 date: "2007-10-16"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 Yaşam **tekliften** ibaret oldu... “**Teklif**��? hayatımızın **sağlıklı** yürümesi için artık bir **metot** olarak kullanılıyor. **Baskıcı** ve **dayatmacı** olmayan **teklifler**, kusurları **ayıklanarak** geri çevrildiğinde **kişi** ve **toplumun** davranışlarını **dürüst** ve **doğru** biçimde **şekillendiriyor**. Önemli olan **eski** ve **dar** görüşlerle, **belirli nedenlere saplanarak** tutucu davranmamak...

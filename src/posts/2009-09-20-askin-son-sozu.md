@@ -2,7 +2,7 @@
 title: "Aşkın son sözü"
 date: "2009-09-20"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/yusufcuk-dragonfly04.jpg)

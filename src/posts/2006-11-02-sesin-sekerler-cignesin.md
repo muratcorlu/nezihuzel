@@ -2,7 +2,7 @@
 title: "Sesin şekerler çiğnesin"
 date: "2006-11-02"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![canne-a-sucre-2.jpg](/uploads/2006/11/canne-a-sucre-2-1.jpg)

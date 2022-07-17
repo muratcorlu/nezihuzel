@@ -2,7 +2,7 @@
 title: "Kin çarptı İnsanı"
 date: "2008-12-31"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![post-12136-1211467710.jpg](/uploads/2008/12/post-12136-1211467710.jpg)](/uploads/2008/12/post-12136-1211467710.jpg "post-12136-1211467710.jpg")

@@ -2,7 +2,7 @@
 title: "Toplum liderden görünür"
 date: "2008-11-14"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![ataturk14vh72.jpg](/uploads/2008/11/ataturk14vh72.jpg)](/uploads/2008/11/ataturk14vh72.jpg "ataturk14vh72.jpg")

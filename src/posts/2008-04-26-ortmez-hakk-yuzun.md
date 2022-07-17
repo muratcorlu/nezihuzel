@@ -2,7 +2,7 @@
 title: "Örtmez Hakk yüzün"
 date: "2008-04-26"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **[![evren_5.jpg](/uploads/2008/04/evren_5.jpg)](/uploads/2008/04/evren_5.jpg "evren_5.jpg")**

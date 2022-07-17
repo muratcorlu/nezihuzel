@@ -2,7 +2,7 @@
 title: "Gravat Satışları arttı"
 date: "2008-10-14"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 [![dassenonlinenr1a.jpg](/uploads/2008/10/dassenonlinenr1a.jpg)](/uploads/2008/10/dassenonlinenr1a.jpg "dassenonlinenr1a.jpg")[](/uploads/2008/10/01-ebru_gravat.jpg "01-ebru_gravat.jpg")

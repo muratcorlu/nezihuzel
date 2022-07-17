@@ -2,7 +2,7 @@
 title: "Aşığın yolu Aşktır"
 date: "2009-10-24"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/ask_resimleri.jpg)

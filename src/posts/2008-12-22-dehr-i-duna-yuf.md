@@ -2,7 +2,7 @@
 title: "Dehr-i dûna yuf"
 date: "2008-12-22"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mehmet_nazim_pasa.jpg](/uploads/2008/12/mehmet_nazim_pasa.jpg)](/uploads/2008/12/mehmet_nazim_pasa.jpg "mehmet_nazim_pasa.jpg")

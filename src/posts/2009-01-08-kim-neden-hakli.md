@@ -2,7 +2,7 @@
 title: "Kim, neden haklı ?"
 date: "2009-01-08"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![b.jpg](/uploads/2009/01/b.jpg)](/uploads/2009/01/b.jpg "b.jpg")

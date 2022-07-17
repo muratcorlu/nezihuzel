@@ -2,7 +2,7 @@
 title: "Arılar peteğine saklandı"
 date: "2011-01-15"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![ari4.jpg](/uploads/2011/01/ari4.jpg)](/uploads/2011/01/ari4.jpg "ari4.jpg")

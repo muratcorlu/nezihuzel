@@ -2,7 +2,7 @@
 title: "Etnik Darbe Çağı"
 date: "2009-10-23"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/kurt_istilasi_2.gif)

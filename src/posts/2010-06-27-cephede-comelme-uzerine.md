@@ -2,7 +2,7 @@
 title: "Meleklerin cinsiyeti üzerine"
 date: "2010-06-27"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![melek.jpg](/uploads/2010/06/melek.jpg)](/uploads/2010/06/melek.jpg "melek.jpg")  Sultan Fatih çağın en ileri ordusu, en güçlü silahları, en deneyimli askerleri ile Kostantaniyye, İstanbul şehrini sarmıştır. Şehrin çevresine askeri istihkamlar, kaleler, burçlar inşaa edilmektedir. Netice bellidir. Bizans alınacaktır. Şehir el değiştirecektir. Bu önemli bir vak’adır.

@@ -2,7 +2,7 @@
 title: "Hiçlige talip oldum"
 date: "2008-10-20"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![hic.jpg](/uploads/2008/10/hic.jpg)](/uploads/2008/10/hic.jpg "hic.jpg")

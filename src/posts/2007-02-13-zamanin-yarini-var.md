@@ -2,7 +2,7 @@
 title: "Günlerin Geleceği var"
 date: "2007-02-13"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **[](/uploads/2007/02/imagen275368.jpg "imagen275368.jpg")[![taha_yasin.jpg](/uploads/2007/08/taha_yasin.jpg)](/uploads/2007/08/taha_yasin.jpg "taha_yasin.jpg")**

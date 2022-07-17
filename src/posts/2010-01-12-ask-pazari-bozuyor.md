@@ -2,7 +2,7 @@
 title: "Aşk Pazarı Bozuyor"
 date: "2010-01-12"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/pazaryeri8cw5.jpg)

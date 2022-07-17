@@ -2,7 +2,7 @@
 title: "Canını sivrisineğe verdi"
 date: "2008-01-05"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![sivrisinek.jpg](/uploads/2008/01/sivrisinek.jpg)](/uploads/2008/01/sivrisinek.jpg "sivrisinek.jpg")

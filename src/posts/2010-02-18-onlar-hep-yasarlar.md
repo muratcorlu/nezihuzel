@@ -2,7 +2,7 @@
 title: "Onlar hep yaşarlar"
 date: "2010-02-18"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/som.jpg)

@@ -2,7 +2,7 @@
 title: "Boyan renk verme"
 date: "2008-09-19"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **[![galip1.jpg](/uploads/2008/09/galip1.jpg)](/uploads/2008/09/galip1.jpg "galip1.jpg")**

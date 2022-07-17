@@ -2,7 +2,7 @@
 title: "Birden sardı ruhumu"
 date: "2010-01-04"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/ankara_.jpg)

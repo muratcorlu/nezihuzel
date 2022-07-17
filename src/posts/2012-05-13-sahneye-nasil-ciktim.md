@@ -2,8 +2,7 @@
 title: "Sahneye nasıl çıktım?"
 date: "2012-05-13"
 categories: 
-  - "site-yonetiminden"
-  - "video"
+  - Site Yönetiminden
 ---
 
 http://www.youtube.com/watch?v=C\_Zw5acOdhs

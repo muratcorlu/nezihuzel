@@ -2,7 +2,7 @@
 title: "Kalk Dost'a gidelim"
 date: "2008-01-25"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![028dn.jpg](/uploads/2008/01/028dn.jpg)](/uploads/2008/01/028dn.jpg "028dn.jpg")

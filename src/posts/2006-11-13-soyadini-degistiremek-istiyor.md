@@ -2,7 +2,7 @@
 title: "Eşekçalan Soyadını Değiştirecek"
 date: "2006-11-13"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 A.A

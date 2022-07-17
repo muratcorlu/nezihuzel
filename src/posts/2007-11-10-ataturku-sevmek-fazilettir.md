@@ -2,7 +2,7 @@
 title: "Atatürkü Sevmek fazilettir"
 date: "2007-11-10"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **[![ataa.jpg](/uploads/2007/11/ataa.jpg)](/uploads/2007/11/ataa.jpg "ataa.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 

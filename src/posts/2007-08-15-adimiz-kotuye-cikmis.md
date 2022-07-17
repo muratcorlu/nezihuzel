@@ -2,7 +2,7 @@
 title: "Adımız Kötüye Çıkmış"
 date: "2007-08-15"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 Bize hep, **yanlışlar** yapma,

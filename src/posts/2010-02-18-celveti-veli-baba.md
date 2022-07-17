@@ -2,7 +2,7 @@
 title: "Göz delil istemez"
 date: "2010-02-18"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/velibaba.jpg)

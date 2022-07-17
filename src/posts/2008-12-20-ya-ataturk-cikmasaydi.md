@@ -2,7 +2,7 @@
 title: "Ya Atatürk çıkmasaydı"
 date: "2008-12-20"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![anafartalar.jpg](/uploads/2008/12/anafartalar.jpg)](/uploads/2008/12/anafartalar.jpg "anafartalar.jpg")

@@ -2,7 +2,7 @@
 title: "Aşkın haritası çizildi"
 date: "2010-07-11"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 **[![cekirge_0005.jpg](/uploads/2010/07/cekirge_0005.jpg)](/uploads/2010/07/cekirge_0005.jpg "cekirge_0005.jpg")**

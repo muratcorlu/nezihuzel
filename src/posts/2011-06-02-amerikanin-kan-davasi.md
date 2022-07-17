@@ -2,7 +2,7 @@
 title: "Amerika’nın kan davası"
 date: "2011-06-02"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![groundzerounderworld460.jpg](/uploads/2011/06/groundzerounderworld460.jpg)](/uploads/2011/06/groundzerounderworld460.jpg "groundzerounderworld460.jpg") (Arşiv'den)

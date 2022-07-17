@@ -2,7 +2,7 @@
 title: "Yolcusuz Gemi'nin kaptanı"
 date: "2007-01-29"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![image016.jpg](/uploads/2007/08/image016.jpg)](/uploads/2007/08/image016.jpg "image016.jpg")

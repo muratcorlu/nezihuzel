@@ -2,7 +2,7 @@
 title: "Veysel'in gözünde toprak"
 date: "2009-03-22"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/askveyselrs9.jpg)

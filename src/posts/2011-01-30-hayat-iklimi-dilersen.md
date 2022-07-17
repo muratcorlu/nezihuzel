@@ -2,7 +2,7 @@
 title: "Hayat İklimi dilersen"
 date: "2011-01-30"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![kitap_.jpg](/uploads/2011/01/kitap_.jpg)](/uploads/2011/01/kitap_.jpg "kitap_.jpg")

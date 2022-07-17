@@ -2,7 +2,7 @@
 title: "Ayna ve Hayal"
 date: "2010-03-13"
 categories: 
-  - "altin-sorular"
+  - Altın Sorular
 ---
 
 ![](/uploads/image/molla.jpg)

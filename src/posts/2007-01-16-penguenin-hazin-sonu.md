@@ -2,7 +2,7 @@
 title: "Penguen'in hazin sonu"
 date: "2007-01-16"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![penguen.jpg](/uploads/2007/08/penguen.jpg)](/uploads/2007/08/penguen.jpg "penguen.jpg")Fazilet **gagas**ı ile kafama birkaç kere vurdu...

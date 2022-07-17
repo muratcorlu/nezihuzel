@@ -2,7 +2,7 @@
 title: "Eflatun,Aristo,Mısrî"
 date: "2009-03-08"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 _![](/uploads/image/LIMNI2.jpg)_

@@ -2,7 +2,7 @@
 title: "Suçları Boyunu Aşar"
 date: "2006-10-08"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![sirak.jpg](/uploads/2006/10/sirak.kucukresim.jpg)Fransızların **Ermeni** meselesini kartıştırmalarının arkasında derin bir toplum **psikolojisi** yer almaktadır. **Fransa** yakında oylanacak olan kanunda sadece **Ermenileri** değil, başka ulusları da konu edinmiş ve dünyada ne kadar eski yeni **"soykırım"** dedikodusu varsa tümünü **diline** dolamıştır. Ancak kendi **suçlarını** tanımıyorlar. **Bilmiyorlar**. Öğreten olmadı. **Otosansüre** uğradı. Yazarları **"halkın hoşuna gitmez**" diye olanları okuyucularına bildirmedi.

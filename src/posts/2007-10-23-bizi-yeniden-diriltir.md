@@ -2,7 +2,7 @@
 title: "Bizi yeniden diriltir"
 date: "2007-10-23"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![pst.jpg](/uploads/2007/10/pst-1.jpg)](/uploads/2007/10/pst-1.jpg "pst.jpg")

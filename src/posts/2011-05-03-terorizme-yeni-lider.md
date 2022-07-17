@@ -2,7 +2,7 @@
 title: "Terörizme yeni lider"
 date: "2011-05-03"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![zev.jpg](/uploads/2011/05/zev.jpg)](/uploads/2011/05/zev.jpg "zev.jpg")

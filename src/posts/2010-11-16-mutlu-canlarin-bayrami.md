@@ -2,7 +2,7 @@
 title: "Mutlu Canların Bayramı"
 date: "2010-11-16"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![sari-gul.jpg](/uploads/2010/11/sari-gul.jpg)](/uploads/2010/11/sari-gul.jpg "sari-gul.jpg")

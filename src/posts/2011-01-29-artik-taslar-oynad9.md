@@ -2,7 +2,7 @@
 title: "Artık taşlar oynadı"
 date: "2011-01-29"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![mub.jpg](/uploads/2011/01/mub.jpg)](/uploads/2011/01/mub.jpg "mub.jpg")

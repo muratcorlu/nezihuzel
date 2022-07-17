@@ -2,7 +2,7 @@
 title: "Anştayn dalga geçiyor"
 date: "2010-03-11"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/anstayn.jpg)

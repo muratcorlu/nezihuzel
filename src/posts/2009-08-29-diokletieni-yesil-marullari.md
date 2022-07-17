@@ -2,7 +2,7 @@
 title: "Diokletien'in yeşil marulları"
 date: "2009-08-29"
 categories: 
-  - "sundan-bundan"
+  - Şundan Bundan
 ---
 
 tarih sohbetleri  

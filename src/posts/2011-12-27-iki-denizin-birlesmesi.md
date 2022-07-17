@@ -2,7 +2,7 @@
 title: "İki denizin birleşmesi"
 date: "2011-12-27"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana2.jpg](/uploads/2011/12/mevlana2.jpg)](/uploads/2011/12/mevlana2.jpg "mevlana2.jpg") (Arşiv'den uyarlama)

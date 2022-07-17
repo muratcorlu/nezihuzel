@@ -2,7 +2,7 @@
 title: "Hangi Diyara gidiyorsun ?"
 date: "2006-10-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![yol.jpg](/uploads/2006/10/yol.jpg)

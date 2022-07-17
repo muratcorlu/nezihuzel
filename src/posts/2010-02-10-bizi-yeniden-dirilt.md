@@ -2,7 +2,7 @@
 title: "Bizi yeniden dirilt"
 date: "2010-02-10"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/mevlana(1).jpg)

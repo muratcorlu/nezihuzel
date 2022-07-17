@@ -2,7 +2,7 @@
 title: "Sevgi mahşere kaldı"
 date: "2008-11-03"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 **[![fft1_mf50580.jpg](/uploads/2008/11/fft1_mf50580.jpg)](/uploads/2008/11/fft1_mf50580.jpg "fft1_mf50580.jpg")**

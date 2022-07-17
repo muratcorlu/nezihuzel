@@ -2,7 +2,7 @@
 title: "Şeytanın onur madalyası"
 date: "2008-12-20"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [**![goya_cronos.jpg](/uploads/2008/12/goya_cronos.jpg)**](/uploads/2008/12/goya_cronos.jpg "goya_cronos.jpg") Goya

@@ -2,7 +2,7 @@
 title: "Aynaya baktın mı ?"
 date: "2008-02-03"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![ayna4.jpg](/uploads/2008/02/ayna4.jpg)](/uploads/2008/02/ayna4.jpg "ayna4.jpg")

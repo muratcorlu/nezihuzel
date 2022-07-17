@@ -2,7 +2,7 @@
 title: "Kutlu Olsun Bayramlar"
 date: "2009-11-27"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/koc.jpg)

@@ -2,7 +2,7 @@
 title: "Her Kapı öpülmez"
 date: "2009-06-15"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **![](/uploads/image/hattua.jpg)**

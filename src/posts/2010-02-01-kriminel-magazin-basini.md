@@ -2,7 +2,7 @@
 title: "Kriminel magazin basını"
 date: "2010-02-01"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/ab.jpg)

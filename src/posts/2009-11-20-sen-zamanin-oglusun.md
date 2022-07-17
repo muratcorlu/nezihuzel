@@ -2,7 +2,7 @@
 title: "Sen zamanın oğlusun"
 date: "2009-11-20"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/mevlana.jpg)

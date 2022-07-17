@@ -2,7 +2,7 @@
 title: "Vakit geç oldu"
 date: "2009-07-04"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/gece.jpg)

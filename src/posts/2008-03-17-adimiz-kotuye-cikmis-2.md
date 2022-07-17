@@ -2,7 +2,7 @@
 title: "Adımız kötüye çıkmış"
 date: "2008-03-17"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana.jpg](/uploads/2008/03/mevlana-6.jpg)](/uploads/2008/03/mevlana-6.jpg "mevlana.jpg")

@@ -2,7 +2,7 @@
 title: "Bize ne oldu ?"
 date: "2011-09-20"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![sari-gul-resimleri-20.jpg](/uploads/2011/09/sari-gul-resimleri-20.jpg)](/uploads/2011/09/sari-gul-resimleri-20.jpg "sari-gul-resimleri-20.jpg")

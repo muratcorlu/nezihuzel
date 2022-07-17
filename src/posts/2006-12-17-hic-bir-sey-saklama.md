@@ -2,7 +2,7 @@
 title: "Hiç bir şey saklama"
 date: "2006-12-17"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![sage1.jpg](/uploads/2006/12/sage1.kucukresim.jpg)

@@ -2,7 +2,7 @@
 title: "Yüzlerce Gece uyudun"
 date: "2008-01-30"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![abstract_night_-_1024×768.jpg](/uploads/2008/01/abstract_night_-_1024x768-1.jpg)](/uploads/2008/01/abstract_night_-_1024x768-1.jpg "abstract_night_-_1024×768.jpg")

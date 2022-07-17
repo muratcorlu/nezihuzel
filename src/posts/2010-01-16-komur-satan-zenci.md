@@ -2,7 +2,7 @@
 title: "Kömür satan zenci"
 date: "2010-01-16"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 _**![](/uploads/image/fas.jpg)  

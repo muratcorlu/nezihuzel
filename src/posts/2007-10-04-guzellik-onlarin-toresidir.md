@@ -2,7 +2,7 @@
 title: "Güzellik Onların Töresidir"
 date: "2007-10-04"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
   

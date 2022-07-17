@@ -2,7 +2,7 @@
 title: "Siyasetin Dürüst adamı"
 date: "2006-11-07"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **![ecevit1.bmp](/uploads/2006/11/ecevit1.bmp)Osmanlı imparatorluğunu** son yıllarında yöneten **"İttihat Terakki"** Partisi siyaset "**faziletle rezalet" arasında bir köprüdür"** demişti. Eylül 1906'da **Selanik'te** bir grup   yürekli **Osmanlı aydını** tarafından kurulan bu **Parti**'nin dürüst insanları **"Siyasete giren rezalete düşer"** demek istiyorlardı. Bu **görüş** doğruydu. Ülkede yönetime talip olan **İttihat Terakki,** alanın **sosyo-politik** yapısını iyi biliyordu. Böylece **İttihatçılar**, yakın tarih **Osmanlı siyaset** dünyasında, **Parti**'nin yaşadığı **on iki** yıl boyunca, en **gerçekçi** siyasi oluşumu ortaya **koydular.**

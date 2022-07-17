@@ -2,7 +2,7 @@
 title: "Gösteri Mevlevileri zamanı"
 date: "2010-02-05"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/semazen.jpg)

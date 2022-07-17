@@ -2,7 +2,7 @@
 title: "Can'ın son sözü"
 date: "2010-01-20"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/yurek.jpg)

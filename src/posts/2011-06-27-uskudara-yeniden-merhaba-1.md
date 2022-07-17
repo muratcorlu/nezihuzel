@@ -2,7 +2,7 @@
 title: "Üsküdar'a yeniden Merhaba"
 date: "2011-06-27"
 categories: 
-  - "sundan-bundan"
+  - Şundan Bundan
 ---
 
 [![cesme.jpg](/uploads/2011/06/cesme-1.jpg)](/uploads/2011/06/cesme-1.jpg "cesme.jpg") Türk’lerin büyük yürüyüşü sırasında Karadeniz’in kuzeyinden gelerek eski Bulgaristan’ın Deliorman bölgesine yerleşen Oğuz’ların “Uz Türkleri” nden bir çiftçinin oğlu olan acar bir genç, asrın başında İstanbul’a gelerek doktor mektebine yazıldı. Bir süre sonra anne ve babasını da getirdi. Üsküdar’da Tunusbağı’nda bir ev satın alarak yerleştiler.
@@ -15,7 +15,7 @@ Savaş sona erdi Çanakkale boğuşması kazanılmış, düşman durdurulmuş am
 
 İstiklal savaşında Şumnu’lu, Bursa Askeri hastanesindeydi. Türkiye Büyük Millet Meclisi’nin bir emir subayı olarak, doktor yokluğunda oradan oraya koşuyor, zaman zaman cephenin tam ortasında yer alıyordu. Biri doktor, diğeri İzmir Sarıkışla bombardımanında şehit olan topçu binbaşısı iki oğlunu savaşa gönderen Aile, o sırada yine Üsküdar’da oturmaya devam ediyordu. Ayrıca memleketten kopup gelenlerin çokluğundan daha geniş bir eve çıkma gereği duyuldu ve Atikvalde semtinde üç katlı ahşap bir ev satın alındı.
 
-[![ev.JPG](/uploads/2011/06/ev.thumbnail.JPG)](/uploads/2011/06/ev.jpg "ev.JPG")Şumnulu genç, bu satırların yazarı aciz muharrir’in muhterem babası Mehmet Muhlis Uzel’dir. Ana ve babasını ve tüm ailesini Savaşın felaketinden korumak üzere 100 yıl önce fevkalade zor şartlarla Üsküdar’da bir ev satın alan ve  “Uzların” onbeş asırlık Asya yürüyüşünü Üsküdar’a  kadar uzatarak burada noktalayan kişidir. 1884 ile 1953 yılları arasında yaşamıştır.
+[![ev.JPG](/uploads/2011/06/ev.JPG)](/uploads/2011/06/ev.jpg "ev.JPG")Şumnulu genç, bu satırların yazarı aciz muharrir’in muhterem babası Mehmet Muhlis Uzel’dir. Ana ve babasını ve tüm ailesini Savaşın felaketinden korumak üzere 100 yıl önce fevkalade zor şartlarla Üsküdar’da bir ev satın alan ve  “Uzların” onbeş asırlık Asya yürüyüşünü Üsküdar’a  kadar uzatarak burada noktalayan kişidir. 1884 ile 1953 yılları arasında yaşamıştır.
 
 Doktor Mehmet Muhlis Uzel ve ailesi 100 yıldan beri Üsküdar’da oturuyor.  Benim 54 yılım bu kasabada Selamiali Mahallesi, Ekmekçibaşı sokağı 11 no’lu evde geçti. TRT’den emekli olduktan sonra “bu şehir çok kalabalık oldu, artık burada yaşanmaz, başka yere gitmeli” diyerek Sapanca’ya yerleşmiştim. Yedi sene zor durdum. Geçen hafta pılı pırtıyı toplayıp Üsküdar’a geri döndüm. Kaybolmuş bir vatanı yeniden bulmuş gibiyim. Sanki “vaad edilmiş toprağa” yeniden kavuştum. Tüm eski dostlarımla, gençlik arkadaşlarımla buluştum.  Üsküdar’ın aziz belediye başkanı Mustafa Kara Sapanca’ya araç göndererek eşyamı naklettirdi. Bu beni fevkalade onurlandırdı. Unutmuştum, bu yüzden Üsküdar’ın bir parçası olduğuma inandım.Sanki Üsküdar’da yeniden doğdum.
 
@@ -23,4 +23,4 @@ Doktor Mehmet Muhlis Uzel ve ailesi 100 yıldan beri Üsküdar’da oturuyor.  
 
 [](/uploads/2011/06/mermer.jpg "mermer.JPG")[](/uploads/2011/06/mermer.jpg "mermer.JPG")
 
-[![mermer.JPG](/uploads/2011/06/mermer.thumbnail.JPG)](/uploads/2011/06/mermer.jpg "mermer.JPG")
+[![mermer.JPG](/uploads/2011/06/mermer.JPG)](/uploads/2011/06/mermer.jpg "mermer.JPG")

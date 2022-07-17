@@ -2,7 +2,7 @@
 title: "Allowed to die (Ölüme terk etmek)"
 date: "2006-11-18"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
     **![birth2.jpg](/uploads/2006/11/birth2.kucukresim.jpg)**

@@ -2,7 +2,7 @@
 title: "Dert çıkaran ulus"
 date: "2008-11-13"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **[![crist_dwelle1.jpg](/uploads/2008/11/crist_dwelle1.jpg)](/uploads/2008/11/crist_dwelle1.jpg "crist_dwelle1.jpg")**

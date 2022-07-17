@@ -2,8 +2,7 @@
 title: "Nezih Uzel ile sohbet"
 date: "2012-05-17"
 categories: 
-  - "site-yonetiminden"
-  - "video"
+  - Site Yönetiminden
 ---
 
 http://www.youtube.com/watch?v=HG0gWBLcEHg

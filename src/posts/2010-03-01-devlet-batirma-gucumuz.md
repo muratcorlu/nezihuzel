@@ -2,7 +2,7 @@
 title: "Devlet batırma gücümüz"
 date: "2010-03-01"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/-Vienna_Battle_1683(1).jpg)  

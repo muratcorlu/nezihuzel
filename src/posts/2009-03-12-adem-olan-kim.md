@@ -2,7 +2,7 @@
 title: "Adem olan kim ?"
 date: "2009-03-12"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/altin_oran_insan(2).jpg)

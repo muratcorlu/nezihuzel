@@ -2,7 +2,7 @@
 title: "Nışanı iade etti"
 date: "2011-04-23"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![civik.jpg](/uploads/2011/04/civik.jpg)](/uploads/2011/04/civik.jpg "civik.jpg")

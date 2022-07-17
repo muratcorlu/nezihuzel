@@ -2,7 +2,7 @@
 title: "Bir kırıntı haber"
 date: "2010-03-04"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/mercedes.jpg),  

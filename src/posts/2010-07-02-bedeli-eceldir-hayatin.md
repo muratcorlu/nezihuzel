@@ -2,7 +2,7 @@
 title: "Bedeli eceldir hayatın"
 date: "2010-07-02"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![gul1.jpg](/uploads/2010/07/gul1.jpg)](/uploads/2010/07/gul1.jpg "gul1.jpg")

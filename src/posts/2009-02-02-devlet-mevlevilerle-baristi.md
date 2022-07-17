@@ -2,7 +2,7 @@
 title: "Devlet Mevlevilerle barıştı"
 date: "2009-02-02"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/ata.jpg)

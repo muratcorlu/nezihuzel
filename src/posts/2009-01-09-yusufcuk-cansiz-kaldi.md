@@ -2,7 +2,7 @@
 title: "Yusufçuk Cansız kaldı"
 date: "2009-01-09"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 **[![yusufcuk.jpg](/uploads/2009/01/yusufcuk.jpg)](/uploads/2009/01/yusufcuk.jpg "yusufcuk.jpg")**

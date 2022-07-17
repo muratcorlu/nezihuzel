@@ -2,7 +2,7 @@
 title: "Mülküne Sahip çıksın"
 date: "2006-12-11"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![adem.jpg](/uploads/2006/12/adem.kucukresim.jpg)Kimsenin adını sanını **duymadığı**, duymasına da **imkan** olmadığı yüzlerce **yazarı** ortaya çıkarmak "**patron gazeteciliğinin**" sanırım **gizli** bir numarasıdır. **Orhan Pamuğ'un** nobeli üzerine **edebiyatçılar** konuştu diye **Hürriyet** gazetesi haber yapmış, **bakıyorum** o edebiyatçıların hiç birini **tanımıyorum.** Bu adamlar **kimlerdir** ?

@@ -2,7 +2,7 @@
 title: "gül bahçeni görmedik"
 date: "2006-12-03"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![rose.jpg](/uploads/2006/12/rose.jpg)                                                      

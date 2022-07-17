@@ -2,7 +2,7 @@
 title: "Madam Dumesnil’in hediyeleri"
 date: "2009-10-20"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/abd-amerika.jpg)

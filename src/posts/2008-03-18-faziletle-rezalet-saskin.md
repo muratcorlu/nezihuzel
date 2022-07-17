@@ -2,7 +2,7 @@
 title: "Fazîlet'le Rezâlet Şaşkın"
 date: "2008-03-18"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![karga.jpg](/uploads/2008/03/karga.jpg)](/uploads/2008/03/karga.jpg "karga.jpg")

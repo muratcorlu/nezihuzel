@@ -2,7 +2,7 @@
 title: "Yerin boş kalmaz"
 date: "2009-10-28"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/ip.jpg)

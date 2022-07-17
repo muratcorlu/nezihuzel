@@ -2,7 +2,7 @@
 title: "Halkına sırt çevirenler"
 date: "2006-10-12"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![nobel.jpg](/uploads/2006/10/nobel.kucukresim.jpg)  Hep **Türkiyeyi**, vatanını **jurnal** eden yazarlar **Avrupa**'dan ödül alıyor... **Nobel** kazanan **Orhan Pamuk'**un da ülkesini jurnal ettiğini **sanırım** bilmeyen yoktur. **Ermeni** olayında karşı tarafı seçtiğine göre bu **yazarın** da artık kurallaşan **geleneğin** dışına çıkmadığı ve bu yüzden **ödüle** laik görüldüğü apaçık ortada. Vaktiye **Yaşar Kemal** de yurt dışından **ödüller** alırken başka türlü bir **yapıya** sahip değildi. **Batı dünyası** kendi kalesine **gol** atan Türk edebiyat **karmasını** çok seviyor...Halkına **sırt** çevirenleri...

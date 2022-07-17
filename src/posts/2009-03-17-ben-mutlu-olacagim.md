@@ -2,7 +2,7 @@
 title: "Ben mutlu olacağım"
 date: "2009-03-17"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/beklemek.jpg)

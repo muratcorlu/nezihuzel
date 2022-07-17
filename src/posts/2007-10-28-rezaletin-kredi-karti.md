@@ -2,7 +2,7 @@
 title: "Rezaletin Kredi Kartı"
 date: "2007-10-28"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![kart.jpg](/uploads/2007/10/kart.jpg)](/uploads/2007/10/kart.jpg "kart.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

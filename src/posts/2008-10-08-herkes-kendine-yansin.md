@@ -2,7 +2,7 @@
 title: "Herkes kendine  Yansın"
 date: "2008-10-08"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 [![yusufcuk_-_bcek_resimleri_2.jpg](/uploads/2008/10/yusufcuk_-_bcek_resimleri_2.jpg)](/uploads/2008/10/yusufcuk_-_bcek_resimleri_2.jpg "yusufcuk_-_bcek_resimleri_2.jpg")[](/uploads/2008/10/197a.jpg "197a.jpg")

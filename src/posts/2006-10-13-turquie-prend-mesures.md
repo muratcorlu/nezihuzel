@@ -2,7 +2,7 @@
 title: "Turquie prend mesures"
 date: "2006-10-13"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![france.jpg](/uploads/2006/10/france.kucukresim.jpg)ANKARA (Reuters) - Le Premier ministre turc, **Tayyip Erdogan**, annonce que la [**Turquie**](http://fr.fc.yahoo.com/t/turquie.html) étudie de **possibles** mesures de **représailles** ÃƒÂ  l'encontre de la **France** ÃƒÂ  la suite du vote par les députés d'un **projet de loi** sanctionnant la négation du **génocide arménien.**

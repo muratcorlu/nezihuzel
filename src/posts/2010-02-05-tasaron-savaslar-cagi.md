@@ -2,7 +2,7 @@
 title: "Taşaron Savaşlar çağı"
 date: "2010-02-05"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **![](/uploads/image/afganistan.jpg)**

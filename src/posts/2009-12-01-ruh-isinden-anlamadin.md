@@ -2,7 +2,7 @@
 title: "Ruh işinden anlamıyorsun"
 date: "2009-12-01"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/sen.jpg)

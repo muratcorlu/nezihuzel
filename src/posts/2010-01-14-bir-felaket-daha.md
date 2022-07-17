@@ -2,7 +2,7 @@
 title: "Bir felaket daha"
 date: "2010-01-14"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/bacak.jpg)

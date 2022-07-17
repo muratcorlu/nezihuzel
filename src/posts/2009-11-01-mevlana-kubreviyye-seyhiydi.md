@@ -2,7 +2,7 @@
 title: "Mevlana Kübreviyye şeyhiydi."
 date: "2009-11-01"
 categories: 
-  - "altin-sorular"
+  - Altın Sorular
 ---
 
 ![](/uploads/image/mevlana25uv.jpg)

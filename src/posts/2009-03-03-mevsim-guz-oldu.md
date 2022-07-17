@@ -2,7 +2,7 @@
 title: "Söyle, Suç kimde ?"
 date: "2009-03-03"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/istanbul.jpg)

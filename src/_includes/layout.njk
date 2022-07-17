@@ -22,7 +22,7 @@
               </span>
             </div>
             <div id="site-description">Nezih UZEL (1938 &#8211; 2012)</div>
-            <img src="/images/sunset.jpg" width="940" height="198" alt=""/>
+            <img src="/uploads/sunset.jpg" width="940" height="198" alt=""/>
           </div>
           <div id="access" role="navigation">
             <div class="skip-link screen-reader-text">
@@ -53,18 +53,13 @@
         <div id="primary" class="widget-area" role="complementary">
           <ul class="xoxo">
             <li id="search-2" class="widget-container widget_search">
-              <form role="search" method="get" id="searchform" class="searchform" action="/">
-                <div>
-                  <label class="screen-reader-text" for="s">Arama:</label>
-                  <input type="text" value="" name="s" id="s"/>
-                  <input type="submit" id="searchsubmit" value="Ara"/>
-                </div>
-              </form>
+              <label class="screen-reader-text" for="s">Arama:</label>
+              <iframe src="https://duckduckgo.com/search.html?site=nezihuzel.net&prefill=Ara" style="overflow:hidden;margin:0;padding:0;width:200px;height:40px;" frameborder="0"></iframe>
             </li>
             <li id="archives-2" class="widget-container widget_archive">
               <h3 class="widget-title">Arşivler</h3>
               <ul>
-                <li><a href='/2012/05/'>Mayıs 2012</a></li>
+                <li><a href="/2012/05/">Mayıs 2012</a></li>
               </ul>
             </li>
             <li id="categories-2" class="widget-container widget_categories">
@@ -73,7 +68,7 @@
                 {% for category in collections.categories %}
 
                 <li class="cat-item cat-item-2">
-                  <a href="/category/{{ category.slug }}/">{{ category.title }}</a>
+                  <a href="/category/{{ category.slug }}/">{{ category.title }} ({{ category.totalCount }})</a>
                 </li>
                 {% endfor %}
               </ul>

@@ -2,7 +2,7 @@
 title: "Zürefa Şakir evlenecek"
 date: "2007-01-07"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
                                      **![000024-girafe.jpg](/uploads/2007/01/000024-girafe.jpg)**

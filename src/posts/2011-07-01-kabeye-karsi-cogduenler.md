@@ -2,7 +2,7 @@
 title: "Kâbe'ye karşı Çöğdürenler"
 date: "2011-07-01"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 (Arşiv'den ilk yayınlanma 18 Kasım 2006)

@@ -2,7 +2,7 @@
 title: "Kimseyi  ağlatma çocuğum"
 date: "2009-11-23"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **![](/uploads/image/aglayan-cocuk.jpg)**

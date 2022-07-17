@@ -2,7 +2,7 @@
 title: "Ne İstersen ol !"
 date: "2008-12-20"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 [![yusufcuk.jpg](/uploads/2008/12/yusufcuk.jpg)](/uploads/2008/12/yusufcuk.jpg "yusufcuk.jpg")

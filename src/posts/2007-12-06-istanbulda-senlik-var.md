@@ -2,7 +2,7 @@
 title: "İstanbul’da şenlik var"
 date: "2007-12-06"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![yaris.jpg](/uploads/2007/12/yaris.jpg)](/uploads/2007/12/yaris.jpg "yaris.jpg")

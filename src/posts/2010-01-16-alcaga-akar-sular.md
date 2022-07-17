@@ -2,7 +2,7 @@
 title: "Alçağa akar sular"
 date: "2010-01-16"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **![](/uploads/image/eylem(1).jpg)**

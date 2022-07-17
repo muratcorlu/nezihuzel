@@ -2,7 +2,7 @@
 title: "Fikir Babalığı suçu"
 date: "2008-03-24"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **[![26650.jpg](/uploads/2008/03/26650.jpg)](/uploads/2008/03/26650.jpg "26650.jpg")**

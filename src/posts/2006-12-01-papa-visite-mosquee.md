@@ -2,7 +2,7 @@
 title: "Papa visite mosquée (Papa Cami'ye girdi)"
 date: "2006-12-01"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 **Benoît XVI multiplie les gestes de réconciliation ÃƒÂ  Istanbul**

@@ -2,7 +2,7 @@
 title: "Devran  Erbab-ı safânındır"
 date: "2011-12-10"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![galip.jpg](/uploads/2011/12/galip.jpg)](/uploads/2011/12/galip.jpg "galip.jpg") _Şeyh Galip (1757-1799)_

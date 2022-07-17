@@ -2,7 +2,7 @@
 title: "Ülke yıkmak kolaydır"
 date: "2009-12-15"
 categories: 
-  - "altin-sorular"
+  - Altın Sorular
 ---
 
 _![](/uploads/image/Ataturk__.jpg)  

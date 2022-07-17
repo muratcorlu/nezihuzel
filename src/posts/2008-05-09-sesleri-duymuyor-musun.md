@@ -2,7 +2,7 @@
 title: "Sesleri duymuyor musun ?"
 date: "2008-05-09"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
                                           [![31.bmp](/uploads/2008/05/31.bmp)](/uploads/2008/05/31.bmp "31.bmp") 

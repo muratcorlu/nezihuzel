@@ -2,10 +2,10 @@
 title: "Olur’la Olmaz  Büyüdüler"
 date: "2007-11-11"
 categories: 
-  - "olurla-olmaz-muhabbeti"
+  - Olurla Olmaz Muhabbeti
 ---
 
-                                              [![ikizler_thumbnail.gif](/uploads/2007/11/ikizler_thumbnail.thumbnail.gif)](/uploads/2007/11/ikizler_thumbnail.gif "ikizler_thumbnail.gif")
+                                              [![ikizler_thumbnail.gif](/uploads/2007/11/ikizler_thumbnail.gif)](/uploads/2007/11/ikizler_thumbnail.gif "ikizler_thumbnail.gif")
 
 Olur’la olmaz **ikizdi**. Onbir yaşındaydılar Bir gecede **büyüdüler…** Saçlarına **ak** düştü, bellerine **kurak** düştü. Nâzik bedenleri **yamuldu,** gözleri **yumuldu.** Dudakları **buruldu**, kafaları **kuruldu**. Bacakları **çarpık,** paçaları **yırtık,** giysileri **pırtık.** İşleri **çetrefil,** kimse olmaz onlara **kefil.** Yandaşları hep **sefil,**  saksıda kurumuş **karanfil**, Bunlar **hasta,** komşular **yasta****.** Sırtları **açık,** her ikisi de doğuştan **kaçık**. Karınları **aç,** ruhları sevgiye **muhtaç**,
 

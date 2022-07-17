@@ -2,7 +2,7 @@
 title: "Eşek Arıları saldırdı"
 date: "2006-11-18"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![esek.bmp](/uploads/2006/11/esek.bmp)

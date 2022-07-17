@@ -2,7 +2,7 @@
 title: "Dost gözünde Ben"
 date: "2011-12-03"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![ben-ankara-ayin.jpg](/uploads/2011/12/ben-ankara-ayin-4.jpg)](/uploads/2011/12/ben-ankara-ayin-4.jpg "ben-ankara-ayin.jpg") (Bir biografi denemesi)

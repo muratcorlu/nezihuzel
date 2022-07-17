@@ -2,7 +2,7 @@
 title: "Gel Dost'a gidelim"
 date: "2008-01-25"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **[![ebru_sanat_le_yaplm_krmz_gl.jpg](/uploads/2008/01/ebru_sanat_le_yaplm_krmz_gl.jpg)](/uploads/2008/01/ebru_sanat_le_yaplm_krmz_gl.jpg "ebru_sanat_le_yaplm_krmz_gl.jpg")**

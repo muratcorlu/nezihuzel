@@ -2,7 +2,7 @@
 title: "Türk mutfağında şarap"
 date: "2009-04-07"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/sarap1.jpg)

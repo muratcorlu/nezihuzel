@@ -2,7 +2,7 @@
 title: "Canını sivrisineğe verdi"
 date: "2009-03-27"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
   

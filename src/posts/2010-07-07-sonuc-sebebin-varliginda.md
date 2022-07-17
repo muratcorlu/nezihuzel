@@ -2,7 +2,7 @@
 title: "Sonuç Sebeb'in Varlığında"
 date: "2010-07-07"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![gul.jpg](/uploads/2010/07/gul-1.jpg)](/uploads/2010/07/gul-1.jpg "gul.jpg")

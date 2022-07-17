@@ -2,7 +2,7 @@
 title: "Aranızdaki Mevlânâ kim ?"
 date: "2009-01-12"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana.jpg](/uploads/2009/01/mevlana.jpg)](/uploads/2009/01/mevlana.jpg "mevlana.jpg")

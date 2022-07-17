@@ -2,7 +2,7 @@
 title: "Ne Olursan ol"
 date: "2007-12-18"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **[![whirlingdervish.jpg](/uploads/2007/12/whirlingdervish.jpg)](/uploads/2007/12/whirlingdervish.jpg "whirlingdervish.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 

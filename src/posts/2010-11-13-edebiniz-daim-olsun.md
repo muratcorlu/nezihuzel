@@ -2,7 +2,7 @@
 title: "Edebiniz daim olsun"
 date: "2010-11-13"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![sari-gul-1.jpg](/uploads/2010/11/sari-gul-1.jpg)](/uploads/2010/11/sari-gul-1.jpg "sari-gul-1.jpg")

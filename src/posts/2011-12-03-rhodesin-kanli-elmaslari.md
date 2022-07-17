@@ -2,7 +2,7 @@
 title: "Rhodes’in kanlı elmasları"
 date: "2011-12-03"
 categories: 
-  - "muhtasar-dunya-hikayeleri"
+  - Muhtasar Dünya Hikayaleri
 ---
 
 [![saf-elmas.jpg](/uploads/2011/12/saf-elmas.jpg)](/uploads/2011/12/saf-elmas.jpg "saf-elmas.jpg") (Tarihten ibretli kesintiler) (Arşiv’den) 19. yüzyılın ikinci yarısında Illuminati Şebekesi'nin en çok öne çıkan adı, Cecil John Rhodes adlı İngiliz siyasetçidir. Bu kişi, Güney Afrika'yı tümüyle yerlilerin ellerinden alarak sömürgeciliğin kontrolüne sokan adamdır. Güney Afrika topraklarını aynı zamanda oldukça insafsızca yönetmiş ve çıkardığı fitnelerle yerli halktan pek çok insanın kırılmasına sebep olmuştur.

@@ -2,7 +2,7 @@
 title: "Habercinin dayanılmaz hafifliği"
 date: "2010-02-07"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/azer.jpg)

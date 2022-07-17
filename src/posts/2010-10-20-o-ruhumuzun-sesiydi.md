@@ -2,7 +2,7 @@
 title: "O, ruhumuzun sesiydi"
 date: "2010-10-20"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![munir.jpg](/uploads/2010/10/munir.jpg)](/uploads/2010/10/munir.jpg "munir.jpg") _**Münir Nureddin** Harbiye, Mart 1968 Foto: Nezih Uzel_

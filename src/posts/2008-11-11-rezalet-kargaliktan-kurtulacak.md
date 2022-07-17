@@ -2,7 +2,7 @@
 title: "Rezalet kargalıktan kurtulacak"
 date: "2008-11-11"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![karga.jpg](/uploads/2008/11/karga.jpg)](/uploads/2008/11/karga.jpg "karga.jpg")

@@ -2,7 +2,7 @@
 title: "Kenyalı köylü çocuğu"
 date: "2008-11-11"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![031808obama.jpg](/uploads/2008/11/031808obama.jpg)](/uploads/2008/11/031808obama.jpg "031808obama.jpg")Â Â Â Â Â Â Â Â 

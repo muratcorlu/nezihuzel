@@ -2,7 +2,7 @@
 title: "Paris'te hayat başkadır"
 date: "2009-08-06"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/paris gece.jpg)

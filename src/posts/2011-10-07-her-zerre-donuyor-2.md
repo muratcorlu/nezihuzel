@@ -2,7 +2,7 @@
 title: "her Zerre Dönüyor"
 date: "2011-10-07"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![tell4thing1blogspotcom-how-to-meditation.jpg](/uploads/2011/10/tell4thing1blogspotcom-how-to-meditation.jpg)](/uploads/2011/10/tell4thing1blogspotcom-how-to-meditation.jpg "tell4thing1blogspotcom-how-to-meditation.jpg")

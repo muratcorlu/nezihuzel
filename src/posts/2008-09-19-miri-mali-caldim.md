@@ -2,7 +2,7 @@
 title: "Miri Malı çaldım"
 date: "2008-09-19"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [](/uploads/2008/09/galip.jpg "galip.jpg")  [![galata_me__.jpg](/uploads/2008/09/galata_me__.jpg)](/uploads/2008/09/galata_me__.jpg "galata_me__.jpg")  

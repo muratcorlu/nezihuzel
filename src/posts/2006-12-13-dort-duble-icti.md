@@ -2,7 +2,7 @@
 title: "dört duble içti"
 date: "2006-12-13"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](http://www.hurriyet.com.tr/_newsimages/2440744.jpg)  **Dört duble içti, 11 araç biçti

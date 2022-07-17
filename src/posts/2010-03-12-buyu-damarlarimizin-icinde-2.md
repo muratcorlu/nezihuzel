@@ -2,7 +2,7 @@
 title: "Büyü damarlarımızın içinde"
 date: "2010-03-12"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/molla.jpg)

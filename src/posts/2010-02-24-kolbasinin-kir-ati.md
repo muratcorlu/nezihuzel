@@ -2,7 +2,7 @@
 title: "Kolbaşı’nın kır atı"
 date: "2010-02-24"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/BEYAZAT2.jpg)

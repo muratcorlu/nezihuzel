@@ -2,7 +2,7 @@
 title: "İnsan nasıl çıldırır ?"
 date: "2009-03-30"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/tayy.jpg)

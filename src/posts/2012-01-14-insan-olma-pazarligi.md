@@ -2,7 +2,7 @@
 title: "İnsan olma   Pazarlığı"
 date: "2012-01-14"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana_62494.jpg](/uploads/2012/01/mevlana_62494.jpg)](/uploads/2012/01/mevlana_62494.jpg "mevlana_62494.jpg")

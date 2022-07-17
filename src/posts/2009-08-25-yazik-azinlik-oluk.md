@@ -2,7 +2,7 @@
 title: "Yazık ! azınlık olduk"
 date: "2009-08-25"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
   **![](/uploads/image/devlet.jpg)  Seksen** yıldan beri ne **dediysek,** tersini söylediler:  

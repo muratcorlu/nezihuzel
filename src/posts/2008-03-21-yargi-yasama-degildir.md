@@ -2,7 +2,7 @@
 title: "Yargı Yasama Değildir"
 date: "2008-03-21"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **Aşağıdaki bildiri** **dün** **yayınlandı:** 

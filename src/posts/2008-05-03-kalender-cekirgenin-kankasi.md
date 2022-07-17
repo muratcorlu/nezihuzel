@@ -2,7 +2,7 @@
 title: "Kalender Çekirge’nin Kankası"
 date: "2008-05-03"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 **[![cekirge_0005.jpg](/uploads/2008/05/cekirge_0005.jpg)](/uploads/2008/05/cekirge_0005.jpg "cekirge_0005.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 

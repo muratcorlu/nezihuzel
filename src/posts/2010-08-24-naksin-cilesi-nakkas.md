@@ -2,11 +2,11 @@
 title: "Nakşın çilesi Nakkaş"
 date: "2010-08-24"
 categories: 
-  - "altin-sorular"
-  - "dervish"
+  - Altın Sorular
+  - Dervish
 ---
 
-[![nakis-i.jpeg](/uploads/2010/08/nakis-i.thumbnail.jpeg)](/uploads/2010/08/nakis-i.jpeg "nakis-i.jpeg")
+[![nakis-i.jpeg](/uploads/2010/08/nakis-i.jpeg)](/uploads/2010/08/nakis-i.jpeg "nakis-i.jpeg")
 
 [](/uploads/2010/08/nakis-i.jpeg "nakis-i.jpeg")Nakkaş ki **nakşında** gizledi kendini Eliyle taktı **boynuna** kendi kemendini
 

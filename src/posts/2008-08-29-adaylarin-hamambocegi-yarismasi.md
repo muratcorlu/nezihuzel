@@ -2,7 +2,7 @@
 title: "Adayların hamamböceği yarışması"
 date: "2008-08-29"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 [![75982135us71.jpg](/uploads/2008/08/75982135us71.jpg)](/uploads/2008/08/75982135us71.jpg "75982135us71.jpg")

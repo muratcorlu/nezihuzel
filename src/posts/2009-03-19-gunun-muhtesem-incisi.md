@@ -2,7 +2,7 @@
 title: "Günün muhteşem incisi"
 date: "2009-03-19"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **Afgan   halkı**  yabancı  güçleri **işgal  kuvveti**  olarak  görüyor  

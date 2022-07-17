@@ -2,7 +2,7 @@
 title: "herkes Konya'ya gitti"
 date: "2011-03-06"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![konya.jpg](/uploads/2011/03/konya.jpg)](/uploads/2011/03/konya.jpg "konya.jpg")       Konya'da Elli Yıl (1)

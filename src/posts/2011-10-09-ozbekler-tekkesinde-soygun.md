@@ -2,7 +2,7 @@
 title: "Özbekler Tekkesi'nde Soygun"
 date: "2011-10-09"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![images.jpg](/uploads/2011/10/images.jpg)](/uploads/2011/10/images.jpg "images.jpg")

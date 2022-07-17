@@ -2,7 +2,7 @@
 title: "Banka’nın camındaki tekme"
 date: "2009-10-07"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/cam.jpg)

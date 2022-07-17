@@ -2,7 +2,7 @@
 title: "Adliye ihtilâl yaptı"
 date: "2008-03-17"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 Neredeyse **ülke** insanlarının yarısından **oy** alarak iktidara gelmiş bir **siyasi partiyi** kapatmaya kalkışmak ve **yönetici** kadrosuna **siyaset yasağı** istemek bir **ihtilâl** alâmetidir. Bunu ancak **silahlı** bir hükümet **darbesi** başarabilir.

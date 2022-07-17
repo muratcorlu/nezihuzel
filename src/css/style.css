@@ -640,6 +640,9 @@ div.menu li {
   text-align: left;
   width: 33%;
 }
+.entry-content img {
+  max-width: 100%;
+}
 .page-link {
   clear: both;
   color: #000;

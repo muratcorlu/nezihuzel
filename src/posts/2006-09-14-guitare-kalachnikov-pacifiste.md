@@ -2,7 +2,7 @@
 title: "Guitare-kalachnikov pacifiste"
 date: "2006-09-14"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 [![kitar-kalas.jpg](/uploads/2006/09/kitar-kalas.kucukresim.jpg)](http://fr.fc.yahoo.com/c/colombie.html)

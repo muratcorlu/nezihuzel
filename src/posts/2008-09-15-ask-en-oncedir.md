@@ -2,7 +2,7 @@
 title: "Aşk en öncedir"
 date: "2008-09-15"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana.jpg](/uploads/2008/09/mevlana.jpg)](/uploads/2008/09/mevlana.jpg "mevlana.jpg")

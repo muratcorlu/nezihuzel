@@ -2,7 +2,7 @@
 title: "Süslü Sosyete hanımları"
 date: "2010-02-28"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/kermes.jpg)

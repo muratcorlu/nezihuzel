@@ -2,7 +2,7 @@
 title: "Halklara Karşı Savaş"
 date: "2006-11-15"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![yusuf-askar.jpg](/uploads/2006/11/yusuf-askar-2.jpg)İsrail**,** çevresindeki devletleri politik **sindirmeyle** dize getirdikten sonra henüz alt edemediği **halklara** saldırıyor. Bu politika **Siyonistler** tarafından bir **siyasi doktrin** olarak bir süre önce ortaya atıldı ve **11 eylülden sonra** adı "**terörizme karşı savaş**" olarak belirlendi**. İngilizce** ve **Fransızca** aslını verdiğim reportaj**'**da **Lübnan'da** yetişmiş değerli bir **siyaset** bilimci ve Laik bir Parti'nin eski lideri **Yusuf Aşkar** bunları söylüyor.

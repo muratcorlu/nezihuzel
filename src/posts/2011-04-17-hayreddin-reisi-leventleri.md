@@ -2,7 +2,7 @@
 title: "Hayreddin Reis'in Leventleri"
 date: "2011-04-17"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![barbaros1.jpg](/uploads/2011/04/barbaros1.jpg)](/uploads/2011/04/barbaros1.jpg "barbaros1.jpg")

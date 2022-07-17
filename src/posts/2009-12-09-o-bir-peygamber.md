@@ -2,7 +2,7 @@
 title: "O bir Peygamber"
 date: "2009-12-09"
 categories: 
-  - "altin-sorular"
+  - Altın Sorular
 ---
 
 _![](/uploads/image/dua_.jpg)  

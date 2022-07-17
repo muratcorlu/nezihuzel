@@ -2,7 +2,7 @@
 title: "Sus ve dinle"
 date: "2008-12-22"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![arpa.jpg](/uploads/2008/12/arpa.jpg)](/uploads/2008/12/arpa.jpg "arpa.jpg")

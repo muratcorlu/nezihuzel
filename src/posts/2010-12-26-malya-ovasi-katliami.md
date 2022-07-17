@@ -2,7 +2,7 @@
 title: "Malya Ovası katliamı"
 date: "2010-12-26"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![baba-ilyas.jpg](/uploads/2010/12/baba-ilyas.jpg)](/uploads/2010/12/baba-ilyas.jpg "baba-ilyas.jpg")
@@ -29,7 +29,7 @@ Devlet erki giderek kayboluyordu.. Halk şehirlerde dehşet içinde kaldı.  İ
 
 _Olağanüstü bir yürüyüştü. Yollar insan kaynıyordu. Anadolu bir sel olmuş Amasya’ya doğru çağlıyordu. Yollara dökülmüş büyük kalabalıklar engel ve sınır tanımadan pirlerine doğru akıp gidiyorlardı. Önlerine çıkan Selçuklu ordularını önce Samsat’da, Adıyaman-Gerger’de, Kahta’da, sonra Malatya’da, Elbistan’da ve Sivas’da peş peşe, defalarca bozguna uğrattılar._
 
- [![malya-ovasi.jpeg](/uploads/2010/12/malya-ovasi.thumbnail.jpeg) Malya Ovası](/uploads/2010/12/malya-ovasi.jpeg "malya-ovasi.jpeg")
+ [![malya-ovasi.jpeg](/uploads/2010/12/malya-ovasi.jpeg) Malya Ovası](/uploads/2010/12/malya-ovasi.jpeg "malya-ovasi.jpeg")
 
 _Amasy__a önlerine geldiklerinde kara haberi duydular: Baba İlyas, güzel dost, ulu mürşit; Hıristiyan aristokratları tarafından pusuya düşürülmüş ve boğularak öldürülmüştü. Aleviler bu katlanılmaz felaket haberi ile birlikte Amasya önlerine mevzilenmiş büyük bir Selçuklu ordusuna saldırıp koca orduyu tarumar ettikten sonra Konya’ya doğru yürüyüşe geçtiler. Bu defa önlerine Kırşehir’in kuzeydoğusunda, Seyfe Gölü’nün kıyısında, Malya Ovası’nda çok kalabalık bir birleşik ordu çıktı.İttifak ordusunun merkezinde zırhlı Frenk askerleri vardı. Sağ ve sol cenahlar Selçuklular, Araplar, Kürtler ve Gürcüler tarafından tutulmuştu. İttifak ordusunun askerleri tam donanımlıydılar._
 

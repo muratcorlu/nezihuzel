@@ -2,7 +2,7 @@
 title: "düşünce okuyan Bilgisayar"
 date: "2009-11-22"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
   **![](/uploads/image/Bilgisaya.jpg)  Villeurbanne**, France - A l'occasion de la fête de la **science**, l'espace **Double Mixte** de **Villeurbanne** présente un nouveau **concept** : un logiciel permettant d'**écrire** par sa simple **pensée.**

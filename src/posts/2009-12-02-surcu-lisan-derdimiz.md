@@ -2,7 +2,7 @@
 title: "Sürçü lisan derdimiz"
 date: "2009-12-02"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **![](/uploads/image/romacj6.jpg)**

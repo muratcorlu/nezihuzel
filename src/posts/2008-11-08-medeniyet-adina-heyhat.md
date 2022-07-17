@@ -2,7 +2,7 @@
 title: "Medeniyet adına heyhat !"
 date: "2008-11-08"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **[![bush.jpg](/uploads/2008/11/bush.jpg)](/uploads/2008/11/bush.jpg "bush.jpg")**

@@ -2,7 +2,7 @@
 title: "Kimsenin azdırma perisini"
 date: "2009-10-20"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/peri.jpg)

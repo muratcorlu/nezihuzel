@@ -2,7 +2,7 @@
 title: "Devlet yere indi"
 date: "2009-11-11"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/keci.jpg)

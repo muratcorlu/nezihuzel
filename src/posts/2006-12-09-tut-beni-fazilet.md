@@ -2,7 +2,7 @@
 title: "Tut beni Fazilet"
 date: "2006-12-09"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![karga.jpg](/uploads/2006/12/karga.jpg)](/uploads/2006/12/karga.jpg "karga.jpg")

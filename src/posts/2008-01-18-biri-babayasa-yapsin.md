@@ -2,7 +2,7 @@
 title: "Biri Babayasa yapsın"
 date: "2008-01-18"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
                 **[![1225.jpg](/uploads/2008/01/1225.jpg)](/uploads/2008/01/1225.jpg "1225.jpg")**

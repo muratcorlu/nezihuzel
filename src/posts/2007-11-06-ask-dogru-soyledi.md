@@ -2,7 +2,7 @@
 title: "Aşk doğru söyledi"
 date: "2007-11-06"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 Â 

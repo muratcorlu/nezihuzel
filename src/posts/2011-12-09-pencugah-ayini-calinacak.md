@@ -2,7 +2,7 @@
 title: "Pençügâh âyini çalınacak"
 date: "2011-12-09"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![ayin.jpg](/uploads/2011/12/ayin.jpg)](/uploads/2011/12/ayin.jpg "ayin.jpg")

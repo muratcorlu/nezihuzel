@@ -2,7 +2,7 @@
 title: "Söz Silahtan İleridir."
 date: "2012-02-22"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![usame.jpg](/uploads/2012/02/usame.jpg)](/uploads/2012/02/usame.jpg "usame.jpg")

@@ -2,7 +2,7 @@
 title: "Americaniser le monde"
 date: "2007-01-14"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 [![2320073428_53985fd9f1_m.jpg](/uploads/2008/06/2320073428_53985fd9f1_m.jpg)](/uploads/2008/06/2320073428_53985fd9f1_m.jpg "2320073428_53985fd9f1_m.jpg")

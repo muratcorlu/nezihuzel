@@ -2,7 +2,7 @@
 title: "Yandım ya Şeyh"
 date: "2008-09-20"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![gul.jpg](/uploads/2008/09/gul.jpg)](/uploads/2008/09/gul.jpg "gul.jpg")

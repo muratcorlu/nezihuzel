@@ -2,7 +2,7 @@
 title: "Söz süngünün ucunda"
 date: "2010-02-23"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![](/uploads/image/osmanliordu141801ab4.jpg)

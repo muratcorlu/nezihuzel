@@ -2,7 +2,7 @@
 title: "İşte yetmiş beş yıl"
 date: "2011-07-02"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![bne.JPG](/uploads/2011/07/bne.jpg)](/uploads/2011/07/bne.jpg "bne.JPG") 75 yıl geride kaldı. Dünyaya geleli 75 yıl olmuş.. Bunca zaman yaşamışlığın bir şerefi ve sevinci olmalı. Bunca yıl insanoğlu için bir şeyler yapabilme olanağına sahip bulunmanın gururunu duymalı. İyi yaşamalı, yere sağlam basmalı, adamın kalbinde derin bir huzur, yaşamında neş'e  olmalı.

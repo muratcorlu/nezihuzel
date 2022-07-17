@@ -2,7 +2,7 @@
 title: "Devletin Üç kuvveti"
 date: "2008-01-24"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![earlypic.jpg](/uploads/2008/01/earlypic.jpg)](/uploads/2008/01/earlypic.jpg "earlypic.jpg")

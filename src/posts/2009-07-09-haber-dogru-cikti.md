@@ -2,7 +2,7 @@
 title: "Haber Doğru çıktı"
 date: "2009-07-09"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/nur4cn_1_.jpg)

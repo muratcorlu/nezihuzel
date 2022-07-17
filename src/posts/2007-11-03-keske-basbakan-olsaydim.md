@@ -2,7 +2,7 @@
 title: "Keşke Başbakan Olsaydım"
 date: "2007-11-03"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![images.jpg](/uploads/2007/11/images.jpg)](/uploads/2007/11/images.jpg "images.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

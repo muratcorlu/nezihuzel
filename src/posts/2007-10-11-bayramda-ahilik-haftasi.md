@@ -2,7 +2,7 @@
 title: "Bayram'da Âhîlik Haftası"
 date: "2007-10-11"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![](/uploads/image/hnkarjn8.jpg)

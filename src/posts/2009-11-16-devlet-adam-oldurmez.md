@@ -2,7 +2,7 @@
 title: "Devlet adam öldürmez"
 date: "2009-11-16"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 ![](/uploads/image/eylem.jpg)  Genellikle **insan hayatını** korumak üzere düzenlenmiş olan **devlet kuruluşu** adam öldürmez. Bu eşyanın **tabiyatına** aykırı ve dünyanın **gidişatına** terstir. Ancak devletler yönettikleri **ülkelerin** halkına **can güvenliği** sağlamak üzere bir **dizi** tedbirler aldıkları sırada, bu can **güvenliğini** tehdid eden unsurları **temizlemek** hakkına da sahiptirler. . Bunun adı “**hikmet-i hükümettir**”

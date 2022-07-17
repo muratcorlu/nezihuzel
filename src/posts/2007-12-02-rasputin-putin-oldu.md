@@ -2,7 +2,7 @@
 title: "Rasputin Putin oldu"
 date: "2007-12-02"
 categories: 
-  - "destur"
+  - Destur
 ---
 
   [![180px-rasputin_pt.jpg](/uploads/2007/12/180px-rasputin_pt.jpg)](/uploads/2007/12/180px-rasputin_pt.jpg "180px-rasputin_pt.jpg")  [![4104ve7.jpg](/uploads/2007/12/4104ve7.jpg)](/uploads/2007/12/4104ve7.jpg "4104ve7.jpg")

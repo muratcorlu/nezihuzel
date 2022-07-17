@@ -2,7 +2,7 @@
 title: "Beni kaça sattın ?"
 date: "2008-11-11"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![gercek_sevgi.jpg](/uploads/2008/11/gercek_sevgi.jpg)](/uploads/2008/11/gercek_sevgi.jpg "gercek_sevgi.jpg")

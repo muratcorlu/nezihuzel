@@ -2,7 +2,7 @@
 title: "İstanbul'da bir Gün"
 date: "2008-03-30"
 categories: 
-  - "kaptanin-seyir-defteri"
+  - Kaptanın Seyir Defteri
 ---
 
 [![p1020681ak11.jpg](/uploads/2008/03/p1020681ak11.jpg)](/uploads/2008/03/p1020681ak11.jpg "p1020681ak11.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

@@ -2,7 +2,7 @@
 title: "Fisk ü fücur cümbüşü"
 date: "2011-02-27"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
   [![1.jpg](/uploads/2011/02/1.jpg)](/uploads/2011/02/1.jpg "1.jpg")  [![2.jpg](/uploads/2011/02/2.jpg)](/uploads/2011/02/2.jpg "2.jpg")[![4.jpg](/uploads/2011/02/4.jpg)](/uploads/2011/02/4.jpg "4.jpg")
@@ -41,7 +41,7 @@ Tarihçi ve hukukçu büyük devlet adamı Ahmet Cevdet paşa da Fransız devrim
 
 [![murrr.jpg](/uploads/2011/02/murrr.jpg)](/uploads/2011/02/murrr.jpg "murrr.jpg")Devrimin gidişatından kuşkuya kapılıp sonradan fikir değiştirmesine rağmen Fransız ihtilalinin en heyecanlı savunucularından biri Sultan Aziz döneminin ünlü gazetecilerinden Mizancı Murat bey dir. Murat Bey “Tarihi Umumi” isimli eserinde devrimin geniş bir tarifini yapar.  Rıza Tevfik'e göre Murat Bey Mektebi Mülkiye'deki derslerinde devrimi öylesine canlandırarak anlatırmış ki, öğrenciler boş zamanlarında Danton, Marat, Robespierre gibi devrim öncülerinin kişiliklerine bürünerek kendi aralarında oyunlar oynarlarmış. Ancak parlemento sistemi ve “milli hakimiyet” prensibine "ümmül habais: kötülükler anası" diyerek dirsek çevirecek olan aynı Murat bey, daha sonra “devleti asiller  yönetir, sokakta koşuşan serserilere devlet teslim edilemez” diyecektir.
 
-[![bbb.jpeg](/uploads/2011/02/bbb.thumbnail.jpeg)](/uploads/2011/02/bbb.jpeg "bbb.jpeg")Büyük Fransız devrimi sırasında İstanbul ‘da yaşayan Hırıstiyan azınlıklar arasında devrimi tanımayanlar da vardı:  İstanbul’da  Galata’da bulunan St. Benoit kilisesinin Lazarist rahipleri, devrimin Fransız elçisi tarafından kiliseden uzaklaştırılmıştı. Rahipler kendilerinin Fransa’ya bağlı olmadıklarını ve Osmanlı teb’ası sayıldıklarını ifade ettiler. İddiaları kabul edildi ve St. Benoit’nın Lazarist rahipleri Babaıali’nin himayesinde kiliselerine geri döndüler. Osmanlı devleti İstanbul Hırıstiyan Latin cemaatini, kendi vatandaşı  kabul etmişti.
+[![bbb.jpeg](/uploads/2011/02/bbb.jpeg)](/uploads/2011/02/bbb.jpeg "bbb.jpeg")Büyük Fransız devrimi sırasında İstanbul ‘da yaşayan Hırıstiyan azınlıklar arasında devrimi tanımayanlar da vardı:  İstanbul’da  Galata’da bulunan St. Benoit kilisesinin Lazarist rahipleri, devrimin Fransız elçisi tarafından kiliseden uzaklaştırılmıştı. Rahipler kendilerinin Fransa’ya bağlı olmadıklarını ve Osmanlı teb’ası sayıldıklarını ifade ettiler. İddiaları kabul edildi ve St. Benoit’nın Lazarist rahipleri Babaıali’nin himayesinde kiliselerine geri döndüler. Osmanlı devleti İstanbul Hırıstiyan Latin cemaatini, kendi vatandaşı  kabul etmişti.
 
 [![8.jpg](/uploads/2011/02/8.jpg)](/uploads/2011/02/8.jpg "8.jpg")
 

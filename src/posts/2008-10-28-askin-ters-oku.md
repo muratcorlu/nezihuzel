@@ -2,7 +2,7 @@
 title: "Aşkın ters oku"
 date: "2008-10-28"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 [![eros.jpg](/uploads/2008/10/eros.jpg)](/uploads/2008/10/eros.jpg "eros.jpg")

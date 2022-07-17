@@ -2,7 +2,7 @@
 title: "Kahraman  Ölüm  tüccarları"
 date: "2009-11-15"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/mihail-kalasnikof.jpg)  

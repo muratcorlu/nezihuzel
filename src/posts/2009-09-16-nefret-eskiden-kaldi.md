@@ -2,7 +2,7 @@
 title: "Nefret eskiden kaldı"
 date: "2009-09-16"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **_"![](/uploads/image/HectorBroughtBackToTroy.jpg)_**

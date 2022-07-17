@@ -2,7 +2,7 @@
 title: "Bizim ölülerimiz diridir"
 date: "2011-12-11"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![kudretullah-efendi.jpg](/uploads/2011/12/kudretullah-efendi.jpg)](/uploads/2011/12/kudretullah-efendi.jpg "kudretullah-efendi.jpg") (Tarihten İbretli Sayfalar)

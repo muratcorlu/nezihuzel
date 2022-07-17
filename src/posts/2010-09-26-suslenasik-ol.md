@@ -2,7 +2,7 @@
 title: "Süslen,Şık ol"
 date: "2010-09-26"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/2010/09/sari-gul-resmi.jpg)

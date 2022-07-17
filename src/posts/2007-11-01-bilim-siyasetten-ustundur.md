@@ -2,7 +2,7 @@
 title: "Bilim siyasetten üstündür"
 date: "2007-11-01"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![inonue.jpg](/uploads/2007/11/inonue.jpg)](/uploads/2007/11/inonue.jpg "inonue.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

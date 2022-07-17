@@ -2,7 +2,7 @@
 title: "Hayır Senden gelir"
 date: "2008-12-31"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 [![cek.bmp](/uploads/2008/12/cek.bmp)](/uploads/2008/12/cek.bmp "cek.bmp")

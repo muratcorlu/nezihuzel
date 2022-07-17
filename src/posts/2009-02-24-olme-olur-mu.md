@@ -2,7 +2,7 @@
 title: "Ölme olur mu ?"
 date: "2009-02-24"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 O sol gözündeki **pırıltı  

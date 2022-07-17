@@ -2,7 +2,7 @@
 title: "Ben sır saklarım"
 date: "2011-01-09"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![sari_gul_resimleri_110.jpg](/uploads/2011/01/sari_gul_resimleri_110.jpg)](/uploads/2011/01/sari_gul_resimleri_110.jpg "sari_gul_resimleri_110.jpg")

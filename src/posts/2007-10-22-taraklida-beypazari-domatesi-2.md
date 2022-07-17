@@ -2,7 +2,7 @@
 title: "Taraklı’da Beypazarı Domatesi"
 date: "2007-10-22"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![domates-01.jpg](/uploads/2007/10/domates-01.jpg)](/uploads/2007/10/domates-01.jpg "domates-01.jpg")

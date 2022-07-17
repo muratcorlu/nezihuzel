@@ -2,7 +2,7 @@
 title: "Başbakanım ayağa kalk"
 date: "2010-06-25"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [](/uploads/2010/06/3c24b.jpg "3c24b.jpg")[![erdogan.jpg](/uploads/2010/06/erdogan.jpg)](/uploads/2010/06/erdogan.jpg "erdogan.jpg") Türk vatanının savunucularından Gazi Mustafa Kemal Paşa asrın başındaki Çanakkale muharebesinde çarpışmaların en şiddetli bir anında ayağa kalkarak yürüdü. Bir kurşun göğsüne isabet etmişti. Saatini parçaladı. Paşa yaralanmamıştı.

@@ -2,7 +2,7 @@
 title: "Adımızı temize çıkardı"
 date: "2008-12-18"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![bican.jpg](/uploads/2008/12/bican.jpg)](/uploads/2008/12/bican.jpg "bican.jpg")              

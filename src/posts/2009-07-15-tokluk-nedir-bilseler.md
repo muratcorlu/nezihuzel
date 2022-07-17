@@ -2,7 +2,7 @@
 title: "Toklar açlık öğrenemezler"
 date: "2009-07-15"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/ergenc_aclik.jpg)

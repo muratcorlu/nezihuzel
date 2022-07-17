@@ -2,8 +2,8 @@
 title: "Demir donlu Askerler"
 date: "2011-11-27"
 categories: 
-  - "dervish"
-  - "muhtasar-dunya-hikayeleri"
+  - Dervish
+  - Muhtasar Dünya Hikayaleri
 ---
 
 [![sovvvv.jpg](/uploads/2011/11/sovvvv.jpg)](/uploads/2011/11/sovvvv.jpg "sovvvv.jpg")  {Tarihten İbretli kesitler}

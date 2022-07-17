@@ -2,7 +2,7 @@
 title: "Öfkene sabır ekle"
 date: "2008-11-20"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 [![sef.jpg](/uploads/2008/11/sef.jpg)](/uploads/2008/11/sef.jpg "sef.jpg")

@@ -2,7 +2,7 @@
 title: "Hoca'yı sansür ettiler"
 date: "2006-12-30"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 \-Gördün mü **TV programını** ?

@@ -2,7 +2,7 @@
 title: "Lider’in soy ağacı"
 date: "2009-11-02"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **![](/uploads/image/parkotel.jpg)  

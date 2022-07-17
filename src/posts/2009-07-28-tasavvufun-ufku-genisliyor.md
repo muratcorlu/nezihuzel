@@ -2,7 +2,7 @@
 title: "Tasavvufun ufku genişliyor."
 date: "2009-07-28"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **![](/uploads/image/DSCF0164.JPG)**

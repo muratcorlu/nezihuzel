@@ -2,7 +2,7 @@
 title: "Doğruyu Bilmek üzerine"
 date: "2010-02-24"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/beyin.jpg)

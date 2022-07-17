@@ -2,7 +2,7 @@
 title: "Dinasorlar geri geliyor"
 date: "2009-08-25"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 **![](/uploads/image/ceratos(1).jpg)  

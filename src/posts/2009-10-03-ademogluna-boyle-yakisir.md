@@ -2,7 +2,7 @@
 title: "Ademoğlu'na böyle yakışır"
 date: "2009-10-03"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/fuzuli_3.gif)  

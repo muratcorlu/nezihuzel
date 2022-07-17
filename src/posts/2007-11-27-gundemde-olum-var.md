@@ -2,7 +2,7 @@
 title: "Gündemde ölüm var"
 date: "2007-11-27"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![birlesmis_milletler_bm000000.jpg](/uploads/2007/11/birlesmis_milletler_bm000000.jpg)](/uploads/2007/11/birlesmis_milletler_bm000000.jpg "birlesmis_milletler_bm000000.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

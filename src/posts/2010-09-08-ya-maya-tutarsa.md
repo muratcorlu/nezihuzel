@@ -2,7 +2,7 @@
 title: "Ya Maya tutarsa !"
 date: "2010-09-08"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![ekmek_03.jpg](/uploads/2010/09/ekmek_03.jpg)](/uploads/2010/09/ekmek_03.jpg "ekmek_03.jpg")

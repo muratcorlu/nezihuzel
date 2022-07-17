@@ -2,7 +2,7 @@
 title: "Muavin Otobüsü soydu"
 date: "2006-12-18"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **![oto.bmp](/uploads/2006/12/oto.bmp)Ankara'dan Bodrum'a giden, özellikle işadamlarının tercih ettiği Türkiye'nin süper lüks otobüs şirketi VIP'in muavini, yolcuları soydu.**

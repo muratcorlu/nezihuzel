@@ -2,7 +2,7 @@
 title: "Sokağa İş düştü"
 date: "2011-01-28"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
    [![37424_tunus-olaylar-cikti.jpg](/uploads/2011/01/37424_tunus-olaylar-cikti.jpg)](/uploads/2011/01/37424_tunus-olaylar-cikti.jpg "37424_tunus-olaylar-cikti.jpg")[![cailloux_.jpg](/uploads/2011/01/cailloux_.jpg) Tunus, 16 ocak 2011        Süveyş 26 ocak 2011 (_Courtoisie Yahoo_)           (_Courtoisie Paris Match_)](/uploads/2011/01/cailloux_.jpg "cailloux_.jpg")[](/uploads/2011/01/37424_tunus-olaylar-cikti.jpg "37424_tunus-olaylar-cikti.jpg")

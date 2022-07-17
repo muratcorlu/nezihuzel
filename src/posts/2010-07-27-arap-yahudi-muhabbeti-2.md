@@ -2,7 +2,7 @@
 title: "Arap Yahudi Muhabbeti"
 date: "2010-07-27"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![abdullah1.jpg](/uploads/2010/07/abdullah1.jpg)](/uploads/2010/07/abdullah1.jpg "abdullah1.jpg") [![netanyahu1.jpg](/uploads/2010/07/netanyahu1.jpg)](/uploads/2010/07/netanyahu1.jpg "netanyahu1.jpg")                                

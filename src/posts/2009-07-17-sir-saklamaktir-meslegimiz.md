@@ -2,7 +2,7 @@
 title: "Sır saklamaktır mesleğimiz"
 date: "2009-07-17"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/800px-Sympetrum_flaveolum_-_side_(aka)(1).jpg)

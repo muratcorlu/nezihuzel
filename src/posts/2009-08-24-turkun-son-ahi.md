@@ -2,7 +2,7 @@
 title: "Türk'ün son “ah…”ı"
 date: "2009-08-24"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 **![](/uploads/image/melik.jpg)  

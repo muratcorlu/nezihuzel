@@ -2,7 +2,7 @@
 title: "Cefâ'nın adı Aşk"
 date: "2008-09-20"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![240px-higherself.jpg](/uploads/2008/09/240px-higherself.jpg)](/uploads/2008/09/240px-higherself.jpg "240px-higherself.jpg")

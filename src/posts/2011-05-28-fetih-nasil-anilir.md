@@ -2,7 +2,7 @@
 title: "Fetih Nasıl anılır ?"
 date: "2011-05-28"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![fetihcoskusu.jpg](/uploads/2011/05/fetihcoskusu.jpg)](/uploads/2011/05/fetihcoskusu.jpg "fetihcoskusu.jpg")  (Arşiv’den) İstanbul’un fethinin 500. yılında on dört yaşında bir çocuktum. Hatırladığım tek şey ikinci dünya harbinden kalma ışıldakların göklere saldığı ışık huzmeleriydi. Fethin 500. anma gecesinde o ışıktan sütunlar Kız Kulesi üzerinde buluşarak şimdiki laser ışıkları gibi bulutlarla kaynaşıp hoş şekiller yaratmışlardı. Devrin ünlü fotografçısı Macar Othmar’ın bir klişesinde ebedileşen bu manzara, yıllarca akıllardan ve gözlerden silinmedi. O ışıldaklar Alaman savaşında gece İstanbul’u bombardıman etmeye gelecek Messerchimit uçaklarını karanlık gökyüzünde yakalayıp “uçaksavar” toplarına hedef göstermek üzere hazırlanmıştı. Savaş bittiğinde işe yaramaz oldular . Depolara atıldılar. Bazı geceler çıkarılıp İstanbul göklerini süslerlerdi. Fetih gecesinde ise daha başka bir coşkuyla şenliğe katılmışlardı...

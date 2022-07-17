@@ -2,7 +2,7 @@
 title: "Zeval Şafağın müjdesidir*"
 date: "2010-07-27"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![balyoz.jpg](/uploads/2010/07/balyoz.jpg)](/uploads/2010/07/balyoz.jpg "balyoz.jpg")

@@ -2,7 +2,7 @@
 title: "Çatışma İkili Olur"
 date: "2006-09-06"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
   

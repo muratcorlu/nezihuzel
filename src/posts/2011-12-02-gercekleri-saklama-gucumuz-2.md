@@ -2,10 +2,10 @@
 title: "Gerçekleri saklama gücümüz"
 date: "2011-12-02"
 categories: 
-  - "destur"
+  - Destur
 ---
 
-[![korea-medal.JPG](/uploads/2011/12/korea-medal.thumbnail.JPG)](/uploads/2011/12/korea-medal.jpg "korea-medal.JPG") (Arşiv'den)
+[![korea-medal.JPG](/uploads/2011/12/korea-medal.JPG)](/uploads/2011/12/korea-medal.jpg "korea-medal.JPG") (Arşiv'den)
 
 Türkiye ve Türkler hakkında yabancı devletlerin düşüncelerini biz Türk halkına hiç bir zaman söylememişizdir. Ne yazarlarımız, ne çizerlerimiz ne liderlerimiz, ne de devlet adamlarımnız bu konuda hiçbir ip ucu vermemişlerdir. Herşeyin güllük gülistanlık, herkesin Türk dostu ve yeryüzünde yaşayan her kavmin Türke hayran olduğunu yıllar boyu anlatmışlardır.
 

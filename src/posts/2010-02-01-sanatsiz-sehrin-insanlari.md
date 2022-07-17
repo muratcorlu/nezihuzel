@@ -2,7 +2,7 @@
 title: "Sanatsız şehrin insanları"
 date: "2010-02-01"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 _![](/uploads/image/eser.jpg)_

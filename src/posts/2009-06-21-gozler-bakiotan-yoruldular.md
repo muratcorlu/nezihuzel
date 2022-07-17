@@ -2,7 +2,7 @@
 title: "Gözler bakıştan yoruldular"
 date: "2009-06-21"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/bak__lar.jpg)

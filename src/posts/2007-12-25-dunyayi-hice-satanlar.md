@@ -2,7 +2,7 @@
 title: "Dünyayı hiçe satanlar"
 date: "2007-12-25"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mev.jpg](/uploads/2007/12/mev.jpg)](/uploads/2007/12/mev.jpg "mev.jpg")

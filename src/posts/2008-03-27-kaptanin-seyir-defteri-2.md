@@ -2,7 +2,7 @@
 title: "İzmit Bit pazarı"
 date: "2008-03-27"
 categories: 
-  - "kaptanin-seyir-defteri"
+  - Kaptanın Seyir Defteri
 ---
 
 [![kadir.jpg](/uploads/2008/03/kadir.jpg)](/uploads/2008/03/kadir.jpg "kadir.jpg")

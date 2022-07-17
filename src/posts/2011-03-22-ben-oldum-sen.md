@@ -2,7 +2,7 @@
 title: "Ben oldum Sen"
 date: "2011-03-22"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![sari-gul.jpg](/uploads/2011/03/sari-gul-4.jpg)](/uploads/2011/03/sari-gul-4.jpg "sari-gul.jpg")

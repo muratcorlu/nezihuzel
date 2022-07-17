@@ -2,7 +2,7 @@
 title: "Adını Sakınan Kişi"
 date: "2007-10-15"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![yunusemre.jpg](/uploads/2007/10/yunusemre.jpg)](/uploads/2007/10/yunusemre.jpg "yunusemre.jpg")

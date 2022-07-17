@@ -2,7 +2,7 @@
 title: "Aşkın yokluğu nedir ?"
 date: "2010-12-30"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![mevlana.jpg](/uploads/2010/12/mevlana.jpg)](/uploads/2010/12/mevlana.jpg "mevlana.jpg")

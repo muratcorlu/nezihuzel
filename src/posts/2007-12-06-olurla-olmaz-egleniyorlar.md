@@ -2,7 +2,7 @@
 title: "Bu bir Cinnet"
 date: "2007-12-06"
 categories: 
-  - "olurla-olmaz-muhabbeti"
+  - Olurla Olmaz Muhabbeti
 ---
 
          [![seytanevil.jpg](/uploads/2007/12/seytanevil.jpg)](/uploads/2007/12/seytanevil.jpg "seytanevil.jpg")[](/uploads/2007/12/1350-bill-et-tom.jpg "1350-bill-et-tom.jpg") 

@@ -2,7 +2,7 @@
 title: "Ben rezalet karga"
 date: "2008-01-05"
 categories: 
-  - "kargadan-haberler"
+  - Kargadan Haberler
 ---
 
 [![gezi28.jpg](/uploads/2008/01/gezi28.jpg)](/uploads/2008/01/gezi28.jpg "gezi28.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 

@@ -2,7 +2,7 @@
 title: "Beyaz adamın çöküşü"
 date: "2009-01-25"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 ![](/uploads/image/20070309-BarackObama(1).jpg)

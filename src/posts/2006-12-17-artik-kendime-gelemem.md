@@ -2,7 +2,7 @@
 title: "Artık kendime gelemem"
 date: "2006-12-17"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![esir.jpg](/uploads/2006/12/esir.kucukresim.jpg)

@@ -2,7 +2,7 @@
 title: "Pir olmak üzerine"
 date: "2009-11-16"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 ![](/uploads/image/golden_chain.jpg) 

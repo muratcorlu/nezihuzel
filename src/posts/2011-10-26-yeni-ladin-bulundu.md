@@ -2,7 +2,7 @@
 title: "Yeni Ladin Bulundu"
 date: "2011-10-26"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![681874_detay.jpg](/uploads/2011/10/681874_detay.jpg)](/uploads/2011/10/681874_detay.jpg "681874_detay.jpg")World Trade Center faciasından sonra Amerika Cumhurbaşkanı Bush, olayın tüm suçunu eski bir ortağı olan Vahhabî Arap  Usame Bin Ladin’in üzerine yüklemişti. Ladin’in başında bulunduğu “el Kaide” örgütü, Başkanın  başlıca düşmanları arasına girdi. Ancak Amerika Bin Ladin’i yakalamadı. Yakalamayacağı daha ilk günden belliydi.

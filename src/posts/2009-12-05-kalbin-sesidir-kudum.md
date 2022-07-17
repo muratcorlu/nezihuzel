@@ -2,7 +2,7 @@
 title: "Kalbin sesidir kudüm"
 date: "2009-12-05"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 _![](/uploads/image/Kudum.jpg)_

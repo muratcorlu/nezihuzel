@@ -2,7 +2,7 @@
 title: "Büyük kaatil yargılanıyor"
 date: "2009-10-08"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![](/uploads/image/stalin_color.jpg)

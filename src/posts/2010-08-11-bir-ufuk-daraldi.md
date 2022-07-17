@@ -2,7 +2,7 @@
 title: "Bir Ufuk daraldı"
 date: "2010-08-11"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![143sizdengismailcalli-sapancagolu.jpg](/uploads/2010/08/143sizdengismailcalli-sapancagolu.jpg)](/uploads/2010/08/143sizdengismailcalli-sapancagolu.jpg "143sizdengismailcalli-sapancagolu.jpg")

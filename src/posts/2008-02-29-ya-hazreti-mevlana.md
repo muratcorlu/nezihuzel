@@ -2,7 +2,7 @@
 title: "Yâ Hazreti Mevlânâ"
 date: "2008-02-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [](/uploads/2008/03/mrvlana.jpg "mrvlana.jpg")

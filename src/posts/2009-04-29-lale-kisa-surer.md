@@ -2,7 +2,7 @@
 title: "Lale kısa sürer"
 date: "2009-04-29"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/DSC03497.JPG)  

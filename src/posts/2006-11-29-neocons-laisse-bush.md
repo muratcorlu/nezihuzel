@@ -2,7 +2,7 @@
 title: "Neocons laisse Bush (Neocon'lar Bush'u terkediyor)"
 date: "2006-11-29"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 [![adsiz.bmp](/uploads/2006/11/adsiz.bmp)](http://nezihuzel.net/2006/11/29/neocons-laisse-bush/adsizbmp/ "adsiz.bmp")

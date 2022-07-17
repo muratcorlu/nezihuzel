@@ -2,7 +2,7 @@
 title: "sanatçıyı düğüne götürdüler"
 date: "2011-02-06"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 /\* Style Definitions \*/ table.MsoNormalTable {mso-style-name:"Normal Tablo"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;}
@@ -27,7 +27,7 @@ Bir gün üst katlarda oturan bir müzik müdürü fasıl için prova yapılacak
 
 Laf tam yerini bulmuştu, herkes gülüştü. Sonra çalışma başladı. Radyo’da müdürün  yeşil ceketi piyasadaki “müdür beyin yeşil kürkü” türküsü kadar meşhur olmuştu... Onu bir süre sırtından çıkarmadı. Radyo’da alt katta oturan bir başka müdür de yazları kırmızı çizgili bir gömlek giyerdi, o gömleği de onun sırtında her yaz on onbeş yıl kadar görmüştüm.
 
- [![limlim.jpg](/uploads/2011/02/limlim.jpg)](/uploads/2011/02/limlim.jpg "limlim.jpg")[![pata.jpeg](/uploads/2011/02/pata.thumbnail.jpeg)](/uploads/2011/02/pata.jpeg "pata.jpeg")
+ [![limlim.jpg](/uploads/2011/02/limlim.jpg)](/uploads/2011/02/limlim.jpg "limlim.jpg")[![pata.jpeg](/uploads/2011/02/pata.jpeg)](/uploads/2011/02/pata.jpeg "pata.jpeg")
 
 Radyo’larda “islahat projeleri” meşhurdur. Benim bulunduğum yıllarda İstanbul Radyo’suna her gelen müdür hep bir “islahat projesi” ile gelmiştir. Bir gün –Yeni bir müdür geldi, sizinle konuşacak... herkes kantine çıksın, dediler...Oh oh sevindik, limonata içer kuru pasta yeriz dedik... Çünkü her müdür gelişte o  limonatalar içilir, o pastalar yenir, yeni gelen müdürlerin “islahat projeleri” dinlenirdi.. Kantine çıktığımda o dört beş yılda bir masaların üzerine çıkan limonata sürahilerini ve geniş süslü tabaklarda kuru pastaları gördüm... Cam kenarında manzaralı bir yere oturdum. Gitmesen olmaz, laf ederler... Ayrıca eğlenceli oluyor.
 

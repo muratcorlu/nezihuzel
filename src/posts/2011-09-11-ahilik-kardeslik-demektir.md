@@ -2,7 +2,7 @@
 title: "Ahilik kardeşlik demektir"
 date: "2011-09-11"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [](/uploads/2008/11/kkk.bmp "kkk.bmp")

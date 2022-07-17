@@ -2,7 +2,7 @@
 title: "Yeryüzü boş gösteri"
 date: "2008-11-20"
 categories: 
-  - "kalender-cekirge"
+  - Kalender Çekirge
 ---
 
 [![yusufcukk.jpg](/uploads/2008/11/yusufcukk.jpg)](/uploads/2008/11/yusufcukk.jpg "yusufcukk.jpg")

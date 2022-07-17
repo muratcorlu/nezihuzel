@@ -2,7 +2,7 @@
 title: "Bitpazarı'na nur yağıyor"
 date: "2010-02-03"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/DSCF3112.JPG)

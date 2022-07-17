@@ -2,7 +2,7 @@
 title: "İnönü Rahmetli Oldu"
 date: "2007-10-31"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
 [![261900.jpg](/uploads/2007/10/261900.jpg)](/uploads/2007/10/261900.jpg "261900.jpg")

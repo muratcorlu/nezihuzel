@@ -2,7 +2,7 @@
 title: "Can'a sataşan Hayaller"
 date: "2010-01-15"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **![](/uploads/image/ates-alev-resimleri.gif)**

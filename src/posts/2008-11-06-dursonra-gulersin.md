@@ -2,7 +2,7 @@
 title: "Dur…sonra gülersin"
 date: "2008-11-06"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![hayat.jpg](/uploads/2008/11/hayat.jpg)](/uploads/2008/11/hayat.jpg "hayat.jpg")

@@ -2,7 +2,7 @@
 title: "Tüm varlık gölgedir"
 date: "2010-03-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![doga.jpg](/uploads/2010/03/doga.jpg)](/uploads/2010/03/doga.jpg "doga.jpg")

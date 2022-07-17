@@ -2,7 +2,7 @@
 title: "İslam’ın yitik toprağı"
 date: "2011-03-13"
 categories: 
-  - "muhtasar-dunya-hikayeleri"
+  - Muhtasar Dünya Hikayaleri
 ---
 
 /\* Style Definitions \*/ table.MsoNormalTable {mso-style-name:"Normal Tablo"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;}
@@ -59,7 +59,7 @@ Az bir zaman sonra Endülüs Müslümanlarının son şehri Granada düşüp Elh
 
 Endülüs Müslümanları’nın son devleti Nâsırî’ler yenildikten sonra son Nasırî hükümdarı 12. Muhammed Saray’dan ayrılırken ağlıyordu. Yanında bulunan annesi ona dedi ki “Vaktiyle erkek gibi koruyamadığın ülken elinden giderken kadınlar gibi ağlıyorsun”
 
- [![_poitiers.JPG](/uploads/2011/03/poitiers.thumbnail.JPG)](/uploads/2011/03/poitiers.jpg "_poitiers.JPG")Seksenli yılların başında konser vermek üzere iki türk müzisyeni bu gün Fransa’da bulunan Poitier şehrine davet edildiler. Bu şehir İberya yarımadasında Müslümanların gittikleri en son nokta ve son savaşılan yerdi. Müzisyenler tren garında karşılandılar. Heyecanlıydılar. İçlerinden biri  – Yine geldik.. bu defa silahımız yok, müzik aletimiz var, dedi. Karşılayanın tarihsel bilgisi ve zevki yerineydi, hiç aralık vermeden –Böyle gelirseniz ne iyi, başımızın üzerinde yeriniz var, silahlı gelmeyin..dedi.
+ [![_poitiers.JPG](/uploads/2011/03/poitiers.JPG)](/uploads/2011/03/poitiers.jpg "_poitiers.JPG")Seksenli yılların başında konser vermek üzere iki türk müzisyeni bu gün Fransa’da bulunan Poitier şehrine davet edildiler. Bu şehir İberya yarımadasında Müslümanların gittikleri en son nokta ve son savaşılan yerdi. Müzisyenler tren garında karşılandılar. Heyecanlıydılar. İçlerinden biri  – Yine geldik.. bu defa silahımız yok, müzik aletimiz var, dedi. Karşılayanın tarihsel bilgisi ve zevki yerineydi, hiç aralık vermeden –Böyle gelirseniz ne iyi, başımızın üzerinde yeriniz var, silahlı gelmeyin..dedi.
 
 Granada’da döner kebap yapan bir Antepli’ye dedim ki – Buraları bir zaman Arap toprağıymış, neden çekip gitmişler. Adam sükunetle cevap verdi –Kadın ve paraya düşmüşler, Allah bu toprağı ellerinden almış. (Arşiv'den)
 

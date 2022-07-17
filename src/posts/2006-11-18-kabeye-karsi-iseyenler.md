@@ -2,7 +2,7 @@
 title: "Kabe'ye karşı çöğdürenler"
 date: "2006-11-18"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **Müslümanlığın** bu şekli **utanç** vericidir. Eğer buna **Müslümanlık** deniyorsa ben **Müslüman** değilim. **Müslüman**'ın bir **Kâbe**'si vardır. Bir **Kıble**'si vardır, Bir **mihrabı** vardır. Bir **yaşam** biçimi vardır. Milyonla **doları** olmasa da **garip** ve **hüzünlü** bir kalbi vardır. **Müslüman,** çağın yaşanan **rezilliklerinden** rahatsız olur. **Müslüman,** Dünyada en son **aç doymadan**, kendisi doymaz. Müslüman, dünyada en son **çıplak giyinmeden** kendisi giyinmez. Dünyada en son huzursuz **huzur bulmadan** Müslüman **rahata** eremez... Bu **din** bin beş yüz yıl önce dünyaya gelmiş, **dinlerin** sonuncusu, kalp **çırpıntılarının** en muhteşemi, **yaşam biçimlerinin** en ulusu, Ruhsal **sistemlerin** en şereflisidir. **Tanr**ı'nın insanlara son **seslenişidir**.

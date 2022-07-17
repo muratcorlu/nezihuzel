@@ -2,7 +2,7 @@
 title: "Américains attaque Somali"
 date: "2007-01-10"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 attaque d'un avion AC-130 de **l'armée américaine** contre le village de **Hayo**, dans le sud de la **Somalie,** censé abriter des **islamistes**, a fait de nombreux morts lundi soir, apprend-on de **source gouvernementale** somalienne.

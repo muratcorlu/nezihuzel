@@ -2,7 +2,7 @@
 title: "Ufukta Mevlânâ aranıyor"
 date: "2006-12-17"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **![mev1.bmp](/uploads/2007/10/mev1.bmp)**

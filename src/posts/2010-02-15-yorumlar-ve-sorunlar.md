@@ -2,7 +2,7 @@
 title: "Yorumlar ve sorunlar"
 date: "2010-02-15"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/image/tar.jpg)

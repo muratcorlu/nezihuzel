@@ -2,7 +2,7 @@
 title: "Bedenim Gölgemden ibarettir"
 date: "2008-09-29"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![golge2jl0.jpg](/uploads/2008/09/golge2jl0.jpg)](/uploads/2008/09/golge2jl0.jpg "golge2jl0.jpg")

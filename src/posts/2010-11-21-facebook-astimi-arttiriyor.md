@@ -2,7 +2,7 @@
 title: "Facebook astım yapıyor"
 date: "2010-11-21"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 [![cocuklarda-astim-hastaligi.jpg](/uploads/2010/11/cocuklarda-astim-hastaligi.jpg)](/uploads/2010/11/cocuklarda-astim-hastaligi.jpg "cocuklarda-astim-hastaligi.jpg")

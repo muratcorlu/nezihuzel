@@ -2,7 +2,7 @@
 title: "Terör bakanına terör"
 date: "2009-08-28"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
  ![](/uploads/image/suudi.jpg)

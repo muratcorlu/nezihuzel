@@ -2,7 +2,7 @@
 title: "Duyuyor musun Jonathan ?"
 date: "2010-09-15"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 ![](/uploads/2010/09/gelin.jpeg)

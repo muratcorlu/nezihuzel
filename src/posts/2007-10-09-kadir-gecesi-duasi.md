@@ -2,7 +2,7 @@
 title: "Kadir Gecesi Duası"
 date: "2007-10-09"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 **![](/uploads/image/dua_hands(1).jpg)**

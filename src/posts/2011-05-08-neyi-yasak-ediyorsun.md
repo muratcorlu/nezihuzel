@@ -2,7 +2,7 @@
 title: "Neyi yasak ediyorsun"
 date: "2011-05-08"
 categories: 
-  - "destur"
+  - Destur
 ---
 
 [![masolet-kelepce.jpg](/uploads/2011/05/masolet-kelepce.jpg)](/uploads/2011/05/masolet-kelepce.jpg "masolet-kelepce.jpg")

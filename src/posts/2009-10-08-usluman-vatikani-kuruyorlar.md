@@ -2,7 +2,7 @@
 title: "Müslüman Vatikan'ı kuruyorlar"
 date: "2009-10-08"
 categories: 
-  - "altin-sorular"
+  - Altın Sorular
 ---
 
 ![](/uploads/image/fethullah-gulen.jpg)

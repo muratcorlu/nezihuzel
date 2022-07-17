@@ -2,7 +2,7 @@
 title: "Dersimden Dersini aldı"
 date: "2009-03-30"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **![](/uploads/image/imagesa.jpg)**

@@ -2,7 +2,7 @@
 title: "Dünya yıkılırsa Yıkılsın"
 date: "2008-10-08"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![dunya.jpg](/uploads/2008/10/dunya.jpg)](/uploads/2008/10/dunya.jpg "dunya.jpg")

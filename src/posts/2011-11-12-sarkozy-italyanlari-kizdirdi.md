@@ -2,7 +2,7 @@
 title: "&quot;Sarkozy evinde otur&quot;"
 date: "2011-11-12"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 [![sarko.jpg](/uploads/2011/11/sarko.jpg)](/uploads/2011/11/sarko.jpg "sarko.jpg")

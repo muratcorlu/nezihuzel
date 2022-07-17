@@ -2,10 +2,10 @@
 title: "Yasağı mangal’da kızarttılar"
 date: "2008-09-23"
 categories: 
-  - "olurla-olmaz-muhabbeti"
+  - Olurla Olmaz Muhabbeti
 ---
 
-              [![fishing_dawn.gif](/uploads/2008/09/fishing_dawn.thumbnail.gif)](/uploads/2008/09/fishing_dawn.gif "fishing_dawn.gif")
+              [![fishing_dawn.gif](/uploads/2008/09/fishing_dawn.gif)](/uploads/2008/09/fishing_dawn.gif "fishing_dawn.gif")
 
 \-Haydi gidip **balık t**utalım.
 

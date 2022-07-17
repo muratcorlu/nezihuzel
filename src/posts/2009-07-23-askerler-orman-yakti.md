@@ -2,7 +2,7 @@
 title: "Askerler Orman yaktı"
 date: "2009-07-23"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
   

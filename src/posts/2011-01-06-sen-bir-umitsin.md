@@ -2,7 +2,7 @@
 title: "Sen bir ümitsin"
 date: "2011-01-06"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![sari-gul-1.jpg](/uploads/2011/01/sari-gul-1.jpg)](/uploads/2011/01/sari-gul-1.jpg "sari-gul-1.jpg")

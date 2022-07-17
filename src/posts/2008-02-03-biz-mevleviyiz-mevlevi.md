@@ -2,7 +2,7 @@
 title: "Biz Mevlevîyiz, Mevlevî"
 date: "2008-02-03"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 Asra **esef**, her birimiz **Allah Allah** der dilimiz Molla **Hünkârdır** pirimiz, Biz **Mevlevîyiz Mevlevî...**

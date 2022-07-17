@@ -2,7 +2,7 @@
 title: "Nefsi Emmare Gemisi"
 date: "2008-06-07"
 categories: 
-  - "kaptanin-seyir-defteri"
+  - Kaptanın Seyir Defteri
 ---
 
 [](/uploads/2008/06/dsc00462.jpg "dsc00462.JPG")[](/uploads/2008/06/hafz_ali_skdarl.jpg "hafz_ali_skdarl.jpg")[](/uploads/2008/06/dsc00448.jpg "dsc00448.JPG")[![72282.jpg](/uploads/2008/06/72282.jpg)](/uploads/2008/06/72282.jpg "72282.jpg")Â Â 
@@ -25,7 +25,7 @@ Sabah treni beni öğle üzeri **Haydarpaşa**’ya indirdi. **İskele**’de ge
 
 Birkaç dakika sonra gemi **Karaköy** iskelesine yanaşmak üzere **sahile** yaklaşırken rıhtımda **sıra dağlar** gibi dizilmiş “**turis**” gemileri gözüme çarptı. Ama **Allahım**! **Belgrad** kalesine benzer gemiler, bir tanesinin boyu **Galata kulesini** geçiyor, **gökdelen** gibi gemi. **Kat kat** say bitmiyor. Åekli **uğursuz**, estetiği **bozuk**, salınımı **düzensiz.** Gemi değil **su aygırı**…O mubarek **hayvan** bile bundan daha yakışıklı. **Limanı** kirletiyor. Bu nasıl **dik** duruyor ?Â **Rüzgar** kuvvetlense **yan** yatacak.Â Ne **direği** var, ne bacası. **Deni**z üzerinde bir **ucube,** altındaki **bin çeşit** mahlukatın en **çelimsizinden** daha **şekilsiz**. Bunun çalışan kalabalığı **Anadolu**’da bir vilayet eder. **Aşçıbaşı** kaptandan daha **kıdemli** olmalı ki, oncaÂ  **halklı**Â doyursun…
 
-[![dsc00432.JPG](/uploads/2008/06/dsc00432.thumbnail.JPG)](/uploads/2008/06/dsc00432.jpg "dsc00432.JPG")[![dsc00444.JPG](/uploads/2008/06/dsc00444.thumbnail.JPG)](/uploads/2008/06/dsc00444.jpg "dsc00444.JPG")[](/uploads/2008/06/dsc00447.jpg "dsc00447.JPG")[![dsc00448.JPG](/uploads/2008/06/dsc00448.thumbnail.JPG)](/uploads/2008/06/dsc00448.jpg "dsc00448.JPG")
+[![dsc00432.JPG](/uploads/2008/06/dsc00432.JPG)](/uploads/2008/06/dsc00432.jpg "dsc00432.JPG")[![dsc00444.JPG](/uploads/2008/06/dsc00444.JPG)](/uploads/2008/06/dsc00444.jpg "dsc00444.JPG")[](/uploads/2008/06/dsc00447.jpg "dsc00447.JPG")[![dsc00448.JPG](/uploads/2008/06/dsc00448.JPG)](/uploads/2008/06/dsc00448.jpg "dsc00448.JPG")
 
 Gemimiz **halatı** bağladığında **rıhtımda duran** en öndeki **gemiye** bir göz attım, **gördüğüme** inanamadım. **Geminin** burnuna **bir çift dudak** resmi yapmışlar… Tekrar **tekrar** baktım… Evet ! bir çift **dudak**; yanlış değil. Ãnce uzaktan **resmini** çektim sonra **rıhtımda** yürüyüpÂ  **yanın**a kadar yaklaştım. **Dudağın** dibine vardım, oradakilere sordum âBu ne **resmi** ? Hepsi baktı â**Dudak** dediler.
 
@@ -43,7 +43,7 @@ Geminin yanından ayrılıp **Yer altı Camii**’ne doğru yürüdüm. **Camiin
 
 Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Aman **Süfyan bin Ubeyne Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â**  Bunca hattım **germÃ¢bına** Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â **Â Åefaate** ir gör **bizi**”
 
-**[![dsc00461.JPG](/uploads/2008/06/dsc00461.thumbnail.JPG)](/uploads/2008/06/dsc00461.jpg "dsc00461.JPG")[![dsc00462.JPG](/uploads/2008/06/dsc00462.thumbnail.JPG)](/uploads/2008/06/dsc00462.jpg "dsc00462.JPG")**
+**[![dsc00461.JPG](/uploads/2008/06/dsc00461.JPG)](/uploads/2008/06/dsc00461.jpg "dsc00461.JPG")[![dsc00462.JPG](/uploads/2008/06/dsc00462.JPG)](/uploads/2008/06/dsc00462.jpg "dsc00462.JPG")**
 
 **Yer altı Camiinde** yatan diğer iki **Sahabe** “**Amr ibn ül As**” ve “**Vehb ibni Huşeyre**”. İlki için **söylenen** dörtlük şu:
 

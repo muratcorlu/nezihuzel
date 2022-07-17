@@ -2,7 +2,7 @@
 title: "Medium trouve Saddam [saddam'ı medyum buldu]"
 date: "2006-11-08"
 categories: 
-  - "planete"
+  - Planéte
 ---
 
 ![saddam.jpg](/uploads/2006/11/saddam.jpg)HERZLIYA, Israël (Reuters) - Un **voyant** a-t-il permis ÃƒÂ  **l'armée américaine** de trouver la cachette de [Saddam Hussein](http://fr.news.yahoo.com/monde/moyen-orient/irak/proces-saddam-hussein.html) et de capturer l'ancien **raÃƒÂ¯s irakien** ?

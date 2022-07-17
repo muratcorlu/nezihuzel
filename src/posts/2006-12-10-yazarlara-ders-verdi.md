@@ -2,7 +2,7 @@
 title: "Yazarlara Ders verdi"
 date: "2006-12-10"
 categories: 
-  - "bas-yazi"
+  - Baş Yazı
 ---
 
  **[![pamuk.bmp](/uploads/2006/12/pamuk.bmp)](http://nezihuzel.net/2006/12/10/yazarlara-ders-verdi/pamukbmp/ "pamuk.bmp") Fransız** edebiyatı son zamanda **yüz elli yıl** hep sosyal **yaralardan** bahsetmiş... Fransız **yazarları** bu dönemde ülkedeki **eşitsizlikleri,** insanların çektikleri **çileleri**, gelişen şartlarda halkın **uyumsuz** davranışlarını,  **egemen** sınıfların **vurdumduymazlıklarını**. o sınıfların halkın nasıl **sırtına bindiklerini** anlatmış... Bu dönemin **edebiyatçıları** edebiyattan çok ülkenin **ızdırabını** dile getirmişler. Fena da olmamış, ama ne **yazık ki** o dönemde "yazarlık" **güme** gitmiş... Aradan **sıyrılıp** çıkanlar da olmuş, o zaman da onların **yazarlığı** öne geçerek işledikleri **sosyal** konular **gölgelenmiş...** Uzun zaman bir **itiş kakış** yaşanmış

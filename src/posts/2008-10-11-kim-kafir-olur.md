@@ -2,7 +2,7 @@
 title: "Kim Kâfir olur ?"
 date: "2008-10-11"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 [![divance.jpg](/uploads/2008/10/divance.jpg)](/uploads/2008/10/divance.jpg "divance.jpg")

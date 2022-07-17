@@ -2,7 +2,7 @@
 title: "İş Yerine Oturuyor"
 date: "2007-10-02"
 categories: 
-  - "dervish"
+  - Dervish
 ---
 
 **[![galata_mevlevihanesi_1.jpg](/uploads/2007/10/galata_mevlevihanesi_1.jpg)](/uploads/2007/10/galata_mevlevihanesi_1.jpg "galata_mevlevihanesi_1.jpg")**Â  Resim: Galata MevlevîhÃ¢nesi, İstanbul Sema Grubu,Â 80'li yıllar.

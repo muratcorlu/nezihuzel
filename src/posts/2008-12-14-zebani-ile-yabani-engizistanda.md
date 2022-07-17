@@ -2,7 +2,7 @@
 title: "Zebânî ile Yabânî Engizistan’da"
 date: "2008-12-14"
 categories: 
-  - "gunun-cilesi"
+  - Günün Çilesi
 ---
 
 **[![zebani.jpg](/uploads/2008/12/zebani.jpg)](/uploads/2008/12/zebani.jpg "zebani.jpg")** 
