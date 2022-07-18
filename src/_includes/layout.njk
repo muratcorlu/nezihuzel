@@ -76,7 +76,9 @@
             <li id="archives-2" class="widget-container widget_archive">
               <h3 class="widget-title">Arşivler</h3>
               <ul>
-                <li><a href="/2012/05/">Mayıs 2012</a></li>
+                {% for month in collections.postsByMonths %}
+                <li><a href="/{{ month.year }}/{{ month.month }}/">{{ month.monthName }} {{ month.year }} ({{ month.items.length }})</a></li>
+                {% endfor %}
               </ul>
             </li>
           </ul>

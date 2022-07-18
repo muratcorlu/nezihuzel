@@ -67,19 +67,54 @@ module.exports = function (eleventyConfig) {
     }));
   });
 
-  const postsByYears = (acc = {}, curr) => {
-    const year = curr.date.getFullYear();
-    acc[year] = acc[year] || [];
-    acc[year].push(post);
-    return acc;
+  eleventyConfig.addCollection('postsByYears', (collection) => {
+    let allBlogposts = collection
+      .getFilteredByGlob("./src/posts/*.md")
+      .reverse();
+
+    const allYears = allBlogposts.map(post => post.date.getFullYear());
+
+    const years = [...new Set(allYears)]
+
+    return years.map(year => ({
+      year,
+      items: allBlogposts.filter(post => post.date.getFullYear() === year)
+    }))
+  });
+
+  function getMonthName(
+    monthIndex,
+    // TODO: read site language
+    locale = 'tr',
+    format = "long"
+  ) {
+    const formatter = new Intl.DateTimeFormat(locale, {
+      month: format
+    });
+  
+    return formatter.format(new Date(2000, monthIndex));
   }
+  
+  const pad = number => `${number}`.padStart(2, '0')
 
-  // eleventyConfig.addCollection('postsByYears', (collection) => {
-  //   let allBlogposts = collection
-  //     .getFilteredByGlob("./src/posts/*.md")
-  //     .reverse();
+  eleventyConfig.addCollection('postsByMonths', (collection) => {
+    let allBlogposts = collection
+      .getFilteredByGlob("./src/posts/*.md")
+      .reverse();
 
-  // });
+    const allMonths = allBlogposts.map(post => `${post.date.getFullYear()}-${post.date.getMonth()}`);
+
+    const months = [...new Set(allMonths)]
+
+    return months.map(month => month.split('-').map(n => parseInt(n))).map(([year, month]) => ({
+      year,
+      month: pad(month + 1),
+      monthName: getMonthName(month),
+      items: allBlogposts.filter(post => 
+        post.date.getFullYear() === year && 
+        post.date.getMonth() === month)
+    }))
+  });
 
   // create flattened paginated blogposts per categories collection
   // based on Zach Leatherman's solution - https://github.com/11ty/eleventy/issues/332
@@ -135,17 +170,6 @@ module.exports = function (eleventyConfig) {
     });
 
     return blogpostsByCategories;
-  });
-
-  eleventyConfig.addFilter('filter', (posts, key, value) => {
-    console.log(key, value);
-    return posts.filter(post => {
-      if (typeof post.data[key] === 'array') {
-        return post.data[key].includes(value);
-      }
-
-      return post.data[key] === value;
-    });
   });
 
   return {

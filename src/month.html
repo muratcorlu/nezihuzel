@@ -1,15 +1,15 @@
 ---
 pagination:
-  data: collections.postsByYears
+  data: collections.postsByMonths
   size: 1
-  alias: year
-permalink: "{{ year.year }}/"
+  alias: month
+permalink: "/{{ month.year }}/{{ month.month }}/"
 layout: layout
 ---
 
-<h1>"{{ year.year }}" yılındaki yazılar</h1>
+<h1>"{{ month.year }} {{ month.monthName }}" ayındaki yazılar</h1>
 
-{%- for post in year.items %}
+{%- for post in month.items %}
   <div
     id="post-3185"
     class="post-3185 post type-post status-publish format-standard hentry">

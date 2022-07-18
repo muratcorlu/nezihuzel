@@ -6,7 +6,7 @@ layout: layout
     <h1 class="entry-title">{{ title }}</h1>
     <div class="entry-meta">
         <a href="{{ page.url | url }}" rel="bookmark">
-            <span class="entry-date">{{ page.date }}</span>
+            <span class="entry-date">{{ page.date | date('DD/MM/YYYY') }}</span>
         </a>
         <span class="meta-prep meta-prep-author">tarihinde yayınlandı. Kategori: <a href="/category/dervish/" rel="category tag">Dervish</a></span>
     </div>
