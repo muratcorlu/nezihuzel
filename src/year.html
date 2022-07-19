@@ -5,6 +5,8 @@ pagination:
   alias: year
 permalink: "{{ year.year }}/"
 layout: layout
+eleventyComputed:
+  title: "{{ year.year }} Arşivi"
 ---
 
 <h1>"{{ year.year }}" yılındaki yazılar</h1>

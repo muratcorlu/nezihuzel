@@ -5,6 +5,9 @@ pagination:
   alias: month
 permalink: "/{{ month.year }}/{{ month.month }}/"
 layout: layout
+eleventyComputed:
+  title: "{{ month.year }} {{ month.monthName }} Arşivi"
+
 ---
 
 <h1>"{{ month.year }} {{ month.monthName }}" ayındaki yazılar</h1>

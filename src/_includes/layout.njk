@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="{{ site.lang }}">
   <head>
     <meta charset="UTF-8"/>
-    <title>{{ title }} | Ex Oriente Lux</title>
+    <title>{{ title }} | {{ site.title }}</title>
     <link
       rel="stylesheet"
       type="text/css"
@@ -18,10 +18,10 @@
           <div id="branding" role="banner">
             <div id="site-title">
               <span>
-                <a href="/" title="Ex Oriente Lux" rel="home">Ex Oriente Lux</a>
+                <a href="/" title="{{ site.title }}" rel="home">{{ site.title }}</a>
               </span>
             </div>
-            <div id="site-description">Nezih UZEL (1938 &#8211; 2012)</div>
+            <div id="site-description">{{ site.sub_title }}</div>
             <img src="/uploads/sunset.jpg" width="940" height="198" alt=""/>
           </div>
           <div id="access" role="navigation">
