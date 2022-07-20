@@ -4,6 +4,8 @@ pagination:
   size: 1
   alias: category
 permalink: "category/{{ category.slug }}/"
+eleventyComputed:
+  title: "{{ category.title }}"
 layout: layout
 ---
 
