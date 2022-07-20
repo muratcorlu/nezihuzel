@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![slayt1.JPG](/uploads/2006/09/slayt1.jpg)
+![slayt1.JPG](../uploads/2006/09/slayt1.jpg)
 
 Aşağıda geçenlerde   üç ayrı gazete tarafından verilmiş üç ayrı haber var. Bunları görüşlerinize arzederim:  
 

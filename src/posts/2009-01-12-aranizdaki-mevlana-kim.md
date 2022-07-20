@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![mevlana.jpg](/uploads/2009/01/mevlana.jpg)](/uploads/2009/01/mevlana.jpg "mevlana.jpg")
+[![mevlana.jpg](../uploads/2009/01/mevlana.jpg)](../uploads/2009/01/mevlana.jpg "mevlana.jpg")
 
 Aranızdaki **Mevlânâ** kim...? **Mevlânâ**’ya “**sen kimsin** ? ” demişler... “Ben **ol da** bil...” demiş.
 

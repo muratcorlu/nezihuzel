@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![turban031qh3.jpg](/uploads/2008/01/turban031qh3.jpg)](/uploads/2008/01/turban031qh3.jpg "turban031qh3.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![turban031qh3.jpg](../uploads/2008/01/turban031qh3.jpg)](../uploads/2008/01/turban031qh3.jpg "turban031qh3.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Roma **Kartaca**’ya takılmıştı, Osmanlı **Adem-i merkeziyet**’e, Sovyetler Birliği **Milliyetçiliğe**, Japonya **Commodor Pery**’ye, ABD **İnsan haklarına**, Fransa **laikliğe**, Naziler “**üstün ırk**” teorisine, İtalya **Kuzey ittifakına**, Cumhuriyetimiz de **Türban**’a takıldı.
 

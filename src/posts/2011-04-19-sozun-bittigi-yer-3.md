@@ -5,4 +5,4 @@ categories:
   - Destur
 ---
 
- [![kurdish.jpg](/uploads/2011/04/kurdish.jpg) Türkiye, nisan 2011](/uploads/2011/04/kurdish.jpg "kurdish.jpg")
+ [![kurdish.jpg](../uploads/2011/04/kurdish.jpg) Türkiye, nisan 2011](../uploads/2011/04/kurdish.jpg "kurdish.jpg")

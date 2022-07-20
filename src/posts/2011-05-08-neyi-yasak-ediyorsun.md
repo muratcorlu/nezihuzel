@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![masolet-kelepce.jpg](/uploads/2011/05/masolet-kelepce.jpg)](/uploads/2011/05/masolet-kelepce.jpg "masolet-kelepce.jpg")
+[![masolet-kelepce.jpg](../uploads/2011/05/masolet-kelepce.jpg)](../uploads/2011/05/masolet-kelepce.jpg "masolet-kelepce.jpg")
 
 Neyi yasak ediyorsun Kelebeklerin uçmasını mı Bülbüllerin şakımasını mı ? Suların çağlamasını Anaların feryadını mı , Bebelerin ağlamasını mı Babaların hicranını mı Evlerin aydınlığını mı
 

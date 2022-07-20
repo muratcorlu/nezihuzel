@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**![](/uploads/image/kursun_37.jpg)  
+**![](../uploads/image/kursun_37.jpg)  
 Kurşun** vuramaz,  
 **söz**'ün vurduğunu.
 

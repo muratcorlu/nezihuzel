@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![dscf0325.JPG](/uploads/2007/10/dscf0325-1.jpg)](/uploads/2007/10/dscf0325-1.jpg "dscf0325.JPG") 
+[![dscf0325.JPG](../uploads/2007/10/dscf0325-1.jpg)](../uploads/2007/10/dscf0325-1.jpg "dscf0325.JPG") 
 
 Sedd olunmakla tekâyâ sedd olunmaz zikri Hakk,  Bir gün gelir açılır, sen derdinle yanmaya bak.
 

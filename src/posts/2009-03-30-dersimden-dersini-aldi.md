@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**![](/uploads/image/imagesa.jpg)**
+**![](../uploads/image/imagesa.jpg)**
 
 **Edibe Şahin** ve  
 **Barack Obama**,  

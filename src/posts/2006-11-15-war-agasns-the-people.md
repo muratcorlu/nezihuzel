@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![yusuf-askar.jpg](/uploads/2006/11/yusuf-askar-2.jpg)
+![yusuf-askar.jpg](../uploads/2006/11/yusuf-askar-2.jpg)
 
 <table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr valign="top"><td style="width: 400px">The "War against Terror" is a War against the People by Silvia Cattori*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div></div>In this interview recorded by Swiss journalist Silvia Cattori in November 2005 - more than six months before the war launched against Lebanon by Israeli army in summer 2006 - Youssef Aschkar was warning that the destabilization of Lebanon, Syria and Iran was under way, and that Lebanon was the country most threatened and most vulnerable to the Israeli menace. In the light of the recent developments in the region, the accuracy of his analysis appears impressive and almost prophetic.<div></div><hr size="2"></td><td style="width: 98px"><img height="1" alt=" " src="http://www.voltairenet.org/elements/transpix.gif" width="98"></td></tr></tbody></table>
 

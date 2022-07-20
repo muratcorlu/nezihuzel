@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![tayyip-dto.gif](/uploads/2007/11/tayyip-dto.gif)](/uploads/2007/11/tayyip-dto.gif "tayyip-dto.gif")
+[![tayyip-dto.gif](../uploads/2007/11/tayyip-dto.gif)](../uploads/2007/11/tayyip-dto.gif "tayyip-dto.gif")
 
 Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 

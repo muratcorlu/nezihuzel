@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![platon.jpg](/uploads/2006/11/platon.jpg)Büyük **devlet adamı** olduğu ölümünden sonra anlaşılan **Bülent Ecevit'in** kaybı ülkede bir **gerçeği** ortaya çıkardı. Türk siyasetinin **erdemli isimlere** ihtiyacı var...
+![platon.jpg](../uploads/2006/11/platon.jpg)Büyük **devlet adamı** olduğu ölümünden sonra anlaşılan **Bülent Ecevit'in** kaybı ülkede bir **gerçeği** ortaya çıkardı. Türk siyasetinin **erdemli isimlere** ihtiyacı var...
 
 Siyasetimizin, yaşamımızın, **kamu düzenimizin** acilen **"erdemli insanlara"** ihtiyacı olduğu rahmetlinin **ufûlünden** beri anlaşıldı. Bu gerçek eski değerli **başbakan**   müteveffa **Ecevit,** henüz kabre girmeden **gün ışığı** gibi parlamaya başladı.
 

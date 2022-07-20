@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![sari-gul.jpg](/uploads/2010/11/sari-gul.jpg)](/uploads/2010/11/sari-gul.jpg "sari-gul.jpg")
+[![sari-gul.jpg](../uploads/2010/11/sari-gul.jpg)](../uploads/2010/11/sari-gul.jpg "sari-gul.jpg")
 
 Mutlu **Canlar**, bayramınız **kutlu** olsun, Mutlu **Canlar** siz sağ olun Mutlu canlar, hem **kendileri** Hem herkes **sağ olsun.**
 

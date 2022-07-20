@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/insann.jpg)
+![](../uploads/image/insann.jpg)
 
 İnsan **hayatı  
 İnsan** ol da,  

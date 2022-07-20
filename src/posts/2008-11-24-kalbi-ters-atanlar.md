@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![uu.jpg](/uploads/2008/11/uu.jpg)](/uploads/2008/11/uu.jpg "uu.jpg")
+[![uu.jpg](../uploads/2008/11/uu.jpg)](../uploads/2008/11/uu.jpg "uu.jpg")
 
 Aşktan **nasip** almayanlar İçinden **ses** duymayanlar Yeryüzünde **olmayanlar** **Düz** ışığa varmayanlar
 

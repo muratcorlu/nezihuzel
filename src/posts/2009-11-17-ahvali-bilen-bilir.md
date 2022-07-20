@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/seher.jpg)  
+![](../uploads/image/seher.jpg)  
   
 **Seher** vaktinin reyhanı  
 Sen yarattın bu **cihanı  

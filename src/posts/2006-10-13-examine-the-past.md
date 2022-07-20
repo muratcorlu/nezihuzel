@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-  **![pamuk.jpg](/uploads/2006/10/pamuk.kucukresim.jpg)  [**The Observer**](http://www.observer.co.uk/)**  
+  **![pamuk.jpg](../uploads/2006/10/pamuk.kucukresim.jpg)  [**The Observer**](http://www.observer.co.uk/)**  
 
 **December 18, 2005** **(**By **Denis MacShane)**
 

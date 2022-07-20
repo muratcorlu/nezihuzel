@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![gul.jpg](/uploads/2008/09/gul.jpg)](/uploads/2008/09/gul.jpg "gul.jpg")
+[![gul.jpg](../uploads/2008/09/gul.jpg)](../uploads/2008/09/gul.jpg "gul.jpg")
 
 **Rengi** ruhsarına yandım ya **Şeyh** İlm ü **irfanına** kandım ya **Şeyh** Senden doğdu **aşk,** inandım **ya Şeyh Bal kesene** parmak bandım **ya Şeyh** Ben ki **dünyadan** usandım ya **Şeyh** Kaderde varsa **uslandım** ya **Şeyh**
 

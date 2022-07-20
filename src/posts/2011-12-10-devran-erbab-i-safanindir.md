@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![galip.jpg](/uploads/2011/12/galip.jpg)](/uploads/2011/12/galip.jpg "galip.jpg") _Şeyh Galip (1757-1799)_
+[![galip.jpg](../uploads/2011/12/galip.jpg)](../uploads/2011/12/galip.jpg "galip.jpg") _Şeyh Galip (1757-1799)_
 
 **Tedbirini terkeyle takdir Hüda'nındır Sen yoksun o benlikler hep vehm ü gümanındır Birden bire bul aşkı bu tuhfe bulanındır Devran olalı devran erbab-ı safanındır**
 

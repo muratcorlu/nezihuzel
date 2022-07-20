@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![27709_105496462831043_1.jpg](/uploads/2010/07/27709_105496462831043_1.jpg)](/uploads/2010/07/27709_105496462831043_1.jpg "27709_105496462831043_1.jpg")
+[![27709_105496462831043_1.jpg](../uploads/2010/07/27709_105496462831043_1.jpg)](../uploads/2010/07/27709_105496462831043_1.jpg "27709_105496462831043_1.jpg")
 
 Candan **özge** bir can vardı ya, Can işte o o C**ana** aşık oldu. Sonu gelmez bir **maceraya** girişti O buna **hazır** değildi ama **layıkti**.
 

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![paleologos.jpg](/uploads/2006/09/paleologos.jpg)
+![paleologos.jpg](../uploads/2006/09/paleologos.jpg)
 
   
 

@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![](/uploads/image/hnkarjn8.jpg)
+![](../uploads/image/hnkarjn8.jpg)
 
 Bu yıl **ramazan bayramı Âhilik Haftası** ile birlikte geldi.Â  Nedir **Âhilik** ? “**Kardeşilik**” demek. Bu bir **Arapça** kelimedir. Sözlüklerde **böylece** yer alır. Kelimenin çoğulu “**İhvan**” yani “**kardeşle**r” anlamında...
 

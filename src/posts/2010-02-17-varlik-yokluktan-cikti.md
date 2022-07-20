@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/var.jpg)
+![](../uploads/image/var.jpg)
 
 Zamanların **sırlarında** yaşat kendini  
 Bir **zaman** seç de **arala,** gir içine **bak**  

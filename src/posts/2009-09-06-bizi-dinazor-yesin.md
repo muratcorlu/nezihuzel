@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/dinazor1.jpg)
+![](../uploads/image/dinazor1.jpg)
 
 Bilginler **haber** verdi;  
 Bizi **dinazor** yiyecek  

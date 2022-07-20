@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![penguen.jpg](/uploads/2007/08/penguen.jpg)](/uploads/2007/08/penguen.jpg "penguen.jpg")Fazilet **gagas**ı ile kafama birkaç kere vurdu...
+[![penguen.jpg](../uploads/2007/08/penguen.jpg)](../uploads/2007/08/penguen.jpg "penguen.jpg")Fazilet **gagas**ı ile kafama birkaç kere vurdu...
 
 \-Ne oluyor ? dedim.
 

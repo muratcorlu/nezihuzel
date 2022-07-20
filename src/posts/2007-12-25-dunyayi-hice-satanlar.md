@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![mev.jpg](/uploads/2007/12/mev.jpg)](/uploads/2007/12/mev.jpg "mev.jpg")
+[![mev.jpg](../uploads/2007/12/mev.jpg)](../uploads/2007/12/mev.jpg "mev.jpg")
 
      Nâmûsu câhı çaha atan Mevlevîleriz
 

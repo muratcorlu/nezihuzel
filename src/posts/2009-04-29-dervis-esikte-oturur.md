@@ -5,5 +5,5 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/DSC03632.JPG)  
+![](../uploads/image/DSC03632.JPG)  
 İzmit, nisan 2009

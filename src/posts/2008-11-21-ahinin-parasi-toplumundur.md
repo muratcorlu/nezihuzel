@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![kkk.bmp](/uploads/2008/11/kkk.bmp)](/uploads/2008/11/kkk.bmp "kkk.bmp")
+[![kkk.bmp](../uploads/2008/11/kkk.bmp)](../uploads/2008/11/kkk.bmp "kkk.bmp")
 
 Ahilik “**Kardeşilik** demek. Bu bir **Arapça** kelimedir. Sözlüklerde **böylece** yer alır. Kelimenin çoğulu “**İhvan** yani “**kardeşle**r anlamında…**Âhilik, Selçuk** ve **Osmanlı Türkleri** zamanı esnafa yön veren bir **sosyo-ekonomik** kuruluştur. **6\. Hicrî** Yüzyılda **Bağdat**’ta **Abbasî Halifesi NÃ¢sır LidinillÃ¢h** (1180-1225)Â  tarafından, **İslamın** ilk yüzyıllarından beri **toplumda** yaşamakta olan kuralların saptanarak bir **devlet kuruluşu** şeklindeÂ  **örgütlenmesi** ile ortaya çıkan “**eski Fütüvvet**? teşkilatına dayanır. Bu teşkilatın **Anadolu’**ya yansıyan şeklidir. Yörede **yedi yüz yıl** yaşamıştır.Dr. **Haluk Nurbaki “Fütüvvet ve Âhilik”** hakkında şu bilgileri veriyor.
 

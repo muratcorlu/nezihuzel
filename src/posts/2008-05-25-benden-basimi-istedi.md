@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
- [![mevlana.jpg](/uploads/2008/05/mevlana-3.jpg)](/uploads/2008/05/mevlana-3.jpg "mevlana.jpg")
+ [![mevlana.jpg](../uploads/2008/05/mevlana-3.jpg)](../uploads/2008/05/mevlana-3.jpg "mevlana.jpg")
 
 Sevgilinin yalnız **gülüşü,**
 

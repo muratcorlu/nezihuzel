@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/gece.jpg)
+![](../uploads/image/gece.jpg)
 
 Hâşâ, gönlümün **geceleri**  
 Seninle **beraber** olmaktan bıktı, **usandı**,  

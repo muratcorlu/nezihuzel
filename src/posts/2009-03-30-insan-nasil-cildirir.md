@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/tayy.jpg)
+![](../uploads/image/tayy.jpg)
 
 "İnsanın **çıldırası** gelir"  
 Recep Tayyip **Erdoğan  

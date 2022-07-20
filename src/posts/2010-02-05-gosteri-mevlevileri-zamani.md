@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/semazen.jpg)
+![](../uploads/image/semazen.jpg)
 
 Batıda yetişmiş **Mevlana** aşıklarından, **Mesnevi** mütercimi  “**Havva hanım**” lakaplı Mm. **Eva de Vitray Meyerovitz** ile bir zaman **Konya**’nın **Sille** kazasındaki **kaya kiliselerini** ziyaret ediyorduk, bir taraftan da **konuşuyorduk**, lafın bir yerinde Eva hnm. Dedi ki: “ **Kelamcılardan** hoşlanmıyorum, **tasavvuf** bana yetiyor…” Aradan uzun **yıllar** geçti. Eva hnm. **dünyasını** değiştirdi. Vasiyeti üzre Konya’da **Üçler Mezarlığı'** na girdi. Şimdi bir **zat-ı şerif** zuhur etti. Adını **“Sufi-kelamcı**” koymuş. Anlamadım..
 

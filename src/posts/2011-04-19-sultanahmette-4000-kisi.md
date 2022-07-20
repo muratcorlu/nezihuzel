@@ -5,7 +5,7 @@ categories:
   - Şundan Bundan
 ---
 
-[![meczet_rb1.jpg](/uploads/2011/04/meczet_rb1.jpg)](/uploads/2011/04/meczet_rb1.jpg "meczet_rb1.jpg") (arşiv’den , aralık 2002)
+[![meczet_rb1.jpg](../uploads/2011/04/meczet_rb1.jpg)](../uploads/2011/04/meczet_rb1.jpg "meczet_rb1.jpg") (arşiv’den , aralık 2002)
 
 Pazar akşamı Kadir’di...O gece İstanbul’da, Sultanahmet Camii ve çevresinde 4000 kişi toplanmış... İstanbul nufusunun bir milyonun altında olduğu eski yıllara oranla bu sayı yine de yüksektir. Şehirde şu sırada on milyon insan yaşıyor... Demek ki yaklaşık  kırk İstanbullu’dan biri oradaydı..
 
@@ -13,7 +13,7 @@ Ben gidemedim, gidenler anlatılar... Osmanlı asırlarında içinde Devlet Prot
 
 Büyük Cami fevkalade günlerinden birini yaşamış... İlerleyen saatlerde uzaklardan otobüslerle gelenler, çevre dükkanlara dağılarak, memleketlerine dönüşlerinde, Müslüman İstanbul’ da yaşanan mubarek bir gecenin anısına, eşe dosta verilmek üzere, hediyeler almışlar... Üniversite öğrencisi  bizim komşu Okan’ın Teravih’den sonra canı boza istemiş, babası ile birlikte kalabalığı yarıp bozacılara yaklaşamamışlar... neden sonra ulaşmışlar. Hatırası uzun yıllar anlatılacak feyizli bir gece, Sultanahmet’ten Eyyüb Sultan’a uzanarak gün doğarken Üsküdar'da sona ermiş.
 
-[![noel_baba.jpg](/uploads/2011/04/noel_baba.jpg)](/uploads/2011/04/noel_baba.jpg "noel_baba.jpg")Ertesi günü gazeteleri açtım. İslamî olanlarda kıyı kenar birkaç haber... Büyükler ise noel baba resimleriyle dolu... İslam ve islamî yaşam biçimi, bu gazeteleri yöneten muhterem efendilere pek ulaşamıyor... İslam, İlgi halkalarının dışında...
+[![noel_baba.jpg](../uploads/2011/04/noel_baba.jpg)](../uploads/2011/04/noel_baba.jpg "noel_baba.jpg")Ertesi günü gazeteleri açtım. İslamî olanlarda kıyı kenar birkaç haber... Büyükler ise noel baba resimleriyle dolu... İslam ve islamî yaşam biçimi, bu gazeteleri yöneten muhterem efendilere pek ulaşamıyor... İslam, İlgi halkalarının dışında...
 
 Onlar Batı’nın las Vegas kumar salonlarını ve Paris gecelerini tercih ediyorlar... Yolları Sultanahmet’e uğramıyor... Uğrasa da etrafı görecek gözleri yok... Camide sadece el-Kaide arıyorlar... Efendilerinden aldıklar rol icabı...
 
@@ -23,7 +23,7 @@ Aslında bu beyler beni pek ilgilendirmiyor. Herkes dininde serbesttir... Kimsen
 
 Temele ilk darbeyi vuran kazmanın, sapı sonradan gümüşle süslenerek Saray’ın hazinesine konmuş. Sultanahmet Camii, Bizans’ın “Christotrikline” Sarayının harabeleri üzerinde yedi yılda yükselmiş. 397 yıldır ayakta duruyor... Bu Camiin yapıldığı yıllarda Avustralya kıt’ası keşfolmamıştı. Amerika henüz pamuk tarlasıydı. Londra ve Paris karanlıklar içindeydi.  
 
- [![bezm.jpg](/uploads/2011/04/bezm.jpg)](/uploads/2011/04/bezm.jpg "bezm.jpg")Biz geç saatlarda Tophanede İsmail Rumî ziyaretinden dönerken Dolmabahçe’de Bezmi Alem Valide Sultan Camiinin önünde de bir kalabalık gördük... Burası da doluydu... Bir zamanlar halıları toplanarak “Deniz Müzesi” şekline sokulan bu Cami, Sultan Abdülmecid’in annesi Bezmi Alem Valide Sultan tarafından yaptırılmış... Başta Eyyüb Sultan olmak üzere İstanbul’un diğer camileri de o gece herhalde doluydu...
+ [![bezm.jpg](../uploads/2011/04/bezm.jpg)](../uploads/2011/04/bezm.jpg "bezm.jpg")Biz geç saatlarda Tophanede İsmail Rumî ziyaretinden dönerken Dolmabahçe’de Bezmi Alem Valide Sultan Camiinin önünde de bir kalabalık gördük... Burası da doluydu... Bir zamanlar halıları toplanarak “Deniz Müzesi” şekline sokulan bu Cami, Sultan Abdülmecid’in annesi Bezmi Alem Valide Sultan tarafından yaptırılmış... Başta Eyyüb Sultan olmak üzere İstanbul’un diğer camileri de o gece herhalde doluydu...
 
 Fazla göremedik. Gezemedik. Haberini de alamadık... Yaklaşan Noel Babayı yazan Büyük gazetelerimiz ve Batı yaşamını bizlere sokuşturmak ve sevdirmekle görevlendirilmiş medyamız, bu konuya değinmediler... İslamı sadece siyasi olan ve şimdi de siyasî olmayan diye ayırdıkları için... Bir İslam yaşam şekli ve onun değerlerine yaklaşık tavır takınmadıkları için...
 

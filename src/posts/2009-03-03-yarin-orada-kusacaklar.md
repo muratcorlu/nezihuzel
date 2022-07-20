@@ -6,7 +6,7 @@ categories:
 ---
 
   
-![](/uploads/image/mevlana.jpg)  
+![](../uploads/image/mevlana.jpg)  
 Yüce **Pir** dedi ki:  
 “Bir bölük halk **kılıç** gibi savaşıyor  
 Bir bölük halk dalga dalga **secdede**Bir bölük **halk** kanımızı içmede”

@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-![dscf3173.JPG](/uploads/2006/10/dscf3173.kucukresim.JPG)"Bu kadının **iki ruhu** var, birinin yaptığından diğerinin **haberi yok**..." Gaaak. Guuuk.(Hayret sesi) yaklaştım, yakın bir **dala kondum**, kulak verdim gaaak.guruk. **Hoca** kendi kendine konuşuyor...Tekrar dinledim "**iki kişilikli**; biri **iyi**, biri **kötü**, iyisine rastlarsan sorun **yok**, kötüsüne rastladın mı **felaket**" gaaak. guuuk. Yine **anlamadım**. Yanımdaki dal sallanınca **Fazilet'**in geldiğini farkettim gaaak. **guuuk**.tısss... (Rahatlama sesi)
+![dscf3173.JPG](../uploads/2006/10/dscf3173.kucukresim.JPG)"Bu kadının **iki ruhu** var, birinin yaptığından diğerinin **haberi yok**..." Gaaak. Guuuk.(Hayret sesi) yaklaştım, yakın bir **dala kondum**, kulak verdim gaaak.guruk. **Hoca** kendi kendine konuşuyor...Tekrar dinledim "**iki kişilikli**; biri **iyi**, biri **kötü**, iyisine rastlarsan sorun **yok**, kötüsüne rastladın mı **felaket**" gaaak. guuuk. Yine **anlamadım**. Yanımdaki dal sallanınca **Fazilet'**in geldiğini farkettim gaaak. **guuuk**.tısss... (Rahatlama sesi)
 
 \-**Fazilet** dedim, bu **Hoca** ne diyor ?
 

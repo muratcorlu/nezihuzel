@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**![](/uploads/image/DSCF0164.JPG)**
+**![](../uploads/image/DSCF0164.JPG)**
 
 **Nezih Uzel**'den not: Ben **TV'y**e çıkmamak için **yıllarca** direndim. Sonunda **başaramadım** ve   pek değerli iki **arkadaşım** beni bir **kanalda** dört saat konuşturdular. Sonunda olan oldu **"şöhret**" tuzağına düşmeye **ramak** kaldı. Ancak o **konuşmanın** önemli bir faydası belirdi. **Sevgili** vatandaşlarımızın **bu güne** kadar bu konularla **uğraşmamış** değerli bir **kesiti** birden "**tasavvuf**" merakına kapıldı. Bence bu **iş iyi bir başlangıç** . Dünyamızda **yaralı gönüllere** yeni ilaçlar bulunabilir. Şimdilik benim **pek sevdiğim** bir yazımı tekrar yayınlıyorum. **Okuyun** iyi gelecektir. **Saygılar** .    
 

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/HPIM2854.JPG)  
+![](../uploads/image/HPIM2854.JPG)  
 Foto:_Fatih Arapoğlu_
 
 Bir **ağaç** kesildi  

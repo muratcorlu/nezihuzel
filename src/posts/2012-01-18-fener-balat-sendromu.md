@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![fenerr.jpg](/uploads/2012/01/fenerr.jpg)](/uploads/2012/01/fenerr.jpg "fenerr.jpg")(arşiv’den) Avrupa birliği İstanbul’un Fener-Balat semtini onarmak üzere 7 milyon euro ayırmış. Projenin adı “rehabilitasyon” yani “ayağa kaldırmak” Fener, şehrin en eski semtlerinden biri, Halic’in güney kıyısında yer alıyor.Burada vaktiyle “Fenerli Beyler” otururlarmış.
+[![fenerr.jpg](../uploads/2012/01/fenerr.jpg)](../uploads/2012/01/fenerr.jpg "fenerr.jpg")(arşiv’den) Avrupa birliği İstanbul’un Fener-Balat semtini onarmak üzere 7 milyon euro ayırmış. Projenin adı “rehabilitasyon” yani “ayağa kaldırmak” Fener, şehrin en eski semtlerinden biri, Halic’in güney kıyısında yer alıyor.Burada vaktiyle “Fenerli Beyler” otururlarmış.
 
 Ünlü Fener Patrikhanesi de aynı yörede yer alıyor... Hemen yanındaki Balat semti de Yahudi mahallesi... “Fenerli Beyler” İstanbul’un fethinde sonra burada kümelenen Bizans ahalisinin neslinden gelme... Devlet hizmetinde bulunuyorlar.
 

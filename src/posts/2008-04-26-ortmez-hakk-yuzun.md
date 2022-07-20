@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**[![evren_5.jpg](/uploads/2008/04/evren_5.jpg)](/uploads/2008/04/evren_5.jpg "evren_5.jpg")**
+**[![evren_5.jpg](../uploads/2008/04/evren_5.jpg)](../uploads/2008/04/evren_5.jpg "evren_5.jpg")**
 
 **Derman** arardım derdime, Derdim bana **derman** imiş. **Bürhan** sorardım **aslıma**, **Aslım** bana **bürhan** imiş. 
 

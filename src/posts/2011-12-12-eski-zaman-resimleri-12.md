@@ -5,4 +5,4 @@ categories:
   - Dervish
 ---
 
-[![galip-turbe.jpg](/uploads/2011/12/galip-turbe.jpg)](/uploads/2011/12/galip-turbe.jpg "galip-turbe.jpg") Şeyh Galib'in türbesini ziyaret (yağlıboya tablo)
+[![galip-turbe.jpg](../uploads/2011/12/galip-turbe.jpg)](../uploads/2011/12/galip-turbe.jpg "galip-turbe.jpg") Şeyh Galib'in türbesini ziyaret (yağlıboya tablo)

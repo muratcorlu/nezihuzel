@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-                                              [![untitled.bmp](/uploads/2008/05/untitled.bmp)](/uploads/2008/05/untitled.bmp "untitled.bmp") 
+                                              [![untitled.bmp](../uploads/2008/05/untitled.bmp)](../uploads/2008/05/untitled.bmp "untitled.bmp") 
 
 Bakamıyorum **yüzüne**…
 

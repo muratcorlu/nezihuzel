@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**![](/uploads/image/eylulguz_goya_cronos.jpg)**
+**![](../uploads/image/eylulguz_goya_cronos.jpg)**
 
 **Nezih Uzel**’den not: Bir okuyucumuz “**yeme yenilme**” konusundaki **tartışmaya** heyecan verici, **muhteşem** bir yorumla katılmış. Sonunda “**bizi babamız yesin**” anlamına gelen bu yorumu burada **tekrarlıyarak**  bu bahsi sona erdirmeyi düşünmüştüm ama **herkesin** o kadar çok **ilave edeceği** şey var ki **sonuç** alamıyoruz. “**Kim kimin** tarafından yenilmeyi **arzu eder**” şeklinde bir **anket** açmak sanırım **gerekli** olacak. Yorum şu:   
   

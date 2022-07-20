@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-[![cek.bmp](/uploads/2008/12/cek.bmp)](/uploads/2008/12/cek.bmp "cek.bmp")
+[![cek.bmp](../uploads/2008/12/cek.bmp)](../uploads/2008/12/cek.bmp "cek.bmp")
 
 Çekirgelerin **şah**ı **Düz** yaşamın ilahı Gören **gözler** görmezse Duyan **kulak** duymazsa
 

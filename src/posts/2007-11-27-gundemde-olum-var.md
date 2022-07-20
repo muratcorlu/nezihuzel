@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![birlesmis_milletler_bm000000.jpg](/uploads/2007/11/birlesmis_milletler_bm000000.jpg)](/uploads/2007/11/birlesmis_milletler_bm000000.jpg "birlesmis_milletler_bm000000.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![birlesmis_milletler_bm000000.jpg](../uploads/2007/11/birlesmis_milletler_bm000000.jpg)](../uploads/2007/11/birlesmis_milletler_bm000000.jpg "birlesmis_milletler_bm000000.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 TV’de **spiker’**in anlattığına göre Toplantıya **elli ülke** katılmış ancak toplantınınÂ  ana **gündem maddesi** belli değilmiş. Destur...**Tahminler** yürütülüyor.
 

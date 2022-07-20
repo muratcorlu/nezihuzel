@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**[![eski_siseler.jpg](/uploads/2007/11/eski_siseler.jpg)](/uploads/2007/11/eski_siseler.jpg "eski_siseler.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 
+**[![eski_siseler.jpg](../uploads/2007/11/eski_siseler.jpg)](../uploads/2007/11/eski_siseler.jpg "eski_siseler.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 
 
 Bir şarap firması “**İstanbul kadeh kaldırıyor**” isimli bir **festival** düzenlemiş. Åehrin tanınmış **restoranlarının** katılımı ile düzenlenen bu **festivald**e şarabın en iyisi **ödül** kazanacak. Verilen habere göre bu festivalde **şarapseverler** 6o’a yakın **üzüm türünden** üretilen **şaraplarla** tanışmak fırsatı bulacaklar.
 

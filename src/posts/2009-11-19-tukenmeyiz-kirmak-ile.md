@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**![](/uploads/image/popopopo.jpg)**
+**![](../uploads/image/popopopo.jpg)**
 
 **Zahit** bizi taan eyleme  
 Hak ismin **okur** dilimiz  

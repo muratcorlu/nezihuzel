@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/koc.jpg)
+![](../uploads/image/koc.jpg)
 
 Bir bayram **sabahında**ilk **ışıklar**  alnında
 

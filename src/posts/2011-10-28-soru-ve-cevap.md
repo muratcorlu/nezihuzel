@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-1. [![libya.jpg](/uploads/2011/10/libya.jpg)](/uploads/2011/10/libya.jpg "libya.jpg")
+1. [![libya.jpg](../uploads/2011/10/libya.jpg)](../uploads/2011/10/libya.jpg "libya.jpg")
 2. İSA AVCI [28 Ekim 2011 08:21](http://nezihuzel.net/index.php/2011/10/25/siyasi-cinayet-kumpanyasi/#comment-19380 "Bu yorum için kalıcı bağlantı") [Düzenle](http://nezihuzel.net/wp-admin/comment.php?action=editcomment&c=19380)
     
     Siyasi yazılara yorum yapmak bana göre değil. Taraf olmak korkusundan değil, siyasetin kirli yönünü sevmediğimden. Geçen ay bir tarih dergisi 100 yıl önce Libya’da Osmanlı izleri adlı bir fotoğraf kitapçığı verdi. Fotolara tek tek baktım. Ecdada baktım, mazlum ve mahsun libyalılara baktım hüzünlendim. İnşaallah gelecek Libyasında bir daha kan ve gözyaşı olmaz

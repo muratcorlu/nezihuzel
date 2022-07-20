@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![30-1.jpg](/uploads/2010/12/30-1.jpg)](/uploads/2010/12/30-1.jpg "30-1.jpg") A.Cevdet Paşa (1822-1895)i
+[![30-1.jpg](../uploads/2010/12/30-1.jpg)](../uploads/2010/12/30-1.jpg "30-1.jpg") A.Cevdet Paşa (1822-1895)i
 
 Bir süre sonra **yıkıcı** bir **fırtınaya** dönüşeceği kesin olan **Wikileaks** belgelerinin getirdiği yeni **ilham** rüzgarlarıyle tarihe de **pencere** açılacağı anlaşılmaktadır. Bu **pencereden** yeni gerçekler hayatımıza dolacak ve asıl “**kamu oyu yargılaması”** ondan sonra başlayacaktır. Ben şimdiden bu **pencerey**i açıyor ve devlet adamlarının hatta **Fransa İmparatoru III. Napolyon**’un utanmadan halka nasıl yalanlar söylediklerini  **Osmanlı**’nın yetiştirdiği  tarihçi ve Hukukçu Ahmet Cevdet Paşa’nın notlarından  arzediyorum:
 

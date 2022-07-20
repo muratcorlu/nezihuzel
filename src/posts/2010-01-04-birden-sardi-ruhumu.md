@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/ankara_.jpg)
+![](../uploads/image/ankara_.jpg)
 
 **Ankara** aziz bir il  
 Bilmez bunu her **cahil  

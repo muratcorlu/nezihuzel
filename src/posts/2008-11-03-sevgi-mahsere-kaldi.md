@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-**[![fft1_mf50580.jpg](/uploads/2008/11/fft1_mf50580.jpg)](/uploads/2008/11/fft1_mf50580.jpg "fft1_mf50580.jpg")**
+**[![fft1_mf50580.jpg](../uploads/2008/11/fft1_mf50580.jpg)](../uploads/2008/11/fft1_mf50580.jpg "fft1_mf50580.jpg")**
 
 **Yusufçuğun** muhabbeti, Ãekirgeye **yakışmıyor**… Hayret ! “ **orantısız güç**”e Yusufçuk hiç alışmıyor.
 

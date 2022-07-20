@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![islam.jpg](/uploads/2007/11/islam.jpg)](/uploads/2007/11/islam.jpg "islam.jpg")
+[![islam.jpg](../uploads/2007/11/islam.jpg)](../uploads/2007/11/islam.jpg "islam.jpg")
 
 Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 

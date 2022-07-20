@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**![](/uploads/image/afganistan.jpg)**
+**![](../uploads/image/afganistan.jpg)**
 
 **Türkler** hükümetlerine para verecekler, **hükümet** bu paralarla **polis** tutacak, bu polisler **Afganistan**’da **Taliban** öldürüyorum diye masum **müslümanları** öldürecekler. **İstanbul**’da günlerdir  yürütülen **Nato** toplantısında konuşulan bu..
 

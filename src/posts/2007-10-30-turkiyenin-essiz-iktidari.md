@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![untitled.bmp](/uploads/2007/10/untitled.bmp)](/uploads/2007/10/untitled.bmp "untitled.bmp")
+[![untitled.bmp](../uploads/2007/10/untitled.bmp)](../uploads/2007/10/untitled.bmp "untitled.bmp")
 
 Bu iktidarın yeryüzünde bir **eşi** daha yok. **Bu “eşsiz” bir iktidar**. Yüzyıllardır varlığını sürdüren **Türk siyasi hayatında** bir eşi daha **görülmemiş** olan bu iktidar, gerçekten “**eşsiz”** bir iktidar. Yeryüzüne **helÃ¢l** olsun !…
 

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![ayna4.jpg](/uploads/2008/02/ayna4.jpg)](/uploads/2008/02/ayna4.jpg "ayna4.jpg")
+[![ayna4.jpg](../uploads/2008/02/ayna4.jpg)](../uploads/2008/02/ayna4.jpg "ayna4.jpg")
 
 Zâhidâ dem urma **aşktan** kapuyu **kaktın mı** hiç
 

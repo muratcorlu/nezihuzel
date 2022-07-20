@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![220px-niyazisayin.jpg](/uploads/2008/04/220px-niyazisayin.jpg)](/uploads/2008/04/220px-niyazisayin.jpg "220px-niyazisayin.jpg")
+[![220px-niyazisayin.jpg](../uploads/2008/04/220px-niyazisayin.jpg)](../uploads/2008/04/220px-niyazisayin.jpg "220px-niyazisayin.jpg")
 
 Biri bana –**Niyazî Sayın**’la tanışıyormusun ?  dedi. **Cevap** vermedim, **hafifçe** güldüm. Anladı mı **acaba** ? Keşke bu kişi, bana bu **soruyu** sormadan önce, fakirin **yarım yüzyıllık** yaşam öyküsü hakkında **bilgi sahibi** olsaydı. O zaman böyle bir **sorunun** anlamsızlığı ortaya çıkabilirdi. Ve bu **insan**, o sorusu ile  beni **derinden** yaraladığını **fark** edebilirdi.
 

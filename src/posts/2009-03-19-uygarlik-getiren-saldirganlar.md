@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/asker_ve_afganistan.jpg)   ![](/uploads/image/Afganistan8217da_bir_kz_ocuu.jpg)
+![](../uploads/image/asker_ve_afganistan.jpg)   ![](../uploads/image/Afganistan8217da_bir_kz_ocuu.jpg)
 
 Türkiye Dış İşleri Bakanı sayın **Ali Babacan** “Afgan halkı ülkesindeki **yabancı birlikleri** işgal kuvveti olarak görüyor…”  dedi. Bakan, **Afgan halkının** bu görüşünü sanırım **yanlış** olarak niteledi, zira **Bakana** göre o ülkeye gelen o **işgal** kuvvetleri Afganlılara “**barış ve medeniyet**” getirmek üzere o **topraklarda** bulunuyorlar. Aynen **Amerikan** Birliklerinin **Irak**’ta bulunuşu gibi… **Afgan halkı** eğer barış ve **medeniyetten** yanaysa o işgal kuvvetlerine **direnmemek** ve o kuvveti **sevmek** zorundadır.
 
@@ -18,7 +18,7 @@ Yeryüzünde bir başka **ülkeyi** işgal eden her **askeri güç** bu iddiayı
 
 **Düşmanı** asla topraklarına sokmayarak **nesiller boyu** direniş gösteren ve tarihin en **şerefli savunma** ordusunu meydana getirmiş olan bir **millettin** şu anda dış politikasını yürüten **adamın** haline bakın siz… Bu zat **Mustafa Kemal Türkiyesi**’ nin dış işleri bakanıdır. **Yusuf Kemal Tengirşenk’in**, **Fuat Köprülü’nün**, şehit bakan **Fatin Rüştü Zorlu’nun** makamında oturuyor.
 
-  **![](/uploads/image/afganistan.jpg)  Afgan** halkına ülkesindeki, yabancıları **işgal** kuvveti olarak görmemesini tavsiye eden bu bakanı derhal yerinden alaşağı edip oturduğu **makam koltuğunu** dezenfekte etmek gerekir… Mensup olduğu **hükümetin** bir daha böyle bir bakana görev vermemesi için **siyasal iktidar** ve adı ne olursa olsun ülkenin **yönetici sınıfı** önlem almalıdır. **Türklerin** bundan daha **haysiyetli** bir bakan çıkarması sanıldığı kadar **zor** olmamalıdır.
+  **![](../uploads/image/afganistan.jpg)  Afgan** halkına ülkesindeki, yabancıları **işgal** kuvveti olarak görmemesini tavsiye eden bu bakanı derhal yerinden alaşağı edip oturduğu **makam koltuğunu** dezenfekte etmek gerekir… Mensup olduğu **hükümetin** bir daha böyle bir bakana görev vermemesi için **siyasal iktidar** ve adı ne olursa olsun ülkenin **yönetici sınıfı** önlem almalıdır. **Türklerin** bundan daha **haysiyetli** bir bakan çıkarması sanıldığı kadar **zor** olmamalıdır.
 
 Yaşadığımız **“uluslararası ticaret ve sanayi şirketleri”** çağında ülkelerin, **devletlerin** ve halkların şeref ve haysiyeti artık eskisi gibi **titizlikle** korunamıyor, her şey “**çözümler**” adı altında yılışık **pratik** önlemlerle hallediliyor, devlet şerefinin adı “**tabu**” insan ve toplum haysiyetinin adı “**gereksiz saplantı**” sayılıyor, Bilmem ki biz **eski kafalı** insanlar, bu yeni **düzene** nasıl ve ne **zaman** alışacağız.
 

@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-[![taylor.bmp](/uploads/2008/03/taylor.bmp)](/uploads/2008/03/taylor.bmp "taylor.bmp")
+[![taylor.bmp](../uploads/2008/03/taylor.bmp)](../uploads/2008/03/taylor.bmp "taylor.bmp")
 
 J**oseph Marzah**, dit "**Zigzag**", ne sait ni lire ni écrire. Mais **Zigzag** sait **tuer**. Et il l'a fait sur ordre de **Charles Taylor**, ancien chef de guerre élu président du **Liberia** en 1997, jugé par le **Tribunal spécial pour la Sierra Leone (SCSL),** pour des crimes contre l'**humanité** commis durant la guerre en **Sierra Leone** (1991-2002).
 

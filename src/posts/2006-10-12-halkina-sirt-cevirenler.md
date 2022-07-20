@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![nobel.jpg](/uploads/2006/10/nobel.kucukresim.jpg)  Hep **Türkiyeyi**, vatanını **jurnal** eden yazarlar **Avrupa**'dan ödül alıyor... **Nobel** kazanan **Orhan Pamuk'**un da ülkesini jurnal ettiğini **sanırım** bilmeyen yoktur. **Ermeni** olayında karşı tarafı seçtiğine göre bu **yazarın** da artık kurallaşan **geleneğin** dışına çıkmadığı ve bu yüzden **ödüle** laik görüldüğü apaçık ortada. Vaktiye **Yaşar Kemal** de yurt dışından **ödüller** alırken başka türlü bir **yapıya** sahip değildi. **Batı dünyası** kendi kalesine **gol** atan Türk edebiyat **karmasını** çok seviyor...Halkına **sırt** çevirenleri...
+![nobel.jpg](../uploads/2006/10/nobel.kucukresim.jpg)  Hep **Türkiyeyi**, vatanını **jurnal** eden yazarlar **Avrupa**'dan ödül alıyor... **Nobel** kazanan **Orhan Pamuk'**un da ülkesini jurnal ettiğini **sanırım** bilmeyen yoktur. **Ermeni** olayında karşı tarafı seçtiğine göre bu **yazarın** da artık kurallaşan **geleneğin** dışına çıkmadığı ve bu yüzden **ödüle** laik görüldüğü apaçık ortada. Vaktiye **Yaşar Kemal** de yurt dışından **ödüller** alırken başka türlü bir **yapıya** sahip değildi. **Batı dünyası** kendi kalesine **gol** atan Türk edebiyat **karmasını** çok seviyor...Halkına **sırt** çevirenleri...
 
 Bu kişilerin dünya **edebiyatında** acaba başka **örnekleri** var mıdır ? **Ülkesini** kötüleyen bir **Japon** veya bir **Meksikalı** yazara rastlanmış mıdır ? Bu kişiler hangi çeşit **yazar** neslinden gelmiş kişilerdir ? Bu zamana kadar **örnekleri** görülmediyse herhalde **gelecek** nesillerden olmalıdırlar.
 

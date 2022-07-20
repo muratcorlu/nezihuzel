@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/mevlana(1).jpg)
+![](../uploads/image/mevlana(1).jpg)
 
 Bizi dirilten o **Dos**t,
 

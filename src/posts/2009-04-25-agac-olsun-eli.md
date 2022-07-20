@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**![](/uploads/image/HPIM2851.JPG)**
+**![](../uploads/image/HPIM2851.JPG)**
 
 **Ağac**’ın kusuru anlaşıldı:  
 Dalları **tellere** dokunmuş.  

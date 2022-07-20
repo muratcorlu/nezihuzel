@@ -6,7 +6,7 @@ categories:
 ---
 
   
-![](/uploads/image/Askerler.jpg)
+![](../uploads/image/Askerler.jpg)
 
 NOUVELOBS.COM (Paris: 23.07.2009 19.22)   **Le Premier ministre** s'est rendu sur le **camp militaire** d'où est parti un **vaste feu**, provoqué par des **tirs** de l'armée, qui s'est propagé jusqu'aux portes de **Marseille**.  Il a annoncé que les **responsables** seront sanctionnés à l'issue de **l'enquête.**
 
@@ -22,12 +22,12 @@ Un chef de **section** du premier régiment étranger de la Légion à **Aubagne
 
 Le **parquet militaire de Marseille** a saisi la compagnie de **gendarmerie d'Aubagne** (Bouches-du-Rhône) ainsi que la **section** de recherches (SR) de **Marseille** des investigations sur **l'incendie**. (Courtoisie: **NouvelObs)**
 
-_![](/uploads/image/marsey.jpg)_
+_![](../uploads/image/marsey.jpg)_
 
 _Türkçe özet: **Marsilya**’da şehrin **varoşlarına** kadar ulaşan **1300 hektar orman yangınına**, talim sırasında bir **askeri** birlikten atılan **bombaların** neden olduğu bildiriliyor. **Hükümetine** bağlı iki bakanla birlikte **Yangın** bölgesinde incelemelerde bulunan Fransa başbakanı **François Filon** askerleri hedef alarak “açık bir **profesyonel hata**” dedi. **Yangına** neden olan atışları düzenleyen **Aubagne**’deki birliğin bir yetkilisi **açığa** alındı.  (Teşekkürler **NouvelObs)  
 **_
 
-![](/uploads/image/aux-portes-de-marseille.jpg)
+![](../uploads/image/aux-portes-de-marseille.jpg)
 
 _İlgili haber: **ANKARA** - Türk Silahlı Kuvvetlerinin **(TSK)** bütün **birlik,** kurum, karargah, **tesis,** bölge ve iş yeri faaliyetleri ile **tatbikatlar** dahil her türlü **askeri maksatlı** faaliyetler, **çevre mevzuatı** hükümleri doğrultusunda çevre denetimine tabi tutulacak. **Milli Savunma Bakanlığının**, Türk Silahlı Kuvvetleri **Çevre Denetimi** Yönetmeliği, **Resmi Gazete’**de yayımlanarak yürürlüğe girdi._
 

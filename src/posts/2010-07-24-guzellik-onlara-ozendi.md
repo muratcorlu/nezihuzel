@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![ufufk.jpg](/uploads/2010/07/ufufk.jpg)](/uploads/2010/07/ufufk.jpg "ufufk.jpg")
+[![ufufk.jpg](../uploads/2010/07/ufufk.jpg)](../uploads/2010/07/ufufk.jpg "ufufk.jpg")
 
 Güzellik onların ruhundaydı Onlar doğarken güzel doğdular Kimse onlara güzellik öğretmedi Güzellik varlıklarında gizliydi
 

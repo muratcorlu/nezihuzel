@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/madalya.jpg)
+![](../uploads/image/madalya.jpg)
 
 Türkiye ve Türkler hakkında yabancı devletlerin düşüncelerini biz Türk halkına hiç bir zaman söylememişizdir. Ne yazarlarımız, ne çizerlerimiz ne liderlerimiz, ne de devlet adamlarımnız bu konuda hiçbir ip ucu vermemişlerdir. Herşeyin güllük gülistanlık, herkesin Türk dostu ve yeryüzünde yaşayan her kavmin Türke hayran olduğunu yıllar boyu anlatmışlardır.
 

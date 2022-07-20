@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/Damla.jpg)
+![](../uploads/image/Damla.jpg)
 
 Bir **damlasın** sen,  
 Dürüst, namuslu, **düzgün.  

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/bak__lar.jpg)
+![](../uploads/image/bak__lar.jpg)
 
 Hayal mi ? **gerçek mi** ? rüya  mı ?  
 Ya  **hayalden** bozma hülya mı ?  

@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![baba-ilyas.jpg](/uploads/2010/12/baba-ilyas.jpg)](/uploads/2010/12/baba-ilyas.jpg "baba-ilyas.jpg")
+[![baba-ilyas.jpg](../uploads/2010/12/baba-ilyas.jpg)](../uploads/2010/12/baba-ilyas.jpg "baba-ilyas.jpg")
 
 Not: _26 aralık pazar günü "Haber Türk" gazetesinin "tarih eki" için hazırlayıp gönderdiğim bu makale yayınlanmamıştır. Burada arzediyorum:_
 
@@ -13,7 +13,7 @@ Not: _26 aralık pazar günü "Haber Türk" gazetesinin "tarih eki" için hazır
 
 Konya merkezli Anadolu Selçuklu Devleti, On üçüncü yüzyılda, oldukça zor günler geçiriyordu. Ülke Asya’dan devamlı akan göçerlerle daha önce burada yurt tutmuş ırkdaşları arasında sonu gelmeyen kavgalara sahne oluyordu.
 
-[![selcuklukartaliikonikselcuklukartalikonya.jpg](/uploads/2010/12/selcuklukartaliikonikselcuklukartalikonya.jpg)](/uploads/2010/12/selcuklukartaliikonikselcuklukartalikonya.jpg "selcuklukartaliikonikselcuklukartalikonya.jpg")Selçuk devleti aynen daha sonra Osmanlı’ların yaptığı gibi halkın vergilerini birtakım kişilere satıyor, onlar da devlete ödedikleri paraları  birkaç misline katlayarak halktan geri almaya çaba harcıyorlardı. Beş asır sonra Osmanlı’nın da sonunu hazırlayan bu ilkel sistem,  o çağda Anadolu Selçuklu devletinin başına bela olmuştu.
+[![selcuklukartaliikonikselcuklukartalikonya.jpg](../uploads/2010/12/selcuklukartaliikonikselcuklukartalikonya.jpg)](../uploads/2010/12/selcuklukartaliikonikselcuklukartalikonya.jpg "selcuklukartaliikonikselcuklukartalikonya.jpg")Selçuk devleti aynen daha sonra Osmanlı’ların yaptığı gibi halkın vergilerini birtakım kişilere satıyor, onlar da devlete ödedikleri paraları  birkaç misline katlayarak halktan geri almaya çaba harcıyorlardı. Beş asır sonra Osmanlı’nın da sonunu hazırlayan bu ilkel sistem,  o çağda Anadolu Selçuklu devletinin başına bela olmuştu.
 
 Bu yolla büyük servet toplayan feodal beyler ve Saray halkı zaman zaman kalabalıkların gözüne girmek için İslami şartlarla yol su, köprü, cami medrese vakfediyor ama bu kişisel hizmetler yaygın bir “Devlet Politikası” olmaktan uzak kalıyordu.
 
@@ -23,19 +23,19 @@ Yarımadaya göçen Türkmen Alevi gruplar Ortaasya gelenek ve göreneklerini ye
 
 Devlet erki giderek kayboluyordu.. Halk şehirlerde dehşet içinde kaldı.  İdareden ümit kesen insanlar, belirli gruplarla, sözüne güvenilir kimselerin etrafında kümelenmeye başladılar. Bir fitne” çıkacağı belliydi. Ve fitne 1250 yılının ilk baharında tüm şiddeti ile toplumun üzerine çöktü.
 
-[![hurufi_2.jpg](/uploads/2010/12/hurufi_2.jpg)](/uploads/2010/12/hurufi_2.jpg "hurufi_2.jpg")Erdoğan çınar isimli bir Alevi araştırmacı bu “felaketi” ve olayların sonunda Hacı Bektaş Veli’nin ortaya çıkışı ve Bektaşi geleneğinin doğuşunu etraflı biçimde şöyle anlatıyor:
+[![hurufi_2.jpg](../uploads/2010/12/hurufi_2.jpg)](../uploads/2010/12/hurufi_2.jpg "hurufi_2.jpg")Erdoğan çınar isimli bir Alevi araştırmacı bu “felaketi” ve olayların sonunda Hacı Bektaş Veli’nin ortaya çıkışı ve Bektaşi geleneğinin doğuşunu etraflı biçimde şöyle anlatıyor:
 
 1_240 senesi, Anadolu Alevi’lerinin son bin yıl içinde yaşadıkları en talihsiz ve en uğursuz yıl oldu. O yılın ikinci yarısında Aleviler, Konya Sarayı’nın beklenmedik ihaneti ile sarsıldılar. Selçuklu Sultanı II. Keyhüsrev’in adamları, Amasya’da yaşayan Alevi mürşidi Baba İlyas’ın hayatına kastettiler. Ortada hiç bir sebep yoktu. Gül yüzlü Mürşit Amasya Kalesi’ne sığınarak hayatını kurtardı. Mürşidin tehlikede olduğu haberi çabuk yayıldı. Anadolu tek bir vücut oldu kalktı yürüdü. Dedeler, babalar, dervişler, muhipler, talipler; ocaklarını, tekkelerini, dergahlarını geride bırakarak tez elden Amasya’ya, mürşitlerine doğru yola koyuldular._
 
 _Olağanüstü bir yürüyüştü. Yollar insan kaynıyordu. Anadolu bir sel olmuş Amasya’ya doğru çağlıyordu. Yollara dökülmüş büyük kalabalıklar engel ve sınır tanımadan pirlerine doğru akıp gidiyorlardı. Önlerine çıkan Selçuklu ordularını önce Samsat’da, Adıyaman-Gerger’de, Kahta’da, sonra Malatya’da, Elbistan’da ve Sivas’da peş peşe, defalarca bozguna uğrattılar._
 
- [![malya-ovasi.jpeg](/uploads/2010/12/malya-ovasi.jpeg) Malya Ovası](/uploads/2010/12/malya-ovasi.jpeg "malya-ovasi.jpeg")
+ [![malya-ovasi.jpeg](../uploads/2010/12/malya-ovasi.jpeg) Malya Ovası](../uploads/2010/12/malya-ovasi.jpeg "malya-ovasi.jpeg")
 
 _Amasy__a önlerine geldiklerinde kara haberi duydular: Baba İlyas, güzel dost, ulu mürşit; Hıristiyan aristokratları tarafından pusuya düşürülmüş ve boğularak öldürülmüştü. Aleviler bu katlanılmaz felaket haberi ile birlikte Amasya önlerine mevzilenmiş büyük bir Selçuklu ordusuna saldırıp koca orduyu tarumar ettikten sonra Konya’ya doğru yürüyüşe geçtiler. Bu defa önlerine Kırşehir’in kuzeydoğusunda, Seyfe Gölü’nün kıyısında, Malya Ovası’nda çok kalabalık bir birleşik ordu çıktı.İttifak ordusunun merkezinde zırhlı Frenk askerleri vardı. Sağ ve sol cenahlar Selçuklular, Araplar, Kürtler ve Gürcüler tarafından tutulmuştu. İttifak ordusunun askerleri tam donanımlıydılar._
 
 _Aleviler dört aydan beri savaş meydanlarındaydılar. Kavganın biri bitmiş, on-on beş gün geçmeden diğeri başlamıştı. Aleviler, önceki kavganın yaralarını saramadan bir başka boğaz boğaza dövüşün içine düşmüşlerdi. Sevgi dinine inanmışlardı, savaşmak üzere eğitilmemişlerdi. Yorgundular. Evlerinden uzakta, her türlü tahkimattan yoksundular. Kışın önü görülmüş, soğuklar başlamıştı. Alevilerin üzerlerinde dört aydır çıkarmadıkları ince giysiler vardı. Ellerinde derme çatma silahlarla baş-açık, ayak-çıplaktılar. Aleviler, Malya Ovası’nda Orta Çağ Anadolu’sunun en donanımlı ordusuna yenildiler._
 
-[![seyfegolu.jpg](/uploads/2010/12/seyfegolu.jpg)](/uploads/2010/12/seyfegolu.jpg "seyfegolu.jpg") [](/uploads/2010/12/seyfegolu.jpg "seyfegolu.jpg") [](/uploads/2010/12/seyfegolu.jpg "seyfegolu.jpg")[Seyfe gölü](/uploads/2010/12/seyfegolu.jpg "seyfegolu.jpg")
+[![seyfegolu.jpg](../uploads/2010/12/seyfegolu.jpg)](../uploads/2010/12/seyfegolu.jpg "seyfegolu.jpg") [](../uploads/2010/12/seyfegolu.jpg "seyfegolu.jpg") [](../uploads/2010/12/seyfegolu.jpg "seyfegolu.jpg")[Seyfe gölü](../uploads/2010/12/seyfegolu.jpg "seyfegolu.jpg")
 
 _Aleviler semavi dinlerin ortak öfkesinden doğan işbirliğine mağlup oldular. Yenenler, yenilenleri kılıçtan geçirdiler. Çok cana kıyıldı. Büyük katliam oldu. Öyle kan döküldü ki, ovada akan kan Seyfe_ _Gölü’ne kadar ulaştı. Seyfe Gölü’nün sazlıkları kızıla boyandı. Yaban kuşları ovadan yükselen insan iniltilerinden ürktüler. Kanatlarında kandan lekeler, uçup gittiler. O kış başka yerlerde kışladılar._
 
@@ -43,11 +43,11 @@ _Savaşın üzerinden çok geçmeden Anadolu Platosu’na ilk karlar düşmeye b
 
 _1240 yılının kışında Malya mağluplarının üzerlerine çok soğuklar düştü. Her zemheride bıyıklar buz içinde kalırdı. Bu defa yürekler de dondu. Alevi köyleri acılar içinde yalnız ve perişan kaldılar. Kar kapıları  kapadı. Yollar geçilmez oldu. Gidenler geri gelmiyorlardı. Bir haber bile yoktu. Alevi yolu bozulmuş, erkan dağılmıştı. Alevilerin her parçası ayrı bir yerdeydi. Yaralar kanıyordu. Zaman, her zaman olduğu gibi yine zalimden yanaydı._
 
-[![baci.jpg](/uploads/2010/12/baci.jpg)](/uploads/2010/12/baci.jpg "baci.jpg")_Havada, derviş sabrını bile tüketen bir yılgınlık, uçsuz bucaksız bir hayal kırıklığı vardı. Umutlar buz kesmişti. Alevi bacılarının insan üstü dirençleri ve kadın metaneti tam da o yıkılmış, kararmış günlerde ortaya çıktı. Büyük bozgundan geride kalanların içini ısıttı. Erkeksi giysileri ve kısa saçları ile Alevi bacıları bu zor günlerde, tekkelerini, dergahlarını ve zaviyelerini terketmediler. Hatta terk edilmiş, ıssız kalmış mabetleri de sahiplenerek hayata döndürdüler. Ancak kadın doğasının gösterebileceği bir özveri ile yokluk ve zorluk içerisinde, ocakları ve mabetleri çekip çevirdiler. Yollarını şaşırmış çaresiz dervişler bu dergahlarda; tüten bir baca ve bir kap sıcak çorba buldular._
+[![baci.jpg](../uploads/2010/12/baci.jpg)](../uploads/2010/12/baci.jpg "baci.jpg")_Havada, derviş sabrını bile tüketen bir yılgınlık, uçsuz bucaksız bir hayal kırıklığı vardı. Umutlar buz kesmişti. Alevi bacılarının insan üstü dirençleri ve kadın metaneti tam da o yıkılmış, kararmış günlerde ortaya çıktı. Büyük bozgundan geride kalanların içini ısıttı. Erkeksi giysileri ve kısa saçları ile Alevi bacıları bu zor günlerde, tekkelerini, dergahlarını ve zaviyelerini terketmediler. Hatta terk edilmiş, ıssız kalmış mabetleri de sahiplenerek hayata döndürdüler. Ancak kadın doğasının gösterebileceği bir özveri ile yokluk ve zorluk içerisinde, ocakları ve mabetleri çekip çevirdiler. Yollarını şaşırmış çaresiz dervişler bu dergahlarda; tüten bir baca ve bir kap sıcak çorba buldular._
 
 _Karacahöyük, Malya Ovası’nın güneyinde kalır. O unutulası, akıllardan çıkmaz felaketin yaşandığı savaş alanına kuş uçusu 30 km mesafededir. Büyük bozgunu takip eden günlerde, burada bulunan eski bir Alevi mabedine kendi halinde, gösterişsiz bir derviş geldi. Çarpışmalarda kardeşini kaybetmişti. Üzgündü. Hayli zayıflamıştı. Bitap haldeydi._
 
-[![hacibektas.jpg](/uploads/2010/12/hacibektas.jpg)](/uploads/2010/12/hacibektas.jpg "hacibektas.jpg")_Gelecek kuşaklarda Hacı Bektaşi Veli adı ile ünlenecek olan bu derviş, Karacahöyük Dergahı’nın yönetimini elinde tutan ‘Anadolu Bacıları’ tarafından şefkat ile karşılandı, itina ile ağırlandı. Hatun Ana (Kadıncık Ana ya da Kadın Ana olarak da bilinir. Bu metinde Kadın Ana  olarak anacağız) adı ile bilinen dergahın ‘Pir Bacısı’ ona ihtimam etti. Hacı Bektaş, kalan ömrünü bu dergahta tamamladı. Karacahöyük’de, alçakgönüllü ve münzevi bir yaşam sürdü. Keramet sahibiydi. Pek çok sırra sahipti. Hakka yürümeden önce taşıdığı tüm sırları, vakıf olduğu bilgeliği, Karacahöyük Dergahı’nın Pir Bacısı’na, Kadın Ana’sına devretti._
+[![hacibektas.jpg](../uploads/2010/12/hacibektas.jpg)](../uploads/2010/12/hacibektas.jpg "hacibektas.jpg")_Gelecek kuşaklarda Hacı Bektaşi Veli adı ile ünlenecek olan bu derviş, Karacahöyük Dergahı’nın yönetimini elinde tutan ‘Anadolu Bacıları’ tarafından şefkat ile karşılandı, itina ile ağırlandı. Hatun Ana (Kadıncık Ana ya da Kadın Ana olarak da bilinir. Bu metinde Kadın Ana  olarak anacağız) adı ile bilinen dergahın ‘Pir Bacısı’ ona ihtimam etti. Hacı Bektaş, kalan ömrünü bu dergahta tamamladı. Karacahöyük’de, alçakgönüllü ve münzevi bir yaşam sürdü. Keramet sahibiydi. Pek çok sırra sahipti. Hakka yürümeden önce taşıdığı tüm sırları, vakıf olduğu bilgeliği, Karacahöyük Dergahı’nın Pir Bacısı’na, Kadın Ana’sına devretti._
 
 _Karacahöyük Dergahı, Malya bozgunundan sonra Hacı Bektaş başta olmak üzere kıyımdan kurtulabilmiş; bozkırın ayazında yalnız ve umutsuz kalmış pek çok mürşide ve dervişe kapılarını açtı, bir yandan son günlerinde onlara rahat ve huzur verdi, bir yandan da bu yılgın dervişlerden Alevi yol bilgilerini ve Alevi sır ve hakikatlerini sonraki kuşaklara aktarmak üzere derleyip toparladı._
 

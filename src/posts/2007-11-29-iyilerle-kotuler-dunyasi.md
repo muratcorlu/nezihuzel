@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![arabi-pacha-1905.jpg](/uploads/2007/12/arabi-pacha-1905.jpg)](/uploads/2007/12/arabi-pacha-1905.jpg "arabi-pacha-1905.jpg")[](/uploads/2007/11/k_muzak1.gif "k_muzak1.gif")[](/uploads/2007/11/k_muzak.gif "k_muzak.gif")Â Â 
+[![arabi-pacha-1905.jpg](../uploads/2007/12/arabi-pacha-1905.jpg)](../uploads/2007/12/arabi-pacha-1905.jpg "arabi-pacha-1905.jpg")[](../uploads/2007/11/k_muzak1.gif "k_muzak1.gif")[](../uploads/2007/11/k_muzak.gif "k_muzak.gif")Â Â 
 
 Arabî PaşaÂ Â 
 

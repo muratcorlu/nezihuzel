@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![image02.jpg](/uploads/2007/12/image02.jpg)](/uploads/2007/12/image02.jpg "image02.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![image02.jpg](../uploads/2007/12/image02.jpg)](../uploads/2007/12/image02.jpg "image02.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 (Hazırladığımız bir Kitap'tan)Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-Â Â Â Â Â Â Â Â Â Â Â Â Â ![](/uploads/image/Gokay_Goksen2.jpg)Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â ![](../uploads/image/Gokay_Goksen2.jpg)Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Al sana bir daha... Bir “**Globalizasyon**” maskaralığı daha... Bir acaip **hilkat garibesi** daha, **Cami** yaptırmış **minaresi** çan kulesi... **Ãeşme** yaptırmış **lülesi** yok, Tavansız, **döşemesiz** ev kurmuş **duvarları** eksik.
 

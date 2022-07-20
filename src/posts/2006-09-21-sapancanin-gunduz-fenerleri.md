@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-![fener.jpg](/uploads/2006/09/fener.kucukresim.jpg)Usta biriyle telefonla konuşuyordu. Yüzü **gergindi**. Gaaak.Gaaak. Yaklaşarak dinledim:
+![fener.jpg](../uploads/2006/09/fener.kucukresim.jpg)Usta biriyle telefonla konuşuyordu. Yüzü **gergindi**. Gaaak.Gaaak. Yaklaşarak dinledim:
 
   -Ben **gündüz feneri** istemiyorum, lutfen buraya **gece lambası** takın... Anladım. Usta'nın **Sapanca**'da   oturduğu sokak bir süre önce düzenlendi, yola iki sıra   yeni **lambalar** takıldı. Gak.Tıss.Ne var ki bu lambalar **gündüzleri yanıyor geceleri sönüyor**..Gaaaak. anlaşılan Gün ışığına duyarlı otomatiği yanlış bağlamışlar. Gaak.Guk. Usta telefon açtı:
 

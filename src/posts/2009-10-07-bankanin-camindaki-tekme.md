@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/cam.jpg)
+![](../uploads/image/cam.jpg)
 
 Geçen haftanın **olayları** arasında bir **resim** gözümün önünden **gİtmiyor:** Bir bankanın **camını** tekmeleyen bir genç.. Bu bir **protesto** mudur ?, bir **terör** olayı mıdır ? Hafifletilmiş bir **terör,** hızlandırılmış bir “**protesto**” mudur ? Nedir. **Anarşi,** eylem, **şehir muharebesi** midir ? Sokak **savaşı** mıdır ? nedir ? Bir **insan** evinde uslu uslu oturacağına gidip bir **bankanın** camını neden kırar ?
 

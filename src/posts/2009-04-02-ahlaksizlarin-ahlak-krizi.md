@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**![](/uploads/image/new_york_borsasi_.jpg)**
+**![](../uploads/image/new_york_borsasi_.jpg)**
 
 **Bir bölük halk deniz gibi köpürüyor  
 Bir bölük halk dalga dalga secdede  

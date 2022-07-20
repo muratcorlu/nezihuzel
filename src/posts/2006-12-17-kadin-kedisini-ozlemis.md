@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![kedi23.jpg](/uploads/2007/08/kedi23.jpg)](/uploads/2007/08/kedi23.jpg "kedi23.jpg")Hoca'nın tam "kadın yollarda **kayboldu** galiba..." dediği günün sabahında **Hakikat hanım** telefon etti... Gaaak. Guk
+[![kedi23.jpg](../uploads/2007/08/kedi23.jpg)](../uploads/2007/08/kedi23.jpg "kedi23.jpg")Hoca'nın tam "kadın yollarda **kayboldu** galiba..." dediği günün sabahında **Hakikat hanım** telefon etti... Gaaak. Guk
 
                 -**Usez'e** vardım... **Claudin'in** evindeyim...
 

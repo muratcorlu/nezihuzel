@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![sari-gul-1.jpg](/uploads/2010/11/sari-gul-1.jpg)](/uploads/2010/11/sari-gul-1.jpg "sari-gul-1.jpg")
+[![sari-gul-1.jpg](../uploads/2010/11/sari-gul-1.jpg)](../uploads/2010/11/sari-gul-1.jpg "sari-gul-1.jpg")
 
 Dininiz **mubarek** olsun Tarikatiniz **kutlu** olsun Edebiniz **daim** olsun Ruhunuz **altınla** dolsun
 

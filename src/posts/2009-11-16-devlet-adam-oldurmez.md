@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![](/uploads/image/eylem.jpg)  Genellikle **insan hayatını** korumak üzere düzenlenmiş olan **devlet kuruluşu** adam öldürmez. Bu eşyanın **tabiyatına** aykırı ve dünyanın **gidişatına** terstir. Ancak devletler yönettikleri **ülkelerin** halkına **can güvenliği** sağlamak üzere bir **dizi** tedbirler aldıkları sırada, bu can **güvenliğini** tehdid eden unsurları **temizlemek** hakkına da sahiptirler. . Bunun adı “**hikmet-i hükümettir**”
+![](../uploads/image/eylem.jpg)  Genellikle **insan hayatını** korumak üzere düzenlenmiş olan **devlet kuruluşu** adam öldürmez. Bu eşyanın **tabiyatına** aykırı ve dünyanın **gidişatına** terstir. Ancak devletler yönettikleri **ülkelerin** halkına **can güvenliği** sağlamak üzere bir **dizi** tedbirler aldıkları sırada, bu can **güvenliğini** tehdid eden unsurları **temizlemek** hakkına da sahiptirler. . Bunun adı “**hikmet-i hükümettir**”
 
 Ne var ki **devlet** bu tedbirleri alırken **suçluyu uçsuzu** ayırmak zorundadır. Ayıramıyorsa **kaatil** damgası yer. İnsanları bir **mağaraya** doldurup içeriye **zehirli gaz** veren devlet **cânîdir.** Bunu **devlet hizmeti** diye yapan yetkili kişi **hayduttur**. Böyle bir emri **veren** de, uygulayan da, insanlığın **yüz karasıdır**. Günün **şartları** ne olursa olsun **öncesinde** ve sonrasında  **Kamu** vicdanında **hüküm** giymiştir.
 

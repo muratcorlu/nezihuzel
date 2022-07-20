@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![fuzeler.jpeg](/uploads/2010/11/fuzeler.jpeg)](/uploads/2010/11/fuzeler.jpeg "fuzeler.jpeg")
+[![fuzeler.jpeg](../uploads/2010/11/fuzeler.jpeg)](../uploads/2010/11/fuzeler.jpeg "fuzeler.jpeg")
 
 Amerikan sanayinde füze kalkanı  **teknolojisi** için soyunan kuruluşların “**medya**” ilişkileri varmış. Yani bu başarılı **silah tüccarları** aynı zamanda **TV** ve gazete sahibiymiş. Yani sistemi geniş **halk kıtlelerine** şirin göstermek için ellerinde fevkalade etkili **yayın organları** varmış. Bu yayın organları ile daha şimdiden  **amansız** bir propaganda yarışına girişmişler veya **girmek üzere** hazırlanıyorlarmış.
 

@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**[![nur.jpg](/uploads/2008/12/nur.jpg)](/uploads/2008/12/nur.jpg "nur.jpg")**
+**[![nur.jpg](../uploads/2008/12/nur.jpg)](../uploads/2008/12/nur.jpg "nur.jpg")**
 
 **Nurdan** doğdu  aşk **Aşktan** doğdu  nur Aşk da, nur da,**O’dur**
 

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![mevlana.jpg](/uploads/2011/01/mevlana.jpg)](/uploads/2011/01/mevlana.jpg "mevlana.jpg")
+[![mevlana.jpg](../uploads/2011/01/mevlana.jpg)](../uploads/2011/01/mevlana.jpg "mevlana.jpg")
 
 Şu yeryüzü **cansız** aklı fikri yok Sanmayasın diye **tavşan** uykusuna yatmış, Sessizce **uyur**  gibi görünüyor.
 

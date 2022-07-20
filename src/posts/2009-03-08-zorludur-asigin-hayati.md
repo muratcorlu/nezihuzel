@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/nezih.jpg)
+![](../uploads/image/nezih.jpg)
 
 Ben **seni** sevdim  
 Unutma !  

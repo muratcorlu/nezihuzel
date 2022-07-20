@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![images.jpg](/uploads/2011/10/images.jpg)](/uploads/2011/10/images.jpg "images.jpg")
+[![images.jpg](../uploads/2011/10/images.jpg)](../uploads/2011/10/images.jpg "images.jpg")
 
 Üsküdar’da onarılmakta olan Özbekler tekkesi soyuldu. 9 ekim Pazar günü belirsiz bir saatte Tekke’nin mesçidinin demir parmaklıklarını kıran menhus eller, içeriye duhul ederek vakıflar idaresi tarafından bakımı yapılarak korunmaya alınmış olan 300’e yakın paha biçilmez tarihi eser arasında kendilerine yarayan bazı eserleri alıp götürdüler. Kolluk kuvvetleri şu saatlerde Dergahta inceleme yapıyor. Bu haberle ilgili ayrıntılar geldikçe yazacağım. (N.U.Üsküdar-Bağlarbaşı, 9 ekim 2011. Saat: 21.35)
 

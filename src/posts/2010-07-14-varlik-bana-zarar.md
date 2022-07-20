@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![buyu.jpg](/uploads/2010/07/buyu.jpg)](/uploads/2010/07/buyu.jpg "buyu.jpg")
+[![buyu.jpg](../uploads/2010/07/buyu.jpg)](../uploads/2010/07/buyu.jpg "buyu.jpg")
 
 Bir büyü yaptı da Canan Sonra kendi büyüsüne Kendi kaldı hayran Gördüğüne kapıldı da Varlığını etti kurban
 

@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-**![](/uploads/image/cekirge.jpg)  
+**![](../uploads/image/cekirge.jpg)  
 **Ruhsuz çekirge Kalender
 
 **Züleyha** gök yüzüne bakarken,  

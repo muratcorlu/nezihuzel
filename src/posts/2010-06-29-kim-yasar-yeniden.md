@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![gul.jpg](/uploads/2010/06/gul-1.jpg)](/uploads/2010/06/gul-1.jpg "gul.jpg")
+[![gul.jpg](../uploads/2010/06/gul-1.jpg)](../uploads/2010/06/gul-1.jpg "gul.jpg")
 
 Bir kimyadır **beden** Kimbilir nerelerden **süzülüp** gelen Bağlantılardır **aklımı** çelen Dün **akşam** ne giden oldu, ne gelen
 

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/bakan.jpg)  
+![](../uploads/image/bakan.jpg)  
 Nezih Uzel ve İhsan Sabri Çağlayangil  
 Yeşilköy mart, 1964
 

@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-**![](/uploads/image/obamaMOS0202_468x558.jpg)**
+**![](../uploads/image/obamaMOS0202_468x558.jpg)**
 
 **Nobel** barış ödülü alan Amerika **Birleşik** Devletleri Başkanı Barack **Obama** ödülünü aldığı toplantı’da konuşarak “**savaşı**”nı övdü. Birleşik **Amerika**’nın bu savaşta “**haklı”** olduğunu ileri sürerek dünyada **“barış** sağlamanın” savaştan geçtiğini  hatırlattı. İyi bir “**savaşın**” kötü bir barıştan her zaman **üstün** olduğunu söyledi.
 

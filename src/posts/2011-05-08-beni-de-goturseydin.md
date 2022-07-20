@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![anne.jpg](/uploads/2011/05/anne.jpg)](/uploads/2011/05/anne.jpg "anne.jpg")
+[![anne.jpg](../uploads/2011/05/anne.jpg)](../uploads/2011/05/anne.jpg "anne.jpg")
 
 Anneler Varlığın temeli anneler Yaradılışın sırrı anneler Nurdan doğmuş anneler
 

@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-                                           ![dscf3269.JPG](/uploads/2006/12/dscf3269.kucukresim.JPG)  
+                                           ![dscf3269.JPG](../uploads/2006/12/dscf3269.kucukresim.JPG)  
 
 Her akşam **Hoca**'ya salep pişirdi. Her gün **mutfakta** bulaşık yıkadı, durmaksızın **çamaşır** astı kuruttu, yine de **Hoca'ya** yaranamadı Gaaak. Guk. Dün sabah **güneş doğmadan** karanlıkta **arabasına** binip gitti.... Gaaak.Guuuk. Daha **haber** yok. **Hoca** merak içinde, çünkü Salı günü **opel arabayı** ustaya götürdüler,   **Hoca** ustaya dedi ki:  -Bu **araba** yarın iki bin kilometre yol alıp **Marsilya'ya** gidecek. **Usta** - **gider**... dedi. **Hoca** inanamadı, başka ustaya sordu, o da - **gitmez** dedi.
 

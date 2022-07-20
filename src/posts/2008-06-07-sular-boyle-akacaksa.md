@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-[![yusufcukk.jpg](/uploads/2008/06/yusufcukk.jpg)](/uploads/2008/06/yusufcukk.jpg "yusufcukk.jpg")
+[![yusufcukk.jpg](../uploads/2008/06/yusufcukk.jpg)](../uploads/2008/06/yusufcukk.jpg "yusufcukk.jpg")
 
 Kalender çekirge **dünyayı** kafaya takmaz.
 

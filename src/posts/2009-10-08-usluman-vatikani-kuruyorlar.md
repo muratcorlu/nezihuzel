@@ -5,7 +5,7 @@ categories:
   - Altın Sorular
 ---
 
-![](/uploads/image/fethullah-gulen.jpg)
+![](../uploads/image/fethullah-gulen.jpg)
 
 Fethullah Hoca ile ilgili, bir soru geldi. Cevabını sunuyorum.
 

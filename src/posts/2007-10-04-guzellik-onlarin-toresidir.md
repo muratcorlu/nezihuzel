@@ -6,7 +6,7 @@ categories:
 ---
 
   
-![](/uploads/image/mevlevi.jpg)
+![](../uploads/image/mevlevi.jpg)
 
 İnsanın **yüceliği** geçmişe dayanır. **Hatır gönül** bilenler, yüksek bir **ruh** ve **erdem** taşıyan insanlardır. Bir işe giriyorsanız o işin içinde **harcanmış emeklere**, geçmiş yıllara, **saygı** göstermeniz gerekir, sizden önce o **kapılardan** geçmiş kimseleri **nazarı itibara** almazsanız sonra o **kapılar yüzünüze çarpılır**. Ağır bir konudur, şöyle bir etrafınıza **bakmanız** gerekir... Çevreye bir **göz** gezdirin
 

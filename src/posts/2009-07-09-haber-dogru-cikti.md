@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/nur4cn_1_.jpg)
+![](../uploads/image/nur4cn_1_.jpg)
 
 Ne güzel, ne **temiz** insanlardık.  
 Sanki **gökten** nur inmiş  

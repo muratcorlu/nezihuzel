@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![](/uploads/image/taylor.jpg)
+![](../uploads/image/taylor.jpg)
 
 L'ancien **président** et chef de guerre libérien **Charles Taylor** a défié quiconque de prouver qu'un compte en **banque** à son nom recèlerait des fonds **illicites**, ou des "**diamants de sang**" provenant de la **guerre civil**e qu'il a mené en **Sierra Leone.** Témoignant pour la deuxième semaine devant le **Tribunal spécia**l de l**'ONU** pour la **Sierra Leone, Taylor** nie avoir formé une force de **guérilla** pour envahir le pays voisin du **Liberia,** avoir entraîné des rebelles ou commandé de telles **opérations**
 

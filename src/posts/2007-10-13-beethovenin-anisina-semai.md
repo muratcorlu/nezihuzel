@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/beet(2).jpg)
+![](../uploads/image/beet(2).jpg)
 
   
 **Beethoven’i**n anısına **yürük semai** besteledim çalar mısınız ?  

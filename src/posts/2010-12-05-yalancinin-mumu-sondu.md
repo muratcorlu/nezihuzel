@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![icerik.jpeg](/uploads/2010/12/icerik.jpeg)](/uploads/2010/12/icerik.jpeg "icerik.jpeg")
+[![icerik.jpeg](../uploads/2010/12/icerik.jpeg)](../uploads/2010/12/icerik.jpeg "icerik.jpeg")
 
 Başbakan **Wikileaks** belgeleri için “üzerinde **tartışmadan** yayınlamak vizyonsuz siyasettir” dedi. Yani bunları yayınlayanın bir “**vizyonu”** olacak, eskiden "**dünya görüşü**" denirdi,  şimdi "**vizyon**"deniyor.. **Vizyon** olmalı, yoksa **belgeler** değer taşımaz. **Belge** eğer tartışılmadıysa inanılmaz . Halbuki bu **belgeleri** yayınlayan **Wikileaks**’ın kendisi zaten “benim bir **vizyonum** yok” alın önünüze **serdim**, tartışın ve istediğiniz “**vizyon**”a kendiniz sahip olun  diyor. “Bunun adı **şeffaflık,** sadece şeffaflık, hiçbir şey **gizli** kalmasın. Haberler **yorumsuz** verilsin, doğruluğu sonradan **araştırılsın**” demek istiyor.
 

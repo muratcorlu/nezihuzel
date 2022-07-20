@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-**[![26650.jpg](/uploads/2008/03/26650.jpg)](/uploads/2008/03/26650.jpg "26650.jpg")**
+**[![26650.jpg](../uploads/2008/03/26650.jpg)](../uploads/2008/03/26650.jpg "26650.jpg")**
 
 **İskilipli Atıf Hoca Samsun İstiklal Mahkemesinde** beraat etti, **Ankara İstiklal Mahkemesinde** asıldı. Suçu **şapka kanunundan** iki yıl önce “ **frenk mukallidliği ve şapka**” isimli, bir **kitap** yazmasıydı. Bazıları bu kitaptan **esinlenerek** şapka'ya direnmişti. **Samsun** **Mahkemesi** yerel suçlara bakıyordu, **Ankara İstiklal mahkemesinin** etki alanı ise tüm ülkeydi. **Yerel**’de beraat eden **Hoca, Ãlke Mahkemesinde** suçlandı.
 

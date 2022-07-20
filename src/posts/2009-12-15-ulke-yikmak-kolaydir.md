@@ -5,7 +5,7 @@ categories:
   - Altın Sorular
 ---
 
-_![](/uploads/image/Ataturk__.jpg)  
+_![](../uploads/image/Ataturk__.jpg)  
 Gazi Mustafa Kemal Paşa anıtı-Bursa._
 
 _Bir okuyucumuzun yorumunu ve benim katkımı  arzediyorum :_

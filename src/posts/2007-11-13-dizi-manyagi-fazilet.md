@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![televizyon.jpg](/uploads/2007/11/televizyon.jpg)](/uploads/2007/11/televizyon.jpg "televizyon.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![televizyon.jpg](../uploads/2007/11/televizyon.jpg)](../uploads/2007/11/televizyon.jpg "televizyon.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 \-Sen bana geçen gün neden “dizi manyağı” dedin ?
 

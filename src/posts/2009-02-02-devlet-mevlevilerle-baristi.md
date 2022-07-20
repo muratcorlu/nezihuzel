@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/ata.jpg)
+![](../uploads/image/ata.jpg)
 
 Önemli bir gün yaşandı. **Cumhuriyet** idaresi ile 1925 tarihinden bu yana arası açık olan **Mevleviler,** 84 yıl süren küskünlükten sonra, geçtiğimiz 31 ocak 2009 Cumartesi günü barıştılar. **Yeni Türk devleti**, 700 yıllık **Mevlevi kültürü** ile yeniden **nikah tazeledi**.
 

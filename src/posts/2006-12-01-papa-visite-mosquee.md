@@ -9,7 +9,7 @@ categories:
 
 _Par **EuroNews**_
 
-<table align="left" border="0"><tbody><tr><td><a href="//a763.v26131b.c26131.e.vr.akamaistream.net/ondemand/7/763/26131/v1/euronews1.download.akamai.com/26131/rm/new/cut/info-benedictXVI3011s_F.rm?')"><img id="image275" style="width: 128px;height: 179px" height="179" alt="251.jpg" src="/uploads/2006/12/251.jpg" width="128">&nbsp;&nbsp;</a></td></tr></tbody></table>
+<table align="left" border="0"><tbody><tr><td><a href="//a763.v26131b.c26131.e.vr.akamaistream.net/ondemand/7/763/26131/v1/euronews1.download.akamai.com/26131/rm/new/cut/info-benedictXVI3011s_F.rm?')"><img id="image275" style="width: 128px;height: 179px" height="179" alt="251.jpg" src="../uploads/2006/12/251.jpg" width="128">&nbsp;&nbsp;</a></td></tr></tbody></table>
 
 **Pour la seconde fois, un pape pénètre dans une mosquée**
 

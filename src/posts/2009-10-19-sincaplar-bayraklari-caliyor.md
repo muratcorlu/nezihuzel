@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-**![](/uploads/image/hampton2.jpg)**
+**![](../uploads/image/hampton2.jpg)**
 
 **Hampton, États-Unis** - Au **cimetière militaire** de la ville d**'Hampto**n, on s'interroge sur la **disparition** des petits drapeaux **américains** déposés sur les tombes des **soldats disparus**. Certains soupçonnent les **écureuils** d'être les voleurs.  
                                                                                         
@@ -17,5 +17,5 @@ Toujours d'après M. **Bateman,** les **écureuils voleurs** semblent avoir pos�
 **Türkçe Özet** : _Birleşik Amerika’nın Hampton şehrinde bulunan askeri mezarlıkta sincaplar mezarların üzerine bırakılan küçük Amerikan bayraklarını çalıyor. Bayrakların kaybolması üzerine bilgisine başvurulan mezarlık bekçisi Richard Bateman «  ülkede pek çok askeri mezarlıkta bu olay meydana geliyor, çevredeki ağaçlarda yaşayan sincaplar ziyarete gelen ailelerin bıraktıkları küçük bayrakları kaçırarak yuvalarını yapıyorlar » dedi. Yaşlı Ralph Fratelleo da şunları söyledi « Bu işi yapanların sincaplar olduğu hiç aklıma gelmezdi, onlara dava açarak bir örnek bırakmak istiyorum. » Polis mezarlıkta nöbet bekleyerek hırsız sincapları yakalayacak ve bölgede yaşayan eski muharip gazileri rahatlatacak.    (Teşekkürler Zigonet/Yahoo)  
 _
 
-![](/uploads/image/sincap.jpg)  
+![](../uploads/image/sincap.jpg)  
 Askeri mezarlıktan bayrak çalan sincap

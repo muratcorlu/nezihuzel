@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-  **![](/uploads/image/zurefa.jpg)  Oregon, Etats-Unis** - **Sean McDowell**, 24 ans, a été aperçu par la **police** en train d'essayer d'avoir des **relations sexuelles** avec une **girafe** en **peluch**e alors qu'il était **ivre.**   
+  **![](../uploads/image/zurefa.jpg)  Oregon, Etats-Unis** - **Sean McDowell**, 24 ans, a été aperçu par la **police** en train d'essayer d'avoir des **relations sexuelles** avec une **girafe** en **peluch**e alors qu'il était **ivre.**   
   
 Le **jeune homme** a été vu alors qu'il tentait de voler une **girafe** en peluche d'1,30 mètre, située devant un **magasin** de **jouet**s. Par deux fois, il a simulé une **relation sexuelle** sur l'animal. Il a ensuite tenté d'**emporter** le jouet puis a **remarqué** la présence des **policiers**. 
 

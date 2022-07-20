@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/Benj.jpg)  
+![](../uploads/image/Benj.jpg)  
 Benjamin Franklin  
 (1706-1790)
 
@@ -15,7 +15,7 @@ O **makam'**a  sonradan gelenler hiç **erdem** lafı etmediler. “Biz zaten *
 
 **Kennedy** bir kitap yazmıştı: “**Fazilet mücadelesi**” Hepimiz şaşırmıştık. **Kennedy** bu kitapla “makine gürültüleri arasında **fazileti** arıyor…”demişlerdi. Güçlü bir **icra** organının başına oturtulmuş bu değerli **insan**, acaba kimi kime **şikayet** ediyordu ? İşler **bozuksa** düzeltecek kişi yine **kendisiydi.** Veya etkisi altında bulunan **devlet** kurumlarını **doğruya** yönlendirebilecek, **halkın** seçtiği tek kişi yine O'ydu. Ne **demek** istemişti ? kıvırcık **sarı saçlı**, mavi gözlü, **İskandinav** kanı taşıyan o **şirin** adam…
 
-**![](/uploads/image/nader_0226.jpg)  
+**![](../uploads/image/nader_0226.jpg)  
 **Ralph Nader  
 **Amerikan** tarihi sürüyordu. O ülkede eksik olmayan **siyasi fırtınaların** orta yerinde bir isim belirdi: **Ralph Nader**… Bu zat, orijinal adı ile **Nâdir bey**, Amerika’ya göç etmiş **Lübnan**’lı bir ailenin çocuğu idi. Sanırım **Detroit**’te avukatlık yapıyordu. Bir gün **Detroit** ve **Michigan**’da kümelenmiş **Amerikan oto sanayinin** araba satmak sevdasıyla **çürük araba** ürettiğini fark etti. İnce **avukat** zekasıyla işe koyuldu. Kaza yapmış arabalarda **hayatını** kaybetmiş veya **sakat** kalmış insanların **ailelerini** buldu, onlardan v**ekaletnemeler** topladı ve dava açtı. **Davaları** kazandı, külliyetli miktarda **tazminat** aldı. O arada bir **mahkemeden** tedbir **diye “güvenlik şeridi”** kararı çıkardı**. Mahkemeler** bu karara hep birlikte **destek** verdiler ve şimdi her sabah **arabamıza** bindiğimizde bağladığımız “**emniyet kemeri**” veya “**güvenlik kuşağı**” böylece doğdu.  Çok faydası görüldü. **Yayıldı**, takmayana **ceza** geldi.
 

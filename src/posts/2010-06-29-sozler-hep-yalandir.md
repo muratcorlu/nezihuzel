@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![gul.jpg](/uploads/2010/06/gul-1.jpg)](/uploads/2010/06/gul-1.jpg "gul.jpg")
+[![gul.jpg](../uploads/2010/06/gul-1.jpg)](../uploads/2010/06/gul-1.jpg "gul.jpg")
 
 Sana **saldırmadığım** için Sevinmeliyim **Sana** bir kötülük Yapmadığım için **Mutlu** olmalıyım.
 

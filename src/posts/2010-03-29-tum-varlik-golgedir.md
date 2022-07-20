@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![doga.jpg](/uploads/2010/03/doga.jpg)](/uploads/2010/03/doga.jpg "doga.jpg")
+[![doga.jpg](../uploads/2010/03/doga.jpg)](../uploads/2010/03/doga.jpg "doga.jpg")
 
 Sufi ki bilmez sırrını hayatın Sırrın kendisidir sormaz hatırın
 

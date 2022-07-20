@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/patrik.jpg)  
+![](../uploads/image/patrik.jpg)  
 Osmanlı madalyalı Patrik hazretleri
 
 Fener Rum Patriği Bartholemeos bir televizyon programında “Kendimi çarmıha gerilmiş gibi hissediyorum” dedi… İyi ya, bundan büyük ibadet mi olur ?  Hırıstiyanlar Cenabı İsa Ruhullah aleyhisselamın  gerildiği rivayet edilen ve adına çarmıh denilen, dört çiviyle birbirine çakılı iki tahta parçasının sembolik görüntüsünü,  iki bin yıldır göğüslerinde taşıyorlar. Eğer patrik kendini oraya çakılı hissetiyse mubarek olsun. Hakk C.C. niyetini ve ibadetini kabul etsin.

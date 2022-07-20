@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/niyazi.jpg)
+![](../uploads/image/niyazi.jpg)
 
 “**Gökte** uçarken yere **indirdiler  
 Çahr** anasır **bentlerine** urdular  

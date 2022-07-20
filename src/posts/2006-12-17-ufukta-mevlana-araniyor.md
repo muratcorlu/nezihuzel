@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**![mev1.bmp](/uploads/2007/10/mev1.bmp)**
+**![mev1.bmp](../uploads/2007/10/mev1.bmp)**
 
 **Mevlânâ**   demek istiyor ki : "uzun lafın **kısası**, beni **anlamak** istiyorsan, **ismim** geçtiği zaman **kalbin** titrerse anlamışsın..." demektir. Aynı **yönde** bir sözü daha var: "**Ben ol da** bil..." Yâni efendim, **kalbin** titrerse yaşadın... **Kalbin titredi** mi, **Mevlânâ'yı** da bildin, **kendini** de **Rabbini** de... İşte bu. **Tasavvufun** da özü bu, **dinin** de **imanın** da herşeyin **özü** bu...
 

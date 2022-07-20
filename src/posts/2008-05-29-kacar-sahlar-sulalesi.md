@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![180px-rezashah.jpg](/uploads/2008/05/180px-rezashah.jpg)](/uploads/2008/05/180px-rezashah.jpg "180px-rezashah.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![180px-rezashah.jpg](../uploads/2008/05/180px-rezashah.jpg)](../uploads/2008/05/180px-rezashah.jpg "180px-rezashah.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Vaktiyle **İran şahı** kaçmış, sarayın **muhafız alayı** kumandanı **tahtı** boş bulunca geçip **oturmuş**… İşin **garibine** bakınız ki, kaçan **şahın** adı da “**Kaçar**…” Bir **Türk aşireti** olan **Kaçar** Türklerinden “**KaçarÂ  Åahlar**” Sülalesi... Nasıl da yakışıyor… Son “**Kaçar” Ahmet Åah** 1923’te **İngiltere**’ye kaçınca ondan sonra gelen ve son “**Kaçar**”ın yerine oturan sülaleye “**Pehlevi**” denmiş. “**Pehlevan**” kabilesinden **Rıza Åah Pehlevî**... Onun oğlu da **Muhammed Rıza Pehlevî.** Onu da **Ayetullah Humeynî** kaçırdı.
 

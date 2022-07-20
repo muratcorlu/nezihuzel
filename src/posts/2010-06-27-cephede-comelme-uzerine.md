@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![melek.jpg](/uploads/2010/06/melek.jpg)](/uploads/2010/06/melek.jpg "melek.jpg")  Sultan Fatih çağın en ileri ordusu, en güçlü silahları, en deneyimli askerleri ile Kostantaniyye, İstanbul şehrini sarmıştır. Şehrin çevresine askeri istihkamlar, kaleler, burçlar inşaa edilmektedir. Netice bellidir. Bizans alınacaktır. Şehir el değiştirecektir. Bu önemli bir vak’adır.
+[![melek.jpg](../uploads/2010/06/melek.jpg)](../uploads/2010/06/melek.jpg "melek.jpg")  Sultan Fatih çağın en ileri ordusu, en güçlü silahları, en deneyimli askerleri ile Kostantaniyye, İstanbul şehrini sarmıştır. Şehrin çevresine askeri istihkamlar, kaleler, burçlar inşaa edilmektedir. Netice bellidir. Bizans alınacaktır. Şehir el değiştirecektir. Bu önemli bir vak’adır.
 
 Bizans’ın içi ise karışıktır. Bazıları şehrin Türk Hakanı'na teslim edilmesinden yanadır. Bazıları direnişçidir. Bir kısım Ortodoks dindarlar da “sonu açıkça görülen” o talihsiz şehirde koyu bir din tartışmasına kapılmışlardır. Konu “Meleklerin Cinsiyeti…” Acaba gökteki melekler erkek mi dişi mi ?
 
@@ -15,7 +15,7 @@ Günümüzde bu olayın bir benzeri yaşanmaktadır. Ülke değişmenin açık b
 
 Devlet adamları tehlikenin boyutlarından haberdar değillerdir. Adını bir türlü koyamadıkları kanlı bir çarpışmanın üstesinden gelecek yapıya sahip değillerdir. Modası geçmiş okullarında Konvansiyonel savaş metodları öğrenerek yetişmiş askerler, düşmanın nereden geleceğini bilmeden, yüzünü görmeden rastgele savaşmaktadırlar. Askerler her gece karanlıkta birbirini boğazlayarak öldürmektedirler.
 
-[![mayin.jpg](/uploads/2010/06/mayin.jpg)](/uploads/2010/06/mayin.jpg "mayin.jpg")  Devlet hukuku ile sarılı güvenlik güçleri her türlü ahlaksızlık ve hukuksuzluğu deneyen düşmana karşı etkisizdir. Bu savaş göğüs göğüse yapılan eski mert savaşlardan değildir. Yer altına kimin döşediği bilinmeyen kara mayınları ile üzerinden geçen canlıların savaşıdır. Bu mel’un karmaşada kimsenin boşluğa sıkılmış kurşundan farkı yoktur.
+[![mayin.jpg](../uploads/2010/06/mayin.jpg)](../uploads/2010/06/mayin.jpg "mayin.jpg")  Devlet hukuku ile sarılı güvenlik güçleri her türlü ahlaksızlık ve hukuksuzluğu deneyen düşmana karşı etkisizdir. Bu savaş göğüs göğüse yapılan eski mert savaşlardan değildir. Yer altına kimin döşediği bilinmeyen kara mayınları ile üzerinden geçen canlıların savaşıdır. Bu mel’un karmaşada kimsenin boşluğa sıkılmış kurşundan farkı yoktur.
 
 Bütün bu facianın orta yerinde bir gün cepheye yakın bir yere giden yetkili Devlet ve Ordu büyükleri çok önemli (!) bir tartışmanın kapısını açmışlardır. Bu tartışma “ Cephede çömelme” üzerinedir. Acaba oraya giden o ulu kişiler yalı kazığı gibi ayakta mı durmalı ? mezarlıkta asırlık selvi ağaçları gibi mi salınmalı ? yoksa yere mi çömelmeli ? Uzun mu oturmalı ? Yerde mi yatmalı ? Yüzü koyun topraklara mı yapışmalı ? “tartışmamız bu…” Bunu tartışıyoruz.
 

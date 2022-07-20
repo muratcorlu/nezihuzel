@@ -5,9 +5,9 @@ categories:
   - Baş Yazı
 ---
 
-[](/uploads/2008/11/kkk.bmp "kkk.bmp")
+[](../uploads/2008/11/kkk.bmp "kkk.bmp")
 
-[![untitled.bmp](/uploads/2011/09/untitled.bmp)](/uploads/2011/09/untitled.bmp "untitled.bmp")
+[![untitled.bmp](../uploads/2011/09/untitled.bmp)](../uploads/2011/09/untitled.bmp "untitled.bmp")
 
 (Arşiv'den) 
 

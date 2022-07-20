@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![dec5rumsfeldlarryking.jpg](/uploads/2011/10/dec5rumsfeldlarryking.jpg)](/uploads/2011/10/dec5rumsfeldlarryking.jpg "dec5rumsfeldlarryking.jpg")[![147489661.jpg](/uploads/2011/10/147489661.jpg)](/uploads/2011/10/147489661.jpg "147489661.jpg") Bakanlar:Rumsfeld ve Clington
+[![dec5rumsfeldlarryking.jpg](../uploads/2011/10/dec5rumsfeldlarryking.jpg)](../uploads/2011/10/dec5rumsfeldlarryking.jpg "dec5rumsfeldlarryking.jpg")[![147489661.jpg](../uploads/2011/10/147489661.jpg)](../uploads/2011/10/147489661.jpg "147489661.jpg") Bakanlar:Rumsfeld ve Clington
 
 Afganistan savaşında 27 Arap gencini “Mezar-ı Şerifte Amerika, ensesinden kurşunlayarak şehit etti. Bu şehitlerin ölüm emrini o zamanın Amerika savunma bakanı Donald Rumsfeld Washington’da bir basın toplantısı sırasında, yüzlerce gazeteci önünde “kill them  “diyerek vermişti.
 

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![adem.jpg](/uploads/2006/12/adem.kucukresim.jpg)Kimsenin adını sanını **duymadığı**, duymasına da **imkan** olmadığı yüzlerce **yazarı** ortaya çıkarmak "**patron gazeteciliğinin**" sanırım **gizli** bir numarasıdır. **Orhan Pamuğ'un** nobeli üzerine **edebiyatçılar** konuştu diye **Hürriyet** gazetesi haber yapmış, **bakıyorum** o edebiyatçıların hiç birini **tanımıyorum.** Bu adamlar **kimlerdir** ?
+![adem.jpg](../uploads/2006/12/adem.kucukresim.jpg)Kimsenin adını sanını **duymadığı**, duymasına da **imkan** olmadığı yüzlerce **yazarı** ortaya çıkarmak "**patron gazeteciliğinin**" sanırım **gizli** bir numarasıdır. **Orhan Pamuğ'un** nobeli üzerine **edebiyatçılar** konuştu diye **Hürriyet** gazetesi haber yapmış, **bakıyorum** o edebiyatçıların hiç birini **tanımıyorum.** Bu adamlar **kimlerdir** ?
 
 Adı **duyulmamış**, yazdığı **okunmamış,** ne **yazdığı** ? nasıl **yazdığı** ? bilinmez, **namı,** yerine oturmamış, **şöhreti** yayılmamış, yazarlık  **kişiliği** kuşkulu,  kalem **gücüne**  kavuşmamış,  ne **üslübü**  gelişmiş ne  **tavrı**... görüşü yok, **algısı** kıt,  **Mutasyonunu** eksik,  **akıl** yapısı noksan, **prematüre** doğumlu**,**  **kafa** tası  gelişmeden **yeryüzüne** çıkmış, **üretim** hatası, torna çapağı, yumuşak **kemik** dokusunun içinde **beyin** sallanıyor...  **embriyon** halinde bir **yazar** kalabalığı bu ülkenin başına **musallat** edilmiştir. Okuyucusu yok. Varsa da **değersiz**... Otlak bulamamış **koyun** sürüsü... Bunun **sebebi** nedir ? Halbuki **yazar**, destur,  yerine **değirmen** taşı gibi oturup  **nârasını** âleme **Davut** peygamber gibi **salmalı,** değil mi aziz dostlar ?
 

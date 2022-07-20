@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![anuh00005.jpg](/uploads/2007/11/anuh00005.jpg)](/uploads/2007/11/anuh00005.jpg "anuh00005.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![anuh00005.jpg](../uploads/2007/11/anuh00005.jpg)](../uploads/2007/11/anuh00005.jpg "anuh00005.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 **Osmanlı sultanları**Â  içinde sarayından çıkarak bir **başka ülkenin** davetine giden **ilk padişah** bu Â sülalenin **33.** hükümdarı **Sultan Abdülmecit’tir**.
 

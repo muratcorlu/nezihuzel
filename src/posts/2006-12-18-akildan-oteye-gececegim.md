@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![koken2.jpg](/uploads/2006/12/koken2.kucukresim.jpg)
+![koken2.jpg](../uploads/2006/12/koken2.kucukresim.jpg)
 
 **
 

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
- ![](/uploads/image/adalet03.jpg)
+ ![](../uploads/image/adalet03.jpg)
 
 Türkiyede **siyaset** yargıya müdahale ediyorsa, böyle **bir şey** varsa, **yargı** daha önce **siyasetin** içine girdiğindendir. **Türkiye Cumhuriyetinin** kuruluşundan beri **yargı** ile siyaset iç içedir. **Medeni Kanun İsviçre’**den alındığını söylüyorlar. **Borçlar ve icra kanunu** da **İtalyan** menşe’li olmalıdır. Bu iki **kanunun** yabancı kaynaklı oluşuna **siyasiler** karar vermiştir. Bir ülke **yabancı** kanunla yönetilir mi ?
 

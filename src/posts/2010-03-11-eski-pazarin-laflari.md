@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/sosyalyapi2.jpg)
+![](../uploads/image/sosyalyapi2.jpg)
 
 Hazreti Mevlana “” Eski satanların nöbeti geçti.. benim pazarım yenilik pazarıdır ” diyor. Yedi yüz yıl öncesinden bu güne sesleniyor. Yeni zamanlarda yeni şeyler söylemenin gereğine işaret ediyor. Eski Kültür bakanı Namık Kemal Zeybek ise israrla “eski laflaı” satmaya çaba harcıyor: “Osmanlı çürüktü çöktü..” diyor. Tekkeler kötüydü “kapandı” diyor. “Hocaefendiler dini yanlış anlamıştı, Cumhuriyet onları hizaya getirdi..” diyor.  “Camide hoca arapça konuşuyor, kimse anlamıyor..” diyor.
 

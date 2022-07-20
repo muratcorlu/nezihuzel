@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**[![97397582dq71.jpg](/uploads/2008/11/97397582dq71.jpg)](/uploads/2008/11/97397582dq71.jpg "97397582dq71.jpg")[](/uploads/2008/11/sair.jpg "sair.jpg")**
+**[![97397582dq71.jpg](../uploads/2008/11/97397582dq71.jpg)](../uploads/2008/11/97397582dq71.jpg "97397582dq71.jpg")[](../uploads/2008/11/sair.jpg "sair.jpg")**
 
 **Zamanı** ayırıp içine bakar şairler Zamanın **sırlarına** isim takar şairler Her gönülden gönüleÂ şevkle **akar** şairler
 

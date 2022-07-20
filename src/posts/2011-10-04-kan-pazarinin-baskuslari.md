@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![bus.jpg](/uploads/2011/10/bus.jpg)](/uploads/2011/10/bus.jpg "bus.jpg")
+[![bus.jpg](../uploads/2011/10/bus.jpg)](../uploads/2011/10/bus.jpg "bus.jpg")
 
 (Arşiv'den)
 
@@ -15,7 +15,7 @@ Kalabalık, Kuveyt emirinin özel rezidans’ına yerleştiğinde, adına kazan�
 
 Bush’un heyetinde bulunan iki oğlu Neil ve Marvin eski bakan Baker, işsiz kalan genel sekreter John Sununu, emekli General Thomas Kelly, Kuveyt’e iş takibine gelmişlerdi. Ancak Bush’un Kuveyt’ ten ayrılmasını bekliyorlardı, zira Bush yola çıkarken general Kelly’ye “ Ben Kuveyt’ten ayrılmadan önce iş konuşmaya girişmeyin yakışık almaz...” demişti.
 
-[![kelly.jpg](/uploads/2011/10/kelly.jpg)](/uploads/2011/10/kelly.jpg "kelly.jpg")
+[![kelly.jpg](../uploads/2011/10/kelly.jpg)](../uploads/2011/10/kelly.jpg "kelly.jpg")
 
 Ödülünü alan eski başkan Bush, eşi Barbara ile birlikte  Kuveyt’ ten havalandıkları saatlarda geride Pazar kurulmuştu. Gazeteci Seymour Hersh bu pazarı şöyle anlatıyor:  “Baker ve general Kelly Amerika’nın büyük doğalgaz şirketi Enron adına harpte tahrip olan enerji tesislerinin inşaası için Kuveyt Hükümetiyle anlaşmalar imzalamak peşindeydiler. Enron, Subiya’da kurulacak 3 milyar doları aşkın 2400 megavatlık tesis projesini kazandığında, general Kelly’ye 1,5 milyon dolar ücret ile her megavat başına 1000 $ ek komisyon ödeyecekti.
 
@@ -25,6 +25,6 @@ Savaş artığı iş adamları vakit geçirmeden Kuveyt Başbakanı Abdullah-el 
 
 Körfez savaşından sonra Kuveyt’te parsa toplamaya gidenlerin hikayesini yazan araştırmacı Seymour Hersh, bu konuda en çarpıcı örneği Savaşın ünlü kumandanı “çöl ayısı” lakabı ile anılan general Norman Schwarzkopf’tan veriyor... Schwarzkopf diyor ki : “ Bana da dört beş Amerikan şirketi gelerek Kuveyt’te iş pazarlamam için büyük komisyonlar önerdiler. Bir grup büyük projeyi çıkarma karşılığı 150 milyon dolar teklif etti. Gidip Emire “ Hey benim için şunu yapmanı istiyorum “ deseydim, işi bağlardım. Ama emrimde ölümü göze alan binlerce Amerikan askerinin gözünde küçük düşerdim... Reddettim...”
 
-[![general2.jpg](/uploads/2011/10/general2.jpg)](/uploads/2011/10/general2.jpg "general2.jpg")
+[![general2.jpg](../uploads/2011/10/general2.jpg)](../uploads/2011/10/general2.jpg "general2.jpg")
 
 Ben vaktiyle bu general hakkında “Ayının zoruna bak” başlıklı bir yazı yazmıştım. Batı basınında  Schwarzkof ile bir röportaj yapmışlar ; General, Arabistan’ın Lawrence’ine hayran olduğunu söylemiş. Lawrence’in “Hikmetin Yedi Direği” isimli kitabını okumuş... O kitabı okuyan Türk'lere düşman olur... Ben de kızıp “Ayının Zoruna Bak...” demiştim. Şimdi pişmanım. Bu adam iyi adammış... En azından kan pazarında iş tutan başkuşların arasına karışmamış... Namuslu bir asker... Bravo doğrusu... Rabbim diğerlerine de nasip etsin... Gelecek savaşların gizli açık başkuşlarına ders olsun... Dünyada dürüstler de varmış... (Arşiv'den)

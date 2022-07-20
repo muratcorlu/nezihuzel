@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![muh1.jpg](/uploads/2012/02/muh1.jpg)](/uploads/2012/02/muh1.jpg "muh1.jpg") Âmine eder çü vakt oldu temâm Kim vücûda gele ol hayrül enâm
+[![muh1.jpg](../uploads/2012/02/muh1.jpg)](../uploads/2012/02/muh1.jpg "muh1.jpg") Âmine eder çü vakt oldu temâm Kim vücûda gele ol hayrül enâm
 
 Sûsadım gâyet harâretden katî Sundular bir câm dolusu şerbeti
 

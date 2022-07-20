@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/yasar_nuri.jpg)
+![](../uploads/image/yasar_nuri.jpg)
 
 Hocaların hocası **Yaşar Nuri**  
 Ona i**mrendi** hem melek hem huri

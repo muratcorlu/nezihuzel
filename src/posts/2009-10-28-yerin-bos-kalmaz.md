@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/ip.jpg)
+![](../uploads/image/ip.jpg)
 
 Bir **ipin** üstüne çıktın **oynamaya  
 **Aşağıda **insanlar** başladı **kaynamaya  

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![gul36.jpg](/uploads/2010/07/gul36.jpg)](/uploads/2010/07/gul36.jpg "gul36.jpg")
+[![gul36.jpg](../uploads/2010/07/gul36.jpg)](../uploads/2010/07/gul36.jpg "gul36.jpg")
 
 Yaptıklarından bu devir utansın Yapmadıklarından hüzne kapılsın Yapacakken yapmadığından kederlensin de Karalar bağlasın, insanoğlu utansın
 

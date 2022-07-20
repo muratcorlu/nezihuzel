@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-                                                [![gale_mar.jpg](/uploads/2007/11/gale_mar.jpg)](/uploads/2007/11/gale_mar.jpg "gale_mar.jpg")
+                                                [![gale_mar.jpg](../uploads/2007/11/gale_mar.jpg)](../uploads/2007/11/gale_mar.jpg "gale_mar.jpg")
 
 –N’oldu sana **gene** ?
 

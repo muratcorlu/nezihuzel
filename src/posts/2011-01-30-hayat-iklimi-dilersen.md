@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![kitap_.jpg](/uploads/2011/01/kitap_.jpg)](/uploads/2011/01/kitap_.jpg "kitap_.jpg")
+[![kitap_.jpg](../uploads/2011/01/kitap_.jpg)](../uploads/2011/01/kitap_.jpg "kitap_.jpg")
 
 **Yâr** ile ettiğin **ahdi** unutma Gel gönül **dos**t illerine gidelim Sakın bu **virân** yerde **vatan** tutma Gel gönül **dos**t illerine gidelim
 

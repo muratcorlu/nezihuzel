@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![post13.jpg](/uploads/2010/09/post13.jpg)](/uploads/2010/09/post13.jpg "post13.jpg")
+[![post13.jpg](../uploads/2010/09/post13.jpg)](../uploads/2010/09/post13.jpg "post13.jpg")
 
 Ben **dost** derdinde Dost **post** derdinde
 

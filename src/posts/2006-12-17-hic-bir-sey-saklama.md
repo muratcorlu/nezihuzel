@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![sage1.jpg](/uploads/2006/12/sage1.kucukresim.jpg)
+![sage1.jpg](../uploads/2006/12/sage1.kucukresim.jpg)
 
 Dün akşam **tenhada** yaşlı bir **bilgeye** dedim ki:
 

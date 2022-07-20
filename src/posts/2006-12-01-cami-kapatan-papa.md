@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-  ![cami-2.bmp](/uploads/2006/12/cami-2.bmp)
+  ![cami-2.bmp](../uploads/2006/12/cami-2.bmp)
 
 Zamanımızdan 390 yıl önce bir **Osmanlı Padişahı** saltanatının en parlak döneminde, bağlı olduğu **dine** hizmet etmek üzere bir **cami** yaptırdı. **Camiin** temeli atılırken **Padişah** kucağına toprak doldurdu ve "**Kulun   Ahmed'in bu niyazını kabul et Yarabbii**" diyerek Yaradanı'na yalvardı... İnşaata ilk harcı koyan, **gümüş saplı mala** günümüzde **Topkapı** sarayında bulunuyor.
 

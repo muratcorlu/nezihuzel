@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![israil.jpg](/uploads/2006/11/israil.jpg)The **Iraqi** authorities have deeply refuted **British channel _BBC 2_** information, according to which, **Israeli** instructors would train **Kurdish soldiers** in Iraq. Yet, the concerned **authorities** were not able to explain the **testimonys** and the images **collected.**
+![israil.jpg](../uploads/2006/11/israil.jpg)The **Iraqi** authorities have deeply refuted **British channel _BBC 2_** information, according to which, **Israeli** instructors would train **Kurdish soldiers** in Iraq. Yet, the concerned **authorities** were not able to explain the **testimonys** and the images **collected.**
 
 _The **Newsnight**_ magazine of **September 19th**, 2006 had presented **exclusive images** of huge installations and these trainings. **"Interop**" and "**Colosseum**", two Israeli **mercenary** companies would have served as a **cover** to this activity of **Tsahal.** The officers would pass in **transit** through **Djibouti** to mask their origin.
 

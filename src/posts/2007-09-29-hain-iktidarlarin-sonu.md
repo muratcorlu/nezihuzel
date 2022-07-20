@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![bonz.bmp](/uploads/2007/09/bonz.bmp)](/uploads/2007/09/bonz.bmp "bonz.bmp") 
+[![bonz.bmp](../uploads/2007/09/bonz.bmp)](../uploads/2007/09/bonz.bmp "bonz.bmp") 
 
 **Zenginlerin** uzantısı **halk** düşmanı **hain** iktidarlara karşı **tek direnebilecek güç Din’dir**. Dün de böyleydi, **bu gün** de böyledir **yarın**  da böyle olacaktır.
 

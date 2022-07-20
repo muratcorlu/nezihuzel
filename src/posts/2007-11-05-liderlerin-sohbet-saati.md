@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![busla-tayyip.bmp](/uploads/2007/11/busla-tayyip.bmp)](/uploads/2007/11/busla-tayyip.bmp "busla-tayyip.bmp")Â Â 
+[![busla-tayyip.bmp](../uploads/2007/11/busla-tayyip.bmp)](../uploads/2007/11/busla-tayyip.bmp "busla-tayyip.bmp")Â Â 
 
 Â Â Â Â Â Â 
 

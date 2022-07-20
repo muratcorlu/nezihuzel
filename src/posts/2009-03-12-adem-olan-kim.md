@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/altin_oran_insan(2).jpg)
+![](../uploads/image/altin_oran_insan(2).jpg)
 
 "**Ademliğin** her kim bulduysa O'dur **adem**"  
                                         **Niyazi Mısri  

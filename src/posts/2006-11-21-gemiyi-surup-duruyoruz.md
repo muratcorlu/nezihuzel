@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![gemi.jpg](/uploads/2006/11/gemi.jpg)
+![gemi.jpg](../uploads/2006/11/gemi.jpg)
 
                                                                      **5**
 

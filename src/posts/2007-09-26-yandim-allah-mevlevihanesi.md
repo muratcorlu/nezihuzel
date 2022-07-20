@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![2-copy.jpg](/uploads/2007/09/2-copy.jpg)](/uploads/2007/09/2-copy.jpg "2-copy.jpg")
+[![2-copy.jpg](../uploads/2007/09/2-copy.jpg)](../uploads/2007/09/2-copy.jpg "2-copy.jpg")
 
 Gece gazetede oturuyorduk, “**yangın var**�? dediler. **Muhabirle** ile birlikte arabaya binip **yollara** düştük, **Merkez Efendi** tarafına yöneldiğimizde **gök yüzünde** kızıllığı ,yaklaşınca **itfaiye arabalarını**  sonra da ateşleri gördük. Aman **Allahım..!** “**Mevlevihâne yanıyor...�?** **Yenikapı Mevlevihânesi** alevler içinde... **Gözlerime** inanamadım...**Yıl 1961, aylardan eylül**. Ben **Milliyet**'te **foto** muhabiri. **Gazeteciliğimin** ilk günleri.
 

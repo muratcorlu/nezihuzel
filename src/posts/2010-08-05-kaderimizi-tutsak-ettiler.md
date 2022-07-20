@@ -5,9 +5,9 @@ categories:
   - Destur
 ---
 
-[![sari-gul-resmi.jpg](/uploads/2010/08/sari-gul-resmi.jpg)](/uploads/2010/08/sari-gul-resmi.jpg "sari-gul-resmi.jpg")
+[![sari-gul-resmi.jpg](../uploads/2010/08/sari-gul-resmi.jpg)](../uploads/2010/08/sari-gul-resmi.jpg "sari-gul-resmi.jpg")
 
-[](/uploads/2010/08/sari-gul-resmi.jpg "sari-gul-resmi.jpg")Şimdi sesinle **dağları** tutarsın, Ama **bir gün** gelir sen de susarsın
+[](../uploads/2010/08/sari-gul-resmi.jpg "sari-gul-resmi.jpg")Şimdi sesinle **dağları** tutarsın, Ama **bir gün** gelir sen de susarsın
 
 **Niceler** geldi geçti bu dünyadan Kimse vaz geçmedi tatlı **hülyadan**
 

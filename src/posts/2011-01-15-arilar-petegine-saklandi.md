@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![ari4.jpg](/uploads/2011/01/ari4.jpg)](/uploads/2011/01/ari4.jpg "ari4.jpg")
+[![ari4.jpg](../uploads/2011/01/ari4.jpg)](../uploads/2011/01/ari4.jpg "ari4.jpg")
 
 Şu coşkun **akan** sele bir bak Geçmiş **yüzyılların** çoğu **Durmakta** derinde Anlamak varsa **kaderinde** **Göreceksin**, her şey yerli yerinde
 

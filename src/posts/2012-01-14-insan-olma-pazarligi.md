@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![mevlana_62494.jpg](/uploads/2012/01/mevlana_62494.jpg)](/uploads/2012/01/mevlana_62494.jpg "mevlana_62494.jpg")
+[![mevlana_62494.jpg](../uploads/2012/01/mevlana_62494.jpg)](../uploads/2012/01/mevlana_62494.jpg "mevlana_62494.jpg")
 
                     Mevlânâ ”gün ortasında hava karardı, güneşe bir şey mi oldu ?” dedi. Sonra anladı ; güneşte bir şey yok, kendi içi kararmış.                      Az daha güneşi suçlayacaktı...                      Kendini zor tuttu...                      Sonra Tanrısına şükretti.                      Kendi suçunu başkalarına yamayan insanlardan olmadığı için...                      O anda Güneşin ışıkları içine vurdu.                      Karanlıklar dağıldı.                      Sabah olmuş gibi.                      İçi serinledi Mevlânâ’nın                      Duru pınarlarda yıkanmış gibi.
 

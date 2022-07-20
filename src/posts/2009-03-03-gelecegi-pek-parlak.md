@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/images(1).jpg)
+![](../uploads/image/images(1).jpg)
 
 Narin, **nazik,** ince belli  
 **Seni sevmediler belli  

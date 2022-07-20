@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**_![](/uploads/image/scan1_2.jpg)_**
+**_![](../uploads/image/scan1_2.jpg)_**
 
 **_Bu sabah Paris’ten Yasemin Berkol imzalı  bir not aldım, iletiyorum:_**  
   

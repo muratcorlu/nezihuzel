@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**![](/uploads/image/sel.jpg)**
+**![](../uploads/image/sel.jpg)**
 
 **Derenin** üzerine yaparsın **asfaltı  
 Yapılmaz** derler, sen **edersin** hasıraltı  

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![denge_burkay.jpg](/uploads/2010/07/denge_burkay.jpg)](/uploads/2010/07/denge_burkay.jpg "denge_burkay.jpg")
+[![denge_burkay.jpg](../uploads/2010/07/denge_burkay.jpg)](../uploads/2010/07/denge_burkay.jpg "denge_burkay.jpg")
 
 Benim adım Aydınlık Bir kardeşim vardı Uyanık Uyanık beni pek severdi. Benim gibi olmaya özenirdi.
 

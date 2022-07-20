@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![gul1.jpg](/uploads/2010/07/gul1.jpg)](/uploads/2010/07/gul1.jpg "gul1.jpg")
+[![gul1.jpg](../uploads/2010/07/gul1.jpg)](../uploads/2010/07/gul1.jpg "gul1.jpg")
 
 Sal kendini **şiire** O söylesin, **sen** dinle Sonra yaz olanları **Ruhuna** dolanları
 

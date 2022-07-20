@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![yusuf-askar.jpg](/uploads/2006/11/yusuf-askar-2.jpg)
+![yusuf-askar.jpg](../uploads/2006/11/yusuf-askar-2.jpg)
 
 La  «  **guerre contre le terrorisme**   » est une guerre contre **les peuples**
 

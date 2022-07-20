@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![nine.jpg](/uploads/2007/09/nine.jpg)](/uploads/2007/09/nine.jpg "nine.jpg")
+[![nine.jpg](../uploads/2007/09/nine.jpg)](../uploads/2007/09/nine.jpg "nine.jpg")
 
 TV de yaşlı bir **Nine** , iki kişinin yardımıyla **kamera** önüne geliyor... **Zor yürüyor**.Ãok fakirmiş, **dört çocuk** veya torunu varmış onlara bakmak için **çarşıda pazarda** birşeyler satarmış... **TV** kanalı **Nine'**yi ekrana çıkararak **yardım** sağlamaya çalışıyor...
 

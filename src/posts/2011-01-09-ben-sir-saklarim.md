@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![sari_gul_resimleri_110.jpg](/uploads/2011/01/sari_gul_resimleri_110.jpg)](/uploads/2011/01/sari_gul_resimleri_110.jpg "sari_gul_resimleri_110.jpg")
+[![sari_gul_resimleri_110.jpg](../uploads/2011/01/sari_gul_resimleri_110.jpg)](../uploads/2011/01/sari_gul_resimleri_110.jpg "sari_gul_resimleri_110.jpg")
 
 **Söylenecek** şeylerin Hepsi söylendiyse Geriye **ne kaldı** ? : **Söylenmeyecek** şeyler
 

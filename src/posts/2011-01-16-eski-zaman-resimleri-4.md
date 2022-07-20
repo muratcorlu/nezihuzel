@@ -5,4 +5,4 @@ categories:
   - Destur
 ---
 
- [![ben.jpg](/uploads/2011/01/ben.jpg) Nezih Uzel, Cağaloğlu 1964](/uploads/2011/01/ben.jpg "ben.jpg")
+ [![ben.jpg](../uploads/2011/01/ben.jpg) Nezih Uzel, Cağaloğlu 1964](../uploads/2011/01/ben.jpg "ben.jpg")

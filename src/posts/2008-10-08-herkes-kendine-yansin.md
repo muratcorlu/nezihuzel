@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-[![yusufcuk_-_bcek_resimleri_2.jpg](/uploads/2008/10/yusufcuk_-_bcek_resimleri_2.jpg)](/uploads/2008/10/yusufcuk_-_bcek_resimleri_2.jpg "yusufcuk_-_bcek_resimleri_2.jpg")[](/uploads/2008/10/197a.jpg "197a.jpg")
+[![yusufcuk_-_bcek_resimleri_2.jpg](../uploads/2008/10/yusufcuk_-_bcek_resimleri_2.jpg)](../uploads/2008/10/yusufcuk_-_bcek_resimleri_2.jpg "yusufcuk_-_bcek_resimleri_2.jpg")[](../uploads/2008/10/197a.jpg "197a.jpg")
 
 **Kalender,** gitti gider, Yusufçuk ondan beter.
 

@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![ataturk14vh72.jpg](/uploads/2008/11/ataturk14vh72.jpg)](/uploads/2008/11/ataturk14vh72.jpg "ataturk14vh72.jpg")
+[![ataturk14vh72.jpg](../uploads/2008/11/ataturk14vh72.jpg)](../uploads/2008/11/ataturk14vh72.jpg "ataturk14vh72.jpg")
 
 Büyük araştırmacı ve karıştırmacı **Turgut Ãzakman** dedi ki “**Atatürk’ün özel hayatı…”**
 

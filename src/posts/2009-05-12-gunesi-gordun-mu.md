@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/gunes.jpg)
+![](../uploads/image/gunes.jpg)
 
 Bir **sabah** gördün mü  
 **Güneşin** doğduğunu ?  

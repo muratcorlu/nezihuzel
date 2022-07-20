@@ -5,9 +5,9 @@ categories:
   - Dervish
 ---
 
-[![143sizdengismailcalli-sapancagolu.jpg](/uploads/2010/08/143sizdengismailcalli-sapancagolu.jpg)](/uploads/2010/08/143sizdengismailcalli-sapancagolu.jpg "143sizdengismailcalli-sapancagolu.jpg")
+[![143sizdengismailcalli-sapancagolu.jpg](../uploads/2010/08/143sizdengismailcalli-sapancagolu.jpg)](../uploads/2010/08/143sizdengismailcalli-sapancagolu.jpg "143sizdengismailcalli-sapancagolu.jpg")
 
-[](/uploads/2010/08/143sizdengismailcalli-sapancagolu.jpg "143sizdengismailcalli-sapancagolu.jpg")Bir **inançt**ı aradığı İnanmaya **sarıldığı** **İnsanlara** darıldığı
+[](../uploads/2010/08/143sizdengismailcalli-sapancagolu.jpg "143sizdengismailcalli-sapancagolu.jpg")Bir **inançt**ı aradığı İnanmaya **sarıldığı** **İnsanlara** darıldığı
 
 İnandığını **yaşardı** **Yaşadığına** inandı İşte orada **aldandı**
 

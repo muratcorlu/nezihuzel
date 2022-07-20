@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**![](/uploads/image/kus.jpg)**
+**![](../uploads/image/kus.jpg)**
 
 **Aşkın** türlü halleri  
 Sıkıyor **bedenleri  

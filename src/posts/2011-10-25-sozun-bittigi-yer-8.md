@@ -5,4 +5,4 @@ categories:
   - Destur
 ---
 
-[![147489663.jpg](/uploads/2011/10/147489663.jpg)](/uploads/2011/10/147489663.jpg "147489663.jpg") Kaatillerin ortasında bir bakan
+[![147489663.jpg](../uploads/2011/10/147489663.jpg)](../uploads/2011/10/147489663.jpg "147489663.jpg") Kaatillerin ortasında bir bakan

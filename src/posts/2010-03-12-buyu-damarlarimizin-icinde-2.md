@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/molla.jpg)
+![](../uploads/image/molla.jpg)
 
 Damarlarımızın içinde yer alan  
 Canımız, özümüz, olan  

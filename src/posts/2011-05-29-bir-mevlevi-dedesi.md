@@ -5,9 +5,9 @@ categories:
   - Dervish
 ---
 
-[](/uploads/2011/05/17.jpg "17.jpg")
+[](../uploads/2011/05/17.jpg "17.jpg")
 
-[![21.jpg](/uploads/2011/05/21.jpg)](/uploads/2011/05/21.jpg "21.jpg")
+[![21.jpg](../uploads/2011/05/21.jpg)](../uploads/2011/05/21.jpg "21.jpg")
 
 Asırlar önce binlerce beyit şiir ve yüzlerce kitap yazmış olan Mevlana Celaleddin Rumi günümüzde Afganistan’ın sıcak bölgelerinde yer alan Belh şehrinde doğmuştu. Babası yörede tanınmış bir bilgindi. Din ilimlerinde şöhret sahiydi. Ailenin yaşadığı ülke o sırada pek çok kültürün kaynaştığı, birbirinden gıda aldığı, bazen de birbiri ile amansız bir mücadeleye giriştiği acımasız bir topraktı. İslam’a daha yeni adım atmış dağlı kabilenin ilkel yaşantısı ile buralarda yüz yıllardan beri var olan kültürlerden yetişme insan türleri, birbirine karışmıştı. Çeşitli ırklar, farklı karakter taşıyan uluslar, uçsuz bucaksız Asya topraklarında yan yana yaşıyordu. Yaşamlarını bağlı oldukları asırlık geleneklerin ışığında düzene sokmak zorunda olan bu insanların her biri ayrı bir gerçeğin peşindeydi. Bu durumda kimin doğru söylediği nereden anlaşılacaktı?
 
@@ -17,7 +17,7 @@ Dağılan, çözülen, dibe vuran, tüm değerlerini yitiren o çağın toplumun
 
 Tasavvuf insanlara örnek bir yaşam şekli va’ad ediyordu. Kitaplarda yazılı kuralların ötesinde yoğun biçimde duygu ve derin sezgilere dayanan bu yaşam şekli, aslında insan yapısının derinliklerinde gizli olan enerjinin dışa vurumundan başka bir şey değildi. Olay basitti. Ve bu basitlikte gizli bir azamet, gösterişsiz bir ihtişam ve muhteşem bir güç vardı. Tüm değerlerini kaybederek altı boşalan insanoğlu, şimdi ulaştığı eski kaynaktan yeniden dolacaktı.. Bunun için insanın yeni bir tarifi yapılacaktı. Bunu Mevlânâ Celaleddin başardı.
 
-[![mevlana.jpg](/uploads/2011/05/mevlana.jpg)](/uploads/2011/05/mevlana.jpg "mevlana.jpg")
+[![mevlana.jpg](../uploads/2011/05/mevlana.jpg)](../uploads/2011/05/mevlana.jpg "mevlana.jpg")
 
 Pir’in anlatımında insan “melekle şeytanın karışımından” ibaretti. Bu karışım kaynaşma değil “yan yana var olma” şeklindeydi. . Şeytan yine şeytan, melek yine melekti ancak birbirlerine saygılıydılar. Birbirlerinin varlığından haberdardılar. Hz. Pir hayret ediyordu: “Bu nasıl iş ‘ şeytan ve melek aynı bedende buluşmuş..” diyordu. Ve ilave ediyordu: “İnsanın bedeni bir hamur teknesi kadardır ama ruhu kainata sığmaz..”
 
@@ -27,7 +27,7 @@ Mevlânâ Celaleddin Rumi’nin yolunda kurulmuş “Mevlevi tekkelerinden” İ
 
 Bu kişilerin bütün malları her gün evden çarşıya, çarşıdan eve birkaç ufak çanta veya bez torba ile taşınan, üç beş parça kırık dökük kullanılmış eşyadan ibaretti. Dükkânları yoktu. Genellikle bir dükkânın caddeden görünen bir köşesine yerleşirler, fazla yayılmadan tezgâhlarını açarlardı. Akla gelebilecek her şey o tezgâhta yer alırdı. Ev aletleri, marangoz takımları, kesici, bükücü, delici araçlar, çalışmaz olmuş elektrikli aletler, anahtarı kaybolmuş kilitler, yakıtı tükenmiş, çakmaklar, yazmaz olmuş kalemler, bozuk ampuller, dişçi kerpetenleri, testereler, bıçaklar, çekiçler, tornavidalar, eğeler, keskiler , envai çeşit, her şey.. Bu pazarın temel esprisi sürprizdi. Bakmadan geçilemeyecek tezgâhta her insan mutlaka ilgisini çekebilecek bir şey bulabilir, ucuzca satın alabilirdi.
 
-[![18.jpg](/uploads/2011/05/18.jpg)](/uploads/2011/05/18.jpg "18.jpg")
+[![18.jpg](../uploads/2011/05/18.jpg)](../uploads/2011/05/18.jpg "18.jpg")
 
 Osman Dede’nin “yaymacı” tezgâhının sürprizi “Ney” di. Dede ney satardı. Gençliğinde ney üflemiş olan Osman dede, Yenikapı Mevlevihânesi mutrıbında bulunmuştu. Tekke kapatıldığında “halilezen” di. Halile bandolarda da kullanılan sarı pirinç zillerin Mevlevi müziğindeki şekliydi. Bir çeşit vurmalı bir refakat sazıydı. Mevlevi tekkelerinde ney üfleyene “neyzen” kudüm vurana “kudumzen” dendiği gibi “halile” vurana da “halilezen” deniyordu.
 
@@ -43,12 +43,12 @@ Bu kahvede ağırlık yine Yenikapılılarda’ydı. Başta son şeyhin büyük 
 
 Osman Dede’den bir ney alıp onun yanında üflemeye çalışmak neyzenliğin başlangıcıydı. Dede musiki bilmez, seslerin ve makamların adını söyleyemezdi ancak bozuk bir sesi derhal fark eder o sesi çıkaranı uyarırdı. Böylece bu sanata meyleden daha başlangıçta yanlış bir yola uğrama tehlikesinden kurtulurdu. Bence musikinin özü de buydu. Dede bu özü yakalamıştı.
 
-[![33.jpg](/uploads/2011/05/33.jpg)](/uploads/2011/05/33.jpg "33.jpg")Osman Dede 1953 yılından sonra Konya’da yapılmakta olan "Mevlana Anma toplantıları" nın sema törenlerinde, mutrıb hey’ etinde, Halilezen olarak görev aldı. Bir çift pirinç zil olan Halile, bu musikinin vazgeçilmez sazıydı. Osman Dede’nin halilesi ise nev’inin tek örneği olarak gümüşten’di. 1964 yılında Konya Mevlana İhtifalinde Mevlevi dünyasının ünlü ismi Ahmet Avni Konuk’uın “Ruyi ırak” makamında bestelediği ayin icra ediliyordu. Osman Dede bu ayinde yine “halilezen”di. Ayin, Fransız müzikolog Bernard Maugin tarafından kayda alındı ve Paris’te Birleşmiş Milletler’in kültür teşkilatı olan UNESCO’nun “Baron Reither” serisinde yayınlandı. Bu kayıtta Osman Dede’nin vurduğu halile, tüm ihtişamı ile fark ediliyordu. Bu vuruştaki, ahenk, eserin akışındaki sırrı yakalama ve ona yön verme, basit bir zil sesinden yayılan muhteşem ve asil bir musiki ve herşey olağanüstü değerlerdeydi.
+[![33.jpg](../uploads/2011/05/33.jpg)](../uploads/2011/05/33.jpg "33.jpg")Osman Dede 1953 yılından sonra Konya’da yapılmakta olan "Mevlana Anma toplantıları" nın sema törenlerinde, mutrıb hey’ etinde, Halilezen olarak görev aldı. Bir çift pirinç zil olan Halile, bu musikinin vazgeçilmez sazıydı. Osman Dede’nin halilesi ise nev’inin tek örneği olarak gümüşten’di. 1964 yılında Konya Mevlana İhtifalinde Mevlevi dünyasının ünlü ismi Ahmet Avni Konuk’uın “Ruyi ırak” makamında bestelediği ayin icra ediliyordu. Osman Dede bu ayinde yine “halilezen”di. Ayin, Fransız müzikolog Bernard Maugin tarafından kayda alındı ve Paris’te Birleşmiş Milletler’in kültür teşkilatı olan UNESCO’nun “Baron Reither” serisinde yayınlandı. Bu kayıtta Osman Dede’nin vurduğu halile, tüm ihtişamı ile fark ediliyordu. Bu vuruştaki, ahenk, eserin akışındaki sırrı yakalama ve ona yön verme, basit bir zil sesinden yayılan muhteşem ve asil bir musiki ve herşey olağanüstü değerlerdeydi.
 
 Osman Dede 1974 yılının baharında bu dünyadan ayrıldı. Evliydi, Süreyya Hanım adında rumdan dönme bir hanımı ve Celaleddin isimli bir oğlu vardı. Ömrünün son yıllarını Ümraniye’de  kendi evinde geçirmişti. Onbeş yıl Dede’ye hizmet eden yakın dostu neyzen-ayinhan Nejat Tezcan, 1973 yılının Mevlana ihtifalinde Dede’yi Konya’ya götürmüştü. İstanbul’a dönüşte otobüste, ayinden alınan kayıt çalınırken Dede uyukluyordu. Birden uyandı ve “devrikebir vuruluyor.. ” dedi. Dede ses duymamasına rağmen anlaşılan, kudüm vuruşunu, bedenine ulaşan titreşimlerden fark ediyordu.
 
 Yaşamının sonunda ney ve kudüm sesinden başka ses duymadan bu dünyadan ayrılan Osman Dede, Mevlana Celaleddin Rumi ve Yenikapı Tekkesinin gerçek varisiydi. Sırrını ve neş’esini levhi mahfuza götürdü.
 
-[](/uploads/2011/05/7.jpg "7.jpg")
+[](../uploads/2011/05/7.jpg "7.jpg")
 
- [![7.jpg](/uploads/2011/05/7.jpg) Yenikapı Mevlevihanesi yangını -Eylül 1961](/uploads/2011/05/7.jpg "7.jpg")
+ [![7.jpg](../uploads/2011/05/7.jpg) Yenikapı Mevlevihanesi yangını -Eylül 1961](../uploads/2011/05/7.jpg "7.jpg")

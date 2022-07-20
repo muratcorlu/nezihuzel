@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![france.jpg](/uploads/2006/10/france.kucukresim.jpg)ANKARA (Reuters) - Le Premier ministre turc, **Tayyip Erdogan**, annonce que la [**Turquie**](http://fr.fc.yahoo.com/t/turquie.html) étudie de **possibles** mesures de **représailles** ÃƒÂ  l'encontre de la **France** ÃƒÂ  la suite du vote par les députés d'un **projet de loi** sanctionnant la négation du **génocide arménien.**
+![france.jpg](../uploads/2006/10/france.kucukresim.jpg)ANKARA (Reuters) - Le Premier ministre turc, **Tayyip Erdogan**, annonce que la [**Turquie**](http://fr.fc.yahoo.com/t/turquie.html) étudie de **possibles** mesures de **représailles** ÃƒÂ  l'encontre de la **France** ÃƒÂ  la suite du vote par les députés d'un **projet de loi** sanctionnant la négation du **génocide arménien.**
 
 "Le volume des **échanges** extérieurs de la [**Turqui**](http://fr.fc.yahoo.com/t/turquie.html)**e** avec la France est de **10 milliards de dollars",** a-t-il rappelé. "Nous allons **procéder** ÃƒÂ  des calculs **appropriés** puis nous prendrons des mesures **nécessaires",** a-t-il ajouté sans plus de **précision.**
 

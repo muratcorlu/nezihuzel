@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/velibaba.jpg)
+![](../uploads/image/velibaba.jpg)
 
 Celvetî Veli Baba Türbesi, Pendik 17 şubat 2010
 

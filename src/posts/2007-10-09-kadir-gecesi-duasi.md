@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**![](/uploads/image/dua_hands(1).jpg)**
+**![](../uploads/image/dua_hands(1).jpg)**
 
 **Hakk cellec****elâluhü** nasip buyurdu, **Kadir gecesi Sapanca’da Mahmudiye camiinde**, fakire dua etmek düştü. Bu camiin değerli imamı **Mahmut Hoca**, geçen Cuma:
 

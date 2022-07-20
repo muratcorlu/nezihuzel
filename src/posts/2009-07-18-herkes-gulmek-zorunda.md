@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![](/uploads/image/komik.jpg)
+![](../uploads/image/komik.jpg)
 
 Paris ( Zigonet)Le bureau parisien du **tourisme** a eu une idée pour faire remonter le nombre de **touristes** qui a diminué en raison de la **crise financière** et de certains sondages, qui classent les **parisiens** dans la catégorie des pas accueillants… Recourir à l'arme fatale du **sourire** relate Zigonet.
 
@@ -13,7 +13,7 @@ Pour rattraper la baisse de **fréquentation** de 17 % cette année dans la **ca
   
 **Dimanche dernier, des rollers ont même formé " **un sourire géant** " sur la place **Vendôme!** **Paul Roll,** le responsable de l'Office de **tourisme** a affirmé: " Il n'y a rien de plus **parlant** qu'un **sourire** «   
   
-![](/uploads/image/japon_kiz.jpg)  Au **Japon**, dans certaines gares (une quinzaine) de la compagnie ferroviaire **Keihin Kyuko** (Keikyu), les **employés** mesurent chaque matin leur **sourire** devant un ordinateur! Un **souriromètre,** c’est quoi ? C’est fait avec un **ordinateur,** un logiciel spécial, une **caméra** au dessus et cela a été **mis** au point par la société **Omron,** qui s’est spécialisée dans les **capteurs** de toutes sortes !  
+![](../uploads/image/japon_kiz.jpg)  Au **Japon**, dans certaines gares (une quinzaine) de la compagnie ferroviaire **Keihin Kyuko** (Keikyu), les **employés** mesurent chaque matin leur **sourire** devant un ordinateur! Un **souriromètre,** c’est quoi ? C’est fait avec un **ordinateur,** un logiciel spécial, une **caméra** au dessus et cela a été **mis** au point par la société **Omron,** qui s’est spécialisée dans les **capteurs** de toutes sortes !  
   
 Précisons qu’en fonction du sourire ou non de l’**employée** qui passe, le système **attribue** une note de 0 à 6! En **prime** elle a droit à des c**onseils** pour améliorer éventuellement son **sourire**!  (Courtoisie **Yahoo**)
 

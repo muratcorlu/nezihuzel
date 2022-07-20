@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![gezi28.jpg](/uploads/2008/01/gezi28.jpg)](/uploads/2008/01/gezi28.jpg "gezi28.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![gezi28.jpg](../uploads/2008/01/gezi28.jpg)](../uploads/2008/01/gezi28.jpg "gezi28.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Ben “**rezalet karga**” benim **uçtuğum** yerlerde her **kuş** uçmaz, benim **konduğum** dallarda her **kuş** tutunamaz, benim **dolaştığım** yıkıntılarda her **kuş** barınamaz, benim **eşelediğim** çöplüklerdeÂ  her **kuş** beslenemez, benim **kafayı taktığım**Â  kişilerle her **mendebur** anlaşamaz, gaaaak. Gurk, gurk Benim **söylediğim** laflara her **babayiğit** kulak veremez, benim **vardığım** yükseklere her **sahtekÃ¢r** ulaşamaz benim yaptığım **işlere** her…Â  Tısss. **Gagamı** **açtım mı** ortalıkta görünme, **kanadımı saldım mı** oralarda durma**, Gururk guruk…**Ne benden **sonra konuş**, neÂ  benden **önce** **laf et**… Ne önümden **yürü**, ne arkamdan **sürü**, Ne üstümden **uç,** ne altımdan… **sürçü** lisan ettikse **af ola**…Gaaaak. Guk. Ihı Ihı…
 

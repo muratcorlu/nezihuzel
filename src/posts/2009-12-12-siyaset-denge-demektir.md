@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![](/uploads/image/meclis.jpg)
+![](../uploads/image/meclis.jpg)
 
 Dünyada yapılan her işin bir iyi, bir de kötü tarafı vardır. İnsanların doğasından gelen ve her türlü yaratıkta bulunan bu  ikilem, toplumların yaşamında daha da geniş boyutlara ulaşır. Toplum yaşamında hem iyilere, hem de kötülere yer vardır. Dünyada şimdiye kadar içinde sadece iyilerin veya sadece kötülerin yer aldığı bir topluluk görülmemiştir.
 

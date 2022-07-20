@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**[![4575269.jpg](/uploads/2007/12/4575269.jpg)](/uploads/2007/12/4575269.jpg "4575269.jpg")Â** 
+**[![4575269.jpg](../uploads/2007/12/4575269.jpg)](../uploads/2007/12/4575269.jpg "4575269.jpg")Â** 
 
 **“**_İtalyan ressam Leonardo da Vinci’nin en ünlü çalışması Mona Lisa’nın sırrı çözüldü. Da Vinci’nin paha biçilmez başyapıtları üzerinde araştırmalar yürüten sanat ekspertleri, ressamın âMona Lisa’ ve âBakire ve Ãocuk’ tablolarından aynaya yansıyan gizemli yüzleri ve şekilleri keşfetti.1452- 1519 yılları arasında yaşayan Da Vinci, 1490-1495 yıllarında çalışmalarını ve çizimlerini aynada göründüğü gibi deftere kaydetme alışkanlığı geliştirdi. Bu şekilde kişisel düşünceleri sadece yansıma sırasında okunabiliyordu”_
 

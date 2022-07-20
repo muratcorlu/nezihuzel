@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/SittingBull.jpg)   
+![](../uploads/image/SittingBull.jpg)   
 Kızılderili lider Sitting Bull 1831-1890
 
 Yeryüzü sathından koca üç medeniyeti kaldırıp yerine oturan Amerikalı, Türkleri Ermeni katliamı diye bir yalanla suçluyor. Saygın Aztek, Maya ve İnka kültürlerini yok eden Yeni Dünya'lı, Eski kıt’anın asil ve şerefli bir milletine parmağını uzatarak soykırım iddiasında bulunuyor.

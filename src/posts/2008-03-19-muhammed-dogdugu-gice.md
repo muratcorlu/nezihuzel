@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**[![bluemooncb2.jpg](/uploads/2008/03/bluemooncb2.jpg)](/uploads/2008/03/bluemooncb2.jpg "bluemooncb2.jpg")[](/uploads/2008/03/gece.jpg "gece.jpg")**
+**[![bluemooncb2.jpg](../uploads/2008/03/bluemooncb2.jpg)](../uploads/2008/03/bluemooncb2.jpg "bluemooncb2.jpg")[](../uploads/2008/03/gece.jpg "gece.jpg")**
 
 **Âlemler** nura gark oldu **Muhammed** doğduğu **gice** Mü’min münafık **fark** oldu **Muhammed** doğduğu **gice** 
 

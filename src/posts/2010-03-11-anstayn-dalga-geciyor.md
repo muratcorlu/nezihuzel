@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/anstayn.jpg)
+![](../uploads/image/anstayn.jpg)
 
 [Hem insan hem de ışık hızında dalga olabilir miyiz?](http://www.zamandayolculuk.com/cetinbal/maddedalgalari.htm)
 

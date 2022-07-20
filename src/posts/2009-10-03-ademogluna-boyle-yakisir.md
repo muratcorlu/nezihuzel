@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/fuzuli_3.gif)  
+![](../uploads/image/fuzuli_3.gif)  
 Tahmis-i hz. Fuzûlî 15.yy.  
   
 **_“Vaslın bana hayat verir firkatin memat”  

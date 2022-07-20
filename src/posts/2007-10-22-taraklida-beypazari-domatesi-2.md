@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![domates-01.jpg](/uploads/2007/10/domates-01.jpg)](/uploads/2007/10/domates-01.jpg "domates-01.jpg")
+[![domates-01.jpg](../uploads/2007/10/domates-01.jpg)](../uploads/2007/10/domates-01.jpg "domates-01.jpg")
 
 \-Hoşgeldiniz, **kimsiniz**, kimlerdensiniz ?
 

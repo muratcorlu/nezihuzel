@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-                                          [![31.bmp](/uploads/2008/05/31.bmp)](/uploads/2008/05/31.bmp "31.bmp") 
+                                          [![31.bmp](../uploads/2008/05/31.bmp)](../uploads/2008/05/31.bmp "31.bmp") 
 
 Bu adam **odun** mu ?
 

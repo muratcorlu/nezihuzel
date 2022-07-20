@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![Gündoğumu](/uploads/2010/08/gun_dogumu.jpg)](/uploads/2010/08/gun_dogumu.jpg "Gündoğumu")
+[![Gündoğumu](../uploads/2010/08/gun_dogumu.jpg)](../uploads/2010/08/gun_dogumu.jpg "Gündoğumu")
 
 Güneş **Arkanızdan** doğacak Güneş battığı yerden doğmaz Yanlış **yerde** beklemeyin **Yanlış** tarafa bakmayın..
 

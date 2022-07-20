@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![](/uploads/image/pasa.Jpeg)
+![](../uploads/image/pasa.Jpeg)
 
 Yiğit Paşamız, kahraman Paşamız aslan Paşamız’ın, masaları yumruklayarak haykırdığı sözlerin beynimin içindeki çınlaması günlerdir sona ermedi. Şekli gözümün önünden gitmiyor. Babam, dayım ve eniştem, olmak üzere ailemizden üç kişi Çananakkale harbi gazisi. Biz de burada demokrasi savaşı veriyoruz. Bir çeşit cephe gerisi muhabbeti.. Şehitlik nasip olmasa da belki adımız gaziye çıkar.  
   

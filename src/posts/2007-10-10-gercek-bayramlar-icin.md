@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
- ![](/uploads/image/besmele21rb.jpg)
+ ![](../uploads/image/besmele21rb.jpg)
 
 Bayramınız **kutlu** olsun... **Fas**’tan **Uzak Doğu'**ya kadar iki büyük **Okyanus** arasında, dünyanın **orta kuşağına** selsebil yayılmış **1500 yıllık İslam Dünyası**, yeni bir dini bayram daha kutlayacak... **Rabbim** izin verirse.
 

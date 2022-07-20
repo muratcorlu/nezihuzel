@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![sari-gul-resimleri-20.jpg](/uploads/2011/09/sari-gul-resimleri-20.jpg)](/uploads/2011/09/sari-gul-resimleri-20.jpg "sari-gul-resimleri-20.jpg")
+[![sari-gul-resimleri-20.jpg](../uploads/2011/09/sari-gul-resimleri-20.jpg)](../uploads/2011/09/sari-gul-resimleri-20.jpg "sari-gul-resimleri-20.jpg")
 
 Ne şirin kuzulardık biz Ne güzel insanlardık Bizi bir vadiye saldılar Şaştık kaldık bu işe
 

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/kuziiii.jpg)  
+![](../uploads/image/kuziiii.jpg)  
 "_Allah'la arkadaş olma"  (Hş.) konusuna Neyzen Kudsi Erguner' de şerefle katıldı. Paris'ten gönderdiği mektubu sunuyorum:_
 
   

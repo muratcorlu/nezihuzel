@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-**![](/uploads/image/taliban.jpg)**
+**![](../uploads/image/taliban.jpg)**
 
 **Kandahar.-**Le poids des **sociétés militaires** privées est l'une des facettes cachées de la **guerre d’Afg**anistan. La **Commission parlementaire américaine** sur la passation des **marchés** en temps de guerre a révélé, début novembre, qu'avec **74 000 salariés** en **Afghanistan**, leur nombre **dépasse** celui des troupes **régulières américaines.** Un chiffre deux fois plus **important** que celui admis **officiellement** par le **Pentagone.**
 

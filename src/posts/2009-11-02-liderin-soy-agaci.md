@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-**![](/uploads/image/parkotel.jpg)  
+**![](../uploads/image/parkotel.jpg)  
 Atatürk**’ün soy ağacı tartışılıyor. Gündemde bir **boşluk** yakalayan haber endüstrisi **patronları** Son günlerin genel  ilgi alanında **PKK**’nin gerilere düşmesi üzerine, **meydanı** boş bırakmamak için, onaltı yaşında **genç** bir araştırmacı kızımızın çalışmasını **piyasaya** sürdüler. Kürt olayından bıkan ve tartışmalardan **yüreği yanan** politikacıların da işine gelen bu yeni **“açılım**” oldukça genişleyeceğe benziyor.
 
 Muhtemelen emrindeki gündem **mühendislerinin**, iletişim **patronları** ile ortaklaşa planladığı bu **konu** AKP'yi rahatlatacaktır. Dikkatler sür'atle **Atatürk’**e yönelecek, yıllardır **süregelen** tartışmalar önümüzdeki günlerde **gazete** sayfalarını dolduracak, **ağzı olan** konuşacak, eli **klavyeye** uzanan yazacak, aklı olan ekran gülleri **TV’**lerde başarıyla **laf** üretecektir. Kurulan yeni **pazarda** yorgun yöneticiler rahat **nefes** alacaklar, **ülke** yeni bir olaya kadar **Atatürk**’ün yeni bulunan **soyağacına** sarılacaktır.

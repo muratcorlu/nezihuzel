@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-                **[![1225.jpg](/uploads/2008/01/1225.jpg)](/uploads/2008/01/1225.jpg "1225.jpg")**
+                **[![1225.jpg](../uploads/2008/01/1225.jpg)](../uploads/2008/01/1225.jpg "1225.jpg")**
 
 Gravatlı, **beyaz bıyıklı**, ince uzun bir adam **Memedali**’nin **32\. gün**’üne çıktı. “**Yargı Kararlarına aykırı yasa yapılamaz**" dedi. **Siyaset** yazmıyayım diyorum, **elim** dursa **dilim** durmuyor… Gel de **patlama**. Az daha camı açıp “**yangın vaaaar**. diye bağıracaktım.
 

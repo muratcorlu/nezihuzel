@@ -5,7 +5,7 @@ categories:
   - Altın Sorular
 ---
 
-![](/uploads/image/mevlana25uv.jpg)
+![](../uploads/image/mevlana25uv.jpg)
 
 Değerli okuyuculardan üç soru daha geldi, arzediyorum:
 

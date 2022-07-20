@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-    **![birth2.jpg](/uploads/2006/11/birth2.kucukresim.jpg)**
+    **![birth2.jpg](../uploads/2006/11/birth2.kucukresim.jpg)**
 
 ****Some sick babies must be allowed to die, says Church**
 
@@ -33,7 +33,7 @@ The church's call comes in their submission to the Nuffield Council on Bioethics
 
 Their statement comes the week after one of Britain's royal medical colleges called for a public discussion over whether to permit the euthanasia of the sickest babies. The proposal from Royal College of Obstetricians and Gynaecologists was welcomed by geneticists and medical ethicists, but described it as social engineering by others.
 
-![premature1.jpg](/uploads/2006/11/premature1.kucukresim.jpg)  
+![premature1.jpg](../uploads/2006/11/premature1.kucukresim.jpg)  
 
 In its submission, the Church of England said that although it could not accept the argument that the life of any baby was not worth living, there are 'strong proportionate reasons' for 'overriding the presupposition that life should be maintained'. 'There may be occasions where, for a Christian, compassion will override the "rule" that life should inevitably be preserved,' wrote Butler. 'Disproportionate treatment for the sake of prolonging life is an example of this.'
 

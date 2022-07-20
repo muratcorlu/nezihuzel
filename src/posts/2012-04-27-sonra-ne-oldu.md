@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![indir.jpg](/uploads/2012/04/indir.jpg)](/uploads/2012/04/indir.jpg "indir.jpg")
+[![indir.jpg](../uploads/2012/04/indir.jpg)](../uploads/2012/04/indir.jpg "indir.jpg")
 
 Binlerce el uzanır karanlıklarda Yüzlerce yere doğru Binlerce dil sorgular yaşamın en gizli sırlarını neden,neden insan öldürür bir başka insanı
 

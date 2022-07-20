@@ -5,7 +5,7 @@ date: "2007-09-29"
 
 **Tekkeden Sahneye İlahilerle 40 Yıl**
 
-[![421.jpg](/uploads/2008/04/421.jpg)](/uploads/2008/04/421.jpg "421.jpg")
+[![421.jpg](../uploads/2008/04/421.jpg)](../uploads/2008/04/421.jpg "421.jpg")
 
 **Tarih:** 07.04.2008 **Saat:** 20:00
 

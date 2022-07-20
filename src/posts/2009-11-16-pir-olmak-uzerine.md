@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/golden_chain.jpg) 
+![](../uploads/image/golden_chain.jpg) 
 
 Değerli dostlardan üç soru daha geldi. arzediyorum:  
 _1-**Tarikat silsileleri** tarikat kurumu için ne **mana** ifade eder? **Silsileler** de neden **Hz.Ömer** ve **Hz.Osman'a** yer verilmemiştir?  
@@ -16,5 +16,5 @@ _1-**Tarikat silsileleri** tarikat kurumu için ne **mana** ifade eder? **Silsil
 2-Hiç bir şey **ifade** etmez. Geçmişte büyük **tarikat** kurucularının hiç biri **"ben** pir'im, tarikat **kuruyorum**" diyerek ortaya çıkmamıştır. **Tarikat**, o değerli kişilerin **yolundan** gidenlerce daha sonra **kurulup** geliştirilir. Pir'ler "**Biz tarikat-ı Muhammed"**e bağlıyızdan öteye bir **şey** söylemezler,ancak onların kendi **zevkleri** doğrultusunda özel **salavat** ve **duaları** vardır. Bunlara "**vird**" deniyor. (Vird-i **Bahaiyye,** Vird-i **Settar**) gibi) Bu "**vird**"lere bir de "**eğitim metodu**" ve münasip "**merasimler**" eklenince (usül ve fûruğ) **tarikat** zaman içinde  **kendiliğinden** doğuyor. Ben buna "**din sosyometrisi**" diyorum. Belki ilerde  bu **değim** tutulur.  
 3-Üveysi'lik bir **şeyhe** bağlı olmadan kendi kendini **irşad** edene derler. **Mümkündür**. Halk **sonuca** bakar. **Tevfik Fikret'**in "bir karınca bile beni **Yaradana** götürebilir" dediği gibi. **Ladikli Hacı Hoca Ahmet Ağa'**yı çok duydum. **Rahmetullahıaleyh. Hal** ehli **nurlu** bir **zat** imiş**.**
 
-![](/uploads/image/ahmet.jpg)  
+![](../uploads/image/ahmet.jpg)  
 Ladikli Hoca (1888-1969)

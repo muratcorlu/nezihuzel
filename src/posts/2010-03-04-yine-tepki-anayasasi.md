@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/babalar.jpg)
+![](../uploads/image/babalar.jpg)
 
 Yine tepki anayasası yapacaklar, yine aynı şey olacak, yine önceki darbelerden sonra yaptıkları gibi bu defa da “niteliksiz çoğunluk” darbesi tehlikesine karşı “nitelikli azınlık” anayasası yapacaklar. Memlekette en “niteliklilerin” kendileri olduğuna inandıkları için.. bekleyin göreceksiniz.   
   

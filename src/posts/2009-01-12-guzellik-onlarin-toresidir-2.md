@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![n_semazen.jpg](/uploads/2009/01/n_semazen.jpg)](/uploads/2009/01/n_semazen.jpg "n_semazen.jpg") İnsanın **yüceliği** geçmişe dayanır. **Hatır gönül** bilenler yüksek bir **ruh** ve erdem taşıyan insanlardır. Bir işe giriyorsanız o işin içinde harcanmış **emeklere**, geçmiş yıllara, saygı göstermelisiniz , sizden önce o **kapılardan** geçmiş kimseleri nazarı itibara almazsanız sonra o kapılar **yüzünüze** çarpılır. Ağır bir konudur, şöyle bir **etrafınıza** bakmanız gerekir....
+[![n_semazen.jpg](../uploads/2009/01/n_semazen.jpg)](../uploads/2009/01/n_semazen.jpg "n_semazen.jpg") İnsanın **yüceliği** geçmişe dayanır. **Hatır gönül** bilenler yüksek bir **ruh** ve erdem taşıyan insanlardır. Bir işe giriyorsanız o işin içinde harcanmış **emeklere**, geçmiş yıllara, saygı göstermelisiniz , sizden önce o **kapılardan** geçmiş kimseleri nazarı itibara almazsanız sonra o kapılar **yüzünüze** çarpılır. Ağır bir konudur, şöyle bir **etrafınıza** bakmanız gerekir....
 
 **Mevlevî** büyüklerinden rahmetli **Şefik Can Hoca** odaya bir **çocuk** girse ayağa kalkardı. Siz yarım yüzyıldan fazla hayatını bu işlere **vakfetmiş** adamlara aldırış ettiğiniz yok... **Tekkelerimiz** birer ikişer **tami**r oluyor ama içine koyacak “**Mevlevî**” nerede ? Bir gün çıkacaktır **bekliyoruz.**
 

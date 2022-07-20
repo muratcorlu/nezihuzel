@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![ikizkule.jpg](/uploads/2006/09/ikizkule.jpg)
+![ikizkule.jpg](../uploads/2006/09/ikizkule.jpg)
 
   
 

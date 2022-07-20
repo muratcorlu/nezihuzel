@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![sema.jpg](/uploads/2011/11/sema.jpg)](/uploads/2011/11/sema.jpg "sema.jpg")(Arşi'den)
+[![sema.jpg](../uploads/2011/11/sema.jpg)](../uploads/2011/11/sema.jpg "sema.jpg")(Arşi'den)
 
 İçinde bulunduğumuz aralık ayında, ülkemizde ve Bazı yabancı ülkelerde Sema gösterileriyle Mevlana anma toplantıları yapılıyor. Hz Pir’in şehri Konya kırkbeş yıldan beri bu toplantılara sahne oluyor. Önceki yıllarda ihtifal adı verilen toplantıları rahmetli Konya Belediye Başkanı,Mesnevi mütercimi Muhlis Koner başlatmıştı. İhtifal Şair Fevzi Halıcı’nın başkanlığında Konya Turizm Derneği’nce uzun yıllar devam ettirildi. Sonra TC Kültür Bakanlığı devreye girdi. Şimdi birkaç yıldan bu yana bu dönem sürüyor.
 

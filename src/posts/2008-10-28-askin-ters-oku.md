@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-[![eros.jpg](/uploads/2008/10/eros.jpg)](/uploads/2008/10/eros.jpg "eros.jpg")
+[![eros.jpg](../uploads/2008/10/eros.jpg)](../uploads/2008/10/eros.jpg "eros.jpg")
 
 Bilmem ki **Yusufçuk Kalender’**in nesine aşık, Doğrusu bu ya, **Yusufçuk Kalender’**den daha şık.
 

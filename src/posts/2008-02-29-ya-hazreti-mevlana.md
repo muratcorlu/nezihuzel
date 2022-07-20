@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[](/uploads/2008/03/mrvlana.jpg "mrvlana.jpg")
+[](../uploads/2008/03/mrvlana.jpg "mrvlana.jpg")
 
 Sensin âriflerin **şâhı**
 

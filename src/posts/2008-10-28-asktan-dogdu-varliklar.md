@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**[![dsc_0059.jpg](/uploads/2008/10/dsc_0059.jpg)](/uploads/2008/10/dsc_0059.jpg "dsc_0059.jpg")**
+**[![dsc_0059.jpg](../uploads/2008/10/dsc_0059.jpg)](../uploads/2008/10/dsc_0059.jpg "dsc_0059.jpg")**
 
 **Men aref’**in hoş aksi var Gönlümün başka **nesi** var Telden yaydan **her** dökülen Namede **ruhun** sesi var  
 

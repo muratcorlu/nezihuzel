@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/dua_hands.jpg)
+![](../uploads/image/dua_hands.jpg)
 
   
 Bu gece **Kadir gecesi**. İslam Dinine göre, **Müslüman** yaşamının esaslarını bildiren ana **öğüt Kur’an**, bu geceden **başlamak** üzere indirilmiş. Bu **dine** giren insanlar bu **kitabı rehber edinerek** hayatlarını **tanzim** ve **yaşam** sonrasını **garanti** altına almışlar...

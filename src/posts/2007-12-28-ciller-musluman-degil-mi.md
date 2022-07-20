@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![bhutto_benazir.jpg](/uploads/2007/12/bhutto_benazir.jpg)](/uploads/2007/12/bhutto_benazir.jpg "bhutto_benazir.jpg")
+[![bhutto_benazir.jpg](../uploads/2007/12/bhutto_benazir.jpg)](../uploads/2007/12/bhutto_benazir.jpg "bhutto_benazir.jpg")
 
 Dost **Pakistan**’ın yürekli politikacısı **iki kurşun,** bir bombayla hayatını kaybetti. **Bile bile** ölüme gitti. ÂdetÃ¢: “**gelin beni öldürün…”** dedi. **İntihar** gibi bir şey. **Ãlüm** bu ailenin **geleneğiydi.** **Pakistan**’da halkın karşısına çıkanlar **politikaya** başlarken **ölümü göze** alıyorlar… **Ãlümü** hak etmişler. **Babası** da öldürülmüştü. **Geleneği** bozmayan k**ızı** ise zaten ölüydü.
 

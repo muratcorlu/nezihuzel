@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![mevlana2.jpg](/uploads/2011/12/mevlana2.jpg)](/uploads/2011/12/mevlana2.jpg "mevlana2.jpg") (Arşiv'den uyarlama)
+[![mevlana2.jpg](../uploads/2011/12/mevlana2.jpg)](../uploads/2011/12/mevlana2.jpg "mevlana2.jpg") (Arşiv'den uyarlama)
 
 Şu yaşadığımız günlerden yedi yüz yıl önce Anadolu’nun bağrında Mevlânâ Celaleddin Rumî yaşadı. Bu gün Afganistan sınırları içinde kalan Belh’te doğmuş, Konya’da hayata gözlerini kapamıştı. Bir Tanrı velisi, halkın sevdiği ve insanüstü varlığına inandığı bir kişiydi...
 

@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![090420081026440949995.jpg](/uploads/2008/06/090420081026440949995.jpg)](/uploads/2008/06/090420081026440949995.jpg "090420081026440949995.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![090420081026440949995.jpg](../uploads/2008/06/090420081026440949995.jpg)](../uploads/2008/06/090420081026440949995.jpg "090420081026440949995.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Bir zaman **Ãin**’de **kÃ¢hinler** geleceği okumuşlar, **İmparator**’a haber vermişler: demişler ki : “**yakında yağmurlar yağacak o yağmur suyundan içen insanlar delirecek**” İmparator sormuş :
 

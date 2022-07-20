@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/small_obama_image.jpg)
+![](../uploads/image/small_obama_image.jpg)
 
 Bir bahçede “hot sosyete” toplanmış. Yeşilliklerin üzerine iskemleler konmuş. Sıra sıra hanımlar, beyler  dizilmiş, düz vardiya oturmuşlar. Önlerinde iki kürsü, arkalarında açık bir kapı.. Gür bir ses duyuluyor: “President of United Stades” Yani Amerika Cumhurbaşkanı.. Ve Reisicumhur Barak Obama, yanında yabancı misafiri ile içerden çıkıyor… Kürsünün önünde duruyor. O ne ? kimsede hareket yok.. Herkes yerinde rahat oturuyor, Başkan ayakta..
 

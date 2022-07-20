@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![147489561.jpg](/uploads/2011/10/147489561.jpg)](/uploads/2011/10/147489561.jpg "147489561.jpg") [![images1.jpg](/uploads/2011/10/images1.jpg)](/uploads/2011/10/images1.jpg "images1.jpg") [![imagesca3skbp7.jpg](/uploads/2011/10/imagesca3skbp7.jpg)](/uploads/2011/10/imagesca3skbp7.jpg "imagesca3skbp7.jpg")
+[![147489561.jpg](../uploads/2011/10/147489561.jpg)](../uploads/2011/10/147489561.jpg "147489561.jpg") [![images1.jpg](../uploads/2011/10/images1.jpg)](../uploads/2011/10/images1.jpg "images1.jpg") [![imagesca3skbp7.jpg](../uploads/2011/10/imagesca3skbp7.jpg)](../uploads/2011/10/imagesca3skbp7.jpg "imagesca3skbp7.jpg")
 
 Şarkın en gelişkin isimlerinden İmamı Gazali daha on üçüncü yüzyılda Bağdat’ta “insanlar hukuksuz, adaletsiz ve devletsiz kalırlarsa daimi kavgalarla birbirlerini yok ederler” diyordu.
 

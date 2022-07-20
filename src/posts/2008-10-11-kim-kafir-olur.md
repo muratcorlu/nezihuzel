@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![divance.jpg](/uploads/2008/10/divance.jpg)](/uploads/2008/10/divance.jpg "divance.jpg")
+[![divance.jpg](../uploads/2008/10/divance.jpg)](../uploads/2008/10/divance.jpg "divance.jpg")
 
 Ehl-, şevke  ta’neyleyen **zâhitler** Derviş hu der döner **kâfir** mi olur ? Bu dahle vâris olan **mücahitler Mü’min** hu der döner **kâfir** mi olur ?
 

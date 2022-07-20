@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/abd-amerika.jpg)
+![](../uploads/image/abd-amerika.jpg)
 
 Madam **Dumesnil** bir **Amerikal**ı’ydı. Önceden **Avrupalı**’ymış, sonradan **Amerikalı** olmuş. Yarım yüzyıl evvel **Avrupa**’yı **Hitler** ordularından kurtarmak için **denizin** ötesinden gelen **askerlerden** bir ile evlenmiş. **Savaş** sonrasında **Texas’**a yerleşmişler. **Kocas**ı zenginmiş, **Meksika** körfezinde **petrol** kuyuları var derlerdi. **Ölünce** kuyular **Madam**’a kalmış.
 

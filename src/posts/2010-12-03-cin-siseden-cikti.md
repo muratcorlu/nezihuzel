@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![cinler-alemi.jpg](/uploads/2010/12/cinler-alemi.jpg)](/uploads/2010/12/cinler-alemi.jpg "cinler-alemi.jpg")
+[![cinler-alemi.jpg](../uploads/2010/12/cinler-alemi.jpg)](../uploads/2010/12/cinler-alemi.jpg "cinler-alemi.jpg")
 
 Adam diyor ki “**şeffaflık olacak, hiçbir şey gizli kalmayacak**” ve ima ediyor;” gizli gizli çevirdiğiniz **işler** yüzünden **dünyamız** batıyor, bir **çare** bulmalı” **Hayır** ! diyorlar **gizlilik** meraklıları.. “Herşey **gizli** olacak” Ve adamı **kuduz köpeklerin** önüne atarak parçalanmasını **seyretmek** için olağanüstü **gayret** gösteriyorlar.
 

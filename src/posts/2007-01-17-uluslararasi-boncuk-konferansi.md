@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**[](/uploads/2007/08/boncuk.jpg "boncuk.jpg")[![boncuk1.jpg](/uploads/2007/08/boncuk1.jpg)](/uploads/2007/08/boncuk1.jpg "boncuk1.jpg")**
+**[](../uploads/2007/08/boncuk.jpg "boncuk.jpg")[![boncuk1.jpg](../uploads/2007/08/boncuk1.jpg)](../uploads/2007/08/boncuk1.jpg "boncuk1.jpg")**
 
 **A.A.** muhabirinin aldığı bilgiye göre, **Kültür ve Turizm Bakanlığı** ile **İstanbul Büyükşehir Belediyesinin** desteklediği ve 22-25 Kasım 2007 tarihinde düzenlenecek  **Uluslararası Boncuk ve Boncuk İşleme Sanatı Konferansı'**nın ilk etkinliği 20-26 Ocak tarihleri arasında **İstanbul** ve **Ankara'**da gerçekleşecek.
 

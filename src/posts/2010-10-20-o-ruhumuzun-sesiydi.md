@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![munir.jpg](/uploads/2010/10/munir.jpg)](/uploads/2010/10/munir.jpg "munir.jpg") _**Münir Nureddin** Harbiye, Mart 1968 Foto: Nezih Uzel_
+[![munir.jpg](../uploads/2010/10/munir.jpg)](../uploads/2010/10/munir.jpg "munir.jpg") _**Münir Nureddin** Harbiye, Mart 1968 Foto: Nezih Uzel_
 
 (Arşiv'den) Mevleviler mezarlığa “hamuşan “diyorlar. Yani “susanlar” demek. 28 nisan 1981 günü Münir Nureddin Selçuk’un cenazesini Teşvikiye Camii’nden alıp Rumeli Hisarı’ndaki “Aşiyan mezarlığına” götürdüğümüzde artık oranın da “hamuşan” olduğunu düşünüyordum. Münir Nureddin Hamuşan’a sırlanmıştı. “Susmuş” değil “sesini duyuramaz olmuştu” O günden sonra o gür ve ilahi sesi sadece cılız plaklarda ve yetersiz kayıtlarda dinleyebilecektik.
 
@@ -23,7 +23,7 @@ Bir Germiyan beyi
 
 Ülkemizde yakın çağların en büyük ses ustası olan Münir Nureddin Selçuk 1900 yılında İstanbul’da doğdu. Babası Osmanlı Sadaret dairesi amiri ve Divan-ı Humayun muavinlerinden Nureddin bey’di Annesi Kütahyalı Hacı Ali Paşa ve sadrazam Abdurrahman Paşa soyundandı. Böylece ana tarafından Selçuk’lu Germiyan sülalesine dayanan Münir Nureddin sonradan Selçuk soyadını aldı.
 
-[![levni.jpg](/uploads/2010/10/levni.jpg)](/uploads/2010/10/levni.jpg "levni.jpg")  Münir bey’in musikide dehası daha pek küçük yaşlarda ortaya çıkmıştı. Yaşı ulaştığında onu devrin tanınmış musikişinaslarından Yeniköy’li Hasan bey’in talebesi Ethem Efendi’nin Kadıköy’de açtığı “Dar-ül Feyz-i Musiki” mektebine verdiler. Bu okula üç sene devam eden Münir Nureddin, şöhreti Türkiye sınırlarını aşmış olan üstad müzikolog Rauf Yekta bey’in aracılığıyla Zekaidedezade Ahmet ve Hoca Ziya bey’lerin rahle-i tedrisine oturdu.
+[![levni.jpg](../uploads/2010/10/levni.jpg)](../uploads/2010/10/levni.jpg "levni.jpg")  Münir bey’in musikide dehası daha pek küçük yaşlarda ortaya çıkmıştı. Yaşı ulaştığında onu devrin tanınmış musikişinaslarından Yeniköy’li Hasan bey’in talebesi Ethem Efendi’nin Kadıköy’de açtığı “Dar-ül Feyz-i Musiki” mektebine verdiler. Bu okula üç sene devam eden Münir Nureddin, şöhreti Türkiye sınırlarını aşmış olan üstad müzikolog Rauf Yekta bey’in aracılığıyla Zekaidedezade Ahmet ve Hoca Ziya bey’lerin rahle-i tedrisine oturdu.
 
 Türkiye Birinci Dünya Harbine girdiğinde Münir Nureddin Selçuk artık bir delikanlıydı. Musikiyi san’at ve meslek edinmişti. İstanbul’un musik çevrelerinde adı geçiyordu. Musiki bilenlerin ve eski-yeni muzik zevki taşıyanların dikkatini çekmişti. O sırada Rauf Yekta ve Leon Hancıyan Kadıköy’de “Şark Musiki Mektebi”adı altında bir musiki mektebi açmışlardı. Kurucularının saygınlığı dolayısıyle pek kısa bir zamanda şöhretin zirvesine ulaşan  bu okul,  Münir bey’e kucak açtı. Selçuk’un musiki aleminde bir yıldız gibi parlayışı bu “Şark Musiki Mektebi” yıllarına rastlamaktadır.
 
@@ -57,7 +57,7 @@ Notlar
 
 \*Münir Nureddin Selçuk hocası Ali Rıfat Çağatay’dan sonra ilk defa koro’nun karşısına çıkıp modern manada konser yöneten kişidir. Ancak  Münir bey yönettiği konserlerde, Ali Rıfat Çağatay kullandığı halde “baget” isimli şef sopası kullanmamış, buna lüzum görmemişti.
 
-[![mevlana.jpg](/uploads/2010/10/mevlana.jpg)](/uploads/2010/10/mevlana.jpg "mevlana.jpg")  \*Münir bey dini musikide de söz sahibiydi. Kasımpaşa Çürüklük Dergahı postnişini şeyh Mustafa Efendi’den “naat-ı Mevlana “meşketmişti. Kendi bestesi olan ilahileri de vardı. Bunları her zaman ortaya çıkarmaz otuz yılla yakın başında bulunduğu Konservatuvar İcra Hey’etinin yılda bir defa düzenlediği “dini” konserlerde okuturdu. İlahileri tekke tarzında değildi. Biz onlara “salon ilahisi” derdik. Mevlânâ’dan tercüme “Ney’le konuştum dedim, bana derdini söyle” ve “Git ey akan gözyaşım “ güfteli ilahilerin besteleri kendisinindir.
+[![mevlana.jpg](../uploads/2010/10/mevlana.jpg)](../uploads/2010/10/mevlana.jpg "mevlana.jpg")  \*Münir bey dini musikide de söz sahibiydi. Kasımpaşa Çürüklük Dergahı postnişini şeyh Mustafa Efendi’den “naat-ı Mevlana “meşketmişti. Kendi bestesi olan ilahileri de vardı. Bunları her zaman ortaya çıkarmaz otuz yılla yakın başında bulunduğu Konservatuvar İcra Hey’etinin yılda bir defa düzenlediği “dini” konserlerde okuturdu. İlahileri tekke tarzında değildi. Biz onlara “salon ilahisi” derdik. Mevlânâ’dan tercüme “Ney’le konuştum dedim, bana derdini söyle” ve “Git ey akan gözyaşım “ güfteli ilahilerin besteleri kendisinindir.
 
 \*Münir bey fazla konuşkan bir insan değildi. Bulunduğu meclislerde pek ağzını açmaz, konuşulanları dinlemeyi tercih ederdi. Bir gün Refik Fersan bey’in evinde toplantı varmış, Münir bey de davetliler arasındaymış, ancak konuşmayışı birkaç kişinin dikkatini çekince kendisine duyurmadan ev sahibi Fahiranım’a sormuşlar. Fahire hanım” o musiki için yaratılmıştır, şarkı söyler, konuşmaz” demiş.
 

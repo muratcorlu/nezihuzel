@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-                                                    ![altiok.jpg](/uploads/2006/12/altiok.kucukresim.jpg)  
+                                                    ![altiok.jpg](../uploads/2006/12/altiok.kucukresim.jpg)  
 
 Türkiye'de tüm on **dokuzuncu** yüzyıl boyunca **tartışılıp** yirminci yüzyılın başında bu topraklarda yeni bir **Devlet'**e şekil veren yerli **"Türk laikliği"** yara aldı... **Cumhuriyetin** laik düzeni iki **papaz** tarafından **saldırıya** uğradı . Her ikisi de **Tanrı'nın**  yakını olduğunu ileri süren iki **üst düzey** din görevlisi, **Türkiye Cumhuriyetini** kuran ve yöneten **laiklerin** gözlerinin içini baka baka **laikliği** kötüledi.
 

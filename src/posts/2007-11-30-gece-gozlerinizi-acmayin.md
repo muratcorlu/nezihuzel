@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-                       [![dscn0712.JPG](/uploads/2007/12/dscn0712.JPG)](/uploads/2007/12/dscn0712.jpg "dscn0712.JPG")
+                       [![dscn0712.JPG](../uploads/2007/12/dscn0712.JPG)](../uploads/2007/12/dscn0712.jpg "dscn0712.JPG")
 
 –Gece hava **karardıktan** sonra ne yapıyorsun ?
 

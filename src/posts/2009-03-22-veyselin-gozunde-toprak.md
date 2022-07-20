@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/askveyselrs9.jpg)
+![](../uploads/image/askveyselrs9.jpg)
 
 Gözüm olsaydı **toprağı** göremezdim  
                                 Aşık Veysel  

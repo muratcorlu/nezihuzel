@@ -5,7 +5,7 @@ categories:
   - Altın Sorular
 ---
 
-_![](/uploads/image/durru.jpg)_
+_![](../uploads/image/durru.jpg)_
 
 _Elli yıl önce kaybettiğimiz üstad tanburî Dürri Turan hakkında ailesi benden yayılanacak bir kitaba konmak üzere bir yazı istedi.  Yazdım ve gönderdim. Arzediyorum_: 
 

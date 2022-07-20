@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![dem.bmp](/uploads/2012/01/dem.bmp)](/uploads/2012/01/dem.bmp "dem.bmp")
+[![dem.bmp](../uploads/2012/01/dem.bmp)](../uploads/2012/01/dem.bmp "dem.bmp")
 
 (Not. Bu günlerde söz sırası sayın Süleyman Demirel'e gelebilir.Arşiv’den eski bir yazımı güncelleyerek sunuyorum) 
 

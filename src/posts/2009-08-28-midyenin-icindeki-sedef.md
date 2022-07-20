@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-![](/uploads/image/sedefli midye.jpg)
+![](../uploads/image/sedefli midye.jpg)
 
 Bir haberdi **Yusufçuğun** tek derdi  
 **Kalender** ise işi **gerdikçe** gerdi  

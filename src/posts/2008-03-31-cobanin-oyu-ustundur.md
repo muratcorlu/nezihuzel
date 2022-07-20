@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![coban.jpg](/uploads/2008/03/coban.jpg)](/uploads/2008/03/coban.jpg "coban.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![coban.jpg](../uploads/2008/03/coban.jpg)](../uploads/2008/03/coban.jpg "coban.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Kadın diyor kiÂ  “ **BeninÂ  oyum çobanın oyuyla nasıl eşit olur** ? ”
 

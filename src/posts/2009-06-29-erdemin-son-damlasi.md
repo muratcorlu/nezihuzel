@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![](/uploads/image/ankara_.jpg)
+![](../uploads/image/ankara_.jpg)
 
 Geçen ayın ortalarında **İstanbul bağımsız milletvekili Ahmet Tan** ile **Ankara**’daydık. Kırkbeş yıl önce ben bu **şehirde** bir günlük gazetenin **Başbakanlık, Dış İşleri Bakanlığı** ve **Parlemento** muhabirliğini çok kısa bir süre için **üstlenmiş,** az bir zaman sonra **bırakmıştım.**
 
@@ -19,7 +19,7 @@ Yıllar öncesinin **Ankara**’sı 27 mayıs **askeri** darbesinden yeni çıkm
 
 **Kadrolar** değişiyordu. Eski **deneyimli** insanların yerine yeniler geliyordu. **Devletin** kurulduğu günden beri ardı arkası kesilmeyen; bu gün de süregelen **rejim** ve **sistem** arayışları, bütün **hızı** ile devam ediyordu. **Cumhuriyet** yenileniyordu… Ve tabii yeni **insanlara** gerek duyuluyordu.
 
-  **![](/uploads/image/ferruh_bozbeyli.jpg)![](/uploads/image/ferruh.jpg)  Ankara’**ya girerken bir **isim** aklıma takıldı: O zamanın **Meclis başkanı Ferruh Bozbeyli**…  İçimden **Ankara**'da bir tek **O**'nunla **görüşme** isteği geldi. **Onunla** görüşmeliydim. **Ahmet Tan** iki gün sonra bilgi verdi: **Ferruh bey**  **Ankara**’nın dışında **villasında** oturuyordu. **Randevu** alıp gittik. Bizi gülerek **evinin** kapısında karşıladı. Hiç de **ihtiyar** görünmüyordu.
+  **![](../uploads/image/ferruh_bozbeyli.jpg)![](../uploads/image/ferruh.jpg)  Ankara’**ya girerken bir **isim** aklıma takıldı: O zamanın **Meclis başkanı Ferruh Bozbeyli**…  İçimden **Ankara**'da bir tek **O**'nunla **görüşme** isteği geldi. **Onunla** görüşmeliydim. **Ahmet Tan** iki gün sonra bilgi verdi: **Ferruh bey**  **Ankara**’nın dışında **villasında** oturuyordu. **Randevu** alıp gittik. Bizi gülerek **evinin** kapısında karşıladı. Hiç de **ihtiyar** görünmüyordu.
 
 Hatırladığım kadarıyla **Ferruh Bozbeyli** erdemli bir insandı. **Başkan** olduğu yıllarda **adı** hiçbir kötülüğe karışmamıştı. Hakkında hiçbir **dedikodu** çıkmamıştı. Herkesin **oy birliği** ile **dürüst** olduğuna karar verdiği bir kişiydi. Başında bulunduğu **Meclis'**e yakışan bir insandı. **Meclisin** asalet ve şerefi’nin **canlı** örneğiydi. Belki **Cumhuriyet** tarihinde eşine ender rastlanacak bir **Meclis başkanıydı**. **Ahmet Cevdet Paşa, Mehmet Emin Âli Paşa** veya **Keçecizade Fuat Paşa** gibi eski çağların adı **efsanelere** karışmış büyük ve şanlı **devlet** adamlarına benziyordu.
 

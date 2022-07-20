@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![bne.JPG](/uploads/2011/07/bne.jpg)](/uploads/2011/07/bne.jpg "bne.JPG") 75 yıl geride kaldı. Dünyaya geleli 75 yıl olmuş.. Bunca zaman yaşamışlığın bir şerefi ve sevinci olmalı. Bunca yıl insanoğlu için bir şeyler yapabilme olanağına sahip bulunmanın gururunu duymalı. İyi yaşamalı, yere sağlam basmalı, adamın kalbinde derin bir huzur, yaşamında neş'e  olmalı.
+[![bne.JPG](../uploads/2011/07/bne.jpg)](../uploads/2011/07/bne.jpg "bne.JPG") 75 yıl geride kaldı. Dünyaya geleli 75 yıl olmuş.. Bunca zaman yaşamışlığın bir şerefi ve sevinci olmalı. Bunca yıl insanoğlu için bir şeyler yapabilme olanağına sahip bulunmanın gururunu duymalı. İyi yaşamalı, yere sağlam basmalı, adamın kalbinde derin bir huzur, yaşamında neş'e  olmalı.
 
 İnsan vardır gelsin diye beklenir, insan vardır gitsin diye beklenir. Gelişi beklenen, yolu gözlenen  insanlardan olmalı.. Huzur veren, girdiği ortama şenlik getiren, güven sağlayan, sorun çözen insan olmalı, Sorun çıkaran insan olmamalı.
 

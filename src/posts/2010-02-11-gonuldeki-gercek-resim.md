@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/hus son.jpg)
+![](../uploads/image/hus son.jpg)
 
 _Yayınladığımız hayalî bir resim üzerine değerli bir okuyucumuz "İslam'da tasvir yasaktır" dedi. Ce_vabımdır:  
   

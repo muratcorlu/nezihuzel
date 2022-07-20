@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-_**![](/uploads/image/ses.jpg)**_
+_**![](../uploads/image/ses.jpg)**_
 
 _**Nezih Uzel’**den not: Facebook’ta yine bir olay çıktı: Bir vatandaşın bir fasıl videosuna yazdığı şu yoruma bakınız neler kondurmuş: “ Herifler kırk senedir aynı şeyleri çala çala hayatlarından bezmişler, hele “utçu”nun tipine bakın…” Bir başka vatandaş da ona katılmış: "Doğru walaaa..."    
   
@@ -17,7 +17,7 @@ Bu insanlar bir **ülkenin** müzik zevkini **üç çeyrek asır** ayakta tuttul
 
 Görüntüye **dikkat** ediyormusunuz ?  Bir **kere** daha bakın, hiç **birinin** önünde **nota** yok. Evet o **çalıp söyledikleri**  eserleri **kırk yıldır** çalıyorlar. **Kırk yıl** daha geçse yine çalacaklar. Bir eseri **kırk yıl** çalmak **yetmez**, kırk yılda ancak **çalarsınız**, bir **kırk yıl** daha geçse belki **sırrına** varırsınız. Siz hayatta hiç **müzik dinlediniz** mi ? kapı gıcırtısı ve **motor** sesinden başka… Gerçek **Müzik** sizin tarafa uğradı mı ?
 
-![](/uploads/image/nota.jpg)  Sizin "**utçu**" dediğiniz **Selahattin Erköse** dünya çapında bir **ut** sanatçısıdır, öyle **taksimleri** vardır ki sanki "**ut**" onun için **icat** olunmuştur. O video'da sizin **"tipini**" beğenmediğiniz  **Selahattin Erköse'**nin  **icra** sırasındaki **duruşu,** ulaşılmaz **san'at** duygularıyla dolmuş **müstesna** bir ömrün, görüntüye **yansımış** şeklidir. **Vücut** dilinden **işaret** alabiliyorsanız **farketmeniz** geç olmaz. 
+![](../uploads/image/nota.jpg)  Sizin "**utçu**" dediğiniz **Selahattin Erköse** dünya çapında bir **ut** sanatçısıdır, öyle **taksimleri** vardır ki sanki "**ut**" onun için **icat** olunmuştur. O video'da sizin **"tipini**" beğenmediğiniz  **Selahattin Erköse'**nin  **icra** sırasındaki **duruşu,** ulaşılmaz **san'at** duygularıyla dolmuş **müstesna** bir ömrün, görüntüye **yansımış** şeklidir. **Vücut** dilinden **işaret** alabiliyorsanız **farketmeniz** geç olmaz. 
 
 **Batı'**da doğmuş olsa en az bir **Yahudi Menuhin** veya **Joaquin Rodrigo** kadar şöhret kazanacak olan O **Selahattin** **Erköse,** yıllarca davet ettiğimiz **Avrupa** turnelerinde **müzik** otoritelerini **şaşkına** çevirmişti.
 

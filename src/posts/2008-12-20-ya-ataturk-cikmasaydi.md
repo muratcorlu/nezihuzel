@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![anafartalar.jpg](/uploads/2008/12/anafartalar.jpg)](/uploads/2008/12/anafartalar.jpg "anafartalar.jpg")
+[![anafartalar.jpg](../uploads/2008/12/anafartalar.jpg)](../uploads/2008/12/anafartalar.jpg "anafartalar.jpg")
 
 Eğer bir zamanlar **Türk** vatanında **Atatürk** çıkmasaydı 1918 sonbaharında **İstanbul**’u işgal eden müttefik savaş gemileri “**geldikleri gibi gitmezlerdi**…” Irak’ı işgal eden **Amerikan** ve **İngiliz** birliklerinin **geriye** gitmedikleri  ve **gitmeye** niyetleri olmadığı gibi…
 

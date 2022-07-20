@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![s3sl1.jpg](/uploads/2008/04/s3sl1.jpg)](/uploads/2008/04/s3sl1.jpg "s3sl1.jpg")
+[![s3sl1.jpg](../uploads/2008/04/s3sl1.jpg)](../uploads/2008/04/s3sl1.jpg "s3sl1.jpg")
 
 Ey nazlı nazlı **yürüyen** selvi,
 

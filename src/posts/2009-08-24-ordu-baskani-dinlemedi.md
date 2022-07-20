@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![](/uploads/image/troopsdm0803_468x432.jpg)
+![](../uploads/image/troopsdm0803_468x432.jpg)
 
 Le Pentagone a commencé à fournir au Comité international de la Croix-Rouge (CICR) les noms de prisonniers détenus secrètement dans deux camps militaires en Irak et en Afghanistan, une première dans la politique de "lutte antiterroriste" des Etats-Unis, a rapporté samedi le New York Times. Cette mesure a pris effet en août et entre dans le cadre de la réforme, initiée par l'administration Obama, des règles de détention "antiterroriste", précise le quotidien.
 

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![aube_col_de_bleyne_26.jpg](/uploads/2006/12/aube_col_de_bleyne_26.jpg)](/uploads/2006/12/aube_col_de_bleyne_26.jpg "aube_col_de_bleyne_26.jpg")                                                                                      
+[![aube_col_de_bleyne_26.jpg](../uploads/2006/12/aube_col_de_bleyne_26.jpg)](../uploads/2006/12/aube_col_de_bleyne_26.jpg "aube_col_de_bleyne_26.jpg")                                                                                      
 
                                                                                        8
 

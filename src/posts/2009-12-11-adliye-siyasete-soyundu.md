@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/hakim.jpg)  ![](/uploads/image/adalet.jpg) Adliyenin siyasete müdahalesi hayra alamet değildir. Bir ülkenin eline teslim edildiği siyaset, eğer her attığı adımda karşısında adliyeyi bulacaksa o ülkenin hiç bir sorunu, hiç bir yerde, hiçbir zaman halledilemeyecektir. Eğer adliye sorunların hallinde birinci başvuru makamı ise siyasete ne luzum var ? Kurun sandıkları, seçin hakimleri, yönetsinler ülkeyi... Neden hakimler varken siyasiler işe karışıyor ki ?
+![](../uploads/image/hakim.jpg)  ![](../uploads/image/adalet.jpg) Adliyenin siyasete müdahalesi hayra alamet değildir. Bir ülkenin eline teslim edildiği siyaset, eğer her attığı adımda karşısında adliyeyi bulacaksa o ülkenin hiç bir sorunu, hiç bir yerde, hiçbir zaman halledilemeyecektir. Eğer adliye sorunların hallinde birinci başvuru makamı ise siyasete ne luzum var ? Kurun sandıkları, seçin hakimleri, yönetsinler ülkeyi... Neden hakimler varken siyasiler işe karışıyor ki ?
 
 Neyin nasıl yapılacağını bilmeyen, bilse de görevi söylemek olmayan, sadece  ikide bir ortaya çıkıp “yapma… yapamazsın ” diyen bir adaletle bir ülke nasıl yönetilecek ?
 

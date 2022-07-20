@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![mevlana.jpg](/uploads/2008/12/mevlana-1.jpg)](/uploads/2008/12/mevlana-1.jpg "mevlana.jpg")
+[![mevlana.jpg](../uploads/2008/12/mevlana-1.jpg)](../uploads/2008/12/mevlana-1.jpg "mevlana.jpg")
 
 "O mutluluk veren **Dost** kalktı. Kalkınız, çünkü **Aşkın** cezası kaldırıldı. Kalkınız çünkü O güzel boylu **sevgili** kalktı. Kalkınız çünkü bu **gün Kıyamet** günüdür. Her şey **ayağa** kalktı.”                                 **Mevlânâ**
 

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/istanbul.jpg)
+![](../uploads/image/istanbul.jpg)
 
 Mevsim **bahardı**, tanışmıştık.  
 Mevsim güz oldu **ayrıldık**.  

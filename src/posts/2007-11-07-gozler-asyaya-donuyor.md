@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-**[![asyaa.jpg](/uploads/2007/11/asyaa.jpg)](/uploads/2007/11/asyaa.jpg "asyaa.jpg")Â Â Â Â** 
+**[![asyaa.jpg](../uploads/2007/11/asyaa.jpg)](../uploads/2007/11/asyaa.jpg "asyaa.jpg")Â Â Â Â** 
 
 **Yavuz Sultan Selim Mısır’ı** fethettiğinde bir gün, **Piri Paşa'yaÂ** sonradan Â **Süveyş kanalı** olan **kara parçasını** kastederek:
 

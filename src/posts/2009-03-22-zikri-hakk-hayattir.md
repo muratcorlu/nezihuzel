@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**![](/uploads/image/yercekimlikaranfil_bahar.jpg)**
+**![](../uploads/image/yercekimlikaranfil_bahar.jpg)**
 
 **Bahar** oldu yine açıldı **güller  
 **Murada **bülbül** erdiği zamandır  

@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-[![yusufcuk.jpg](/uploads/2008/12/yusufcuk.jpg)](/uploads/2008/12/yusufcuk.jpg "yusufcuk.jpg")
+[![yusufcuk.jpg](../uploads/2008/12/yusufcuk.jpg)](../uploads/2008/12/yusufcuk.jpg "yusufcuk.jpg")
 
 Günler, **geceler** boyu bekledi **Yusufçuk Kalender**’de ne bir **ümit** ne de bir soluk Sanki kurumuştu, **Çekirgenin** bedeni **Yusufçuk** bilmedi, nedir bunun **nedeni.**
 

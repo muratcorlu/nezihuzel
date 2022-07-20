@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/gun.jpg)
+![](../uploads/image/gun.jpg)
 
 Bir **O** vardı önceleri  
 Sonra **ben**  

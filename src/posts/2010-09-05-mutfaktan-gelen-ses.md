@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![hedik-kazan.jpg](/uploads/2010/09/hedik-kazan.jpg)](/uploads/2010/09/hedik-kazan.jpg "hedik-kazan.jpg")
+[![hedik-kazan.jpg](../uploads/2010/09/hedik-kazan.jpg)](../uploads/2010/09/hedik-kazan.jpg "hedik-kazan.jpg")
 
 Mutfaktan **bakır** sesi geliyor Birazdan **su** sesi gelecek Sonra **ateş** çıtırtısı En sonunda Mubarek **pilav** kokusu
 
@@ -25,4 +25,4 @@ Dervişler **dizilecekler Zikrullah** kurulacak Halaka-i **zemin** coşacak Hala
 
 _Sarı Şeyh_
 
-[![bakir_bardak.jpg](/uploads/2010/09/bakir_bardak.jpg)](/uploads/2010/09/bakir_bardak.jpg "bakir_bardak.jpg")
+[![bakir_bardak.jpg](../uploads/2010/09/bakir_bardak.jpg)](../uploads/2010/09/bakir_bardak.jpg "bakir_bardak.jpg")

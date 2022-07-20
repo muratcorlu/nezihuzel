@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![karga.jpg](/uploads/2008/11/karga.jpg)](/uploads/2008/11/karga.jpg "karga.jpg")
+[![karga.jpg](../uploads/2008/11/karga.jpg)](../uploads/2008/11/karga.jpg "karga.jpg")
 
 \-Bu “**0lur**” la “**0lmaz**”ı Hoca nereden çıkardı bilemiyorum. **Gaaaak**… guruk. (kuşku sesi) -Neden ? ne var **hoşuna** gitmedi mi ? -Anlamıyorum, **karga kafam** basmıyor... -Kafayla değil, **ayağınla** basacaksın, organlarını karıştırma… -Gaaak. Tırr. **Fazilet** sen ukalasın… Bu **Huyundan** vazgeç…. -Sana bir **gag**a atarım feleğini şaşırırsın, sen beni **aptal karga** mı zannettin ? pis **mendebur**…Yıkıl git kendi **çöplüğüne,** gezme buralarda… -**Fazilet** sen son zamanlarda değiştin eskiden **terbiyeli** kargaydın… -Sen anlamazsın, **söyle** ne istiyorsun…? -Hoca bu **olurları, olmazları**Â  neden başımıza **musallat** etti ? -Kafa **cimnastiği** yapman için, belki **kurtulursun**…gaaaak. -Neden ? -**Kargalıktan**… -Sen kurtuldun mu ? -Tabii ki, ben **karga** görünüşlü **kartalım**… -**Vaaaav**, Gaaak gaaak, takırrr, tısss,**hırzzz** hırrşşş… (karga gülmesi)
 

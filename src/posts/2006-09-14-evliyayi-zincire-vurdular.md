@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-    **![hacibayram-01-b.jpg](/uploads/2006/09/hacibayram-01-b.kucukresim.jpg)**Bir zamandan beri **Radikal** gazetesine tarih yazıları yazan **Avni Öztürel**, geçen hafta bir yazısında **Ankara**'da yatan **Hacı Bayram Veli**'yi "tutuklatarak **zincire** vurdurdu" ve **Edirne**'ye Osmanlı Padişahı'nın yanına gönderdi. Destur...
+    **![hacibayram-01-b.jpg](../uploads/2006/09/hacibayram-01-b.kucukresim.jpg)**Bir zamandan beri **Radikal** gazetesine tarih yazıları yazan **Avni Öztürel**, geçen hafta bir yazısında **Ankara**'da yatan **Hacı Bayram Veli**'yi "tutuklatarak **zincire** vurdurdu" ve **Edirne**'ye Osmanlı Padişahı'nın yanına gönderdi. Destur...
 
 Hangi **muteber** kaynaktan aldığı belli olmayan bu habere göre **Türk'ün has evliyası**, yedi yüz yıldan beri **Hakk**'ın sevgili kulları arasında olduğuna     inanılan bu **yüce insanı** **Ankara**'dan **Edirne'**ye kadar yerlerde sürükledi.
 

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![nuv.jpeg](/uploads/2011/01/nuv.jpeg)](/uploads/2011/01/nuv.jpeg "nuv.jpeg")
+[![nuv.jpeg](../uploads/2011/01/nuv.jpeg)](../uploads/2011/01/nuv.jpeg "nuv.jpeg")
 
 _Bir sempozyum'a katılmak arzususyla yetkili kişilere yazdığım fakat cevabını alamadığım bir mektubu ehemmiyetine binaen yayınlıyorum_
 

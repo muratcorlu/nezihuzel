@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-   [![37424_tunus-olaylar-cikti.jpg](/uploads/2011/01/37424_tunus-olaylar-cikti.jpg)](/uploads/2011/01/37424_tunus-olaylar-cikti.jpg "37424_tunus-olaylar-cikti.jpg")[![cailloux_.jpg](/uploads/2011/01/cailloux_.jpg) Tunus, 16 ocak 2011        Süveyş 26 ocak 2011 (_Courtoisie Yahoo_)           (_Courtoisie Paris Match_)](/uploads/2011/01/cailloux_.jpg "cailloux_.jpg")[](/uploads/2011/01/37424_tunus-olaylar-cikti.jpg "37424_tunus-olaylar-cikti.jpg")
+   [![37424_tunus-olaylar-cikti.jpg](../uploads/2011/01/37424_tunus-olaylar-cikti.jpg)](../uploads/2011/01/37424_tunus-olaylar-cikti.jpg "37424_tunus-olaylar-cikti.jpg")[![cailloux_.jpg](../uploads/2011/01/cailloux_.jpg) Tunus, 16 ocak 2011        Süveyş 26 ocak 2011 (_Courtoisie Yahoo_)           (_Courtoisie Paris Match_)](../uploads/2011/01/cailloux_.jpg "cailloux_.jpg")[](../uploads/2011/01/37424_tunus-olaylar-cikti.jpg "37424_tunus-olaylar-cikti.jpg")
 
 **Vikileaks** belasının  **richter** ölçeğinin en üst düzeyinde  bir **siyasi depreme** yol açacağı belliydi. Dünyanın tüm yerleşik i**hanet şebekelerini**n bir sel felaketi ile sarsılacağı anlaşılmıştı. **Demokras**i diye, globalizasyon diye, **serbest ekonom**i, çağdaş demokrasi yok bilmem ne ? diye **halkları soymanın** sonu geldiği **ufukta** beliriyordu.
 
@@ -13,7 +13,7 @@ categories:
 
 Günde **2 dolarla** hayat geçiren **Yemen**’in yüzde kırk halkı göğsünü **diktanın** silahlarına açtı. Artık **ölüm tehdid**i kimseyi durduramayacak Zaten **ölü yaşamaya** mahkum edilmiş insan **kütlelerini** daha fazla durdurmak **mümkün** olabilir mi ? İnsanları soyup sovana çevirerek **ülkeler**i bir avuç soysuz **dejenere zenginin** eline bırakmak olur mu ?
 
- [![miszir.jpg](/uploads/2011/01/miszir.jpg)](/uploads/2011/01/miszir.jpg "miszir.jpg")[![misir-da-el-baradei.jpg](/uploads/2011/01/misir-da-el-baradei.jpg)](/uploads/2011/01/misir-da-el-baradei.jpg "misir-da-el-baradei.jpg")
+ [![miszir.jpg](../uploads/2011/01/miszir.jpg)](../uploads/2011/01/miszir.jpg "miszir.jpg")[![misir-da-el-baradei.jpg](../uploads/2011/01/misir-da-el-baradei.jpg)](../uploads/2011/01/misir-da-el-baradei.jpg "misir-da-el-baradei.jpg")
 
 **Mısır**’ın en şerefli adamı Baradai dedi ki “ne yaptıysak **fayda** etmedi, nasihat verdik **olmadı,** siyasi program **teklif** ettik, tutmadı, parti kurduk **yürümedi**, yolsuzluk ve **ihanet** her gün inatla artarak **bacay**ı sardı, sonunda **gençler** işi ele aldılar… **Sokağa** iş düştü ” Dünyanın sevip saydığı **Arap Birliği** Başkanı Baradaı **Kahire**’de **Hüsnü Mubarek**’in sarayına doğru yürüyor... **Binlerce** insan arkasında.. Hey  mubarek **Hüsnü Mubarek,** bunu da mı görecektin ? **Göstermelik** çakma seçimlerle **kendini** seçtire seçtire bu **günlere** geldin.. **Allahın** izniyle şansının çizgisi buraya kadar.
 

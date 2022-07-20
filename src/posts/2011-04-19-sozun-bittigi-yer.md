@@ -5,4 +5,4 @@ categories:
   - Destur
 ---
 
-[![qq.jpg](/uploads/2011/04/qq.jpg)](/uploads/2011/04/qq.jpg "qq.jpg") Afganistan , 20 nisan 2011
+[![qq.jpg](../uploads/2011/04/qq.jpg)](../uploads/2011/04/qq.jpg "qq.jpg") Afganistan , 20 nisan 2011

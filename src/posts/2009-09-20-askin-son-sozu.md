@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/yusufcuk-dragonfly04.jpg)
+![](../uploads/image/yusufcuk-dragonfly04.jpg)
 
 Kahretti **Yusufçuğu** Kalender  
 Böylesi **zalim** ender mi ender  

@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-**[![yusufcuk.jpg](/uploads/2009/01/yusufcuk.jpg)](/uploads/2009/01/yusufcuk.jpg "yusufcuk.jpg")**
+**[![yusufcuk.jpg](../uploads/2009/01/yusufcuk.jpg)](../uploads/2009/01/yusufcuk.jpg "yusufcuk.jpg")**
 
 **Kalender'**in nesi var **Yusufçuğun**  sesi var Kalenderin **kellesi** Yusufçuğun **neş’esi**
 

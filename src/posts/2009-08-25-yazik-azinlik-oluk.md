@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-  **![](/uploads/image/devlet.jpg)  Seksen** yıldan beri ne **dediysek,** tersini söylediler:  
+  **![](../uploads/image/devlet.jpg)  Seksen** yıldan beri ne **dediysek,** tersini söylediler:  
 \-**Türk dili**…  
 \-Hayır ! o **Araptan** **Acemden** derleme …  
 \-**Türk edebiyatı…**  

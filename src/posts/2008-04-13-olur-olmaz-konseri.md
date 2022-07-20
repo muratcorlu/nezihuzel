@@ -5,7 +5,7 @@ categories:
   - Olurla Olmaz Muhabbeti
 ---
 
-[![etkinlik_konser_foto.jpg](/uploads/2008/04/etkinlik_konser_foto.jpg)](/uploads/2008/04/etkinlik_konser_foto.jpg "etkinlik_konser_foto.jpg")
+[![etkinlik_konser_foto.jpg](../uploads/2008/04/etkinlik_konser_foto.jpg)](../uploads/2008/04/etkinlik_konser_foto.jpg "etkinlik_konser_foto.jpg")
 
 \-Yürü **konser’**e gidelim
 

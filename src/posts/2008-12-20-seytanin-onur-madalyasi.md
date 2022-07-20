@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[**![goya_cronos.jpg](/uploads/2008/12/goya_cronos.jpg)**](/uploads/2008/12/goya_cronos.jpg "goya_cronos.jpg") Goya
+[**![goya_cronos.jpg](../uploads/2008/12/goya_cronos.jpg)**](../uploads/2008/12/goya_cronos.jpg "goya_cronos.jpg") Goya
 
 **İblisiyye** devletinin başkanı **Zebânî,** ülkesini yakan, yıkan, **insanlarını** öldüren, kundaktaki bebeklerini **boğazlayan**, ak sakallı **dedelerin**i yerlerde sürükleyen, gözü yaşlı **ninelerinin** canını alan, cesetlerini dipsiz **kuyulara** atan, ölülerini karanlık **mağaralara** dolduran, topraklarına **yüzyıllarca** adam öldürecek **zehirler** saçan, kuytu yerlere **gizli tuzaklar** kuran, köşebaşlarına **şeytanın** çıraklarını yerleştiren, yol üstüne kendi **canavarlarını** salan, kan içici, **ciğer** sökücü,  kafa derisi yüzücü, **ceset** yiyici, kol bacak kırıcı **Ye’cüc Me’cüc** kavminin lideri  Ekselans **Yorgi Kokmuş’**a ülkesinin en yüksek **onur** madalyasını taktı. Taktıktan sonra da **madalyayı** okşadı.
 
@@ -13,7 +13,7 @@ categories:
 
 Bay **Yorgi Ko**kmuş da yaşamından memnundu **Kavminin**, cibilliyetini idrak edecek bir **zemin** bulduğuna seviniyor, bundan tarihsel bir **hoşnudluk** duyuyordu. Duyguları bir adım daha atsa **Hakk C.C**.’nun “**Kahhar**” ismi şerifine mazhar olduğunu bilecek **yaşa** gelecekti. Ama bu **vahşî’**nin henüz o **taraklarda** bezi olmadığına ve **beynine** o yolda **kan** yürümediğine göre, onun **kader** çizgisinde, yakın gelecekte böyle bir **olanak** yer tutmuyordu.  
 
-[**![ps207664_v_150.jpg](/uploads/2008/12/ps207664_v_150.jpg)**](/uploads/2008/12/ps207664_v_150.jpg "ps207664_v_150.jpg") Şeytanın madalyası
+[**![ps207664_v_150.jpg](../uploads/2008/12/ps207664_v_150.jpg)**](../uploads/2008/12/ps207664_v_150.jpg "ps207664_v_150.jpg") Şeytanın madalyası
 
 **Yorgi Kokmuş,** bay **Zebânî’**nin taktığı **şeref** madalyasını “**cennet müjdesi**” gibi göğsünde taşıyarak **ülkesine** döndü. Kendisini başkent **Şamşaton** kasabasında karşılayan **Ye’cüc Me’cüc** kavminin ileri gelenleri onu **sevinçle** kucakladılar,  göğsüne bir **madalya** da onlar taktılar. **Göğsünde** yer kalmadı. Adamın göğsü **ilan tahtasına** döndü.
 

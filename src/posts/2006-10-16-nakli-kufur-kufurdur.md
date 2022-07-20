@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![papessa.jpg](/uploads/2006/10/papessa.kucukresim.jpg)  
+![papessa.jpg](../uploads/2006/10/papessa.kucukresim.jpg)  
 
 Bir adam, bir başkasının   ettiği **küfrü** tekrarlarsa kendisi **küfür** etmiş sayılmazmış. Bir Türk Atasözü "**nakli küfür küfür değildir**" diyor... Bence **küfürdür**. Küfrün ta kendisidir. **Küfrü** nakleden de **küfür** eden kadar suçludur. İnsan durup dururken Neden **küfür nakleder ki ?** kendisi de o **küfre** iştirak etmiyorsa acaba neden **naklediyor** ? Elbette iştirak ediyor ve onun için **naklediyor**... Doğrudan doğruya **küfür** etmeye cesareti bulunmayan hallerde araya birisini koyarak **küfür** ediyor. Eskiler "**nakli küfür küfür değildir**" derken hiç sormamışlar "acaba **küfür** nakleden neden bu işe **bulaşıyor ?** "
 

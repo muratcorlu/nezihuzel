@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![](/uploads/image/osmanli-devlet-armasi2.gif)
+![](../uploads/image/osmanli-devlet-armasi2.gif)
 
 Ne yargı krizi, ne asker krizi, ne para, ne insan krizi..  apaçık, güpegündüz, anlı şanlı “Devlet Krizi” Bir “devlet sorunu”nun içindeyiz. Altı yüz yıllık ömrü bitmiş Osmanlıyı Cumhuriyete çevirememenin şahane krizini yaşıyoruz.  
   

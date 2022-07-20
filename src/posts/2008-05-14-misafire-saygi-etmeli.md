@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![4481718.jpg](/uploads/2008/05/4481718.jpg)](/uploads/2008/05/4481718.jpg "4481718.jpg")Â 
+[![4481718.jpg](../uploads/2008/05/4481718.jpg)](../uploads/2008/05/4481718.jpg "4481718.jpg")Â 
 
 Saray gelini DianaÂ Â 
 

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**![](/uploads/image/ates-alev-resimleri.gif)**
+**![](../uploads/image/ates-alev-resimleri.gif)**
 
 **Filozof** davasında delilleri çoğaltıp durur.  
 Halbuki kalbi temiz **Tanrı** kulu,  

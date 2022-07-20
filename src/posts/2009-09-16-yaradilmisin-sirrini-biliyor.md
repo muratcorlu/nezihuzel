@@ -5,7 +5,7 @@ categories:
   - Şundan Bundan
 ---
 
-![](/uploads/image/nefret.jpg)Adı Adı **Nefret’**ti onun,  
+![](../uploads/image/nefret.jpg)Adı Adı **Nefret’**ti onun,  
 Bir **arkadaşı** vardı:  
 Adı **Nedret.  
 **  
@@ -40,6 +40,6 @@ Hep **gülüyor**.
 **Hep** gülüyor.
 
   
-**![](/uploads/image/kewrt(1).jpg)![](/uploads/image/gecko.jpg)  
+**![](../uploads/image/kewrt(1).jpg)![](../uploads/image/gecko.jpg)  
 Gülen kertenkele Nedret  
 **(eublepharis macularius)

@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/ab.jpg)
+![](../uploads/image/ab.jpg)
 
 Bir ülkede **uygarlık**, o ülkede **insan hayatına** verilen değerle orantılıdır. Neyi ne kadar **benimsiyorsanız** o kadar uygarsınız. Ve benimsenecek şeylerin en başında **insan** hayatı gelmektedir.
 

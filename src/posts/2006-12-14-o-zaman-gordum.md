@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-  ![nb11_1.jpg](/uploads/2006/12/nb11_1.kucukresim.jpg)                          O  zaman gördüm
+  ![nb11_1.jpg](../uploads/2006/12/nb11_1.kucukresim.jpg)                          O  zaman gördüm
 
   
 

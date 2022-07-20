@@ -5,6 +5,6 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/DSC03670.JPG)  
+![](../uploads/image/DSC03670.JPG)  
   
 İzmit-Karatepe köyü, nisan 2009

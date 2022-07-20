@@ -7,7 +7,7 @@ categories:
 
   
 
-                                          ![ates.jpg](/uploads/2006/11/ates.jpg)                        
+                                          ![ates.jpg](../uploads/2006/11/ates.jpg)                        
 
                                                                                     7                                                          
 

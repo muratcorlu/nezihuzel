@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-**![](/uploads/image/milyar.jpg)**
+**![](../uploads/image/milyar.jpg)**
 
 **Etats-Unis** - Ouvert depuis lundi **9 novembre**, le site internet « **BillionaireXchange. com** «  est réservé aux **milliardaires** qui veulent vendre leurs **bijoux, yachts** ou autres objets afin de faire face à la **récession** en toute **discrétion.**
 

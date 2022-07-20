@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/keci.jpg)
+![](../uploads/image/keci.jpg)
 
 Devleti, diyor : "**gökyüzünden** yere indirdi”  
 Ben de diyorum ki: “keşke **indirmeseydi**”  

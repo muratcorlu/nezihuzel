@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![balik.jpg](/uploads/2010/08/balik.jpg)](/uploads/2010/08/balik.jpg "balik.jpg") _Kişisel konuları şuraya taşımak istemezdim fakat bir TV programı dolayısıyle öylesine dehşetli bir hakarete uğradım  ki geçmişte eşi emsali görülmemiş… Şikayetçi değilim, yeryüzünde "mahluk”lar çeşit çeşit. Yelpaze açıldıkça yeni yeni yaratıklar tanıyacağız. Vakarla karşılamaya çalışıyorum. “Düşmanın çiçek göndermeyeceğini” biliyorum. Düşmanın nerelere gömülü, ne silahları olduğunu da biliyorum. Kimseden yardım talep etmiyorum. Kalemimle Meydan savaşı verecek güçteyim. Değerli dostlar, benden yana olmak için lütfen telaşlanmayınız._ 
+[![balik.jpg](../uploads/2010/08/balik.jpg)](../uploads/2010/08/balik.jpg "balik.jpg") _Kişisel konuları şuraya taşımak istemezdim fakat bir TV programı dolayısıyle öylesine dehşetli bir hakarete uğradım  ki geçmişte eşi emsali görülmemiş… Şikayetçi değilim, yeryüzünde "mahluk”lar çeşit çeşit. Yelpaze açıldıkça yeni yeni yaratıklar tanıyacağız. Vakarla karşılamaya çalışıyorum. “Düşmanın çiçek göndermeyeceğini” biliyorum. Düşmanın nerelere gömülü, ne silahları olduğunu da biliyorum. Kimseden yardım talep etmiyorum. Kalemimle Meydan savaşı verecek güçteyim. Değerli dostlar, benden yana olmak için lütfen telaşlanmayınız._ 
 
 eleştirinin aslı şu :"29 Ağustos 2010 Pazar günü, saat 01:00 sularında HaberTürk Kanalında yayınlanmakta olan Tarihin Arka Odası Programında, yayında olmadığı zannı ile "ELİF LAM MİM NEDİR? TELEKS ARIZA MI YAPMIŞ" diyerek hakaret edercesin............e KUR'AN-I KERİM'E dil uzatan ve kendini mutassavvıf olarak tanıtan, çirkin bir sesle ilahiler okumaya çalışan bu mahluku lanetliyor ve kınıyoruz.
 

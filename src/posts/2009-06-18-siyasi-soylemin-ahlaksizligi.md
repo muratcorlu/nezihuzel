@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**![](/uploads/image/yavus selim.jpg)**
+**![](../uploads/image/yavus selim.jpg)**
 
 **Yeniçeriler** Müslüman İran’a sefer düzenlemek isteyen Osmanlı sultanı **Yavuz Sultan Selim’e** karşı çıktılar: “Biz **Müslüman** kardeşlerimize karşı savaşmayız !” dediler. **İpek** yolunu kesebilmek için ordusunu **İran**’a göndermenin çarelerini arayan yüce **hükümdar**, bilginlerine haber salarak “İranlı’ların **Müslüman** olmadıklarını” söylemelerini istedi.
 

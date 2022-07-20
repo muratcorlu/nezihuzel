@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**![](/uploads/image/muzik3.jpg)**
+**![](../uploads/image/muzik3.jpg)**
 
 **Müzik** bir ilimdir. Eskiden  büyücülüktü. Vaktiyle **Çin’de** alimlerle **büyücüler** bir araya gelerek **müzik** konusunda anlaşmışlar ve **canlılar** arasında özel bir yeri olan İnsanın, **müzik** yeteneğini incelemişlerdi.
 

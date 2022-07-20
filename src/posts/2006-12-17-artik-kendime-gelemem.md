@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![esir.jpg](/uploads/2006/12/esir.kucukresim.jpg)
+![esir.jpg](../uploads/2006/12/esir.kucukresim.jpg)
 
                                                                                       
 

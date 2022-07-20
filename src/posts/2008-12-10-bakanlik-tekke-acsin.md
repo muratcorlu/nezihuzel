@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![mevlevi1.jpg](/uploads/2008/12/mevlevi1.jpg)](/uploads/2008/12/mevlevi1.jpg "mevlevi1.jpg")[](/uploads/2008/12/mevlevi.jpg "mevlevi.jpg")
+[![mevlevi1.jpg](../uploads/2008/12/mevlevi1.jpg)](../uploads/2008/12/mevlevi1.jpg "mevlevi1.jpg")[](../uploads/2008/12/mevlevi.jpg "mevlevi.jpg")
 
 Kültür Bakanlığının “**Mevlevî gösterilerini**” düzene sokmak **amacı** ile yayınladığı genelgede bir **delik** var… Bu delikten **hava** kaçıyor. Bu yüzden **genelge** hafifliyor ve ağırlığını kaybediyor. **Genelge** ciddiyetinden fire veriyor. **Konuya** yakınlık duyan kişilerin **kırık** kalplerine doğru uzanan bu **delik** giderek büyür ve onarılamazsa  adı geçen **genelge** amacına ulaşamayacaktır. Bu **genelge** ile düzeltilmek istenen **düzen** daha da bozulacaktır.
 
@@ -17,7 +17,7 @@ Bu genelgede bu cümle “**Mevlevî Müzikleri**…” değil “**Mevlevî Mü
 
 **Mevlevî Âyinleri** belirli bir formda **Hz. Mevlânâ’**nın veya diğer tanınmış **Mevlevî** büyüklerinin şiirlerinden seçilen **güftelerle** ve bir **makamla** bestelenir. **Âyinlerde** makam geçkileri sık sık görülür. **Sema**’ ile birlikte **bir saat** kadar sürer. **Dört** ayrı bölümdür. Her bölümde **ritm** değişir ve **sema**’ edenler bu **ritm** değişikliği ile bölümlerin arasını f**ark** ederek biten bölümden **hemen sonra** başlayan diğer bölümde **sema’**a devam ederler veya **geri çekilerek** yeni bir **bölümün** başlamasını beklerler. Bölümlere  **“selam**” denir. Bir **Mevlevî Âyini** böylece “**dört**” selamdır. Her birinin ayrı **tasavvufî** anlam ve ifadeleri olan bu **selamlar** tam olarak okunup çalınmadan klasik **Mevlevî Âyini** yapılmış olmaz.
 
-   **[![fahreddin_dede_.jpg](/uploads/2008/12/fahreddin_dede_.jpg)](/uploads/2008/12/fahreddin_dede_.jpg "fahreddin_dede_.jpg") [![rm.jpg](/uploads/2008/12/rm.jpg)](/uploads/2008/12/rm.jpg "rm.jpg")  Yeryüzünde** bir eşi daha olmayan bu **müzik** ve **sema** , **Hak aşığı** bir şairin sözlerinin yine **Hak aşığı** bir bestekar tarafından **nağmelerle** süslenmesi ve yine o **kutlu yolda** yetişmiş dervişlerin **hareketlerinin** birleşmesinden doğmuş bir **nur topudur**. Bunun yaklaşık bir örneğine **Hint Katakali’**sinde ve **Endonezya “Ramayana**” danslarında rastlanmaktadır.
+   **[![fahreddin_dede_.jpg](../uploads/2008/12/fahreddin_dede_.jpg)](../uploads/2008/12/fahreddin_dede_.jpg "fahreddin_dede_.jpg") [![rm.jpg](../uploads/2008/12/rm.jpg)](../uploads/2008/12/rm.jpg "rm.jpg")  Yeryüzünde** bir eşi daha olmayan bu **müzik** ve **sema** , **Hak aşığı** bir şairin sözlerinin yine **Hak aşığı** bir bestekar tarafından **nağmelerle** süslenmesi ve yine o **kutlu yolda** yetişmiş dervişlerin **hareketlerinin** birleşmesinden doğmuş bir **nur topudur**. Bunun yaklaşık bir örneğine **Hint Katakali’**sinde ve **Endonezya “Ramayana**” danslarında rastlanmaktadır.
 
 **Mevlevi Müziğinin** en verimli bestekarı yine her alanda olduğu gibi büyük “**Dede**”dir. **İstanbul’**da **Yenikapı Mevlevîhânesi'**nde Kütahyalı şeyh **Ali Nutkî Dede’**ye intisaplı bir **Mevlevî Dervişi** olan  **Hammamîzade İsmail Dede Efendi** bestelediği yedi ayinle **Mevlevî Müziğinde** ulaşılmaz bir derece kazanmıştır.
 

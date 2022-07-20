@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-**![](/uploads/image/melik.jpg)  
+**![](../uploads/image/melik.jpg)  
 **_Melik Abdullah Elhamra'dan ayrılıyor  
 (Tahta üzerine yapılmış kilise resmi)_
 

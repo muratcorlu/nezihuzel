@@ -5,7 +5,7 @@ categories:
   - Kaptanın Seyir Defteri
 ---
 
-**![](/uploads/image/benim.jpg)**
+**![](../uploads/image/benim.jpg)**
 
 **Beyoğlu Belediyesi** ile Fransız **Kültür** Merkezi’nin ortaklaşa düzenledikleri “**Beyoğlu Sohbetleri**” programı geçen hafta pek kötü bir havaya denk geldi. **Beyoğlu** Caddesi’ndeki kargaşadan kurtulup konsolosluk binasına kendimizi dar attığımızda rahat bir **nefes** aldık. Doğruca **kantine** inerek birer çay söyledik. Karşıdan tanıdık bir **yüzün** bana doğru hareketlendiğini farkettim. Bu, V**olkan Köprülü**’ydü. Bizden önce gelmiş kenarda bir **masaya** oturmuştu. Her zamanki gibi **meraklı** gözlerle etrafı kolaçan ettiği sırada bizim **geldiğimizi** görmüştü…Yaklaştı:  
 \-**Volkan** merhaba, ne **zaman** geldin ?  
@@ -29,7 +29,7 @@ Ortaya bir **koltuk** koymuşlar. Beni **meddah** gibi oraya oturttular. Toplant
 
 Bazen **saatler** bile birbirine karışıyor. Eski **Hristaki** sonra ünlü **Çiçek Pasajı** olan yerin üzerinde **binaya** uydurulmuş büyük bir **meydan saati** vardır. Bu saat önceleri **üçü çeyrek  geçerdi**, sanırım yirmi yıldan fazla hep **üçü çeyrek**  geçti. Sonra otuz yıl kadar **sekiz buçuk** oldu. Anlaşılan bir ara **onarıp** çalıştırmışlar, ancak bir gün saat **sekiz buçuk’**ta yine durmuştu. Buraya gelirken baktım: **Dokuz’a çeyrek** var. Hemcinsleri gibi fazla **çalışkan** olmayan bu naçiz **saat,** yarım asırda üç defa **doğruyu** göstermişti.
 
-         **![](/uploads/image/saat.jpg)         ![](/uploads/image/pasaj.jpg)**
+         **![](../uploads/image/saat.jpg)         ![](../uploads/image/pasaj.jpg)**
 
 **Konsolosluktaki** toplantı **Galata Mevlevihanesi** üzerinde yoğunluk kazanarak devam etti: **Salon**u dolduran dinleyiciler, **485 yıl** önce kurulmuş olan bu **Mevlevîhâne** hakkında **temel** bilgiler edindiler. Burada **asırlar** içinde yetişen **şeyh** efendilerine dair sorular sordular**. Mevlevîhânenin** neden devamlı **onarımda** olduğunu ve ne zaman açılacağını **merak** ettiler. Bu konuda kendi **kişisel** yorumumu aktarırken biraz da **ileri** gittim, dedim ki : “**Galata Mevlevîhânes**i  devletin bir **müzesidir**. Burası eski **hükümetler** zamanında bir **Mevlevî Kültür Merkezi** olarak düşünüldü, ancak sonradan paralı **turistik gösteriler** salonu oldu, **devlet** bundan rahatsız, şimdi **onarımları** bahane ederek bir süre **kapalı** tutmayı ve unutturmayı deniyor.”
 
@@ -37,7 +37,7 @@ Toplantı Bir **Fransız** kuruluşu olan **Fransız Kültür Merkezi'**nde yap�
 
 **Taksim**’den Ana caddeye girerken solda Minare gibi iki kulesiyle “**Aya Triada:Kutsal Üçleme**” Rum Ortodoks kilisesi göze çarpıyordu. Onun sağında 250 yıllık **Taksim Suyu** tesisleri vardı. Az ilerde sağda **Ağa Cami**  yer almıştı. Yola devam ettiğinizde Balıkpazar **“Üç Horon Ermeni kilisesine"** varıyordunuz. Solda **Galatasaray Lisesi** onun yanında **St. Antoine** İtalyan **Fransisken** tarikatı kilisesi tüm haşmetiyle yükseliyordu. Karşı sokakta **Meryem ana Rum kilisesi,** onun devamında, dar bir sokakta **Rum Katolik Melkit Kilisesi** ve karşısında **Kumaşçı Draperyo’**nun fetihten sonra vakfettiği **St.Pierre Manastır**’ı yer alıyordu. Solda sokak içinde **Kırım Kilisesi** namı ile ma’ruf  **İngiliz Angilikan kilisesi** ve en sonunda **Galata Mevlevîhânesi** ile sergi tamamlanıyordu. **Böylece** bu alanda bütün **dinlere** uğramak ve sonuda **Mevlevi** olmak mümkündü.
 
-![](/uploads/image/galata_mevlevihanesi_kitabesi.jpg)
+![](../uploads/image/galata_mevlevihanesi_kitabesi.jpg)
 
 Aslında bütün bu saydığımız binaların hiç biri yokken **Mevlevîhâne** vardı. **Mevlevîhâne Fatih Sultan Mehmet** devri akıncı beylerinden **İskenderpaşa**’nın bahçesiydi. **Paşa** burayı vakfederek bir **Mevlevîhâne** olmasını istediğinde henüz **Beyoğlu** semti yoktu. Bu yüzden beş asırlık **Mevlevîhâne** şimdi yanına gelip sıralanan tüm **yapılara** tepeden bakarak onları bir **orkestra şefi** tavrıyla gözlüyor. Hepsine sonradan görme “**nevzuhur**” muamelesi yapıyor. Zaten öyle **değil** mi ?  Buralarda kimselere yokken **Mevlevile**r vardı..
 
@@ -45,4 +45,4 @@ Aslında bütün bu saydığımız binaların hiç biri yokken **Mevlevîhâne**
 
 **Beyoğlu'**na gelip **kurtlarını dökmek** sonra da adam gibi **eve dönmek** mümkündür.  
 
-![](/uploads/image/avlu.jpg)
+![](../uploads/image/avlu.jpg)

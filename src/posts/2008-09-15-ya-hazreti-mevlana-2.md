@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![erzincan_kemah_savagedii_geidi.jpg](/uploads/2008/09/erzincan_kemah_savagedii_geidi.jpg)](/uploads/2008/09/erzincan_kemah_savagedii_geidi.jpg "erzincan_kemah_savagedii_geidi.jpg") _Kemah Savaş Gediği geçidi_
+[![erzincan_kemah_savagedii_geidi.jpg](../uploads/2008/09/erzincan_kemah_savagedii_geidi.jpg)](../uploads/2008/09/erzincan_kemah_savagedii_geidi.jpg "erzincan_kemah_savagedii_geidi.jpg") _Kemah Savaş Gediği geçidi_
 
 Beray-ı İstimdat Ez **Hazreti Mevlâna**
 

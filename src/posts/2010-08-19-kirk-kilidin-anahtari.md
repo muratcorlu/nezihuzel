@@ -5,9 +5,9 @@ categories:
   - Dervish
 ---
 
-[![kayip-anahtar.jpg](/uploads/2010/08/kayip-anahtar.jpg)](/uploads/2010/08/kayip-anahtar.jpg "kayip-anahtar.jpg")
+[![kayip-anahtar.jpg](../uploads/2010/08/kayip-anahtar.jpg)](../uploads/2010/08/kayip-anahtar.jpg "kayip-anahtar.jpg")
 
-[](/uploads/2010/08/kayip-anahtar.jpg "kayip-anahtar.jpg")Aşkın üzerine kırk **kilit** vurdum **Sevgili** geldi bir bir **açtı** Tek bir **kilit** kaldı geriye
+[](../uploads/2010/08/kayip-anahtar.jpg "kayip-anahtar.jpg")Aşkın üzerine kırk **kilit** vurdum **Sevgili** geldi bir bir **açtı** Tek bir **kilit** kaldı geriye
 
 **Kırk** kilidi bir **anahtar** açtı Son **kilidi** ise O **anahtar** da, açamadı **dostlar**, açamadı
 

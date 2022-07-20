@@ -6,7 +6,7 @@ categories:
   - Destur
 ---
 
-[![sari-gul-resimleri_resimleri-16.jpg](/uploads/2010/12/sari-gul-resimleri_resimleri-16.jpg)](/uploads/2010/12/sari-gul-resimleri_resimleri-16.jpg "sari-gul-resimleri_resimleri-16.jpg")
+[![sari-gul-resimleri_resimleri-16.jpg](../uploads/2010/12/sari-gul-resimleri_resimleri-16.jpg)](../uploads/2010/12/sari-gul-resimleri_resimleri-16.jpg "sari-gul-resimleri_resimleri-16.jpg")
 
 Beni mi **sevdin** Bendeki **seni mi** sevdin **Sendeki** beni mi sevdin ? Sendeki **ben** miyim Bendeki **sen** misin ?
 

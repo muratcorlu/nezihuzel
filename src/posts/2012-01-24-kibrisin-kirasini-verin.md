@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![kibris.jpg](/uploads/2012/01/kibris.jpg)](/uploads/2012/01/kibris.jpg "kibris.jpg") Kıbrıs adası 1571’den beri kılıç hakkı, fetih toprağı şanlı Osmanlı ülkesinin 300 yıllık bir parçasıyken onu oradan söküp çıkaran 1800’lerde ülkemizde İngiltere’yi temsil eden  sir Henry Layard’dır.
+[![kibris.jpg](../uploads/2012/01/kibris.jpg)](../uploads/2012/01/kibris.jpg "kibris.jpg") Kıbrıs adası 1571’den beri kılıç hakkı, fetih toprağı şanlı Osmanlı ülkesinin 300 yıllık bir parçasıyken onu oradan söküp çıkaran 1800’lerde ülkemizde İngiltere’yi temsil eden  sir Henry Layard’dır.
 
 Kendisinden önceki büyükelçi Lord Stratfort Canning’in yetiştirdiği başarılı diplomat Layard,  93 Harbi faciası ile uğraşan Osmanlı devlet adamlarını “Kıbrıs’ı verirseniz sizi Rusya’ya karşı koruruz” diyerek kandırmış ve Yeşil Ada yıllık 92.000 altına  Büyük Britanya imparatorluğuna kiralanmıştı.
 

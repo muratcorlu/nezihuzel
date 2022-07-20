@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-_![](/uploads/image/mevlevi.png)_
+_![](../uploads/image/mevlevi.png)_
 
 _Değerli bir okuyucumuzun "sen zamanın oğlusun" başlıklı yazımıza katkısıdır_:
 

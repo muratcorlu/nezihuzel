@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/ergenc_aclik.jpg)
+![](../uploads/image/ergenc_aclik.jpg)
 
 1978 eylülünde **Amerika**’daydık. **Sema ayini** yapacaktık. **Rothko Chape**ll isimli bir kuruluş ve onun temsilcisi **Mme Dumesnil’**in davetlisiydik. Çok başarılı **“performanslardan**” sonra bir  gün bizi bir **Türk e**vine çağırdılar. **Savaş** sonrasında **Amerikalı’**larla evlenerek **Amerika**’ya yerleşmiş **Ankara**’lı kolejli kızlarımızdan biri **bizi** ağırladı.
 

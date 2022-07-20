@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[](/uploads/2008/09/galip.jpg "galip.jpg")  [![galata_me__.jpg](/uploads/2008/09/galata_me__.jpg)](/uploads/2008/09/galata_me__.jpg "galata_me__.jpg")  
+[](../uploads/2008/09/galip.jpg "galip.jpg")  [![galata_me__.jpg](../uploads/2008/09/galata_me__.jpg)](../uploads/2008/09/galata_me__.jpg "galata_me__.jpg")  
 
 _Hüsn ü Aşk'tan_ 
 
@@ -37,4 +37,4 @@ Esrârını **Mesnevî**'den aldım Çaldımsa da **mîrî malı** çaldım
 
 İn dem ki **zi şâirî** eser nîst Sultân-ı sühan **menem** diger nîst 
 
-**Şeyh Galib** (1757-1799)   [![mart_h7_1.jpg](/uploads/2008/09/mart_h7_1.jpg)](/uploads/2008/09/mart_h7_1.jpg "mart_h7_1.jpg") Şeyh Galip türbesini ziyaret
+**Şeyh Galib** (1757-1799)   [![mart_h7_1.jpg](../uploads/2008/09/mart_h7_1.jpg)](../uploads/2008/09/mart_h7_1.jpg "mart_h7_1.jpg") Şeyh Galip türbesini ziyaret

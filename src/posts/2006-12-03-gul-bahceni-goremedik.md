@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![rose.jpg](/uploads/2006/12/rose.jpg)                                                      
+![rose.jpg](../uploads/2006/12/rose.jpg)                                                      
 
                                                                                                           9
 

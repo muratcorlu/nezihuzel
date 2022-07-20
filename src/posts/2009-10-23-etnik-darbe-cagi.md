@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/kurt_istilasi_2.gif)
+![](../uploads/image/kurt_istilasi_2.gif)
 
 Devlet içinde **devlet** olmaya namzet  ve kendine **hak** olarak gören bir **etnik güç**, iki koldan **Türkiye’**yı sardı. Biri **Batıdan** diğeri **Güneydoğu**’dan... Sınırların ötesinden **destek**  alarak  düpedüz **coğrafya**’nın ortasına doğru yürüyor.
 

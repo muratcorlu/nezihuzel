@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![karga.jpg](/uploads/2008/03/karga.jpg)](/uploads/2008/03/karga.jpg "karga.jpg")
+[![karga.jpg](../uploads/2008/03/karga.jpg)](../uploads/2008/03/karga.jpg "karga.jpg")
 
 \-**Hoca** yazılarına **yeniden** mi başladı ?
 

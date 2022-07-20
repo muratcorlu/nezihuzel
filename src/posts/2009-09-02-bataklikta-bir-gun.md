@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
- ![](/uploads/image/idolomantis.jpg)
+ ![](../uploads/image/idolomantis.jpg)
 
 _İdolomantis diabolika "king of the mantis" (Peygamber devesi ailesinin kralı)  
 _

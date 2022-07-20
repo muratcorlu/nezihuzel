@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**![](/uploads/image/hattua.jpg)**
+**![](../uploads/image/hattua.jpg)**
 
 **Ahmet Tan** – Oylama var ! diyerek **Meclisin** kapısından içeri **koşarak** girdi. Ben olsaydım o kapıyı **öperek** içeri girerdim. Bir ülkede bir **meclis** kurmak önemli bir iştir. O **meclisi** hakkı ile çalıştırmak ise **başka** bir iş… Keşke “**o başka iş**” de bu ülkede, önceki iş gibi **üstün** başarı ile sonuçlansaydı da kamu **hayatımız** bu çağda böylesine **sıkıntılı** günler yaşamasaydı.
 

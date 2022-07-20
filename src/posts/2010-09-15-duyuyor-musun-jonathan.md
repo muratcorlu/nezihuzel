@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/2010/09/gelin.jpeg)
+![](../uploads/2010/09/gelin.jpeg)
 
 Seninle **dalga** geçiyorlar **Jonathan** Bilmem **farketmedin** mi Jonathan ? Seni sürüyorlar **Batı**’ya doğru
 

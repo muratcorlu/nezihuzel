@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![karga.jpg](/uploads/2006/12/karga.jpg)](/uploads/2006/12/karga.jpg "karga.jpg")
+[![karga.jpg](../uploads/2006/12/karga.jpg)](../uploads/2006/12/karga.jpg "karga.jpg")
 
 Hoca ilk **haberi** aldı, kadın **Perşembe** sabahı telefon etti. **Vapura** binmiş. **Hoca** sevindi. Yine de eski arkadaşı, **ahretlik** diyor ona... gaaak. guuuk. **Ben de** sevindim. **Fazilet** de sevindi. Hoca **telefonda** sordu:                                              
 

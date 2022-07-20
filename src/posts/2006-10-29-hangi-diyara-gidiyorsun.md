@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![yol.jpg](/uploads/2006/10/yol.jpg)
+![yol.jpg](../uploads/2006/10/yol.jpg)
 
                             2
 

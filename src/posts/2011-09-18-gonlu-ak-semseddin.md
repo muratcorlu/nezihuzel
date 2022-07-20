@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![u1_aksemseddin.jpg](/uploads/2011/09/u1_aksemseddin.jpg)](/uploads/2011/09/u1_aksemseddin.jpg "u1_aksemseddin.jpg")
+[![u1_aksemseddin.jpg](../uploads/2011/09/u1_aksemseddin.jpg)](../uploads/2011/09/u1_aksemseddin.jpg "u1_aksemseddin.jpg")
 
 (Arşiv'den)
 

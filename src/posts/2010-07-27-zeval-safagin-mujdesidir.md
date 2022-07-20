@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![balyoz.jpg](/uploads/2010/07/balyoz.jpg)](/uploads/2010/07/balyoz.jpg "balyoz.jpg")
+[![balyoz.jpg](../uploads/2010/07/balyoz.jpg)](../uploads/2010/07/balyoz.jpg "balyoz.jpg")
 
 (Arşiv'den)  24 şubat 2010
 

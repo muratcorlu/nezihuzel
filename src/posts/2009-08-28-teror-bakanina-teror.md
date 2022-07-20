@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
- ![](/uploads/image/suudi.jpg)
+ ![](../uploads/image/suudi.jpg)
 
 Le prince **Mohamed Ben Nayef**, membre de la famille **royale saoudienne** et responsable de la lutte **antiterroriste** du **royaume**, a échappé, jeudi **27 août**, à un attentat-suicide à la bombe à **Djedda**, selon une **agence de presse** locale. Le prince **Nayef, vice-ministre de l'intérieur**, ne souffre que de blessures **superficielles** après qu'un **kamikaze** qui avait pu l'**approcher** a fait **exploser** la charge qu'il portait sur **lui**.
 

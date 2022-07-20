@@ -7,7 +7,7 @@ categories:
 
 (Arşiv'den ilk yayınlanma 18 Kasım 2006)
 
- **[](/uploads/2011/07/images6.jpg "images6.jpg") [![kabe.jpg](/uploads/2011/07/kabe.jpg)](/uploads/2011/07/kabe.jpg "kabe.jpg")Müslümanlığın**  bu şekli **utanç** vericidir. Eğer buna **Müslümanlık** deniyorsa ben **Müslüman** değilim. **Müslüman**‘ın bir **Kâbe**’si vardır. Bir **Kıble**’si vardır, Bir **mihrabı** vardır. Bir **yaşam** biçimi vardır. Milyonla **doları** olmasa da **garip** ve **hüzünlü** bir kalbi vardır.
+ **[](../uploads/2011/07/images6.jpg "images6.jpg") [![kabe.jpg](../uploads/2011/07/kabe.jpg)](../uploads/2011/07/kabe.jpg "kabe.jpg")Müslümanlığın**  bu şekli **utanç** vericidir. Eğer buna **Müslümanlık** deniyorsa ben **Müslüman** değilim. **Müslüman**‘ın bir **Kâbe**’si vardır. Bir **Kıble**’si vardır, Bir **mihrabı** vardır. Bir **yaşam** biçimi vardır. Milyonla **doları** olmasa da **garip** ve **hüzünlü** bir kalbi vardır.
 
 **Müslüman,** çağın yaşanan **rezilliklerinden** rahatsız olur. **Müslüman,** Dünyada en son **aç doymadan**, kendisi doymaz. Müslüman, dünyada en son **çıplak giyinmeden** kendisi giyinmez. Dünyada en son huzursuz **huzur bulmadan** Müslüman **rahata** eremez… Bu **din** bin beş yüz yıl önce dünyaya gelmiş, **dinlerin** sonuncusu, teslim, **tevhid** ve mutlak Yaradan'ın huzurunda **tevazu** dinidir. Kalp **çırpıntılarının** en muhteşemi, **yaşam biçimlerinin** en ulusu, Ruhsal **sistemlerin** en şereflisidir. **Tanr**ı’dan insanlara  son Peygamberi ile son **hitab-ı izzetidir**. 
 

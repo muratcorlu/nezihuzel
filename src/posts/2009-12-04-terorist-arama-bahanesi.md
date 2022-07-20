@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![](/uploads/image/uygur-turkleri.jpg)
+![](../uploads/image/uygur-turkleri.jpg)
 
 La justice **chinoise** a prononcé, vendredi, trois nouvelles **peines de mort** après les émeutes **meurtrières interethniques** de juillet à **Urumqi,** au **Xinjiang,** portant le total à **huit** en deux jours, rapporte l'agence **Chine nouvelle.  
 Au total** à ce jour, dix-sept **émeutiers** ont été **comdamnés** à la **peine capitale** depuis les **émeutes** qui avaient fait près de **deux cents** morts en juillet, dont neuf ont été **exécutés** début novembre.   

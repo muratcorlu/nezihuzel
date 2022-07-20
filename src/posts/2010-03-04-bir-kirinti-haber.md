@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/mercedes.jpg),  
+![](../uploads/image/mercedes.jpg),  
 \-Nasılsınız sayın Cumhurbaşkanım ?  
 \-İyiyim, siz nasılsınız ?  
 \-Ben de iyiyim son zamanda biraz üşütmüştüm ama şimdi toparladım..  

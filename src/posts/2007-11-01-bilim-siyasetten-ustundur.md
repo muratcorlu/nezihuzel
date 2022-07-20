@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![inonue.jpg](/uploads/2007/11/inonue.jpg)](/uploads/2007/11/inonue.jpg "inonue.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![inonue.jpg](../uploads/2007/11/inonue.jpg)](../uploads/2007/11/inonue.jpg "inonue.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Yakın dönem **Türk siyasi hayatında** bilimsel **kariyerini** terk ederek **siyasete soyunmuş** üç insan vardır: **Åemseddin Günaltay, Fuat Köprülü** ve **Erdal İnönü.**
 

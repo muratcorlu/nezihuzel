@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**[![ebru_sanat_le_yaplm_krmz_gl.jpg](/uploads/2008/01/ebru_sanat_le_yaplm_krmz_gl.jpg)](/uploads/2008/01/ebru_sanat_le_yaplm_krmz_gl.jpg "ebru_sanat_le_yaplm_krmz_gl.jpg")**
+**[![ebru_sanat_le_yaplm_krmz_gl.jpg](../uploads/2008/01/ebru_sanat_le_yaplm_krmz_gl.jpg)](../uploads/2008/01/ebru_sanat_le_yaplm_krmz_gl.jpg "ebru_sanat_le_yaplm_krmz_gl.jpg")**
 
 **Yoldaş** olalım **ikimiz, G**el **Dosta** gidelim gönül. **Haldaş** olalım ikimiz, Gel **Dosta** gidelim gönül.
 

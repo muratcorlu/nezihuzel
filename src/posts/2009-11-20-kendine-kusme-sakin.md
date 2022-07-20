@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/kusme(1).jpg)  
+![](../uploads/image/kusme(1).jpg)  
 Benden sana **nasihat**  
 Durma **git,** yerine yat  
 **İstiyorsan** sen rahat  

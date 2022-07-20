@@ -5,13 +5,13 @@ categories:
   - Kalender Çekirge
 ---
 
-**[![cekirge_0005.jpg](/uploads/2008/05/cekirge_0005.jpg)](/uploads/2008/05/cekirge_0005.jpg "cekirge_0005.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 
+**[![cekirge_0005.jpg](../uploads/2008/05/cekirge_0005.jpg)](../uploads/2008/05/cekirge_0005.jpg "cekirge_0005.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 
 
 **Kalender Ãekirge** sabahtan **istiklal** caddesine çıktı**. Taksim’**e gidecekti â**Yasak**… dediler. **Kalender Ãekirge** bir zıpladı **Dolmabahçe Sarayı’**na kondu. Pencereden baktı, içerde **II. Abdülhamid**’i gördü. **Büyük Salon’**a girmek istedi â **Yasak** dediler… **Kalender Ãekirge** bir sıçradı, **Ankara**’ya **Büyük Millet Meclisi’**ne kondu… **Kapıdan** geçmek istedi â**Yasak** dediler.Â 
 
-**Kalender Ãekirge** son günlerde pek **mutluydu**. Onu bu halde **görenler** şaşırıyorlardı. Ne oldu ? neden bu kadar **şen** ve **mutlusun** ? diyorlardı. **Kalender Ãekirge** başını çevirmeden onlara â **Mutsuz olmak [](/uploads/2008/05/img_yusufcuk21051.jpg "img_yusufcuk21051.jpg")yasak**…diyordu. Bir an geldi herkes **Kalender Ãekirge’**ye acımaya başladı. Etrafta bu **derecede** kara bulutlar dolaşırken acaba bu **çekirge** neden bu kadar mutluydu ?
+**Kalender Ãekirge** son günlerde pek **mutluydu**. Onu bu halde **görenler** şaşırıyorlardı. Ne oldu ? neden bu kadar **şen** ve **mutlusun** ? diyorlardı. **Kalender Ãekirge** başını çevirmeden onlara â **Mutsuz olmak [](../uploads/2008/05/img_yusufcuk21051.jpg "img_yusufcuk21051.jpg")yasak**…diyordu. Bir an geldi herkes **Kalender Ãekirge’**ye acımaya başladı. Etrafta bu **derecede** kara bulutlar dolaşırken acaba bu **çekirge** neden bu kadar mutluydu ?
 
-Vaktiyle **Ãin**’de bir **hükümdar** varmış. Pek **zÃ¢lim**, pek **gaddar**, pek **şedit**, pek **hunharmış**, o adeta bir **terörist**’miş. Onun bir de **veziri** varmış. O **vezir** de pek **zÃ¢lim**, pek **şedid**, pek **hunharmış**…**[](/uploads/2008/05/img_yusufcuk21051.jpg "img_yusufcuk21051.jpg")Hükümdar** tüm **zulme** yarar işlerini ona gördürür, onu, **zulmün** vazgeçilmez **maşası** olarak kullanırmış… Ara sıra **Vezir**’e sorarmış :
+Vaktiyle **Ãin**’de bir **hükümdar** varmış. Pek **zÃ¢lim**, pek **gaddar**, pek **şedit**, pek **hunharmış**, o adeta bir **terörist**’miş. Onun bir de **veziri** varmış. O **vezir** de pek **zÃ¢lim**, pek **şedid**, pek **hunharmış**…**[](../uploads/2008/05/img_yusufcuk21051.jpg "img_yusufcuk21051.jpg")Hükümdar** tüm **zulme** yarar işlerini ona gördürür, onu, **zulmün** vazgeçilmez **maşası** olarak kullanırmış… Ara sıra **Vezir**’e sorarmış :
 
 \-**Halkım** ne yapıyor…?
 
@@ -29,7 +29,7 @@ Vaktiyle **Ãin**’de bir **hükümdar** varmış. Pek **zÃ¢lim**, pek **ga
 
 **Kalender Ãekirge’**nin mutluluğunu sakın ola ki **vurdum duymazlıkla** karıştırmayın. **Kalender Ãekirge** gerçekten mutludur. Herhangi bir **reaksiyon** veya **programa** bağlı olmadan **mutludur** O doğuştan **mutlu** bir **Ãekirge’**dir. Bu yüzden ona “**Kalender**” dediler. O bu **isme** uygun olduğunu daha **doğduğu gün** gösterdi. **Ãamurların** içinden **gülerek** çıktı. **Dünyaya** gözlerini açtığında bir **bataklığın** içindeydi. Buna **hiç** aldırmadı. Onun Programında **gam** yoktu. Kalbine **hüzün** yazılmamıştı. **Genetik** yapısı **sıkıntıya**Â  uygun değildi. **Dedim ya**, O başka bir **Ãekirge’**ydi.
 
-**[![img_yusufcuk21051.jpg](/uploads/2008/05/img_yusufcuk21051.jpg)](/uploads/2008/05/img_yusufcuk21051.jpg "img_yusufcuk21051.jpg")**
+**[![img_yusufcuk21051.jpg](../uploads/2008/05/img_yusufcuk21051.jpg)](../uploads/2008/05/img_yusufcuk21051.jpg "img_yusufcuk21051.jpg")**
 
 **Kalender Ãekirge’nin** bir kankası vardı. Adı **Yusufçuk**. Kalender O’nu çok severdi. **Yusufçuk’**la **Kalender** aynı cinsten değildi. Aralarındaki **tek ortak nokta**, her ikisini, de **yeşil** oluşuydu. **Boyları** da aynıydı, ama biri **sıçrıyor** diğeri **uçuyordu**. **Yusufçuk** helikopter gibi **çift** kanatlıydı. **Pırpır** edip uçarken **kanatları** birbirine değmezdi. Bazıları, **ilim** adamlarının **helikopteri**Â icat ederkenÂ **Yusufçuk**’tan **ilham** aldıklarını söylerlerdi.
 

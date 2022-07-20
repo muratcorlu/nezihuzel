@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![gülen kert(](/uploads/image/kewrt.jpg)  
+![gülen kert(](../uploads/image/kewrt.jpg)  
 Nefret dedi ki “kimse **dünyayı** dolandıramaz  
 Dolandıranın **beynini** parçalarım.  
 Yakarım, **yıkarım**, yok ederim.”  

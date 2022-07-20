@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![](/uploads/image/osmanliordu141801ab4.jpg)
+![](../uploads/image/osmanliordu141801ab4.jpg)
 
 Devrimizden  yüz yıl önce, o zamanki devletimiz, yürümemiş bir deneyime ikince defa baş vurarak bir Millet Meclisi meydana getirmiş. Adı “Meclis-i Meb’usan”  Bu Meclisin açıldığı gün memlekette şenlik şadımanlık olmuş, evlere bayraklar asılmış, her yere zafer takları kurulmuş, halk yollara dökülmüş, neş’e sürur, gülüş cümbüş bacayı sarmış.  
   

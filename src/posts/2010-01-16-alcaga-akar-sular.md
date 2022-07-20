@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**![](/uploads/image/eylem(1).jpg)**
+**![](../uploads/image/eylem(1).jpg)**
 
 **Babam** yazdı yazımı  
 Anam tuttu  **tasımı  

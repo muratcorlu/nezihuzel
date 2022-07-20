@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-    ![papa.jpg](/uploads/2006/09/papa.jpg)
+    ![papa.jpg](../uploads/2006/09/papa.jpg)
 
   
 

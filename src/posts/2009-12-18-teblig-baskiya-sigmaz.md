@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-_![](/uploads/image/vehhabi1.jpg)_
+_![](../uploads/image/vehhabi1.jpg)_
 
 _Vahhabî eğilimli baskıcı bir yoruma cevabımdır:_
 

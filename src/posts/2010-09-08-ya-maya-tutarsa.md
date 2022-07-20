@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![ekmek_03.jpg](/uploads/2010/09/ekmek_03.jpg)](/uploads/2010/09/ekmek_03.jpg "ekmek_03.jpg")
+[![ekmek_03.jpg](../uploads/2010/09/ekmek_03.jpg)](../uploads/2010/09/ekmek_03.jpg "ekmek_03.jpg")
 
 **Maya** tutarsa yaşadık Bir göz, bir **göze** değerse Herşey **başkalaşır**
 

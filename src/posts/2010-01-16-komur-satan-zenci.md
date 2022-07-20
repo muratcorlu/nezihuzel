@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-_**![](/uploads/image/fas.jpg)  
+_**![](../uploads/image/fas.jpg)  
 **Nezih Uzel, Fez Temmuz 2006_
 
 **_Bir değerli okuyucumuzla "felsefe ve aşk" üzerine konuştuk. Şöyle ki:_**

@@ -7,7 +7,7 @@ categories:
 
   
 
-![0268.jpg](/uploads/2006/09/0268.jpg)
+![0268.jpg](../uploads/2006/09/0268.jpg)
 
 Türk hükümetinin yetkilisi “Lübnan'a gidecek Türk askeri **çatışmaya girmeyecek**” dedi.
 

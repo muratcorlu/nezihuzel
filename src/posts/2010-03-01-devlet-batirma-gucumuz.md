@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/-Vienna_Battle_1683(1).jpg)  
+![](../uploads/image/-Vienna_Battle_1683(1).jpg)  
  Viyana kuşatması 1683
 
 Türkiye son üçyüz yılını mutlaka konuşmak zorundadır. Buna “geçmişi ile yüz yüze gelme” diye bir isim takıldı. Samimiyetten uzak, ağırlıktan yoksun, ağız kenarından söylenmiş, alelacele bulunmuş bir değimdi, ama ne olursa olsun Türkiye ve Türk halkı, binlerce yıllık tarihinin şu son üç asrını mutlaka masaya yatırıp kadavra gibi incelemelidir.

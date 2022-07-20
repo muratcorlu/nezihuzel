@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-   _![](/uploads/image/ask-me1.jpg)   Paris’te oturan neyzen Kudsi Erguner bana son şebi arus dolayısıyle yayınlanan uygunsuz bir yazıyı göndererek fikrimi soruyor, cevabımdır :_              “Elli senedir Mevlâna ile ilgili yazılar okurum daha bunun kadar seviyesiz olana rastlamadım. Bunu yazan kimse ne tasavvufu anlamış, ne bilenleri dinlemiş ne de bu alanda takvim yaprağı kadar yazı okumuş. Mecazî aşk ile bedeni aşkı böylesine birbirine karıştıran, ruhla bedeni kıyasıya harmanlayan bundan üstün bir yazı olamaz. Bir lise öğrencisi, ders ödevi olarak dahi bundan daha vakur bir yazı yazardı.  
+   _![](../uploads/image/ask-me1.jpg)   Paris’te oturan neyzen Kudsi Erguner bana son şebi arus dolayısıyle yayınlanan uygunsuz bir yazıyı göndererek fikrimi soruyor, cevabımdır :_              “Elli senedir Mevlâna ile ilgili yazılar okurum daha bunun kadar seviyesiz olana rastlamadım. Bunu yazan kimse ne tasavvufu anlamış, ne bilenleri dinlemiş ne de bu alanda takvim yaprağı kadar yazı okumuş. Mecazî aşk ile bedeni aşkı böylesine birbirine karıştıran, ruhla bedeni kıyasıya harmanlayan bundan üstün bir yazı olamaz. Bir lise öğrencisi, ders ödevi olarak dahi bundan daha vakur bir yazı yazardı.  
   
 Şu cümlenin dehşetine bakınız :"boş vakitlerinde de ibadet eden aydın kişiler " bu sözler cenabı Peygamber’in çevresindeki “Eshab-ı Sufe için söyleniyor. Düşünebiliyor musunuz sayın Erguner ? Ebu Hureyre boş vakitlerinde namaz kılarmış... Bu yazıyı yayınlayan şaşkın gazeteye binlerce sitem olsun.
 

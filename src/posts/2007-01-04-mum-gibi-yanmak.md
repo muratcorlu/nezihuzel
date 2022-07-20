@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![kandle.jpg](/uploads/2007/01/kandle.jpg)
+![kandle.jpg](../uploads/2007/01/kandle.jpg)
 
   
 

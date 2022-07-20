@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![](/uploads/image/serebranica.jpg)
+![](../uploads/image/serebranica.jpg)
 
 La justice **bosniaque** a reconnu **vendredi** coupable de **génocide** un ancien officier **serbe** de **Bosnie** à trente ans de **prison**, pour avoir participé au **massacre** des musulmans de **Srebrenica** en 1995   
   
@@ -17,5 +17,5 @@ Les forces **serbes** de **Bosnie** avaient pris la ville en **juillet 1995**, e
 **Türkçe özet:** _Bosna’da yargılanmakta olan 1995 Srebrenica katliamı sorumlularından Milorad Trbic cuma günü 30 yıl hapse mahkum oldu. Bosna Sırp ordusu subaylarından Trbic, Srebrenica Müslümanlarını bizzat toplama, tutuklama, idam etme ve cesetlerini saklama suçlarından yargılanıyordu. Mahkeme gerekçeli kararında Milorad Trıbic’in bu suçları bir “soykırım” amacı ile gerçekleştirdiğini belirtti. Sırplar 1995 haziranında Srebrenica kasabasını ele geçirerek 8 bin müslümanı katletmişlerdi. Teşekkürler AP)  
 _
 
-![](/uploads/image/Milorad_Trbic_.jpg)   ![](/uploads/image/sereb.jpg)  
+![](../uploads/image/Milorad_Trbic_.jpg)   ![](../uploads/image/sereb.jpg)  
 Srebrenica kasabı Milorad Trbic      Srebrenica 1995

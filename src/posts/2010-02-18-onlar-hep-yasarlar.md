@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/som.jpg)
+![](../uploads/image/som.jpg)
 
 Her **Mevlevi** ayini yepyenidir  
 Her **Mevlevi** ayini, sanki  

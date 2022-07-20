@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**[![mevlana.jpg](/uploads/2008/03/mevlana-6.jpg)](/uploads/2008/03/mevlana-6.jpg "mevlana.jpg")**
+**[![mevlana.jpg](../uploads/2008/03/mevlana-6.jpg)](../uploads/2008/03/mevlana-6.jpg "mevlana.jpg")**
 
 **Eşşeğin** arkasından "**Nizameddin"** dedim.
 

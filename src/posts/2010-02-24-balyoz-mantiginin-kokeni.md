@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/balyoz.jpg)
+![](../uploads/image/balyoz.jpg)
 
 “Niyet” suçlu değildir. Niyeti suçlayacak bir hukuk nizamı bulunmamıştır. Belki “kötü” olduğu anlaşıldığında gizli tedbir alınır o kadar… Ama gelin görün ki Türkiyede “niyetler” de suçludur.  İnsan kafasının içinde bir yerlerde gizlenip saklanan niyetler için de ceza var..  
   

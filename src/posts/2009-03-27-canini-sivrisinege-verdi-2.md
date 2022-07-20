@@ -6,7 +6,7 @@ categories:
 ---
 
   
-![](/uploads/image/nemrut.jpg)
+![](../uploads/image/nemrut.jpg)
 
 Ey **iman** incisini,  
 Bir ekmek karşılığı **veren.**Ey gönül madenini,  

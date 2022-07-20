@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![images.jpg](/uploads/2007/11/images.jpg)](/uploads/2007/11/images.jpg "images.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![images.jpg](../uploads/2007/11/images.jpg)](../uploads/2007/11/images.jpg "images.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Keşke **Başbakan** olsaydım. En Ã¢lÃ¢sından **İngiliz kumaşı** bir elbisem olurdu. **Kırmızı** çızgili **gravatım**. Ãevremde **insanlar,** bir işaretle **koşuşan,** bir araya **gelen,** yanıma **yaklaşıp** ne diyeceğimi soran, sonra uzaklaşarak **gereğini** yerine getiren insanlar…
 

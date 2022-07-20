@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
- [![gece.jpg](/uploads/2008/01/gece.jpg)](/uploads/2008/01/gece.jpg "gece.jpg")
+ [![gece.jpg](../uploads/2008/01/gece.jpg)](../uploads/2008/01/gece.jpg "gece.jpg")
 
 Bizim bineğimiz **aşk** yükleriyle
 

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![ben-bendir.jpeg](/uploads/2010/12/ben-bendir.jpeg)](/uploads/2010/12/ben-bendir.jpeg "ben-bendir.jpeg")
+[![ben-bendir.jpeg](../uploads/2010/12/ben-bendir.jpeg)](../uploads/2010/12/ben-bendir.jpeg "ben-bendir.jpeg")
 
 Savaştım sevgiler uğruna Alıştım derdine sevginin
 

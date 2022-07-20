@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/ziya-pasa.jpg)  
+![](../uploads/image/ziya-pasa.jpg)  
 **Ziya Paşa** (1829–1880)  
   
 **Nâdanlar** eder **sohbeti** nâdanla telezzüz  

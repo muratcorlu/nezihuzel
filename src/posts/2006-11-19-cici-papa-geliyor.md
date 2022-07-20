@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![papa-luc-g.jpg](/uploads/2006/11/papa-luc-g.jpg)
+![papa-luc-g.jpg](../uploads/2006/11/papa-luc-g.jpg)
 
 Başkan diyor ki :"**Papa'ya kusur etmeyeceğiz**..." O zaman İslâm'a  "**kusur edeceksiniz**" demektir. Bu adam **İslam dinine** hakaret etti... **Etmedi mi** ? Siz bir **diyanet işleri** başkanısınız, adınız **Türk** tarihine böyle yazıldı. Rahmetli **Rıfat Börekçi**'den beri **Türkiye Cumhuriyeti** tarihinde kendi **dinine kusur** işleyen bir **Diyanet İşleri Başkanı** görüldü mü ?
 

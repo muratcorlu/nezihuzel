@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![mevlana.jpg](/uploads/2008/03/mevlana-6.jpg)](/uploads/2008/03/mevlana-6.jpg "mevlana.jpg")Â Â Â Â Â Â Â Â Â Â Â Â 
+[![mevlana.jpg](../uploads/2008/03/mevlana-6.jpg)](../uploads/2008/03/mevlana-6.jpg "mevlana.jpg")Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Daha önce hikayesi geçen **padişahın** soyundan
 

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![pst.jpg](/uploads/2007/10/pst-1.jpg)](/uploads/2007/10/pst-1.jpg "pst.jpg")
+[![pst.jpg](../uploads/2007/10/pst-1.jpg)](../uploads/2007/10/pst-1.jpg "pst.jpg")
 
 Bizi **dirilten** o Dost, Ne kadar **temiz,** ne kadar **tatlıdır.** Ne kadar **hoştur**, güzeldir...
 

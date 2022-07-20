@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-**[![ataa.jpg](/uploads/2007/11/ataa.jpg)](/uploads/2007/11/ataa.jpg "ataa.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 
+**[![ataa.jpg](../uploads/2007/11/ataa.jpg)](../uploads/2007/11/ataa.jpg "ataa.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 
 
 **Mustafa Kemal Atatürk’ün** bu fÃ¢nî Ã¢leme veda ettiği gün doğanlar, bu yıl **68 yaşına girdiler.** Bu nesil, bir ömür boyu **Atatürk’ü** andı… **O’nunla** yaşadı, O’nun **hatırasına** saygı gösterdi. O’nun kurduğu bir **Devlet düzeni** içinde yaşamaktan mutlu oldu. Eskiyi unuttu. Gözünü **ileriye** çevirdi. **Onurlu** ve **haysiyetli** bir **yaşam biçimi** tutturdu. O’na benzemeye çalıştı..
 

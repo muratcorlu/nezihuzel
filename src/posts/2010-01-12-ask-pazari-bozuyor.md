@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/pazaryeri8cw5.jpg)
+![](../uploads/image/pazaryeri8cw5.jpg)
 
 Duymuyor, **görmüyor**, bakmıyor aşık  
 Almıyor, vermiyor, **istemiyor** aşık  

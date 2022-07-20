@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-[![sarko.jpg](/uploads/2011/11/sarko.jpg)](/uploads/2011/11/sarko.jpg "sarko.jpg")
+[![sarko.jpg](../uploads/2011/11/sarko.jpg)](../uploads/2011/11/sarko.jpg "sarko.jpg")
 
 La proposition de Nicolas Sarkozy de venir en Italie pour soutenir le très probable futur chef du gouvernement, Mario Monti, a été très mal perçue par la presse et par certains hommes politiques transalpins. Comme l'a révélé le blog Elysée, Côté Jardin,
 

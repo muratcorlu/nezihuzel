@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![tantot-comme-ca.JPG](/uploads/2008/11/tantot-comme-ca.JPG)](/uploads/2008/11/tantot-comme-ca.jpg "tantot-comme-ca.JPG")
+[![tantot-comme-ca.JPG](../uploads/2008/11/tantot-comme-ca.JPG)](../uploads/2008/11/tantot-comme-ca.jpg "tantot-comme-ca.JPG")
 
 “Aşk özünde **mayalanıp kıvama** ermeye başlayınca;”
 

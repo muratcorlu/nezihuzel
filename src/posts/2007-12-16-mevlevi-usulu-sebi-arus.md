@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**[![436961-medium.jpg](/uploads/2007/12/436961-medium.jpg)](/uploads/2007/12/436961-medium.jpg "436961-medium.jpg")**
+**[![436961-medium.jpg](../uploads/2007/12/436961-medium.jpg)](../uploads/2007/12/436961-medium.jpg "436961-medium.jpg")**
 
 **Türkiye**’de altı yüz yıl süren Â **Mevlevîlik**, **Osmanlı’**nın son, **Cumhuriyetin** ilk yüz yılında **laikliğe**Â çarparak sahneden silindikten sonra **turistik gaye** ile yeniden **geri dönüp** hayatımızın içine girdi ya, biz bu **hasenÃ¢tı** aslına uydurmak için **elli yıl** uğraştık.
 

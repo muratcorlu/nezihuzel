@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**[![bush.jpg](/uploads/2008/11/bush.jpg)](/uploads/2008/11/bush.jpg "bush.jpg")**
+**[![bush.jpg](../uploads/2008/11/bush.jpg)](../uploads/2008/11/bush.jpg "bush.jpg")**
 
 Usame bin Bush 
 

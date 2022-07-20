@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/_Meister_002b.jpg)
+![](../uploads/image/_Meister_002b.jpg)
 
 Rahmetli **Hüseyin Sebilci “Pir Sultan Abdal**” güfteli “**Güzel aşık cevrimizi**” başlıklı **Bektaşi nefesini**, bir coşku anında, **doğaçlama** olarak **nihavent** makamında ilk defa okuyup **millete** armağan ettiğinde ben **yanındaydım**. Elini **kulağına** koyarak birden **okumaya** başladığı anı **gün gibi** hatırlarım. Olay **İstanbul’da Karagümrük’te** Rahmetli **Muzaffer Ozak’ın** postnişin olduğu **Nureddin Cerrahî Dergahı Derneğinde** bir pazartesi **akşamı** meydana gelmişti.
 

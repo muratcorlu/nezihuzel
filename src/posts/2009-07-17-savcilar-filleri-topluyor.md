@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-![](/uploads/image/fil.jpg)
+![](../uploads/image/fil.jpg)
 
 \-Neredeydin ?  
 \-**Kaçtım…**  

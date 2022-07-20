@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/beklemek.jpg)
+![](../uploads/image/beklemek.jpg)
 
 Sen **yoksun** !  
 Seni **beklemek** var.  

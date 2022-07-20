@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/beyin.jpg)
+![](../uploads/image/beyin.jpg)
 
 "Doğruyu kalp bilir, akıl bilmez hocam"  
                                     Sezin Zap

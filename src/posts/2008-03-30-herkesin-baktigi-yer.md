@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![beyoglu.jpg](/uploads/2008/03/beyoglu.jpg)](/uploads/2008/03/beyoglu.jpg "beyoglu.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![beyoglu.jpg](../uploads/2008/03/beyoglu.jpg)](../uploads/2008/03/beyoglu.jpg "beyoglu.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Birden **ortalık** karıştı, **sesler** yükselmeye başladı, ihtiyarların **kavgası** daÂ ilginç oluyor, taraflar **sinirlenip** bağrışmaya koyulduÂ  muÂ **çatlak zurna** gibi sesler çıkmaya başlıyor, **gençlerin** kavgasında duyulan o **kalın** ve **vahşî** sesler ihtiyarların kavgasında yerini **cırlak seslere** bırakıyor, yüksek **tonajda** kelimeler **nefes** yetmezliğinden küçülüp **dertop** oluyor. **Kamçı** darbesi gibi… Kimin **ne dediği** anlaşılmaz **düzeye** çıktığında da Â artık garip bir **ses akordunda** her şey, **arap saçına** dönerek hayat **çekilmez** oluyor, o anı yaşamaktan adam **çekimserlik** göstermeli …
 

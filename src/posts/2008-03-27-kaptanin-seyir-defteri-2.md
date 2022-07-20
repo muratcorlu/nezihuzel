@@ -5,7 +5,7 @@ categories:
   - Kaptanın Seyir Defteri
 ---
 
-[![kadir.jpg](/uploads/2008/03/kadir.jpg)](/uploads/2008/03/kadir.jpg "kadir.jpg")
+[![kadir.jpg](../uploads/2008/03/kadir.jpg)](../uploads/2008/03/kadir.jpg "kadir.jpg")
 
 Bu gün **25 mart 2008** Ãarşamba, vakit Â **öğle saatini** biraz geçmişti ki **Yusuf**’a telefon edip gelmesini söyledim. **İzmit Bit pazarına** gideceğiz. Az sonra **Kia**’ya binerek **Sapanca**’dan ayrıldık. **Kırkpınar**’dan geçerken yol kenarında bekleyen **iki genç kız** gördük, **Yusuf:**
 

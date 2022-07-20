@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/mihail-kalasnikof.jpg)  
+![](../uploads/image/mihail-kalasnikof.jpg)  
 Mihail Kalaşnikov ve AK-47 Kalaşnikov'u
 
 Rusya’nın **sanayi bürokrasisinden** gelme 44 yaşında genç devlet başkanı **Dimitri Medvedev** **Kalaşnikov** silahının mucidi **Mihail Kalaşnikov’**a **Rusya**’nın en büyük **devlet** nişanını vererek **90 yaşındaki** mucid’i **Rusya**’nın ulusal **kahramanı** ilan etti. 
@@ -18,7 +18,7 @@ Bu konuşmaya karşılık **Kalaşnikov**  “_Rusya, yeni silahlar yapmayı s�
 
 **Mihail Kalaşnikof** II. Dünya **Savaşı** sırasında yaralanmasının ardından, **tedavi** gördüğü hastanede adını taşıyan **silahı** tasarlamıştı. Ancak silahın **küresel** bir ölüm makinesine dönüşeceğini **tahmin** edemedi. pişmanlık duyan **Rus general**, “Keşke bu silah yerine, **çim biçme** makinasını icat etseydim” demişti.  
   
-![](/uploads/image/Sirmaxim.jpg)  
+![](../uploads/image/Sirmaxim.jpg)  
 Hıram ve makinalı tüfeği
 
 İngilizlerin 2 eylül 1898’de **Umm Durman** savaşında kullandıkları dünyanın ilk **makinelı tüfeği** bir Amerikan yahudisi olan **Hıram Maxim’**in icadıdır. **Maxim** 1840’ta ABD’de Sangewrville’de doğdu. Küçüklüğünden beri mekanik olan her şeye ilgi duymuştu. İlk icadı **fare** kapanıdır. **Hıram’**ın İmal ettiği kapan, **fareyi** yakaladıktan sonra yeni bir **fare** yakalamak üzere **otomatik** olarak yeniden **kuruluyordu**. İleri yaşlarda pek çok icadın **patentine** sahip olan **Maxim** 1881’de **Paris sergisini** gezerken bir İngiliz ona “çok para **kazanmak** istiyorsan öyle bir şey **icat** et ki, **Avrupalılar** birbirini daha kolay **boğabilsin**” demişti.
@@ -27,11 +27,11 @@ Yeni silah İlk kez **1885**'de tanıtıldı. 1891'de **İngiliz ordusunda** kul
 
 **Hıram Maxim** dünyadaki tüm **güç** dengesini altüst etmiş, **ateşli silahlar** çağında yeni bir **çığır** açmıştı. Bu yeni çağda insanların artık f**areler** kadar değeri olmayacaktı. **Hıram’**ın  fare kapanı giderek “**insan kapanına**” dönüşecek ve bu kapana **sahip** olan dünyaya hükmedecekti. **Umm Durman** savaşından sonra gazeteci-teğmen **Churchill İngiltere**’ye gönderdiği mesajında “Vahşîler **medeniyetin** silahları önünde yok oldular…” cümlesini kullanmıştı. Sadece **silah dünyasında** değil, **sömürgecilik** çağında da yeni bir **çığır** açan bu savaştan sonra elindeki **müthiş silahla İngiliz imparatorluğu’**nun dünyanın geri kalan insanlarına **“vahşî**” damgası vurmasının pek de fazla **yadırganacak** tarafı yoktu.
 
-![](/uploads/image/basil2vm8.jpg)  Dünya **silah** piyasasının gelmiş geçmiş en büyük ustası **Sir Basil Zaharof’**tur. **Muğlalı** bir rum çocuğu olan **Zaharof** dünyada ilk defa **denizaltı** imal eden İngiliz **Nordenfeldt** silah fabrikalarının ve daha sonra **Wickers** silah fabrikalarının temsilciliğini yapmıştı. **Çarpışan** taraflara aynı anda **silah** satan bu olağanüstü **adamın** mallarını satmak için ülkeleri birbirine **düşürdüğü** söylenir.
+![](../uploads/image/basil2vm8.jpg)  Dünya **silah** piyasasının gelmiş geçmiş en büyük ustası **Sir Basil Zaharof’**tur. **Muğlalı** bir rum çocuğu olan **Zaharof** dünyada ilk defa **denizaltı** imal eden İngiliz **Nordenfeldt** silah fabrikalarının ve daha sonra **Wickers** silah fabrikalarının temsilciliğini yapmıştı. **Çarpışan** taraflara aynı anda **silah** satan bu olağanüstü **adamın** mallarını satmak için ülkeleri birbirine **düşürdüğü** söylenir.
 
-**Anadolu'**yu işgale yeltenen **Yunan or**dularını da hem para hem silah yönünden donatan **Zaharof**’tur. İsminin başındaki “**sir**” ünvanı savaşta **İngiltere**'ye yaptığı hizmetlerden dolayı zamanın **İngiliz hükümeti** tarafından verilmişti. II.**Savaş** sırasında **İngiliz ordusu** için **Wickers** makinalı tüfekleri **imal**  ederken  **ilk** mazotlu **savaş** gemileri için  **Almanlara** diğer taraftan  gizlice mazot **sattığı** öğrenilince **ünvan** geri alındı.![](/uploads/image/picture5bn5.jpg)   Zaharof'un Osmanlı'lara sattığı ilk denizaltı Çanakkale boğazında
+**Anadolu'**yu işgale yeltenen **Yunan or**dularını da hem para hem silah yönünden donatan **Zaharof**’tur. İsminin başındaki “**sir**” ünvanı savaşta **İngiltere**'ye yaptığı hizmetlerden dolayı zamanın **İngiliz hükümeti** tarafından verilmişti. II.**Savaş** sırasında **İngiliz ordusu** için **Wickers** makinalı tüfekleri **imal**  ederken  **ilk** mazotlu **savaş** gemileri için  **Almanlara** diğer taraftan  gizlice mazot **sattığı** öğrenilince **ünvan** geri alındı.![](../uploads/image/picture5bn5.jpg)   Zaharof'un Osmanlı'lara sattığı ilk denizaltı Çanakkale boğazında
 
 İngilizler **Zaharof**’a **“Sir**” dediler. **Ruslar Kalaşnikov’**a “Milli **Kahraman**” dediler. **Churchill** **Sudan** savaşçılarını doğrayan **Hıra**m’in fare kapanı kökenli makinalı tüfeğine “**medeniyetin silahı**” dedi.  **Silah** icat edenler **barış** koruyucusu kesilmişler... Kahraman **silah tüccarları** demokrasi ve **barıştan** yana tavır koymakta yarış ediyorlar... ne **garip** değil mi ? **Osmanlı** da "hazır ol **savaşa** ister isen sul ü **salâh"** demişti. **Silah tüccarlarının** en yenilerinden  **Adnan Kaşıkçı** “benim sattığım silahlar **korunma** içindir” diyor. Ya saldıranlar **neyle** saldırıyor ? “**çim kesme** makinası” ile mi ? **Silah** iki şeye yarar: **savunma** bir, **saldırma** iki… Savunma **haktır,** saldırma **vahşet**, siz hangisinden y**anasınız** ?
 
-![](/uploads/image/churchill.jpg)![](/uploads/image/adnan.jpg)  
+![](../uploads/image/churchill.jpg)![](../uploads/image/adnan.jpg)  
 Winston Churchill  Adnan Kaşıkçı

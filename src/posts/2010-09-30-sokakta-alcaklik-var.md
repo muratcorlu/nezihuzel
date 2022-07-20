@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/2010/10/sarmisak.jpg)
+![](../uploads/2010/10/sarmisak.jpg)
 
 Evlerimizi içi **nurludur** **Sokak** karanlık Evlerimiz içi **Hakk**’la dolu **Sokağın** durumu **vahim** **Yürekler** acısı **Kapılar** karanlıkları örter Dışarda **kıyamet** kopuyor **İçerde** hepimiz eminiz,
 

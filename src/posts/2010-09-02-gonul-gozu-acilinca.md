@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![goz.jpeg](/uploads/2010/09/goz.jpeg)](/uploads/2010/09/goz.jpeg "goz.jpeg")
+[![goz.jpeg](../uploads/2010/09/goz.jpeg)](../uploads/2010/09/goz.jpeg "goz.jpeg")
 
 Can **gözü** bildiğini söyler Gönül gözü söylemez, **dinler** **Can** gözü konuşur Gönül gözü **susar**
 

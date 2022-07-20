@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-**![](/uploads/2010/09/bayram_el3.jpg)**
+**![](../uploads/2010/09/bayram_el3.jpg)**
 
 **Müslümanlar** bir ay **oruç** tuttular. Gün boyu **yemek** yemediler. **Su** içmediler. İbadete uymayan **fiilerden** kaçındılar. **Gözlerini** yere dikerek dünyanın **uğursuz** işlerini görmemeye **gayret** ettiler. Kötü bilinen dahil, kimseye **kötü** bakmamayı bu ayda daha yoğun **becermeye** çalıştılar.
 

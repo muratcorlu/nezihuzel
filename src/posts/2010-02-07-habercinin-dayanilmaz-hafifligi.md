@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/azer.jpg)
+![](../uploads/image/azer.jpg)
 
 **Irak**’taki **mezhep** çatışmalarınına ait bir haberi okuduğu sırada **“Hazreti Ali’nin oğlu hazreti Hüseyin’in öldürüşünü anmak üzere.**. ” derken **spiker**, bu saygıdeğer isimleri öylesine ilgisiz bir **ses tonuyla** ve sıradan isimlermiş gibi söylüyordu ki, **tüylerim** ürperdi. Şaşırdım . **Kalakaldım.** Genelde İnsanlık ve **İslam**  tarihinin bu en eski **faciasından** bahsederken mes’elenin bu kadar **basite indirilmiş** görüntüsü, abd-i acizi bir anda **çıleden** çıkardı.  
   

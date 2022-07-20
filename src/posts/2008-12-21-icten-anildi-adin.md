@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![f_49m_1fd9ef9.jpg](/uploads/2008/12/f_49m_1fd9ef9.jpg)](/uploads/2008/12/f_49m_1fd9ef9.jpg "f_49m_1fd9ef9.jpg")
+[![f_49m_1fd9ef9.jpg](../uploads/2008/12/f_49m_1fd9ef9.jpg)](../uploads/2008/12/f_49m_1fd9ef9.jpg "f_49m_1fd9ef9.jpg")
 
 Ne içli bir **dua**, ne içten bir **ah** 
 

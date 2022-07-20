@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/AQAM.jpg)
+![](../uploads/image/AQAM.jpg)
 
 Âşık aşkında **kendini** seyreder  
 Doymaz **hayaline**, durmaz kahreder  

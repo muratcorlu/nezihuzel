@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![galata-mevlevihanesi.jpg](/uploads/2008/12/galata-mevlevihanesi-1.jpg)](/uploads/2008/12/galata-mevlevihanesi-1.jpg "galata-mevlevihanesi.jpg")
+[![galata-mevlevihanesi.jpg](../uploads/2008/12/galata-mevlevihanesi-1.jpg)](../uploads/2008/12/galata-mevlevihanesi-1.jpg "galata-mevlevihanesi.jpg")
 
 Azm-i sefer ettin dil-i **nâçârı** unutma Gittin **güzel ammâ** bu dil-efkârı unutma
 

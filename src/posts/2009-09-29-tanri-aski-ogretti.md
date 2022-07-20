@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-![](/uploads/image/yusufcuk-dragonfly04.jpg)
+![](../uploads/image/yusufcuk-dragonfly04.jpg)
 
 Aradan **yıllar** geçti  
 İnsanlar “**Yusufçuk Kalender’e  

@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![erthakit1.jpg](/uploads/2008/12/erthakit1.jpg)](/uploads/2008/12/erthakit1.jpg "erthakit1.jpg")
+[![erthakit1.jpg](../uploads/2008/12/erthakit1.jpg)](../uploads/2008/12/erthakit1.jpg "erthakit1.jpg")
 
 "**Üsküdar’ a giderken aldı da bir yağmur**” şarkısını Türkçe söyleyerek bir zamanlar **ülkemizde** şöhret kazanan **Amerikalı** zenci şarkıcı **Ertha Kith** 81 yaşında öldü. Dinince dinlensin. **Müteveffa**’nın ülkesine, çevresine ve insanlara **hizmeti** varsa son **yolculuğunda** rehber olsun.
 
@@ -19,7 +19,7 @@ Günün birinde **çarpık** bir ağızdan “**Üsküdar’a giderken**" i duym
 
 Pek hoşumuza gitti bir **Amerikalı**’nın **Türkçe** şarkı söylemesi… **San’atçının** ağzı **Türkçe**’ye yakışmıyordu, ama olsun ‘ söylüyordu ya **Türkçe**, dinlerken kendimizden geçiyorduk… **Ertha Kith** özellikle, her dilde ayrı bir **ses** karakteri gösteren “**e**” harflerini, **İngilizce** entonasyonla çıkarıyor, **ezdikçe** eziyordu. Kadının dilinde “**e”** ler, iyiden iyiye “**i”** ye dönmüştü. O da **olsun** ! yeter ki bir **yabancı** bizim şarkıyı söylesin.
 
-[![adamo_.jpg](/uploads/2009/01/adamo_.jpg)](/uploads/2009/01/adamo_.jpg "adamo_.jpg")  Aradan **kırk yıl** geçti ? Hala düşüyorum. Acaba biz, ben ve **Türkler** bu işe  neden bu kadar **sevinmiştik** ? Daha sonraki yıllarda **İtalyan** asıllı **Adamo** da gelmiş “**her yerde kar var**… “diye **Türkçe** bir şarkı söylemiş ama o şarkı **Ertha Kith**’in “**Üsküdar’**ı” kadar meşhur olamamıştı. **Anlaşıldığına** göre biz  o sırada topluca “**ezik**” bir dönemden geçiyorduk. Bir yabancı **kültürün** saldırısına uğramış ve **gerilemiştik**. Amerikalı her yanımızı sarmış **ruhumuzu** ele geçirmişti… O **Amerikalı** bizim şarkımızı söyleyince de biz sevinçten **ağlamaklı** olmuştuk.
+[![adamo_.jpg](../uploads/2009/01/adamo_.jpg)](../uploads/2009/01/adamo_.jpg "adamo_.jpg")  Aradan **kırk yıl** geçti ? Hala düşüyorum. Acaba biz, ben ve **Türkler** bu işe  neden bu kadar **sevinmiştik** ? Daha sonraki yıllarda **İtalyan** asıllı **Adamo** da gelmiş “**her yerde kar var**… “diye **Türkçe** bir şarkı söylemiş ama o şarkı **Ertha Kith**’in “**Üsküdar’**ı” kadar meşhur olamamıştı. **Anlaşıldığına** göre biz  o sırada topluca “**ezik**” bir dönemden geçiyorduk. Bir yabancı **kültürün** saldırısına uğramış ve **gerilemiştik**. Amerikalı her yanımızı sarmış **ruhumuzu** ele geçirmişti… O **Amerikalı** bizim şarkımızı söyleyince de biz sevinçten **ağlamaklı** olmuştuk.
 
 Olayın bir **boyutu** daha var: hem **Ertha Kith**, hem de **Adamo** “**e**” harflerinin canına okuyunca o kişilerden sonra icat olunan “**Türkçe sözlü hafif batı müziği**” parçalarındaki tüm “**e**”ler de “**i”** ye dönüşmüştü… Şarkı **dilimizi** ele geçiren bu “**virüs**” halen **devam** etmektedir. 
 

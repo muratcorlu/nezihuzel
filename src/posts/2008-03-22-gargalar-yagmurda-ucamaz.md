@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![dsc00271.JPG](/uploads/2008/03/dsc00271.JPG)](/uploads/2008/03/dsc00271.jpg "dsc00271.JPG")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![dsc00271.JPG](../uploads/2008/03/dsc00271.JPG)](../uploads/2008/03/dsc00271.jpg "dsc00271.JPG")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 \-Hoca **Eskihisar**’da yağmura tutulduğunda **sen** oralarda mıydın ?
 

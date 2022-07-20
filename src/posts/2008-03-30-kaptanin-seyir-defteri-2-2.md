@@ -5,7 +5,7 @@ categories:
   - Kaptanın Seyir Defteri
 ---
 
-[![p1020681ak11.jpg](/uploads/2008/03/p1020681ak11.jpg)](/uploads/2008/03/p1020681ak11.jpg "p1020681ak11.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![p1020681ak11.jpg](../uploads/2008/03/p1020681ak11.jpg)](../uploads/2008/03/p1020681ak11.jpg "p1020681ak11.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Bu gün 29 mart **cumartesi,** Saat 9.40 treni beni **İstanbul’**a getirdi. **Haydarbaşa**’dan vapura bindiğimde saatler **bire** yaklaşıyordu. Gemi önce **Kadıköy**’e uğradı, sonra **Karaköy**’e yöneldi. **Selimiye** **kışlası’**nın önünden geçerken **gözlerime** inanamadım, sahilde **Eyfel Kulesi** kadar göğe uzanan bir **bayrak** direğinin üzerinde muazzam bir **Türk bayrağı** sallanıyordu. Son zamanlarda gittikçe daha **büyük** bayraklar ve daha yüksek **bayrak direkleri** yaptıklarınıÂ  fark ediyordum ama hiç bu kadar **yükseğini** görmemiştim.
 

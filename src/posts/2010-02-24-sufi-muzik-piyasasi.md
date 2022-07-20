@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-_![](/uploads/image/sabribros.jpg)_
+_![](../uploads/image/sabribros.jpg)_
 
 _Facebook'ta bir vatandaş "benim dini yönüm yoktur, müzik açısından paylaşıyorum" diyerek Pakistanlı Sufi Müzik üstadı Sabri Brothers'la ilgili bir video yayınladı. İlgilenerek yorum yaptım. Sunuyorum:_  
   

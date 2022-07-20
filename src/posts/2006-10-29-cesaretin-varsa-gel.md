@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![gece.jpg](/uploads/2006/10/gece.jpg)
+![gece.jpg](../uploads/2006/10/gece.jpg)
 
                                    1
 

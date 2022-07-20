@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/Badem+.jpg)
+![](../uploads/image/Badem+.jpg)
 
 Bir ihtiyar vardı **Kadıköy’**de  
 **Moda**’da **Koço**’nun yerinde  

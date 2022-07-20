@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![dunya.jpeg](/uploads/2010/12/dunya.jpeg)](/uploads/2010/12/dunya.jpeg "dunya.jpeg")
+[![dunya.jpeg](../uploads/2010/12/dunya.jpeg)](../uploads/2010/12/dunya.jpeg "dunya.jpeg")
 
 “**Wikileaks** açıklamaları” dünyada da **yeni** değildir. 1971 yılında bir **Amerika**n gazetesi “**Pentagon Pepers:**  Pentagon’un kağıtları” başlığı altında bir **dizi** yayın yapmış ve dünya **altüst** olmuştu. Sonra bu yayının **Amerika**’nın gizli çıkarlarına **hizmet** ettiği ve o zamanki **yönetim** tarafından kasden **çıkarıldığı** ileri sürüldü. Olabilirdi… Kimbilir belki şimdiki **Wikileaks**’ın da böyle bir emeli ve de gizli bir **maksadı** vardır. **Nereden** bilelim.
 

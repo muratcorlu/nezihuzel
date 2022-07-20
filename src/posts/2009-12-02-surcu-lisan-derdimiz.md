@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**![](/uploads/image/romacj6.jpg)**
+**![](../uploads/image/romacj6.jpg)**
 
 **Facebook’**da bir değerli **kişi**, okuruna “**Allah'la arkadaş ol**” (Haşaa) şeklinde bir **tavsiyede** bulundu. Ben **kendisini** uyardım. Bana yazdığı **cevabı** ve benim **yanıtımı** sunuyorum:
 

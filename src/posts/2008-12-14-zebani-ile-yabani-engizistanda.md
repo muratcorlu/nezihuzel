@@ -5,9 +5,9 @@ categories:
   - Günün Çilesi
 ---
 
-**[![zebani.jpg](/uploads/2008/12/zebani.jpg)](/uploads/2008/12/zebani.jpg "zebani.jpg")** 
+**[![zebani.jpg](../uploads/2008/12/zebani.jpg)](../uploads/2008/12/zebani.jpg "zebani.jpg")** 
 
-**İblisiyye** ülkesinin devlet başkanı ekselans **Zebânî** ile **Gayya Kuyusu Cumhuriyeti’**nin reisi ekselans **Yabânî** dün uçağa binerek **Engizistan**’ın başşehri **Çalpara**’ya geldiler. **Engizistan** devlet başkanı misafirlerini **Çalpara** hava alanında törenle karşıladı. **Zebânî** ile **Yabânî** uçaktan birlikte indiklerinde **protokol mangası** yerini almış bulunuyordu…[](/uploads/2008/12/yecuc1.jpg "yecuc1.jpg")
+**İblisiyye** ülkesinin devlet başkanı ekselans **Zebânî** ile **Gayya Kuyusu Cumhuriyeti’**nin reisi ekselans **Yabânî** dün uçağa binerek **Engizistan**’ın başşehri **Çalpara**’ya geldiler. **Engizistan** devlet başkanı misafirlerini **Çalpara** hava alanında törenle karşıladı. **Zebânî** ile **Yabânî** uçaktan birlikte indiklerinde **protokol mangası** yerini almış bulunuyordu…[](../uploads/2008/12/yecuc1.jpg "yecuc1.jpg")
 
 **Engizistan**  devletinin  devlet başkanı **güllü Recep** uçaktan ilk defa inen **Zebânî**’yi kollarının arasına alarak uzun uzun öptü. Diğer başkan **Yabânî**, yan gözle izlediği bu **harekete** kızdığı halde **renk** vermedi… Devlet başkanları **protokol** mangasının önüne geldikleri zaman “**selamaleyküm**” diyerek mangayı selamladılar… Çünkü onlar tanınmış **İslam** ülkelerinin **saygıdeğer** başkanlarıydılar.
 
@@ -21,7 +21,7 @@ Toplantı **gergi**n bir havada başlamıştı. **İblisiyye** devleti başkanı
 
 Sonunda **döğüşten,** itişten yoruldular. Biri dedi ki –Artık kapıları **açalım**… Kapıları açarak dışarı çıktılar. **Gazeteciler** koşarak kendilerini karşıladı, aralarında zar zor bir **konuşmacı** seçmişlerdi, konuşmacı **gazetecilere** dedi ki : "Toplantı son derecede **samimi** bir hava içinde geçti, taraflar **gayet dos**tane olarak birbirlerini dinlediler, **çok olumlu** sonuçlar aldık…şimdi **komisyonlar** kurarak alınan kararların **tatbikine** geçeceğiz. Merak etmeyin size **kötülük** yapmayız..."
 
-[![yecuc11.jpg](/uploads/2008/12/yecuc11.jpg)](/uploads/2008/12/yecuc11.jpg "yecuc11.jpg") _Şeytanın zürriyetinden Ye'cüc Me'cüc kavmi_
+[![yecuc11.jpg](../uploads/2008/12/yecuc11.jpg)](../uploads/2008/12/yecuc11.jpg "yecuc11.jpg") _Şeytanın zürriyetinden Ye'cüc Me'cüc kavmi_
 
 Aslında **işler** ölümüne karışıktı. **İblisiyye** Cumhuriyetinin cumhurbaşkanı **Zebânî** ile **Gayya Kuyusu** Cumhuriyetinin cumhurbaşkanı **Yabânî’**nin ülkeleri uzun zamandan beri **Ye’cüc Me’cüc** işgaline uğramıştı. Bu **yabancı** güçler o ülkeyi ele geçirmişler, **halkı** esir etmişlerdi. **Toprakları** ateşe vermişler, evleri **yıkıp** sokakları **kan gölüne** çevirmişlerdi. Ekselans **Zebânî** ile ekselans **Yabânî** işgalci **Ye’cüc Me’cüc** kavmi tarafından göreve getirilmiş **satılık** başkanlardı.
 

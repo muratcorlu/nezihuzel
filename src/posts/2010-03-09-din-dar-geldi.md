@@ -5,7 +5,7 @@ categories:
   - Olurla Olmaz Muhabbeti
 ---
 
-![](/uploads/image/ikizler_burcu.jpg)  
+![](../uploads/image/ikizler_burcu.jpg)  
 \-Olmaz ! sen Müslüman mısın ?  
 \-Elhamdülillah, sen değil misin ?  
 \-Müslümanım. Son zamanda ne oldu, biliyor musun ?  

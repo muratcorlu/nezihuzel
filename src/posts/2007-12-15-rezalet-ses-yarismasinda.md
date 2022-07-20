@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-                      [![crow152da66ut8.jpg](/uploads/2007/12/crow152da66ut8.jpg)](/uploads/2007/12/crow152da66ut8.jpg "crow152da66ut8.jpg")
+                      [![crow152da66ut8.jpg](../uploads/2007/12/crow152da66ut8.jpg)](../uploads/2007/12/crow152da66ut8.jpg "crow152da66ut8.jpg")
 
 Hoca geçen hafta **İstanbul**’da konser verdi. Gaaaak. Biz **Fazilet’**le ağaçtan ağaca konarak **konserin** verileceği yeri aradık. Uzun süre **Taksim Beyoğlu** dolaştık. **Parmakkapı**’da **Ağa Cami**’inin çatısına konmuş **kargalara** sorduk… Gaaak guuk. **Tarif** ettiler, yine bulamadık, sonunda **İstanbul** trafiğinde kaza geçirip **topal** kalmış bir **karga** bize **yol** gösterdi. Gurk guruk. Güç bela **Fransız Konsolosluk** bahçesine ulaştık. Bir **pencerenin** yanına konduk… **Fazilet** dedi ki:
 

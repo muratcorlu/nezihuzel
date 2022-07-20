@@ -5,7 +5,7 @@ categories:
   - Şundan Bundan
 ---
 
- **![](/uploads/image/rodin.jpg) Nezih Uzel'**den not: Eski zamanda "**adabı muaşeret**" adı verilen "**ahlak"** kitaplarında "**edeple**r" denen **kurallar** vardı. Herkes **uyduğu** takdirde topluca **mutluluk** getireceğine inanılan bu **kurallar,** acaba **çağdaş** dünyaya **uygulanabilir mi** ? diye düşündüm. **Bakın** neler çıktı: eski kitapların **üslubu** olan "**yapmaya, etmeye, bakmaya**" gibi orijinal **metotla** sunuyorum: **ilave** yapabilirsiniz:
+ **![](../uploads/image/rodin.jpg) Nezih Uzel'**den not: Eski zamanda "**adabı muaşeret**" adı verilen "**ahlak"** kitaplarında "**edeple**r" denen **kurallar** vardı. Herkes **uyduğu** takdirde topluca **mutluluk** getireceğine inanılan bu **kurallar,** acaba **çağdaş** dünyaya **uygulanabilir mi** ? diye düşündüm. **Bakın** neler çıktı: eski kitapların **üslubu** olan "**yapmaya, etmeye, bakmaya**" gibi orijinal **metotla** sunuyorum: **ilave** yapabilirsiniz:
 
 Kurban kesmede  5 edep vardır
 

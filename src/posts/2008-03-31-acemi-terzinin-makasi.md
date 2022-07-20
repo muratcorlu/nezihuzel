@@ -5,15 +5,15 @@ categories:
   - Günün Çilesi
 ---
 
-[![makas.jpg](/uploads/2008/03/makas.jpg)](/uploads/2008/03/makas.jpg "makas.jpg")
+[![makas.jpg](../uploads/2008/03/makas.jpg)](../uploads/2008/03/makas.jpg "makas.jpg")
 
 TV’de **Anayasa** dersleri veren bir **profesör**, göklere çıkardığı **1961 İhtilal Anayasasını** “**Anayasaların en mükemmeli** “olarak niteledikten sonra bunun **yürümeyişini** ülkedeki “**demokrasi kültürünün eksikliğine**” bağladı.
 
-[](/uploads/2008/03/250px-midhatpasha.jpg "250px-midhatpasha.jpg")
+[](../uploads/2008/03/250px-midhatpasha.jpg "250px-midhatpasha.jpg")
 
-Yani profesör kalabalığa dedi ki: “**size mükemmel bir elbise diktik, neden giymiyorsunuz** ?” [](/uploads/2008/03/250px-midhatpasha.jpg "250px-midhatpasha.jpg")Profesör, **ölçüyü** yanlış alarak **elbise diken** terzinin suçunu **halka** yükledi. Hem de **hakaret** ederek. Ulusa **hakaret** etme yarışında kendi **sınıfına** bir aşama daha kaydetti.
+Yani profesör kalabalığa dedi ki: “**size mükemmel bir elbise diktik, neden giymiyorsunuz** ?” [](../uploads/2008/03/250px-midhatpasha.jpg "250px-midhatpasha.jpg")Profesör, **ölçüyü** yanlış alarak **elbise diken** terzinin suçunu **halka** yükledi. Hem de **hakaret** ederek. Ulusa **hakaret** etme yarışında kendi **sınıfına** bir aşama daha kaydetti.
 
-Kurulduğu günden beri **seksen yıldır** Â rejim kavgalarından bir türlü **başını** alamayan bu **Devletin** [](/uploads/2008/03/250px-midhatpasha.jpg "250px-midhatpasha.jpg")genellikle darbelerden sonra ele alınan **anayasaları** neden yürümüyor ? Â kimsenin **aklı** ermiyor. Sadece **Cumhuriyet** değil, **anayasa** denemelerinin **Osmanlı’**sı da var… Onun adı “**Kanun u Esasî**”Â **Â  [](/uploads/2008/03/250px-midhatpasha.jpg "250px-midhatpasha.jpg")İstanbul**’da **Tepebaşı’**nda bir “**Kanun u Esasi Kıraathanesi**” vardı. Bilmem şimdi duruyor mu ? **Gençliğimizde** gider bilardo oynardık. **anayasa** lafını ben ilk orda duymuştum.
+Kurulduğu günden beri **seksen yıldır** Â rejim kavgalarından bir türlü **başını** alamayan bu **Devletin** [](../uploads/2008/03/250px-midhatpasha.jpg "250px-midhatpasha.jpg")genellikle darbelerden sonra ele alınan **anayasaları** neden yürümüyor ? Â kimsenin **aklı** ermiyor. Sadece **Cumhuriyet** değil, **anayasa** denemelerinin **Osmanlı’**sı da var… Onun adı “**Kanun u Esasî**”Â **Â  [](../uploads/2008/03/250px-midhatpasha.jpg "250px-midhatpasha.jpg")İstanbul**’da **Tepebaşı’**nda bir “**Kanun u Esasi Kıraathanesi**” vardı. Bilmem şimdi duruyor mu ? **Gençliğimizde** gider bilardo oynardık. **anayasa** lafını ben ilk orda duymuştum.
 
 **Türkiye**’de ilk Anayasa **1876 Mithat paşa Anayasası’**dır. **Osmanlı padişahı Sultan Abdülaziz**’in bir **cunta** tarafından tahtından indirilerek **öldürülmesinden** sonra düzenlenmiştir. Bu **Anayasa** defalarca yenilenmiş, **Cumhuriyetle** ortadan kalkmıştır. **Cumhuriyetin** birkaç defa değişen **Anayasa’** sı da 1961’de **Adnan Menderes**’in devrilmesi ile sislenmiştir. Sonraki **Anayasa** da **Demirel**’in **Evren Paşa** tarafından iktidardan **alaşağı** edilmesi sonucunda doğmuştu. **132 yıldır** yapılan Her **anayasa** bir siyasî **felaketin** acıklı sonucudur.
 

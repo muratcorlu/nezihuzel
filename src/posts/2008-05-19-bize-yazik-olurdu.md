@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-                                                        [![ataturk2.jpg](/uploads/2008/05/ataturk2.jpg)](/uploads/2008/05/ataturk2.jpg "ataturk2.jpg")
+                                                        [![ataturk2.jpg](../uploads/2008/05/ataturk2.jpg)](../uploads/2008/05/ataturk2.jpg "ataturk2.jpg")
 
 Düşmanlar **ülkemize** saldırmasaydı
 

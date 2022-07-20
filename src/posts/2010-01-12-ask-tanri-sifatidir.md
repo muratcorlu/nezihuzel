@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/mevlana25uv.jpg)
+![](../uploads/image/mevlana25uv.jpg)
 
 Aşk karşısında kıl kadar bile korku yoktur.  
 Aşk mezhebinde herkes kurbandır. Aşk Tanrı sıfatıdır.  

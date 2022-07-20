@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-![](/uploads/image/800px-Sympetrum_flaveolum_-_side_(aka).jpg)
+![](../uploads/image/800px-Sympetrum_flaveolum_-_side_(aka).jpg)
 
 Bir **hayal** peşindeydi **Yusufçuk  
 Aklı** başından bir **karış** uçuk  

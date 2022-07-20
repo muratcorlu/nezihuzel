@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![kart.jpg](/uploads/2007/10/kart.jpg)](/uploads/2007/10/kart.jpg "kart.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![kart.jpg](../uploads/2007/10/kart.jpg)](../uploads/2007/10/kart.jpg "kart.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 \-**Kredi kartı** ne işe yarar, Gaaak ?
 

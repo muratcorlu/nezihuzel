@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/hüss.jpg)   
+![](../uploads/image/hüss.jpg)   
 _Hüseyin Tüzün, Konya 1961_
 
 Geçtiğimiz **cumartesi** günü onarımı tamamlanan “**Yenikapı Mevlevihanesi**” salonlarında **Vakıflar Genel müdürlüğü** ile **Mevlevi camiası** arasında gerçekleşen tarihi istişare toplantısında **Devlet** yetkililerinin karşısına iki sıra dizilen **Mevleviler** onsekiz yaşındaydılar.

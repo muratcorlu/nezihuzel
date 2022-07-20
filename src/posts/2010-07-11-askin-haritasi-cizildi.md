@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-**[![cekirge_0005.jpg](/uploads/2010/07/cekirge_0005.jpg)](/uploads/2010/07/cekirge_0005.jpg "cekirge_0005.jpg")**
+**[![cekirge_0005.jpg](../uploads/2010/07/cekirge_0005.jpg)](../uploads/2010/07/cekirge_0005.jpg "cekirge_0005.jpg")**
 
 **Kalender** nihayet konuştu Aylardır, yıllardır **susuyordu**
 

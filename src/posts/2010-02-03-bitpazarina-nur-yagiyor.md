@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/DSCF3112.JPG)
+![](../uploads/image/DSCF3112.JPG)
 
 Bit pazarları ile ilgili bir soru:
 

@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![sef.jpg](/uploads/2008/06/sef.jpg)](/uploads/2008/06/sef.jpg "sef.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![sef.jpg](../uploads/2008/06/sef.jpg)](../uploads/2008/06/sef.jpg "sef.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 \-Hoca sabah **Büyük Reis**’le telefonda konuştu. Gaaak guuk.
 

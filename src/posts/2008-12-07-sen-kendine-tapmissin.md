@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![45551011pf3.jpg](/uploads/2008/12/45551011pf3.jpg)](/uploads/2008/12/45551011pf3.jpg "45551011pf3.jpg")
+[![45551011pf3.jpg](../uploads/2008/12/45551011pf3.jpg)](../uploads/2008/12/45551011pf3.jpg "45551011pf3.jpg")
 
 Benden sana **nasihat** Sen **hiç** etmedin rahat Derdin **büyüğü** sende Geleceğin **kefende**
 

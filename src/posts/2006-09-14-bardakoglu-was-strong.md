@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![bardakoglu1476_ic.jpg](/uploads/2006/09/bardakoglu1476_ic.kucukresim.jpg)
+![bardakoglu1476_ic.jpg](../uploads/2006/09/bardakoglu1476_ic.kucukresim.jpg)
 
   
 

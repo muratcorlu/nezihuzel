@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/11242_103618946323933_100000274856463_95150_2891138_n.jpg)
+![](../uploads/image/11242_103618946323933_100000274856463_95150_2891138_n.jpg)
 
 Sevgiliye **ayna** olmuş da **bilmez** kendini  
 Kendi kendisiyle **oynaşır** görmez fendini  

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**[![gul2.jpg](/uploads/2010/07/gul2.jpg)](/uploads/2010/07/gul2.jpg "gul2.jpg")**
+**[![gul2.jpg](../uploads/2010/07/gul2.jpg)](../uploads/2010/07/gul2.jpg "gul2.jpg")**
 
 **Aşık** ki her **an** kendin görür Aşkında bin çeşit **hal** görür Hem **kendini** hem O’nu görür Sonra iki **canı** bir görür
 

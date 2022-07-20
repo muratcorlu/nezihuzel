@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/divan edeb.jpg)
+![](../uploads/image/divan edeb.jpg)
 
 Tahmis-i Yahya bey (16.yüzyıl)  
    

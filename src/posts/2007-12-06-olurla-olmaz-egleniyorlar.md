@@ -5,7 +5,7 @@ categories:
   - Olurla Olmaz Muhabbeti
 ---
 
-         [![seytanevil.jpg](/uploads/2007/12/seytanevil.jpg)](/uploads/2007/12/seytanevil.jpg "seytanevil.jpg")[](/uploads/2007/12/1350-bill-et-tom.jpg "1350-bill-et-tom.jpg") 
+         [![seytanevil.jpg](../uploads/2007/12/seytanevil.jpg)](../uploads/2007/12/seytanevil.jpg "seytanevil.jpg")[](../uploads/2007/12/1350-bill-et-tom.jpg "1350-bill-et-tom.jpg") 
 
 İki taraf da birbirini **yok** etmiş, iki taraf da **yıllarca**, on yıllarca**, asırlarca** birbiri ile uğraşırken birbirlerini **mutasyona** uğratmış, genleri, **temel yapıları**, hareket noktaları, çıkış **kotları** karşılıklı  değişmiş, **fizikleri,** kimyalarına karışmış, **bedenleri** çığrından çıkıp **iğrenç** yaratıklara dönmüşler, şekilleri **aslî** yapılarına uysa da içlerinin **ahengi** bozulmuş, inanılmaz bir **bozgunluğa** uğramışlar, **bülbül** görünüşlü **eşekarılarına** benzemişler. Habire birbirlerini **sokup** zehirliyorlar. Ne y**aptıklarını** anlamıyorlar. **Zehirlerini** her fırsatta, her yerde, **herkesin içinde** birbirlerinin **içine** akıtıyorlar. Yaşadıkları **kızgın pratik** ve kahredici ortamda bir **cins** yeni **yaratılış** ucubesi, **hilkat garibesi** yaratık şekline girmişler. Bu güne kadar yaşamda **böyleleri** görülmemiş, **yaratıklar** içinde benzerlerine **rast** gelinmemiş. **Var** oluşlarının **dayanılmaz hafifliği içinde** ruhen yok olmuşlar. Ruhen ve **bedenen** yaradılış ârızasına **mahkûm** olmuşlar. **Spastik** doğmuş çocuklara  benziyorlar. **Yok** oluşun sınırından **varlığı** seyrediyorlar. **Yoklukla** varlık arasındalar. **Keşke** hiç **var** olmasalardı. Hep **yok** kalsalardı.
 

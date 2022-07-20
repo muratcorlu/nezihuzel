@@ -5,7 +5,7 @@ categories:
   - Altın Sorular
 ---
 
-_![](/uploads/image/dua_.jpg)  
+_![](../uploads/image/dua_.jpg)  
 __Her ciddi konuyu zamanlı zamansız, uluorta dillendirmenin artık saygısızlık sayılmadığı ortamda, yürek yakan “Allah ile arkadaş olma” tartışması, yeni boyutlara ulaştı. Bir mektuba verdiğim  cevabı sunuyorum:_
 
 Rahmeti **Eyyüb’lü Hocaefendi** anlatırdı:  **Eyyüb**’ün ünlü  **Bostan iskelesinde** bir gece bir **sohbet** sırasında, çevrede **yersiz** halleriyle pek de iyi **tanınmayan** bir zat “ben dün gece rüyada  **peygamberi** gördüm” diyerek **lafa** başlamış, uzaktan bir başkası **seslenmiş**: “haydi oradan, sen **mahalle bekçisini** dahi **rüyada** göremezin…” demiş. Şimdi efendim**, olay** bu ! 

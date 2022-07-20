@@ -5,7 +5,7 @@ categories:
   - Olurla Olmaz Muhabbeti
 ---
 
-[![ikizler.gif](/uploads/2008/10/ikizler.gif)](/uploads/2008/10/ikizler.gif "ikizler.gif")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![ikizler.gif](../uploads/2008/10/ikizler.gif)](../uploads/2008/10/ikizler.gif "ikizler.gif")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 \-Sen istediğin kadar “**olmaz**” de, ben “**olur**” derim… -Sen istediğin kadar “**olur**” de, ben “**olmaz**” derim. -Ne olur ne **olmaz**, sen yine de “**olur** de…” -Ne **olur** ne olmaz sen yine de “**olmaz**” de… -Dostum **Olur**, kafamı karıştırma -Sen de beniÂ  **alıştırma**…
 

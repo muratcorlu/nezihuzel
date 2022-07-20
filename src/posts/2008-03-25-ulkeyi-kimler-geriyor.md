@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![ulke.bmp](/uploads/2008/03/ulke.bmp)](/uploads/2008/03/ulke.bmp "ulke.bmp")
+[![ulke.bmp](../uploads/2008/03/ulke.bmp)](../uploads/2008/03/ulke.bmp "ulke.bmp")
 
 “**gerilimi düşürelim**” diye diye **Türkiye’yi** Â gerilimin taaa ortasına itiyorlar. ToplumsalÂ  **sınıf** ve **siyasal** yapıları dolayısı ile **gerilimden** kendilerini kurtaramayanların **çoğunlukta** olduğu bir yerde **gerilim** nasıl düşürülecek ? Kimse bu **gerilimi** istemedi ki, kimse nasıl **gerilime** ulaşıldığını da bilemedi. Åimdi taraflar **suçu** birbirlerinin üzerine **atma yarışında Â** iyice yol alacaklar, sonunda **hodri** meydan… **Rabbim** encamını hayreyleye Â 
 

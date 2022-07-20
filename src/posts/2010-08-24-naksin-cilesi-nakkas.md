@@ -6,9 +6,9 @@ categories:
   - Dervish
 ---
 
-[![nakis-i.jpeg](/uploads/2010/08/nakis-i.jpeg)](/uploads/2010/08/nakis-i.jpeg "nakis-i.jpeg")
+[![nakis-i.jpeg](../uploads/2010/08/nakis-i.jpeg)](../uploads/2010/08/nakis-i.jpeg "nakis-i.jpeg")
 
-[](/uploads/2010/08/nakis-i.jpeg "nakis-i.jpeg")Nakkaş ki **nakşında** gizledi kendini Eliyle taktı **boynuna** kendi kemendini
+[](../uploads/2010/08/nakis-i.jpeg "nakis-i.jpeg")Nakkaş ki **nakşında** gizledi kendini Eliyle taktı **boynuna** kendi kemendini
 
 Sonsuzluk **deryasında** hür salınırken **Görüntüye** girmek diledi erken **Dört taraftan** uğrayınca belaya Ellerini açtı yüce **Mevlaya**
 

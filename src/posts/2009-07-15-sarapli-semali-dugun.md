@@ -6,7 +6,7 @@ categories:
 ---
 
   
-![](/uploads/image/sarap.jpg)
+![](../uploads/image/sarap.jpg)
 
 Güler Sabancı'nın Şarköy'deki şarap fabrikası, iki gün süren bir düğün törenine evsahipliği yaptı. Aslıhan Danışman ile ABD'li Adam Madoian, köy düğünüyle evlendi.. Londra'da açılan Akbank'ın ilk temsilcisi olan Tarhan Danışman'ın kızı Aslıhan Danışman (36) ile Amerikalı Adam Madoian (32) iki gün süren eğlenceyle Türk geleneklerine göre evlendiler.
 

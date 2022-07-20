@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![yaris.jpg](/uploads/2007/12/yaris.jpg)](/uploads/2007/12/yaris.jpg "yaris.jpg")
+[![yaris.jpg](../uploads/2007/12/yaris.jpg)](../uploads/2007/12/yaris.jpg "yaris.jpg")
 
 Â Hoca ile Hakikat hanım Yaris’e binip (Hakikat hanımın yeni aldığı araba) İstanbul’a gittiler. Gaaak. Guk. Hakikat hanım sergi açacak, yanında Ãlker hanımın sergisi, Hoca da konser verecek, nasipse…Gaaak. Guk.. Guruk. İzmiti geçip deniz kenarına varınca Â Hakikat hanım denizle gölü farketmedi:
 

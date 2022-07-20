@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-  ![mehmet.bmp](/uploads/2006/10/mehmet.bmp)
+  ![mehmet.bmp](../uploads/2006/10/mehmet.bmp)
 
   
 

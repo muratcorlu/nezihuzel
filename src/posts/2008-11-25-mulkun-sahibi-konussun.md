@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![kalem1cj0pm82.jpg](/uploads/2008/11/kalem1cj0pm82.jpg)](/uploads/2008/11/kalem1cj0pm82.jpg "kalem1cj0pm82.jpg")
+[![kalem1cj0pm82.jpg](../uploads/2008/11/kalem1cj0pm82.jpg)](../uploads/2008/11/kalem1cj0pm82.jpg "kalem1cj0pm82.jpg")
 
 Hem **duyar**,hem duyurur Hem aç bırakır, hem **doyurur** şairler. Hem görür, hem **göz** süzer, Hem **yazar**,hem **bozar** şairler.
 

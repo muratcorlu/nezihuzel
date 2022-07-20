@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/kermes.jpg)
+![](../uploads/image/kermes.jpg)
 
 Hanımlar **kermes** düzenlediler  
 Sosyetenin **süslü** hanımları  

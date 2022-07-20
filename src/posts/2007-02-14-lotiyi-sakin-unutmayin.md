@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**[![Pierre Loti](/uploads/2007/08/loti.bmp)](/uploads/2007/08/loti.bmp "Pierre Loti")**
+**[![Pierre Loti](../uploads/2007/08/loti.bmp)](../uploads/2007/08/loti.bmp "Pierre Loti")**
 
  **Pierre Loti,** Resim:**Henri Rousseau** (Laval 1844-Paris 1910)
 

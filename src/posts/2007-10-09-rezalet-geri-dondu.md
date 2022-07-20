@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-Â ![](/uploads/image/karga.jpg)
+Â ![](../uploads/image/karga.jpg)
 
 \-Adi **karga** aylardır **neredesin** ?
 

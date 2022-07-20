@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-[![si0095_cekirge_grasshopper.jpg](/uploads/2008/04/si0095_cekirge_grasshopper.jpg)](/uploads/2008/04/si0095_cekirge_grasshopper.jpg "si0095_cekirge_grasshopper.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![si0095_cekirge_grasshopper.jpg](../uploads/2008/04/si0095_cekirge_grasshopper.jpg)](../uploads/2008/04/si0095_cekirge_grasshopper.jpg "si0095_cekirge_grasshopper.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 Bir çekirge doğdu, adı **Kalender,** cinsi ender, **çekirgeler** güzeli… **Anas**ı küçükken onu çok severdi, **Kafasını** antenini okşar **üşümesin** diye yapraklara sarardı. **Gece** soğukta bırakmaz, koynuna alırdı. Başka **böceklere** yedirmedi**. Kalender** çekirge büyüdü. Koca başlı bir **çekirge** oldu. Ãocukluk ve **gençlik** yılları **geride** kalmıştı. **Anası** öldü, **babası** bilinmezlere karıştı.
 

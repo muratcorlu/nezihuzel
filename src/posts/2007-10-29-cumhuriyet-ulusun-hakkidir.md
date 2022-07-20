@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-**[![pst.jpg](/uploads/2007/10/pst-1.jpg)](/uploads/2007/10/pst-1.jpg "pst.jpg")Â** 
+**[![pst.jpg](../uploads/2007/10/pst-1.jpg)](../uploads/2007/10/pst-1.jpg "pst.jpg")Â** 
 
 ****(Arşiv'den)******Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 
 

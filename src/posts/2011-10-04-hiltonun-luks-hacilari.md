@@ -7,7 +7,7 @@ categories:
 
 /\* Style Definitions \*/ table.MsoNormalTable {mso-style-name:"Normal Tablo"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;}
 
-[![ihramdan-cikti.jpg](/uploads/2011/10/ihramdan-cikti.jpg)](/uploads/2011/10/ihramdan-cikti.jpg "ihramdan-cikti.jpg")
+[![ihramdan-cikti.jpg](../uploads/2011/10/ihramdan-cikti.jpg)](../uploads/2011/10/ihramdan-cikti.jpg "ihramdan-cikti.jpg")
 
 (Arşiv'den)
 
@@ -25,7 +25,7 @@ Bu değerli hacı adaylarımız  ibadetlerini yerine getirirken aralarından 70
 
 Otellerde üç öğün açık büfe var...  Doyuncaya kadar yiyip içecekler, gidecekleri yerlere lüks klimalı otobüsler tahsis edilmiş. Yanlarında özel rehberler ve doktorlar var... Arafatta kalacakları bir gece için klimalı çadırlar hazırlandı. Çadırlarda jakuzili banyolar kuruldu. Hacılar, Mekke’ye 3 şubatta gidip 17 şubatta dönüyorlar...
 
-[![b-2_spirit_bombing.jpg](/uploads/2011/10/b-2_spirit_bombing.jpg)](/uploads/2011/10/b-2_spirit_bombing.jpg "b-2_spirit_bombing.jpg")
+[![b-2_spirit_bombing.jpg](../uploads/2011/10/b-2_spirit_bombing.jpg)](../uploads/2011/10/b-2_spirit_bombing.jpg "b-2_spirit_bombing.jpg")
 
 Amerikan bombardımanı herhalde 15 şubatta... Yani bombardıman başladıktan iki gün sonra ülkelerine dönecekler... Uçağın lombozlarından bakarlarsa belki de hengameyi görebilirler... Acaba Irak’tan gidecek hacılar da var mı ? Onların durumları nedir ? Suudiler onların yerine  Dahran üssündeki Amerikan askerlerini Hacı sayarlar mı dersiniz ?   
 
@@ -35,6 +35,6 @@ Birinci Dünya savaşı sırasında İngilizler İstanbul’dan bir grup Müslü
 
 Bunlar ikiyüz altmış  kişi...Kişi başına toplam  14 bin dolar verecekler...21 milyar TL. Bir milyarına karışmam, ama o yirmi milyar,Türkiyenin bu günkü ekonomik koşullarında,  Allahüalem zift gibi kara paradır... Zemzemle yıkansa aklanmaz... Kara parayla, kara cüzdanla hacca gidenin hacılığı dandik, yüzü kapkara olur... Yazık... Hz. İbrahim’in Kara taşı, kara para yıkama merkezi oldu...  Eskiden hacca gidenler yola çıkarken paralarını "alın teri parasıdır" diye esnafın paraları ile değiştirirlermiş...Yine de belli olmaz bakarsın Hak CC. O saf insanların yüzü suyu hörmetine bu “lüks” hacıların da ibadetini kabul eder... Biz bilemeyiz... Yine de haccınız makbul, dualarınız “müstecab”olsun ya Hacı efendiler... (Arşiv'den)
 
-                              [![hacilar1.jpg](/uploads/2011/10/hacilar1.jpg)](/uploads/2011/10/hacilar1.jpg "hacilar1.jpg")
+                              [![hacilar1.jpg](../uploads/2011/10/hacilar1.jpg)](../uploads/2011/10/hacilar1.jpg "hacilar1.jpg")
 
 /\* Style Definitions \*/ table.MsoNormalTable {mso-style-name:"Normal Tablo"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;}

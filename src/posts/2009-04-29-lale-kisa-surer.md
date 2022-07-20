@@ -5,6 +5,6 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/DSC03497.JPG)  
+![](../uploads/image/DSC03497.JPG)  
   
 Sapanca  pazarı, mart 2009

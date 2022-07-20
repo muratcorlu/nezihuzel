@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![ferdi.bmp](/uploads/2008/01/ferdi.bmp)](/uploads/2008/01/ferdi.bmp "ferdi.bmp")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![ferdi.bmp](../uploads/2008/01/ferdi.bmp)](../uploads/2008/01/ferdi.bmp "ferdi.bmp")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 **Ferdi Tayfur’un** 400 bin hayranı san’atçıların **özel hayatlarının** ifşa edilmesine karşı çıkmış. Bu muazzam halk kitlesi **RTÃK**’e baş vurarak bu eylemin **TV**’lerde **yasaklanmasını** istemiş… **Ne hakla** ?
 

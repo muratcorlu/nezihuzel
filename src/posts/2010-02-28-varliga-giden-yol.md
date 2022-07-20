@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
- **![](/uploads/image/kitap.jpg)**
+ **![](../uploads/image/kitap.jpg)**
 
 **Nübüvvet** sırrında  
 Nübüvvete **karşı çıkmak** ta vardır  

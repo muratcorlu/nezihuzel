@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-[![papaa.jpg](/uploads/2011/09/papaa.jpg)](/uploads/2011/09/papaa.jpg "papaa.jpg")
+[![papaa.jpg](../uploads/2011/09/papaa.jpg)](../uploads/2011/09/papaa.jpg "papaa.jpg")
 
 BERLIN (Reuters) - Le pape Benoît XVI, au premier jour de sa visite en Allemagne, a invité jeudi les catholiques allemands à ne pas s'éloigner de l'Eglise malgré les scandales de pédophilie impliquant des ecclésiastiques. Dans l'avion qui le conduisait dans son pays natal pour son troisième voyage depuis son élection en avril 2005, le pape a dit comprendre que certains fidèles, notamment les victimes de crimes sexuels et leurs proches, soient "scandalisés" et se disent au bout du compte: "Cette Eglise n'est plus la mienne." "L'Eglise est comme le filet du Seigneur qui peut ramener de bons et de mauvais poissons (...) Nous avons appris à vivre avec les scandales et à les combattre", a-t-il dit. Selon les chiffres officiels, 181.000 catholiques allemands ont quitté l'Eglise l'an dernier. C'est plus, pour la première fois, que le nombre de protestants abandonnant leurs différentes confessions et que le nombre de baptêmes catholiques célébrés dans le pays.
 
@@ -17,4 +17,4 @@ _Türkçe özet:Almanya’yı resmen ziyaret  den Papa XVI. Benoit, Alman Katol
 
 _Resmi rakkamlara göre geçen yıl 181.ooo Alman Katolik kilisesini terketti. Kiliseye  600 cinsel taciz tazminat davası  açıldı. Yıllarca süren taciz olaylarının 2000 olduğu tahmin ediliyor. Perşembe günü dört cinsel taciz kurbanını aile Berlin’de Brandenbourg kapısının yanına  çocukları döven eli sopalı  bir rahibe heykeli dikerek üzerine “böyle bir şey asla..” diye yazdılar._
 
-[![pap1.jpg](/uploads/2011/09/pap1.jpg)](/uploads/2011/09/pap1.jpg "pap1.jpg")[![hac.jpg](/uploads/2011/09/hac.jpg)](/uploads/2011/09/hac.jpg "hac.jpg")[![pope_benedict_vatican_sex_.jpg](/uploads/2011/09/pope_benedict_vatican_sex_.jpg)](/uploads/2011/09/pope_benedict_vatican_sex_.jpg "pope_benedict_vatican_sex_.jpg")
+[![pap1.jpg](../uploads/2011/09/pap1.jpg)](../uploads/2011/09/pap1.jpg "pap1.jpg")[![hac.jpg](../uploads/2011/09/hac.jpg)](../uploads/2011/09/hac.jpg "hac.jpg")[![pope_benedict_vatican_sex_.jpg](../uploads/2011/09/pope_benedict_vatican_sex_.jpg)](../uploads/2011/09/pope_benedict_vatican_sex_.jpg "pope_benedict_vatican_sex_.jpg")

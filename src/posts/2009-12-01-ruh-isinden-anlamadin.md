@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/sen.jpg)
+![](../uploads/image/sen.jpg)
 
 Kafamı **bozdun** da  
 **Ruhuma** karışamadın  

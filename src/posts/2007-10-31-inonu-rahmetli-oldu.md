@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![261900.jpg](/uploads/2007/10/261900.jpg)](/uploads/2007/10/261900.jpg "261900.jpg")
+[![261900.jpg](../uploads/2007/10/261900.jpg)](../uploads/2007/10/261900.jpg "261900.jpg")
 
 Fransız **radyo televizyonunun** büyük **oditoryomu** o gün kapılara kadar doluydu**. Paris’te** bir haftadır yollarda, **metro istasyonlarında**, görülecek yerlerde asılı **devÃ¢sÃ¢ bir afiş,** önemli bir **konserin** verileceğini duyuruyordu. **Afiş’in** orta yerinde büyük harflerle “**Turquie” Türkiye** yazıyordu. İkinci başlık ise “ **Musique Soufi” Sufi Müziği**.
 

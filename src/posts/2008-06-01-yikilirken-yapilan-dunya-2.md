@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![kralice-113.bmp](/uploads/2008/06/kralice-113.bmp)](/uploads/2008/06/kralice-113.bmp "kralice-113.bmp")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â **Â** Â 
+[![kralice-113.bmp](../uploads/2008/06/kralice-113.bmp)](../uploads/2008/06/kralice-113.bmp "kralice-113.bmp")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â **Â** Â 
 
 **AKP iktidarını** değil ama **AKP hareketini** güçlendirecek **bundan iyi** bir şey olamazdı. Åimdi **Parti** kapanacak, bir **İktidar** yeryüzünde görülmedik biçimde **sarsılacak**, yüze yakın kişiye **siyasi** yasaklama gelecek. **Anlamıyorum** bu **nasıl olacak** ?
 

@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![yusuf-askar.jpg](/uploads/2006/11/yusuf-askar-2.jpg)İsrail**,** çevresindeki devletleri politik **sindirmeyle** dize getirdikten sonra henüz alt edemediği **halklara** saldırıyor. Bu politika **Siyonistler** tarafından bir **siyasi doktrin** olarak bir süre önce ortaya atıldı ve **11 eylülden sonra** adı "**terörizme karşı savaş**" olarak belirlendi**. İngilizce** ve **Fransızca** aslını verdiğim reportaj**'**da **Lübnan'da** yetişmiş değerli bir **siyaset** bilimci ve Laik bir Parti'nin eski lideri **Yusuf Aşkar** bunları söylüyor.
+![yusuf-askar.jpg](../uploads/2006/11/yusuf-askar-2.jpg)İsrail**,** çevresindeki devletleri politik **sindirmeyle** dize getirdikten sonra henüz alt edemediği **halklara** saldırıyor. Bu politika **Siyonistler** tarafından bir **siyasi doktrin** olarak bir süre önce ortaya atıldı ve **11 eylülden sonra** adı "**terörizme karşı savaş**" olarak belirlendi**. İngilizce** ve **Fransızca** aslını verdiğim reportaj**'**da **Lübnan'da** yetişmiş değerli bir **siyaset** bilimci ve Laik bir Parti'nin eski lideri **Yusuf Aşkar** bunları söylüyor.
 
   Röportajı yapan **İsviçreli** Gazeteci soruyor - Bu savaş bir **"sömürge" savaşı mıdır ?** - Hayır diyor **Yusuf Aşkar,** eski **sömürge** savaşlarında sömürgeciler **sömürülecek** halklar ortadan kalkmasın diye onlara **doğrudan** saldırmazlardı, böyle bir **siyaset** çıkarlarına aykırıydı, ama bu savaş **halkı yok etme** savaşıdır. **İmha** savaşıdır. **Soykırımdır**.Bu savaş **sömürge** savaşlarına benzemiyor...
 

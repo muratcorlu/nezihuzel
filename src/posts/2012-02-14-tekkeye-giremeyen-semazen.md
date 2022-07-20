@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![bahariye.bmp](/uploads/2012/02/bahariye.bmp)](/uploads/2012/02/bahariye.bmp "bahariye.bmp")
+[![bahariye.bmp](../uploads/2012/02/bahariye.bmp)](../uploads/2012/02/bahariye.bmp "bahariye.bmp")
 
 Kültür Bakanlığı Galata Mevlevihane’si Müzesi’nde her ay sema toplantıları yapan “İstanbul Sema Grubu” kuruluşundan bazı semazenler Eyyüb Sultan'da onarımı yeni biten “Eyyüb Bahariye Mevlevihanesi'ni ziyaret etmek istemişler. Kapıyı çalmışlar. Biri açmış… -Biz Galata Mevlevihanesi müzesi’nde sema görevi yapan semazenleriz, ziyarete geldik.. -Giremezsiniz burası özel mülktür, ziyaretçi kabul etmiyoruz.. -Nasıl olur.. Bu yapı kamuya aittir,kimsenin malı olamaz.. -Giremezsiniz dedik ya..
 

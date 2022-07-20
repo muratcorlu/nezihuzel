@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/polis.jpg)
+![](../uploads/image/polis.jpg)
 
 Geçtiğimiz hafta emekli bir **güvenlikçi** bana şunları söyledi “Bize **amirlerimiz** derlerdi ki **olaylar** başladığında karşı taraftan gelen **ilk ateşe** cevap vermeyiniz, o tarafa **ateş** etmeyiniz.  –**Neden**  diye sorduğumuzda – O **bizden** olabilir, diye cevap verirlerdi ...”
 

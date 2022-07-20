@@ -5,4 +5,4 @@ categories:
   - Destur
 ---
 
-[![cocuk.jpg](/uploads/2010/07/cocuk.jpg)](/uploads/2010/07/cocuk.jpg "cocuk.jpg") Berlin, Ekim 1945
+[![cocuk.jpg](../uploads/2010/07/cocuk.jpg)](../uploads/2010/07/cocuk.jpg "cocuk.jpg") Berlin, Ekim 1945

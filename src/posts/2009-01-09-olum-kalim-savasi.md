@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![1952dulles.jpg](/uploads/2009/01/1952dulles.jpg)](/uploads/2009/01/1952dulles.jpg "1952dulles.jpg") John Foster Dalles
+[![1952dulles.jpg](../uploads/2009/01/1952dulles.jpg)](../uploads/2009/01/1952dulles.jpg "1952dulles.jpg") John Foster Dalles
 
 **Muhalifleri** bir köşeye sıkıştırıp **yok** etme **doktrini** dünya politik sahnesinde bir zamanların Amerikan Dış İşleri Bakanı **John Foster Dalles** tarafından icat edilmiştir. Bu zekice **politika** ilk defa 1950-1053 **Kore savaşında** denenmiş, kısmen **başarılı** olmuş, daha sonra **Vietnam** savaşında tekrarlanmış, **başarı** kazanamamıştır.
 
@@ -25,6 +25,6 @@ Dünyada **Amerika** merkezli siyasetin ana hatları hudur. Ancak bu siyaset **D
 
 Yine de doğrusunu **Rabbim** biliyor. Bizden bu kadar.
 
-[![42345.jpg](/uploads/2009/01/42345.jpg)](/uploads/2009/01/42345.jpg "42345.jpg") Not: Kore Savaşında canlarını feda eden  aziz şehitlerimizin hatıraları önünde saygı ile eğilirim. Onlar bir ideal uğruna öldüler.                                        Nezih Uzel 
+[![42345.jpg](../uploads/2009/01/42345.jpg)](../uploads/2009/01/42345.jpg "42345.jpg") Not: Kore Savaşında canlarını feda eden  aziz şehitlerimizin hatıraları önünde saygı ile eğilirim. Onlar bir ideal uğruna öldüler.                                        Nezih Uzel 
 
-[](/uploads/2009/01/42345.jpg "42345.jpg")
+[](../uploads/2009/01/42345.jpg "42345.jpg")

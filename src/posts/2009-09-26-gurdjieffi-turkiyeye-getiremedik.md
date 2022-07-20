@@ -5,7 +5,7 @@ categories:
   - Altın Sorular
 ---
 
-![](/uploads/image/gurdjieff.jpg)  
+![](../uploads/image/gurdjieff.jpg)  
 George İvanovich Gurdjieff 1866-1949
 
 Nezih Uzel’den not:  

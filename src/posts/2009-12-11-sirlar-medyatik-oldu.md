@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-_**![](/uploads/image/konya.jpg)  
+_**![](../uploads/image/konya.jpg)  
 **Hüseyin Tüzün, Konya 1961_
 
 _**Nezih Uzel**'den not: İki soru daha geldi. Sunuyorum:  

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![yunusemre.jpg](/uploads/2007/10/yunusemre.jpg)](/uploads/2007/10/yunusemre.jpg "yunusemre.jpg")
+[![yunusemre.jpg](../uploads/2007/10/yunusemre.jpg)](../uploads/2007/10/yunusemre.jpg "yunusemre.jpg")
 
 Acep nedir **deli** olmak Aşk **oduna** yanan kişi
 

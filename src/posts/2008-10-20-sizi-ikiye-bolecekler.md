@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-[![11370.jpg](/uploads/2008/10/11370.jpg)](/uploads/2008/10/11370.jpg "11370.jpg")
+[![11370.jpg](../uploads/2008/10/11370.jpg)](../uploads/2008/10/11370.jpg "11370.jpg")
 
 Yusufçuk ince **narin** çelimsiz, **Kalender** kaba saba sevimsiz.
 
@@ -27,4 +27,4 @@ Sen **sen ol** da, ben de **ben** kalayım Bırak bu işten **ibret** alayım.
 
 Sana ne **Dedilerse** onu yap, Durma sakın **kendine** bir yer kap.
 
-_**Yolcu**_ der ki: susun, ey **böcekler[](/uploads/2008/10/11370.jpg "11370.jpg"),** Sizi de **ikiye** bölecekler.
+_**Yolcu**_ der ki: susun, ey **böcekler[](../uploads/2008/10/11370.jpg "11370.jpg"),** Sizi de **ikiye** bölecekler.

@@ -5,7 +5,7 @@ categories:
   - Olurla Olmaz Muhabbeti
 ---
 
-              [![fishing_dawn.gif](/uploads/2008/09/fishing_dawn.gif)](/uploads/2008/09/fishing_dawn.gif "fishing_dawn.gif")
+              [![fishing_dawn.gif](../uploads/2008/09/fishing_dawn.gif)](../uploads/2008/09/fishing_dawn.gif "fishing_dawn.gif")
 
 \-Haydi gidip **balık t**utalım.
 

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**![](/uploads/image/yy.jpg)**
+**![](../uploads/image/yy.jpg)**
 
 **terörün kullanılmasını dışlamalıyız  
                                   Başkan Obama**

@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![](/uploads/image/ankara_.jpg)
+![](../uploads/image/ankara_.jpg)
 
 Yakında bir **asrı** dolduracak olan **Cumhuriyetimizin** yeni bir **kuruluş** yıldönümü kutlanıyor. Bu aziz **ülkede** yaşayan ve bu **şerefli** devletin üyesi olmaktan **gurur duyan** herkese, her **Türk'**e bu önemli gün **kutlu olsun**. Tarihte **zor** kazanılmış bu **vatan,** devlet ve **kamu** hakkının, kıyamete kadar **devamına** ve korunmasına **Rabbim** razı olsun.  
   

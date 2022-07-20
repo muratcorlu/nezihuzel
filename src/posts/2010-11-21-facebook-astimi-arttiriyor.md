@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-[![cocuklarda-astim-hastaligi.jpg](/uploads/2010/11/cocuklarda-astim-hastaligi.jpg)](/uploads/2010/11/cocuklarda-astim-hastaligi.jpg "cocuklarda-astim-hastaligi.jpg")
+[![cocuklarda-astim-hastaligi.jpg](../uploads/2010/11/cocuklarda-astim-hastaligi.jpg)](../uploads/2010/11/cocuklarda-astim-hastaligi.jpg "cocuklarda-astim-hastaligi.jpg")
 
 _Türkçe özet: İtalyan doktorları Facebook bağımlısı 18 yaşında bir gencin, ekran önünde geçirdiği uzun saatlerden sonra astım krizlerine yakalandığını saptadılar. (Nefes darlığı hastalığı) Doktorlar kız arkadaşından yeni ayrılan gencin, Facebook’ta eski sevgilisinin resmini gördükten sonra krize girdiğini ileri sürüyorlar._ (Teşekkürler Yahoo)
 

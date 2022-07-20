@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**[![crist_dwelle1.jpg](/uploads/2008/11/crist_dwelle1.jpg)](/uploads/2008/11/crist_dwelle1.jpg "crist_dwelle1.jpg")**
+**[![crist_dwelle1.jpg](../uploads/2008/11/crist_dwelle1.jpg)](../uploads/2008/11/crist_dwelle1.jpg "crist_dwelle1.jpg")**
 
 **Başkan** olmak için terketti **Kenya’**yı Şimdi anlayacak anyayı  **konya**’yı Sıkınca boynunu **doların**  kemendi Olmayacak derdinin **misli** menendi
 

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/ask_resimleri.jpg)
+![](../uploads/image/ask_resimleri.jpg)
 
 Sevgi bir ümittir **sevgiliden** öte  
 **Ümit** yoksa sevgi **kuşu** nasıl öte  

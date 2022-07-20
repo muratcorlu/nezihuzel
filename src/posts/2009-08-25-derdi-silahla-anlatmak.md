@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/teror.jpg)
+![](../uploads/image/teror.jpg)
 
 Değerli **Genel kurmay Başkanımız Silahlı Kuvvetlerimiz** “ dünyada eşine hiç **rastlanmayan** bir başarı ve özveriyle yürüttüğü **mücadeleye** bundan sonra da artan bir **kararlılıkla** devam edecektir” diyor.
 

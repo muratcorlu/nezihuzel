@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-![](/uploads/image/flaveolum.jpg)
+![](../uploads/image/flaveolum.jpg)
 
 Sen ne sandın **Yusufçuğu**, bir böcek mi ?  
 Ha **Kalenderin** aşkından **ölecek** mi ?  

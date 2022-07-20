@@ -7,7 +7,7 @@ categories:
   - Günün Çilesi
 ---
 
-_![](/uploads/image/mevlana.jpg)_
+_![](../uploads/image/mevlana.jpg)_
 
 _Bir mektup ve cevap:  
 _  

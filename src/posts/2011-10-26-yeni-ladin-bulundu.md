@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![681874_detay.jpg](/uploads/2011/10/681874_detay.jpg)](/uploads/2011/10/681874_detay.jpg "681874_detay.jpg")World Trade Center faciasından sonra Amerika Cumhurbaşkanı Bush, olayın tüm suçunu eski bir ortağı olan Vahhabî Arap  Usame Bin Ladin’in üzerine yüklemişti. Ladin’in başında bulunduğu “el Kaide” örgütü, Başkanın  başlıca düşmanları arasına girdi. Ancak Amerika Bin Ladin’i yakalamadı. Yakalamayacağı daha ilk günden belliydi.
+[![681874_detay.jpg](../uploads/2011/10/681874_detay.jpg)](../uploads/2011/10/681874_detay.jpg "681874_detay.jpg")World Trade Center faciasından sonra Amerika Cumhurbaşkanı Bush, olayın tüm suçunu eski bir ortağı olan Vahhabî Arap  Usame Bin Ladin’in üzerine yüklemişti. Ladin’in başında bulunduğu “el Kaide” örgütü, Başkanın  başlıca düşmanları arasına girdi. Ancak Amerika Bin Ladin’i yakalamadı. Yakalamayacağı daha ilk günden belliydi.
 
 Amerika, Ladin imajı yıllarca kullandı. O’nun adını ileri sürerek dünyada istediği her yeri bombaladı. Olasılıkla gizli terörist saldırılar düzenleyerek Ladin’in üzerine attı. “Amerika düşmanlarını sindirmek zorundadır” diyerek dünyanın her yerine gece yarıları inen esrarengiz uçaklarla karşıtlarını toplayıp ıssız yerlere götürdü, sorgulayıp öldürdü. Dehşet içinde kalan dünya yöneticileri bütün bunlara karşı çıkamadılar.
 

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-_![](/uploads/image/LIMNI2.jpg)_
+_![](../uploads/image/LIMNI2.jpg)_
 
 _"Malatyalı ünlü şair ve mutasavvıf Niyazi-i Mısri’nin türbe ve dergâhını ziyaret etmek üzere Yunanistan'ın Limni adasına gittik. Malatya Belediyesi olarak uzun bir süreden beri Niyazi-i Mısri’nin kabrini ziyaret etmek, taşınması mümkün ise Malatya’ya taşımak, değilse yerinde aslına uygun olarak restorasyonunun yapılmasını sağlamak, dünyaca ünlü bu büyük mutasavvıfı yeni nesle tanıtmak adına çalışmalar yapmak istiyorduk.  
 27 Ağustos 2008 tarihinde Belediye Kültür Sanat Müdür Vekili Muhittin Turan ve adayla daha önce kültürel ilişkileri bulunan Gökçe ada Belediye Başkanı Yücel Atalay’la birlikte Limni’ye gittik. Burada gerek kabrin bulunduğu beldenin Myrina Belediye Başkanı Athanassios, gerekse komsu belde Moudros Belediye Başkanı Kostas, bizleri ilgi ile karşıladılar, makamlarında ağırladılar.  

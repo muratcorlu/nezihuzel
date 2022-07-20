@@ -7,7 +7,7 @@ categories:
 
 /\* Style Definitions \*/ table.MsoNormalTable {mso-style-name:"Normal Tablo"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;}
 
-[![hasan.jpg](/uploads/2010/12/hasan.jpg)](/uploads/2010/12/hasan.jpg "hasan.jpg")  Bir Kuzey Afrika ülkesi olan Fas’ın Marakeş şehrinde uluslar arası bir film festivali yapılıyor. Günlerdir devam eden bu festivalde, altmışa yakın irili, ufaklı film, sinema dünyasının ünlülerine ve Fas halkına gösteriliyor. Festival hakkında konuşan Faslı bir yetkili  “Dünyanın en sansürsüz film festivali” dedi.
+[![hasan.jpg](../uploads/2010/12/hasan.jpg)](../uploads/2010/12/hasan.jpg "hasan.jpg")  Bir Kuzey Afrika ülkesi olan Fas’ın Marakeş şehrinde uluslar arası bir film festivali yapılıyor. Günlerdir devam eden bu festivalde, altmışa yakın irili, ufaklı film, sinema dünyasının ünlülerine ve Fas halkına gösteriliyor. Festival hakkında konuşan Faslı bir yetkili  “Dünyanın en sansürsüz film festivali” dedi.
 
 Orada olsaydım o yetkiyle şunu soracaktım. “ Sizin değişmez kralınız II. Hasan’la bir zaman iç işleri bakanınız  olan general Ufkir arasında yıllar önce geçen bir olayı beyaz perdeye aktaran bir film, festivale gelseydi oynatır mıydınız ?
 
@@ -29,6 +29,6 @@ Benim **hatırladığıma** göre resmi bildirilerde bu **uçak** meselesi yer a
 
 Kanlı **sömürgecılerle** bir olup **ülkeyi** uzun yıllardan bu yana, **demir pençeleri** ile işgal altında tutan **II. Hasan** ve babası döneminde **Fas**’ta **Fransız sömürgeciliği** adına işlenen **cinayetlerde** fedayı can eden muhterem **şehit** binlerce **Müslüman** kardeşimizin **aziz ruhları** önünde hörmetle eğilirim. Bizlere **dua** etsinler.
 
-[![hass_ufkir.jpg](/uploads/2010/12/hass_ufkir.jpg)](/uploads/2010/12/hass_ufkir.jpg "hass_ufkir.jpg")
+[![hass_ufkir.jpg](../uploads/2010/12/hass_ufkir.jpg)](../uploads/2010/12/hass_ufkir.jpg "hass_ufkir.jpg")
 
-[Altmışlı yıllarda Kral II. Hasan'ın elini öpen general Ufkir](/uploads/2010/12/hass_ufkir.jpg "hass_ufkir.jpg")
+[Altmışlı yıllarda Kral II. Hasan'ın elini öpen general Ufkir](../uploads/2010/12/hass_ufkir.jpg "hass_ufkir.jpg")

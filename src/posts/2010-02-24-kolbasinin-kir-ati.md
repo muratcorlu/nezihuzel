@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/BEYAZAT2.jpg)
+![](../uploads/image/BEYAZAT2.jpg)
 
 (Arşiv’den)  
 I971 yılında Türkiye’de yine bir hükümet darbesi oldu. Biz radyoda darbe olacağını arşiv memurlarından öğrendirdik. Hava gerginleşip bir şeyler olacağı sezildiğinde, uyanık yöneticiler, arşivcilere haber gönderip Hasan Mutlucan’ın bantlarını hazırlatırlardı. Gecenin hangi saatinde devrim olacağı belli olmadığı için bantları akşamdan hazır bulundurmak gerekiyordu.

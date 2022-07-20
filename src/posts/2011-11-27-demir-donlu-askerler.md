@@ -6,7 +6,7 @@ categories:
   - Muhtasar Dünya Hikayaleri
 ---
 
-[![sovvvv.jpg](/uploads/2011/11/sovvvv.jpg)](/uploads/2011/11/sovvvv.jpg "sovvvv.jpg")  {Tarihten İbretli kesitler}
+[![sovvvv.jpg](../uploads/2011/11/sovvvv.jpg)](../uploads/2011/11/sovvvv.jpg "sovvvv.jpg")  {Tarihten İbretli kesitler}
 
 Malya ovasına gelmiş olan Selçuklu ordusunun başkumandanı Emir Necmeddin, yardımcıları Behramşah Candar, Gürcü Zahiruddin Şir idi. Bin kişilik 3000 altına kiralanmış zırhlı Frank şövalyelerinin başında ise Ferdehala (ya da Frederic) bulunuyordu.
 

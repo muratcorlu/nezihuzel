@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![](/uploads/image/_Kemal_Ataturk(1).jpg)
+![](../uploads/image/_Kemal_Ataturk(1).jpg)
 
 Gazi **Mustafa Kemâl Paşa**, 15 Haziran 1919 günü Amasya’dan Diyarbakır Valiliği’ne şu telgrafı göndermişti:
 

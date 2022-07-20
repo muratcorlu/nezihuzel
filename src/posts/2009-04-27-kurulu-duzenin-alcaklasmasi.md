@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/1_465.jpg)
+![](../uploads/image/1_465.jpg)
 
 Kurulu düzen **alçaklaşınca,  
 **Ona karşı çıkmak **namus** borcudur.  

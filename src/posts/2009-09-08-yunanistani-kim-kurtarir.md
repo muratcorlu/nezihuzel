@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![](/uploads/image/yunanistan-26.jpg)
+![](../uploads/image/yunanistan-26.jpg)
 
 la **Grèce** doit résoudre ses **problèmes**. Les faiblesses du **système politique grec**, qui baigne dans la **corruption**, le **scandale** et le **favoritisme**, retardent la mise en oeuvre de **réformes éco**nomiques aussi indispensables que douloureuses. La **Grèce** présente la balance des **paiements** la plus **déficitaire** de la zone **euro**, en proportion du **produit intérieur brut (PIB).** Le taux de **chômage** chez ses jeunes diplômés de l'**université** est de 25 %, et son marché du t**ravail** compte parmi les plus rigides d'**Europe**.
 

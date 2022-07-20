@@ -7,7 +7,7 @@ categories:
 
 /\* Style Definitions \*/ table.MsoNormalTable {mso-style-name:"Normal Tablo"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;}
 
-[![tekkee.jpg](/uploads/2011/04/tekkee.jpg)](/uploads/2011/04/tekkee.jpg "tekkee.jpg")[![tekke1.jpg](/uploads/2011/04/tekke1.jpg)](/uploads/2011/04/tekke1.jpg "tekke1.jpg")
+[![tekkee.jpg](../uploads/2011/04/tekkee.jpg)](../uploads/2011/04/tekkee.jpg "tekkee.jpg")[![tekke1.jpg](../uploads/2011/04/tekke1.jpg)](../uploads/2011/04/tekke1.jpg "tekke1.jpg")
 
 (Bir okuyucu mektubu ve cevabımız)
 

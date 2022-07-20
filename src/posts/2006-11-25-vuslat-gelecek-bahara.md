@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![ekmel.jpg](/uploads/2006/11/ekmel.jpg)Papa tartışmalarının göz gözü görmeyen **sisli** atmosferinde **akıllı,** bir söz aradan çıkarak **sabah yıldızı** gibi parladı. Sayın **Ekmeleddin İhsanoğlu** konuştu. **Papa**'nın "**iki büyük hata"** yaptığını anlatan İhsanoğlu şöyle dedi:
+![ekmel.jpg](../uploads/2006/11/ekmel.jpg)Papa tartışmalarının göz gözü görmeyen **sisli** atmosferinde **akıllı,** bir söz aradan çıkarak **sabah yıldızı** gibi parladı. Sayın **Ekmeleddin İhsanoğlu** konuştu. **Papa**'nın "**iki büyük hata"** yaptığını anlatan İhsanoğlu şöyle dedi:
 
 "_**Birinci** hatası; **kilise başkanı** olarak kendi **dinini**, başka bir dinle **mukayese edemez**. Böyle bir şey olamaz, bu büyük bir **hatadır**. Bunu yapmıştır. **İkincisi**, bunu yaparken bir **akademisyen** olarak yapıyorsa, eğer **inanç ve akıl** meselesini tartışmak istiyorsa, bunu **teolojik** metinler arasında yapması lazım. **Savaşan bir kumandanın**, bir imparatorun **küfreden** bir eserini alıp **mesnet** sayarak onun üzerine **hükümlerini** kuramazdı, kurmamalıydı. Eğer kendisi **Katolik teolojisinin** kurucusu **Aziz Thomas'ın** metinlerini alsaydı, görecekti ki **Hristiyanlık** teolojisinin temelinde **İbn Rüşd**'ün felsefesi vardı, **İbn Sina**'nın görüşleri vardı ve **Aristo**'nun felsefesinin İ**slam**'dan gelen geliştirilmiş **hali** vardı. O zaman **Hristiyanlık** ve **Müslümanlık** arasındaki **müşterek** noktaları bulabilirdi. Ama bunu yapmadı. Bir **teoloji profesörü**, bir **Papa** bunu nasıl yaptı ben **hala** anlamıyorum."_
 

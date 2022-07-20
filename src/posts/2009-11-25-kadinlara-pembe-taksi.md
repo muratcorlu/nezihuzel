@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-**![](/uploads/image/pembe taksi.jpg)  
+**![](../uploads/image/pembe taksi.jpg)  
 Puebla (Mexique) Maria Lopez** ne passe pas inaperçue au **volant** de son taxi **rose bonbon**. Sur la place principale de la ville coloniale de **Puebla**, à 120 km de Mexico, les **badauds** s'approchent. "C'est **réservé** aux dames", lâche la jeune f**emme** brune qui conduit l'un des 35 Pink **Taxis** destinés aux **femmes** et gérés par des **femmes**.  
   
 La mairie de **Mexico** devrait lui **emboîter** le pas : "Nous étudions un **service similaire** pour 2010", annonce **Ariadna Montiel,** directrice du réseau de **transport** de la capitale. Depuis **dix ans,** dans cette **mégalopole** de **20 millions** d'habitants, des rames de **métro** sont interdites aux **hommes** aux heures de pointe.

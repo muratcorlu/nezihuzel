@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/Resim_1236599974.jpg)
+![](../uploads/image/Resim_1236599974.jpg)
 
 Bayram ayıdır.   
 **Görüş** sahibi halk,  

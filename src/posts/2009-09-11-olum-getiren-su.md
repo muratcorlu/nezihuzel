@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/_moglova_kemeri.jpg)  
+![](../uploads/image/_moglova_kemeri.jpg)  
 _Mağlova Kemeri, Mimar Sinan 1564_
 
 İzmit’in **Derince** kasabasında **Mimar Sinan** tarafından yapılmış birkaç **gözlü** küçük bir **köprü** var. Bir gün **Devlet su işlerinden** adamlar gelmiş “bu köprü çok **zarif**, su gelir yıkar, yazık olur, bunu **güçlendirelim**” demişler. İşçileri, **ustaları** malzemeyi getirip **köprünün** iki başına ikişer **beton direk** dikmişler. Uzaktan bakıp  “**Oldu”** demişler. Ertesi yıl **su** gelmiş, **beton direkleri** götürmuş, **köprü** duruyor.
@@ -24,4 +24,4 @@ Unutulmaması gereken bir başka nokta **Sinan**’ın arkasında **Kanuni Sulta
 
 Bu bir **uygarlık** meselesidir. **Derelerin** üzerine **ev** yapar, **arsaları** uzatmak için suya **geçecek** yer bırakmazsanız **o su** bir gün sizin **boğazınıza** sarılır, **medeniyetinizi** de yok eder namusunuzu da **onurunuza** da… Hayat veren su medeniyet **yerine ölüm** de getirebilir. **Rabbim** başka ceza vermesin.
 
-  **![](/uploads/image/mercek5pl2.jpg)**.![](/uploads/image/kemer.jpg)![](/uploads/image/bent.jpg)
+  **![](../uploads/image/mercek5pl2.jpg)**.![](../uploads/image/kemer.jpg)![](../uploads/image/bent.jpg)

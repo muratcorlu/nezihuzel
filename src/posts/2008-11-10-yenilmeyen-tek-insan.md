@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![ataturk14vh7.jpg](/uploads/2008/11/ataturk14vh7.jpg)](/uploads/2008/11/ataturk14vh7.jpg "ataturk14vh7.jpg") Yorgun, **bitkin** ve günlerinin sonuna gelmiş **Osmanlı** yönetiminin “**ehveni şer**��? gördüğü mesnetsız kararlara “**ehveni şer, şerlerin en kötüsüdür**��? diyerek karşı çıkan tek insan **Mustafa Kemal**’di.
+[![ataturk14vh7.jpg](../uploads/2008/11/ataturk14vh7.jpg)](../uploads/2008/11/ataturk14vh7.jpg "ataturk14vh7.jpg") Yorgun, **bitkin** ve günlerinin sonuna gelmiş **Osmanlı** yönetiminin “**ehveni şer**��? gördüğü mesnetsız kararlara “**ehveni şer, şerlerin en kötüsüdür**��? diyerek karşı çıkan tek insan **Mustafa Kemal**’di.
 
 **İstanbul** İşgalinde sahile dizilen irili ufaklı **elli iki parça** düşman gemisini görüp “**geldikleri gibi giderler…��?** diyebilen tek insan Must**afa Kemal’di**.
 

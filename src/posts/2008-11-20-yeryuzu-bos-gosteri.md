@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-[![yusufcukk.jpg](/uploads/2008/11/yusufcukk.jpg)](/uploads/2008/11/yusufcukk.jpg "yusufcukk.jpg")
+[![yusufcukk.jpg](../uploads/2008/11/yusufcukk.jpg)](../uploads/2008/11/yusufcukk.jpg "yusufcukk.jpg")
 
 Yılda bir kez zıplar **Kalender** Uzak,çok **uzaklara** gider, **Yusufçuk** uçar, pırpır eder Ulaşamaz, **kalbinde** keder
 

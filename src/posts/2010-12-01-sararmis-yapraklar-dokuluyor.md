@@ -5,9 +5,9 @@ categories:
   - Günün Çilesi
 ---
 
-[![yaprak.jpg](/uploads/2010/12/yaprak.jpg)](/uploads/2010/12/yaprak.jpg "yaprak.jpg")
+[![yaprak.jpg](../uploads/2010/12/yaprak.jpg)](../uploads/2010/12/yaprak.jpg "yaprak.jpg")
 
-[](/uploads/2010/12/yaprak.jpg "yaprak.jpg")**Wikileaks** bir geleneğin sonudur. Habercilikte bir **reformdur**. Çok **önemli** bir gelişmedir. Teknolojinin getirdiği bir **sivil** darbedir. Gazetecilerin “ne **yayınlanır**... ne **yayınlanmaz**” diye yıllardır kendi **kafalarınca** uydurdukları **dünya düzeninin** artık sona **erdiğinin** resmidir. Basında “**moda fikirler**” doğmasının yıkılışıdır.
+[](../uploads/2010/12/yaprak.jpg "yaprak.jpg")**Wikileaks** bir geleneğin sonudur. Habercilikte bir **reformdur**. Çok **önemli** bir gelişmedir. Teknolojinin getirdiği bir **sivil** darbedir. Gazetecilerin “ne **yayınlanır**... ne **yayınlanmaz**” diye yıllardır kendi **kafalarınca** uydurdukları **dünya düzeninin** artık sona **erdiğinin** resmidir. Basında “**moda fikirler**” doğmasının yıkılışıdır.
 
 Biz hiçbir **hakkımız** olmadığı halde şu **gazetecilik sanatı** kurulduğu günden beri israrla, inatla “**yayınlanacak**” şeyle “**yayınlanmayacak**” şeyi ayırmışız. Buna hiç **hakkımız** olmadığını şimdi birisi hareketiyle **itiraf etti** ve her şey **altüst** oldu. Buna siz **isterseniz** bir **işaret** koyup yeni bir **çağın** başlangıcıdır, diyebilirsiniz.
 

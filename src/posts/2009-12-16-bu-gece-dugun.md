@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/pir(1).jpg)  
+![](../uploads/image/pir(1).jpg)  
 Bu gün **şebi arus.**  
 Bu **gece** düğün var  
 **Hakk**’ın bir sevgili kulu  

@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-_![](/uploads/image/300px-1509petercoecke.jpg)  
+_![](../uploads/image/300px-1509petercoecke.jpg)  
 Eylül 1509 depremi, Peter Coacke, British Museum  
 _
 
@@ -45,5 +45,5 @@ Osmanlı Padişahı 2. Beyazıt'ın 1509 depreminde kentin çeşitli yerlerine 4
 
 Padişah II.Beyazıd, torunu Kanuni Sultan Süleyman döneminde inşa edilen Süleymaniye Camiinin çevresinde de; birçok kuyu açtırmıştır ki, bunların adı “deprem kuyuları” olarak anılır.
 
-![](/uploads/image/istanbul1766.jpg)  
+![](../uploads/image/istanbul1766.jpg)  
 İstanbul 1766 depremi,  anonim halk resmi

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/2010/09/sari-gul-resmi.jpg)
+![](../uploads/2010/09/sari-gul-resmi.jpg)
 
 Aşığın **gözünden** Dökülen her **damla** yaş **Nefsin** bağrına Saplanmış **ok** gibidir
 

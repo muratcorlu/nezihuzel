@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-**[![ata.jpg](/uploads/2011/11/ata.jpg)](/uploads/2011/11/ata.jpg "ata.jpg")**
+**[![ata.jpg](../uploads/2011/11/ata.jpg)](../uploads/2011/11/ata.jpg "ata.jpg")**
 
  **(arşiv'den)** 
 

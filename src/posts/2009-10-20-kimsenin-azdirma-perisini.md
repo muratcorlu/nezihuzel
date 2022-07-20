@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/peri.jpg)
+![](../uploads/image/peri.jpg)
 
 Aracındır senin **ruhun neş’en**  
 Hiç durma **bunlardan** sebeplen  

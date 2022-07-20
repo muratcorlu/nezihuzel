@@ -5,4 +5,4 @@ categories:
   - Destur
 ---
 
- [![tur.jpg](/uploads/2011/04/tur.jpg) İstanbıl, nisan 2011](/uploads/2011/04/tur.jpg "tur.jpg")
+ [![tur.jpg](../uploads/2011/04/tur.jpg) İstanbıl, nisan 2011](../uploads/2011/04/tur.jpg "tur.jpg")

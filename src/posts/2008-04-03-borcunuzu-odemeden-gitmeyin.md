@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
- [![311.jpg](/uploads/2008/04/311.jpg)](/uploads/2008/04/311.jpg "311.jpg")Tunalı Hilmi Bey
+ [![311.jpg](../uploads/2008/04/311.jpg)](../uploads/2008/04/311.jpg "311.jpg")Tunalı Hilmi Bey
 
 Ankara’da **Tunalı Hilmi** Caddesi var. Neden bu **caddeye** bu ismi vermişler ? Merak eder dururdum. **Türkiye’**de şu sırada “**Anayasa**” konuşulurken **kader** beni, ölümünden **85 yıl sonra** bu önemli zatla tanıştırdı.
 

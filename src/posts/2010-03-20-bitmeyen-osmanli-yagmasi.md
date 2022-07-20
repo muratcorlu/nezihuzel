@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-_[![yali.jpg](/uploads/2010/03/yali.jpg)](/uploads/2010/03/yali.jpg "yali.jpg")_
+_[![yali.jpg](../uploads/2010/03/yali.jpg)](../uploads/2010/03/yali.jpg "yali.jpg")_
 
 _Osmanlı tarihinde köşe başı tutan dörtyüz yıllık Köprülüler  sülalesinden  Sadrazam Amucazade Hüseyin Paşa'nın Fatih Şehzadebaşı'ndaki 2500 M2 alana yayılan türbe-medrese-imaret-sübyan mektebi' külliyesi ve Paşanın bu gün yaşayan torunlarının Amerikalı'lara 3 trilyona "yap-işlet devret "ettiği Anadoluhisar'ındaki "Meşruta yalısı" hakkında yazı yazan bir  kardeşimize  cevabımdır:_
 

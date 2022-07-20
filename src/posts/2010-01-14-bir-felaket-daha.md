@@ -5,6 +5,6 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/bacak.jpg)
+![](../uploads/image/bacak.jpg)
 
 Haiti, 14 ocak 2010 perşembe (Courtoisie Yahoo)

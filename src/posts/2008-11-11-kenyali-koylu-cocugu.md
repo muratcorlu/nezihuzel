@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![031808obama.jpg](/uploads/2008/11/031808obama.jpg)](/uploads/2008/11/031808obama.jpg "031808obama.jpg")Â Â Â Â Â Â Â Â 
+[![031808obama.jpg](../uploads/2008/11/031808obama.jpg)](../uploads/2008/11/031808obama.jpg "031808obama.jpg")Â Â Â Â Â Â Â Â 
 
 **Türkiye**’nin ilk dış işleri bakanı **Yusuf Kemal Tengirşenk** 1920’lerin başında **Mustafa Kemal**’in selamlarını **Rusya**’nın yeni lideri **Lenin’**e sunmak üzere **Moskova**’ya gittiğinde, dönüşte **Türkistan**’a uğramıştı. Orada **ırkdaşlarımızla** görüşen Bakan, onlara “yeni kurulan **Sovyet rejimi Osmanlı** sistemine benziyor, orada bir **köylü** çocuğu dahi yükselerek **paşa** olur, devlet adamı olurdu, siz şimdi bu yeni **düzene** uyun… **baş** kaldırmayın ” demişti.
 

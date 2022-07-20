@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![gul.jpg](/uploads/2010/07/gul-1.jpg)](/uploads/2010/07/gul-1.jpg "gul.jpg")
+[![gul.jpg](../uploads/2010/07/gul-1.jpg)](../uploads/2010/07/gul-1.jpg "gul.jpg")
 
 Bir **Sebep** vardı bir de **Sonuç Dünya** gezegeninde iki arkadaş, Yaşar giderlerdi, sıkı **yoldaş. Sebep** dedi ki bir gün Sonuc'a: – **Bensiz** yaşayamazsın Sonuç dedi ki **Sebeb**'e: -Bensiz **on para** etmezsin
 

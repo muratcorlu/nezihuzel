@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![image016.jpg](/uploads/2007/08/image016.jpg)](/uploads/2007/08/image016.jpg "image016.jpg")
+[![image016.jpg](../uploads/2007/08/image016.jpg)](../uploads/2007/08/image016.jpg "image016.jpg")
 
 Üç çeşit yazar vardır: a)**Okunan** yazar b) **Unutulmuş** yazar c) **Gelecekte** okunacak yazar...
 

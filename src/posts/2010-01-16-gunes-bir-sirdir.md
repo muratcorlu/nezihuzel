@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/sir.jpg)
+![](../uploads/image/sir.jpg)
 
 Aşk **gramla** verildi de  
 Büyüdü büyüdü **umman** oldu.  

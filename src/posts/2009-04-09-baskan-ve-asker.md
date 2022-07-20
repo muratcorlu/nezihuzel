@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/h_4_ill_1177983_e017_obama_irak_2.jpg)
+![](../uploads/image/h_4_ill_1177983_e017_obama_irak_2.jpg)
 
 Günün resmi  
 **Zenci zenciyi buldu**

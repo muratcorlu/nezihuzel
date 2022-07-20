@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![mub.jpg](/uploads/2011/01/mub.jpg)](/uploads/2011/01/mub.jpg "mub.jpg")
+[![mub.jpg](../uploads/2011/01/mub.jpg)](../uploads/2011/01/mub.jpg "mub.jpg")
 
 **Mubarek**  kendine Bir **Süleyman** buldu **Gitt**i Süleyman Geldi **Süleyman** Süleyman **Peygamber** olsa, **Mührünü** basacak Yer **bulamaz** Artık **taşlar** oynadı
 

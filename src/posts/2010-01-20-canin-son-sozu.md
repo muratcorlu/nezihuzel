@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/yurek.jpg)
+![](../uploads/image/yurek.jpg)
 
 Bir gün son **sözünü** söyledi canan  
 **Kan** içiyor yanmış 0 **yürek** hep kan  

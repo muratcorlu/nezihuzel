@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![414px-gluehbirne_2_db.jpg](/uploads/2008/04/414px-gluehbirne_2_db.jpg)](/uploads/2008/04/414px-gluehbirne_2_db.jpg "414px-gluehbirne_2_db.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![414px-gluehbirne_2_db.jpg](../uploads/2008/04/414px-gluehbirne_2_db.jpg)](../uploads/2008/04/414px-gluehbirne_2_db.jpg "414px-gluehbirne_2_db.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 \-**İngiltere’**de okuyan o **kıza** çok kızdım,Â  Gaaak. **Guruk.** \-Neden ? \-Bana “**adaletsiz karga**” dedi… \-Sen adaletsiz **karga** mısın ? \-Hayır değilim, **adaletsiz** olan **Anayasa mahkemesi başkanı…** \-Ne…ne… **gaaak**, guuk, guruk, takır, **çakır**…bakır,Â  susÂ uğursuz **karga,** mendebur karga, **pis** karga başımıza **iş** çıkaracaksın,Â  kapa kara **gaganı.** Başka yerde **söyledin** mi bunu ? \-Hayır söylemedim, ilk **sana** söylüyorum… \-Ben **Ergenekon** muyum ? neden bana **söylüyorsun** ? Sus… Sana **kapa gaganı** dedim, bak nasıl **yüzüme** bakıyor ? guuuk guk. **Tak, tuk**, şıııırr…Â  (**adrenalin** salgısı)
 

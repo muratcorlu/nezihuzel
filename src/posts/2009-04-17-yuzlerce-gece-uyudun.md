@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/sapanca mart 05.JPG)
+![](../uploads/image/sapanca mart 05.JPG)
 
 Eğer sonsuz bir **hayat**  
 Ve **mutluk** istiyorsan,  

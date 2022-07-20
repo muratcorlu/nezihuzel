@@ -5,6 +5,6 @@ categories:
   - Destur
 ---
 
-[![filozof.jpg](/uploads/2012/02/filozof.jpg)](/uploads/2012/02/filozof.jpg "filozof.jpg")
+[![filozof.jpg](../uploads/2012/02/filozof.jpg)](../uploads/2012/02/filozof.jpg "filozof.jpg")
 
-[](/uploads/2012/02/filozof.jpg "filozof.jpg")**Filozofların sözleri kanunlardan üstündür Bizanslı düşünür Psellos**
+[](../uploads/2012/02/filozof.jpg "filozof.jpg")**Filozofların sözleri kanunlardan üstündür Bizanslı düşünür Psellos**

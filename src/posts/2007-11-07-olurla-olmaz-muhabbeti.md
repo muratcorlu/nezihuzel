@@ -5,7 +5,7 @@ categories:
   - Olurla Olmaz Muhabbeti
 ---
 
-[![ikizler.gif](/uploads/2007/11/ikizler.gif)](/uploads/2007/11/ikizler.gif "ikizler.gif")
+[![ikizler.gif](../uploads/2007/11/ikizler.gif)](../uploads/2007/11/ikizler.gif "ikizler.gif")
 
 İki kardeş vardı, **bunlar ikizdi**, birinin anı **“Olur…��?** diğerinin adı “**Olmaz…**��? dı.
 

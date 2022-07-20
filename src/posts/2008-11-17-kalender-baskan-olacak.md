@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-**[![cekirge_0005.jpg](/uploads/2008/11/cekirge_0005.jpg)](/uploads/2008/11/cekirge_0005.jpg "cekirge_0005.jpg")**
+**[![cekirge_0005.jpg](../uploads/2008/11/cekirge_0005.jpg)](../uploads/2008/11/cekirge_0005.jpg "cekirge_0005.jpg")**
 
 **Kalender** dedi ki bir gün -ben **baş** olmalıyım Dünyayı yönetip ona **sırdaş** olmalıyım **Bataklıkta** tüm yaratıklar benim olmalı Hepsinden üstün **güçlü** bir bedenim olmalı
 

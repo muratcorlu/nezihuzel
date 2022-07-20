@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![mevlana.jpg](/uploads/2008/04/mevlana.jpg)](/uploads/2008/04/mevlana.jpg "mevlana.jpg")
+[![mevlana.jpg](../uploads/2008/04/mevlana.jpg)](../uploads/2008/04/mevlana.jpg "mevlana.jpg")
 
 Ay yüzlü **sevgilim,**
 

@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![](/uploads/image/mohammed_six_200.jpg)
+![](../uploads/image/mohammed_six_200.jpg)
 
 Depuis presque une semaine, la **police marocaine** procède à l'interrogatoire des **journalistes** qui ont émis des doutes sur un **communiqué royal** relatif à la santé du **roi.**
 

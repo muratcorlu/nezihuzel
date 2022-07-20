@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/ejderha.jpg)
+![](../uploads/image/ejderha.jpg)
 
 Çağdaş ejderha ve suvarisi  
   
@@ -28,7 +28,7 @@ Demokrasi geçmişte  birkaç defa yumurtadan çıkmayı denedi. Ama her defas�
 
 Suvari hazırdır. Kimse şüphe etmesin. “Sağ duyu tam kapasite” ile yerindedir. Sır yumurtanın içinde. 
 
-  ![](/uploads/image/CAZULAR.jpg)
+  ![](../uploads/image/CAZULAR.jpg)
 
 "Cazular" oyununda Karagöz'ün  
 ejderhası ve kanatlı suvari

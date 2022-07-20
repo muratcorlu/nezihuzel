@@ -5,9 +5,9 @@ categories:
   - Baş Yazı
 ---
 
-**[![alib.jpg](/uploads/2007/11/alib.jpg)](/uploads/2007/11/alib.jpg "alib.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 
+**[![alib.jpg](../uploads/2007/11/alib.jpg)](../uploads/2007/11/alib.jpg "alib.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 
 
-Barışın **onurunu[](/uploads/2007/11/g11061.jpg "g11061.jpg")** korumak, savaşın **fÃ¢ciasını** önlemekten zordur. **Sırası geldiğinde** savaş yapılmayacaksa **barışın şerefi** nasıl korunacak ? **Diplomat** masalarında **uzayıp giden** konuşmaların bir **silahlı felÃ¢ketle** sonuçlanmaması için nasıl bir **gayret** gösterilecek ? **Barışa** karar verilecekse bu görüntüyü “**sünepelik, miskinlik, kararsızlık, öz güvensizlik ve korku**” psikozlarından ayırmanın **çaresi** nasıl bulunacak ?
+Barışın **onurunu[](../uploads/2007/11/g11061.jpg "g11061.jpg")** korumak, savaşın **fÃ¢ciasını** önlemekten zordur. **Sırası geldiğinde** savaş yapılmayacaksa **barışın şerefi** nasıl korunacak ? **Diplomat** masalarında **uzayıp giden** konuşmaların bir **silahlı felÃ¢ketle** sonuçlanmaması için nasıl bir **gayret** gösterilecek ? **Barışa** karar verilecekse bu görüntüyü “**sünepelik, miskinlik, kararsızlık, öz güvensizlik ve korku**” psikozlarından ayırmanın **çaresi** nasıl bulunacak ?
 
 **Barış** ve **ulusal** onur bir arada nasıl **sağlanacak** ? Askerlerin **savaşta** gösterdikleri **şecaat** kadar, **müzakere** masalarında **gururla** ve Â **kahramanca** çarpışacak **devlet adamları** nerede ?
 

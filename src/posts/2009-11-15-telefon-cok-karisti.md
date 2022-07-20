@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
- ![](/uploads/image/martincooper.jpg)  
+ ![](../uploads/image/martincooper.jpg)  
 Martin Cooper ve telefonu  
   
 Etats-Unis - C'est en 1973 que **Martin Cooper**, alors ingénieur en chef de **Motorola** à la retraite, invente le **téléphone portable**. L'appareil est à l'époque **volumineux** et encombrant, mais aujourd'hui tout a **changé**. De plus en plus fin, petit et offrant **davantage** de fonctionnalités, le **téléphone portable** est devenu un **outil multifonction** jugé trop **compliqué** par son **créateur.**

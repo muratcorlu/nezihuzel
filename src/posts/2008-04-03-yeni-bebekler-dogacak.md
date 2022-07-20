@@ -5,7 +5,7 @@ categories:
   - Olurla Olmaz Muhabbeti
 ---
 
-**[![bebek11.jpg](/uploads/2008/04/bebek11.jpg)](/uploads/2008/04/bebek11.jpg "bebek11.jpg")**
+**[![bebek11.jpg](../uploads/2008/04/bebek11.jpg)](../uploads/2008/04/bebek11.jpg "bebek11.jpg")**
 
 **Olur** dedi ki:
 

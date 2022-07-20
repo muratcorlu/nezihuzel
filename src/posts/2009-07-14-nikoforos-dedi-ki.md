@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
- ![](/uploads/image/heybeli-ada.jpg)
+ ![](../uploads/image/heybeli-ada.jpg)
 
 _In Honour of Nezih Uzel  
 by nicky on April 29th, 2009  

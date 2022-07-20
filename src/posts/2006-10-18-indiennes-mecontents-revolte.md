@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-  [![indiens.jpg](/uploads/2006/10/indiens.kucukresim.jpg)](http://fr.fc.yahoo.com/b/bresil.html)
+  [![indiens.jpg](../uploads/2006/10/indiens.kucukresim.jpg)](http://fr.fc.yahoo.com/b/bresil.html)
 
 [RIO DE JANEIRO](http://fr.fc.yahoo.com/b/bresil.html) (Reuters) - Environ 150 **Indiens Xikrin,** mécontents de l'aide octroyée ÃƒÂ  leur **tribu** par la compagnie minière **CVRD**, ont envahi mardi la ville de **Carajas**, dans l'Etat de **Para,** dans le nord du **Brésil,** et pris **3.000 ouvriers** en **otages**, apprend-on de source autorisée.
 

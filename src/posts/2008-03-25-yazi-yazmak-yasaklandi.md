@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![yazi1.jpg](/uploads/2008/03/yazi1.jpg)](/uploads/2008/03/yazi1.jpg "yazi1.jpg")
+[![yazi1.jpg](../uploads/2008/03/yazi1.jpg)](../uploads/2008/03/yazi1.jpg "yazi1.jpg")
 
 Bir **yazar** gece yarısı evinden alınıp **kırk yıl önce** yazdığı bir yazıdan dolayı **sorguya** çekilirse, o ülkede yazı yazmak **yasaklanmış** demektir… Yazmak da **yasak**, düşünmek de… Orada artık hiçbir **akıllı** yazı yazmayı ve düşünmeyi **aklına** getirmez.
 

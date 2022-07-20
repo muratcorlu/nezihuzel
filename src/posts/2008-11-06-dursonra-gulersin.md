@@ -5,6 +5,6 @@ categories:
   - Dervish
 ---
 
-[![hayat.jpg](/uploads/2008/11/hayat.jpg)](/uploads/2008/11/hayat.jpg "hayat.jpg")
+[![hayat.jpg](../uploads/2008/11/hayat.jpg)](../uploads/2008/11/hayat.jpg "hayat.jpg")
 
 Ruh **bedene** girince Ağlarsın **ince ince** Sonra **gülersin** ey dost ! Kendi **saf** kaderince                                    \*

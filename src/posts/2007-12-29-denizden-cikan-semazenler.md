@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![mehmedvwf1.jpg](/uploads/2007/12/mehmedvwf1.jpg)](/uploads/2007/12/mehmedvwf1.jpg "mehmedvwf1.jpg")[](/uploads/2007/12/1416.jpg "1416.jpg")Â Â Â Â Â 
+[![mehmedvwf1.jpg](../uploads/2007/12/mehmedvwf1.jpg)](../uploads/2007/12/mehmedvwf1.jpg "mehmedvwf1.jpg")[](../uploads/2007/12/1416.jpg "1416.jpg")Â Â Â Â Â 
 
 Sultan ReşadÂ Â Â Â Â Â Â 
 

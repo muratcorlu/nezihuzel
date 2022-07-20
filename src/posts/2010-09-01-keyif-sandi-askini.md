@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![bahar-orman.jpg](/uploads/2010/09/bahar-orman.jpg)](/uploads/2010/09/bahar-orman.jpg "bahar-orman.jpg")
+[![bahar-orman.jpg](../uploads/2010/09/bahar-orman.jpg)](../uploads/2010/09/bahar-orman.jpg "bahar-orman.jpg")
 
 Bir güzel **gündü** bahar Gönlümde alev ve **nar** Bunda **gizli** bir iş var Neden ses **vermiyor** yar
 

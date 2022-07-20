@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![bican.jpg](/uploads/2008/12/bican.jpg)](/uploads/2008/12/bican.jpg "bican.jpg")              
+[![bican.jpg](../uploads/2008/12/bican.jpg)](../uploads/2008/12/bican.jpg "bican.jpg")              
 
 Hazreti **Monla-i Rum:** "Bad ez vefat **türbeti ma** der zemin mecuy  Der **sinahayi** merdum ü **arif** mezarı mast” diyor. Türkçesi: “Ölümümden sonra **mezarımı** yerde arama  Arif kişilerin **gönlüne** gömüldüm ben”
 

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![sari-gul.jpg](/uploads/2011/03/sari-gul-4.jpg)](/uploads/2011/03/sari-gul-4.jpg "sari-gul.jpg")
+[![sari-gul.jpg](../uploads/2011/03/sari-gul-4.jpg)](../uploads/2011/03/sari-gul-4.jpg "sari-gul.jpg")
 
 Sultan tepe tepelerin sultanıydı Bir sabah şeyhi sırladık oraya O gece çıktı sevmedi kabrini Kızdı bize, yendi ölüm kibrini
 

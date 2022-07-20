@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/paris gece.jpg)
+![](../uploads/image/paris gece.jpg)
 
 Bütün **dükkanlar** kapandı  
 **Paris** uykuya daldı  

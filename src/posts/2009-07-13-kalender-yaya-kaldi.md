@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-![](/uploads/image/yusufcuk.jpg)
+![](../uploads/image/yusufcuk.jpg)
 
 Ben **Yusufçuk**, çoktandır evde yoktum  
 Gözü pek sırtı, **kavi** karnı toktum  

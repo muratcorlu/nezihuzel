@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**_[![mevlana.jpg](/uploads/2008/05/mevlana-3.jpg)](/uploads/2008/05/mevlana-3.jpg "mevlana.jpg")_**
+**_[![mevlana.jpg](../uploads/2008/05/mevlana-3.jpg)](../uploads/2008/05/mevlana-3.jpg "mevlana.jpg")_**
 
 **_Şu düzülüp koşulan insan şekli var ya hani,_** **_B_****_ir şekildir ki gam tezgâhında çizdiler onu..._** **_Kimi şeytan olur insan, kimi melek, kimi canavar,_** **_Bu ne biçim tılsımdır ki_** **_Hepsini bir araya getirmişler_**.   
 

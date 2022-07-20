@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![saddam.jpg](/uploads/2006/11/saddam.jpg)HERZLIYA, Israël (Reuters) - Un **voyant** a-t-il permis ÃƒÂ  **l'armée américaine** de trouver la cachette de [Saddam Hussein](http://fr.news.yahoo.com/monde/moyen-orient/irak/proces-saddam-hussein.html) et de capturer l'ancien **raÃƒÂ¯s irakien** ?
+![saddam.jpg](../uploads/2006/11/saddam.jpg)HERZLIYA, Israël (Reuters) - Un **voyant** a-t-il permis ÃƒÂ  **l'armée américaine** de trouver la cachette de [Saddam Hussein](http://fr.news.yahoo.com/monde/moyen-orient/irak/proces-saddam-hussein.html) et de capturer l'ancien **raÃƒÂ¯s irakien** ?
 
 **Uri Geller,** un médium d'origine **israélienne** connu pour plier les **cuillères** en deux du bout de ses **doigts,** l'affirme: c'est un phénomène **paranormal** qui a mis les **commandos** américains sur la piste de l'ancien **dictateur.**
 

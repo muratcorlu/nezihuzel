@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-**![oto.bmp](/uploads/2006/12/oto.bmp)Ankara'dan Bodrum'a giden, özellikle işadamlarının tercih ettiği Türkiye'nin süper lüks otobüs şirketi VIP'in muavini, yolcuları soydu.**
+**![oto.bmp](../uploads/2006/12/oto.bmp)Ankara'dan Bodrum'a giden, özellikle işadamlarının tercih ettiği Türkiye'nin süper lüks otobüs şirketi VIP'in muavini, yolcuları soydu.**
 
 **Muavin Soner** Ü. (20), sefer sırasında yolcuların **uyumasından** faydalanarak dizüstü **bilgisayarlarını**, cep telefonlarını, **cüzdanlarını** hissettirmeden topladı. Daha sonra otobüs **Aydın'a** geldiğinde ailesine bir **emanet** bırakması gerektiğini söyleyen **Soner Ü.,** izin isteyip **otobüsten** ayrıldı. Yolcuların **gözü önünde** elinde dolu bir **çantayla** yavaşça uzaklaşan **Soner Ü.** gelmeyince, **hırsızlık** olayı ortaya çıktı.
 

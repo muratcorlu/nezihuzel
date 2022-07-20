@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![tasavv22.jpg](/uploads/2007/09/tasavv22.jpg)](/uploads/2007/09/tasavv22.jpg "tasavv22.jpg")
+[![tasavv22.jpg](../uploads/2007/09/tasavv22.jpg)](../uploads/2007/09/tasavv22.jpg "tasavv22.jpg")
 
 Sahura doğru **TRT 1’de Ahmet Hatiboğu’**nun korosu vardı, Aynı saatte **TRT 2’** de de **Hatiboğlu**’nun korosu vardı...
 

@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/metmetali_birand26bd712c268aed9cby.jpg)  
+![](../uploads/image/metmetali_birand26bd712c268aed9cby.jpg)  
 "Devlet Bahçeli ayaküstü **mitingler** yapıyor"  
                                  **Mehmet Ali Birant  
 **

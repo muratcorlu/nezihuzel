@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![](/uploads/image/Yavuz.jpg)  
+![](../uploads/image/Yavuz.jpg)  
 Devlet adına **cinayet işleyerek** kurulmuş bir **kamu düzeninin** ne kadar **süreceği** söz konusu… Şimdi **diyecekler ki** “**Padişah da çocuklarını öldürdü**…” Evet **öldürdü**, iyi etti, dünya **düzeldi**  mi ? kurduğu **kamu düzeninin** tarihsel **yargılaması** sürüyor…
 
 **Yavuz Diyarbakır**’a irade göndermiş: “ Karındaşım **Şah İsmail’i** sevenler adını bir **deftere** yazdırsın…” Koşan koşana, herkes **defterin** başına toplanmış –**Beni** de yazın…beni de, **beni** de yazın… **Yavuz** arkadan bir **irade** daha göndermiş “**Cümlesin katledün**…” Ve “cümlesini katletmişler. Neden ?  “**Kamu düzeni adına**”
@@ -23,13 +23,13 @@ Devlet adına **cinayet işleyerek** kurulmuş bir **kamu düzeninin** ne kadar 
                 Yemede ortak **Osmanlı**  
 Öncesi var… **Anadolu Selçuklu Devleti, II. Gıyaseddin Keyhüsrev** zamanı, aç, perişan, **soyulmuş** ve çaresiz bir halkla, **zengin** ve bigâne  bir **yönetici sınıf** arasında, kötülerin en **kötüsü** bir görüntü verdiğinde, bir **Horasan** eri olan **Baba İlyas; Konya’**da, korkunç sosyal çöküntüye **duyarsız** kalmış, eğlenceye dalmış **Alaeddin Sarayı’**na karşı, İslamın kutsal kitabı **Kur’anı kerimi** açarak şöyle haykırıyor: “**Yaşadığınız hayat bu kitabın neresinde yazıyor**…? ” Ve  **Kırşehir**’in kuzeyinde “**Malya ovası savaşı**” Yıl Kasım 1242.
 
-  **![](/uploads/image/sultan.jpg)  Müslüman Gıyaseddin’**in Müslüman askerleri, **Müslüman** köylülerin üzerine yürümeyi **reddettiğinde,** silahlarını kendi **kumandanlarına** çevirmeye **ramak** kalmışken, **Sultan** 3000 altına paralı **hırıstiyan zırhlı frank askerler** tutarak **cepheye** sürüyor. Bunlar **Anadolu** tarihine **“Babalılar**” olarak geçen isyancılara, alınlarına boyadıkları **haç işareti** ile amansızca saldırıyorlar. Neye yarar ki isyancıların **mızrak** ve okları “**demir donlu**” frank askerlerine işlemiyor. **Yeniliyorlar**.
+  **![](../uploads/image/sultan.jpg)  Müslüman Gıyaseddin’**in Müslüman askerleri, **Müslüman** köylülerin üzerine yürümeyi **reddettiğinde,** silahlarını kendi **kumandanlarına** çevirmeye **ramak** kalmışken, **Sultan** 3000 altına paralı **hırıstiyan zırhlı frank askerler** tutarak **cepheye** sürüyor. Bunlar **Anadolu** tarihine **“Babalılar**” olarak geçen isyancılara, alınlarına boyadıkları **haç işareti** ile amansızca saldırıyorlar. Neye yarar ki isyancıların **mızrak** ve okları “**demir donlu**” frank askerlerine işlemiyor. **Yeniliyorlar**.
 
 Tarihçi **İbni Bibi’**nin yazdıklarına göre : “**Siyah libaslı, kızıl börklü ve ayağı çarıklı Türkmenler**” in cesetleri **Malya ovasını** kızıla boyuyor. **Seyfe** gölünün rengi dönüyor. Bir günde **4000** ölü. Veya daha **fazlası**… gerçek sayı **belli** değil. Neden ? “**Kamu Düzeni**” adına.
 
 Tarihçiler **Anadolu**’nun bu en vahşî  saldırısında **4000** kişiyi boğazlayan  ve savaş sonrası katliamları ile birlikte **50.000** soydaşını katleden, silahı **kendi halkına** dönük, son **meydan savaşını** kendi halkına **karşı,** paralı **yabancı** askerlerle kazanan,  **Anadolu Selçuklu  Devletinin** yine de kendisini **kurtaramadığını** ve iki yıl sonra **1243 Kösedağ** savaşında **Moğollara** yenilerek **İlhanlı Devletine** sığındığını ve dünya sahnesinden **silindiğini** yazıyorlar. 
 
-![](/uploads/image/kuyu.jpg)  Osmanlı tarihinde **Kuyucu Murat Paşa** isimli bir vezir vardır. **Öldürdüğü** insanları **kuyulara** doldurduğu için bu lakabı alan **Kuyucu Murat Paşa** hakkında ünlü tarihçi **Peçevî İbrahim efendi** şunları naklediyor: “"_Bu ol vezir-i azamdır ki, memalik-i Al-i Osman’ı eşkiyadan temizlemiştir Saltanatın namusunu korumakta, kesin kararlı idi. Celali diye adı çıkan kimsenin Cuhud, imana gelmez, merd-i mülhid, tövbekar olmaz anlamına uygun olarak, ne imanına, ne Müslümanlığına, ne de tövbesine kesinlikle güvenmezdi. Ölümden gayrı bir araçla onun doğru yola getirilebileceğine inanmazdı_”
+![](../uploads/image/kuyu.jpg)  Osmanlı tarihinde **Kuyucu Murat Paşa** isimli bir vezir vardır. **Öldürdüğü** insanları **kuyulara** doldurduğu için bu lakabı alan **Kuyucu Murat Paşa** hakkında ünlü tarihçi **Peçevî İbrahim efendi** şunları naklediyor: “"_Bu ol vezir-i azamdır ki, memalik-i Al-i Osman’ı eşkiyadan temizlemiştir Saltanatın namusunu korumakta, kesin kararlı idi. Celali diye adı çıkan kimsenin Cuhud, imana gelmez, merd-i mülhid, tövbekar olmaz anlamına uygun olarak, ne imanına, ne Müslümanlığına, ne de tövbesine kesinlikle güvenmezdi. Ölümden gayrı bir araçla onun doğru yola getirilebileceğine inanmazdı_”
 
 **Kuyucu Murat Paşa Hırvat** asıllıdır. **Sultan I. Ahmet** zamanı 1606 ile 1611 arasında dört yıl **sadrazam** olmuştur. Tarih, Paşa’nın **Anadolu Türkmen** halkından **150.000** kişiyi katlettiğini söylüyor.
 

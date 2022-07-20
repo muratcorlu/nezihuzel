@@ -5,7 +5,7 @@ categories:
   - Olurla Olmaz Muhabbeti
 ---
 
-[![252394.jpg](/uploads/2007/11/252394.jpg)](/uploads/2007/11/252394.jpg "252394.jpg")
+[![252394.jpg](../uploads/2007/11/252394.jpg)](../uploads/2007/11/252394.jpg "252394.jpg")
 
 Başkan Çakar        
 
@@ -45,4 +45,4 @@ Tanıştırdım: **Olmaz**… Başkan devam etti:
 
 –**Nah**… verirsiniz…  
 
-İşin karışacağını anlayıp lafa girmek gereğini duydum. –Sayın **Başkanım** dedim, sen bu **Olmazın** dediğine aldırma…o dediğini yap…İyi gelir. –Görürüz dedi, **Olmaz**… Ben “**olur��?** derken o **deli bozuk** hâlâ “**olmaz**��? diye tepiniyordu. **Hem olur, hem olmaz** dedik, anlaştık. **Başkanı** selamlıyarak **Belediye’den** çıktık. İmam **Osman’ın** kahvesine **çay** içmeye gittik.[](/uploads/2007/11/252394.jpg "252394.jpg")
+İşin karışacağını anlayıp lafa girmek gereğini duydum. –Sayın **Başkanım** dedim, sen bu **Olmazın** dediğine aldırma…o dediğini yap…İyi gelir. –Görürüz dedi, **Olmaz**… Ben “**olur��?** derken o **deli bozuk** hâlâ “**olmaz**��? diye tepiniyordu. **Hem olur, hem olmaz** dedik, anlaştık. **Başkanı** selamlıyarak **Belediye’den** çıktık. İmam **Osman’ın** kahvesine **çay** içmeye gittik.[](../uploads/2007/11/252394.jpg "252394.jpg")

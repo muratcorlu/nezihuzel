@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/tayf.jpg)  
+![](../uploads/image/tayf.jpg)  
 Üzerine yansıyan **ışığı  
 Sen** göremezsin  
 Sana **bakanlar** görür  

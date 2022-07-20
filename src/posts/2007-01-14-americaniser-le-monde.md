@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-[![2320073428_53985fd9f1_m.jpg](/uploads/2008/06/2320073428_53985fd9f1_m.jpg)](/uploads/2008/06/2320073428_53985fd9f1_m.jpg "2320073428_53985fd9f1_m.jpg")
+[![2320073428_53985fd9f1_m.jpg](../uploads/2008/06/2320073428_53985fd9f1_m.jpg)](../uploads/2008/06/2320073428_53985fd9f1_m.jpg "2320073428_53985fd9f1_m.jpg")
 
 President  Sarcozy  et  le   gouvernement   Français Sur une barque sur la rivière Oyapock en Amazonie.
 

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![hic.jpg](/uploads/2008/10/hic.jpg)](/uploads/2008/10/hic.jpg "hic.jpg")
+[![hic.jpg](../uploads/2008/10/hic.jpg)](../uploads/2008/10/hic.jpg "hic.jpg")
 
 Bahrine **aşkın** dalmaya geldim, **Şemine** Yarin yanmaya geldim. 
 

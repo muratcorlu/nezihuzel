@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/20070309-BarackObama(1).jpg)
+![](../uploads/image/20070309-BarackObama(1).jpg)
 
 Her rejim öncekinin hatâları üzerinde yükselir, sonra kendisi hatâ yapmaya başlar. Her değişim bir sancının sonucu ve bir kötülüğün gerekçesidir. Amerikalılar şimdi Obama’yı başkan seçtiler, Obama, Bush’un hatâlarını kendine siyasî sermaye yaptı, şimdi onun yaptıklarının tersini yapacak. ilk önce hapishaneyi kapattı, bir süre sonra başka isim altında yeniden açacak,  böylece ara sıra ümit şırıngasına uğrayan ve bundan da hiç şikayetçi olmayan halk kitleleri, bir zaman sonra bir başka yalancının tuzağına düşecekler… Toplumlar ümitle beslenir, tuzağa düşmek ise kaderleri.
 

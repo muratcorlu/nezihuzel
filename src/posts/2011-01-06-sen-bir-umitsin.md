@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![sari-gul-1.jpg](/uploads/2011/01/sari-gul-1.jpg)](/uploads/2011/01/sari-gul-1.jpg "sari-gul-1.jpg")
+[![sari-gul-1.jpg](../uploads/2011/01/sari-gul-1.jpg)](../uploads/2011/01/sari-gul-1.jpg "sari-gul-1.jpg")
 
 **Tanrı** ona kendisini bildirmiş Yatmış kalkmış da **Tanrı** demiş **Tanrıyı** bilince **kendisini** de bilmiş
 

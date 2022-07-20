@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![canne-a-sucre-2.jpg](/uploads/2006/11/canne-a-sucre-2-1.jpg)
+![canne-a-sucre-2.jpg](../uploads/2006/11/canne-a-sucre-2-1.jpg)
 
                               3  
 

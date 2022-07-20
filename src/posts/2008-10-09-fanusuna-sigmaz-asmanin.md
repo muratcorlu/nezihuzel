@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![untitled.bmp](/uploads/2008/10/untitled.bmp)](/uploads/2008/10/untitled.bmp "untitled.bmp")
+[![untitled.bmp](../uploads/2008/10/untitled.bmp)](../uploads/2008/10/untitled.bmp "untitled.bmp")
 
 Bir şu’lesi varki **şem-i canın**
 

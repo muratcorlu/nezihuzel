@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-![](/uploads/image/camondo.JPG)  
+![](../uploads/image/camondo.JPG)  
 Salomon Camondo (1781 – 1873)  
   
 “**Tribitum** C**apitis**” Roma’nın yıkılmadan önce tüm **vatandaşlarından** istediği bir vergiydi. “**Tribitum Capitis**”in kelime anlamı “**Kelle vergisi**” demektir. Yani **omuzunun** üzerinde başı olan **herkes** bu vergiyi verecek. **Ölü** bile gömülmeden önce başını **taşıdığı için** ondan da alınacak. “**Tribitum Capitis**” yüzyıllar boyu **haksız vergi** koyan ve bu yüzden **düzeni** sonsuza kadar **dağılan** her devlet için söylenmiş ve  **örnek** bir tablo oluşturmuştur.

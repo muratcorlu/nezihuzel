@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-**[![atalarak4.jpg](/uploads/2009/01/atalarak4.jpg)](/uploads/2009/01/atalarak4.jpg "atalarak4.jpg")**
+**[![atalarak4.jpg](../uploads/2009/01/atalarak4.jpg)](../uploads/2009/01/atalarak4.jpg "atalarak4.jpg")**
 
 **Anayasa**’yı seçilmiş **Meclis** ve **Hükümetler** yerine seçilmemiş **Anayasa Mahkemesi** ve  **Danıştay**, Ulusal güvenliğimizi  seçilmiş **Meclis** ve **Hükümet** yerine seçilmemiş **Milli Güvenlik kurulu** ve **askeri yargı** üstlenmeye devam ettikçe; bu işin **sonu** gelmeyecektir. **Tarihimizde** yer alan son **Türk Devleti** zor durumdadır.
 

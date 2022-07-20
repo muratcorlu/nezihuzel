@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![](/uploads/image/61657.jpg)
+![](../uploads/image/61657.jpg)
 
 Une organisation **caritative** suédoise, **SCA**, a déclaré, dimanche 6 septembre, que des soldats de l**'OTAN** étaient entrés dans son hôpital en **Afghanistan,** défonçant des portes, **menottant** le personnel et des **proches** de malades, violant ainsi les **accords** entre militaires et **travailleurs humanitaires**.
 

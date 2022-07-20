@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![evren.jpg](/uploads/2006/12/evren.jpg)  
+![evren.jpg](../uploads/2006/12/evren.jpg)  
                                                                                                    Sana **çok** yakınız
 
                                                                     

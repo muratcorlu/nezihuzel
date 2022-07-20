@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-**![](/uploads/image/dunya.jpg)**
+**![](../uploads/image/dunya.jpg)**
 
 **Lamekan** ilinden misafir geldim  
 Şu fena **mülküne** bastım kademe  

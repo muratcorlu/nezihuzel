@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-[![earlypic.jpg](/uploads/2008/01/earlypic.jpg)](/uploads/2008/01/earlypic.jpg "earlypic.jpg")
+[![earlypic.jpg](../uploads/2008/01/earlypic.jpg)](../uploads/2008/01/earlypic.jpg "earlypic.jpg")
 
 **Montesquieu**  (1689-1755)                                               
 

@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**[![whirlingdervish.jpg](/uploads/2007/12/whirlingdervish.jpg)](/uploads/2007/12/whirlingdervish.jpg "whirlingdervish.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 
+**[![whirlingdervish.jpg](../uploads/2007/12/whirlingdervish.jpg)](../uploads/2007/12/whirlingdervish.jpg "whirlingdervish.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â** 
 
 Vaktiyle **Mevlevî** tekkelerini kapatan **Devletin** zirvesi “**Ne olursan ol gel**…” deyince hepsi birden **MevlÃ¢nÃ¢**’ya koşmuşlar… **Tören mangası** olup sıra sıra **gösteri salonunda** yerlerini almışlar. Ne olduklarını **kendileri biliyor**, ama yine de kısa yoldan **bir kere daha** öğrenmeye **Hz. Pir**’e sığınmışlar.
 

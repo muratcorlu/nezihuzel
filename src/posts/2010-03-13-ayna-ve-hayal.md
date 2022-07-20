@@ -5,7 +5,7 @@ categories:
   - Altın Sorular
 ---
 
-![](/uploads/image/molla.jpg)
+![](../uploads/image/molla.jpg)
 
 Nazik bir talep ve cevabımdır:  
   

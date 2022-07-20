@@ -5,7 +5,7 @@ categories:
   - Olurla Olmaz Muhabbeti
 ---
 
-[![cari_obama.gif](/uploads/2008/11/cari_obama-1.gif)](/uploads/2008/11/cari_obama-1.gif "cari_obama.gif")
+[![cari_obama.gif](../uploads/2008/11/cari_obama-1.gif)](../uploads/2008/11/cari_obama-1.gif "cari_obama.gif")
 
 \-Obama **Konyalı** mı ? -Hayır **Kenya**’lı -**Kenya** neresi ? -**Konya**’dan uzak… -Babası **Müslümanmış** doğru mu ? -Eskidenmiş… sonradan geri dönmüş -Nereye ? -**Gavurluğa,** \-Yeniden dönerse… -**Dönemez…** \-Neden ? -Bir kere **dönen** bir daha dönemez… -Nasıl yani ? -Dönse de **sayılmaz…** artık hep döneceği için… **Olur** beni konuşturma, başıma iş açacaksın…
 

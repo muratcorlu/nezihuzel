@@ -5,7 +5,7 @@ categories:
   - Olurla Olmaz Muhabbeti
 ---
 
-![](/uploads/image/masa.jpg)
+![](../uploads/image/masa.jpg)
 
 Uzun zamandır aramızda görülmeyen Olur’la Olmaz kardeşler dün akşam çıktıkları geziden geri döndüler. Nereye gittiklerini sormadım. Sorsam da söylemezlerdi. Bunların ikisi de sır küpü. Ne yapar ? Nerelerde gezer ? Kimlerle konuşurlar bilinmez, Hangi derelerden su içer, hangi fırınların ekmeğini yerler anlaşılmaz. Onlarla karşılaşırsanız sakın bunları sormayın;   
   

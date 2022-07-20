@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/mevlana.jpg)
+![](../uploads/image/mevlana.jpg)
 
 700 yıl yaşamış **Mevlevilik** tarihin her çağında kendini **yenilemiştir**. Başka türlü **ayakta** kalamazdı. Bu, eşyanın **tabiyatına** aykırıdır. Büyük **Mevlana’**nın dünyaya bıraktığı **kültür mirasına** terstir. **Mevlana** insanlara “dün söylediğim dün’le gitti bu gün **yeni şeyler** söylemek lazım” diyerek **ulu** bir söz bıraktı ve ilave etti “Sen **zamanın  oğlusun"**
 

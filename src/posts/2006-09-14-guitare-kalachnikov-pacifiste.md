@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-[![kitar-kalas.jpg](/uploads/2006/09/kitar-kalas.kucukresim.jpg)](http://fr.fc.yahoo.com/c/colombie.html)
+[![kitar-kalas.jpg](../uploads/2006/09/kitar-kalas.kucukresim.jpg)](http://fr.fc.yahoo.com/c/colombie.html)
 
 [
 

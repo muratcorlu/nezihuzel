@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**[![akil.jpg](/uploads/2007/11/akil.jpg)](/uploads/2007/11/akil.jpg "akil.jpg")**
+**[![akil.jpg](../uploads/2007/11/akil.jpg)](../uploads/2007/11/akil.jpg "akil.jpg")**
 
 **Aklım** olsaydı **Çıldırırdım.**
 

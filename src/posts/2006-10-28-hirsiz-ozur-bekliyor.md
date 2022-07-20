@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**![seville_alcazar.jpg](/uploads/2006/10/seville_alcazar.jpg)İspanya**'da bir zaman başbakanlık yapan **Jose Maria Aznar**, geçen ay bir **Amerikan** üniversitesinde yaptığı konuşmada, "Neden **Batı** hep özür dilemek **zorunda**, oysa ki **Müslüman** dünya bunu hiç **yapmıyor**. Bir Müslümanın çıkıp da **İspanya**'yı fethedip 8 asır **işgal ettiği** için **özür** dilediğini hiç duymadım" dedi.
+**![seville_alcazar.jpg](../uploads/2006/10/seville_alcazar.jpg)İspanya**'da bir zaman başbakanlık yapan **Jose Maria Aznar**, geçen ay bir **Amerikan** üniversitesinde yaptığı konuşmada, "Neden **Batı** hep özür dilemek **zorunda**, oysa ki **Müslüman** dünya bunu hiç **yapmıyor**. Bir Müslümanın çıkıp da **İspanya**'yı fethedip 8 asır **işgal ettiği** için **özür** dilediğini hiç duymadım" dedi.
 
 Destur ! Sayın **Aznar**, **Kristof Kolomb**'un keşfedip **Hindistan** zannettiği, **Americo Vespuççi'** nin adını koyduğu **Amerika** kıtasında siz değerli **İspanyollar,**  işlediğiniz cinayetler için ne zaman **özür** dileyeceksiniz ? Kendilerinden **özür** dilenecek **kimseler** dahi kalmadı ortada... Kime **özür** dileyecekseniz bir zaman önce "**dileyiniz"** ki yeryüzünde **insanoğlunun** vicdanı rahat etsin.
 

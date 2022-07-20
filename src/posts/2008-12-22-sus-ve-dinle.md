@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![arpa.jpg](/uploads/2008/12/arpa.jpg)](/uploads/2008/12/arpa.jpg "arpa.jpg")
+[![arpa.jpg](../uploads/2008/12/arpa.jpg)](../uploads/2008/12/arpa.jpg "arpa.jpg")
 
 Bir **nebze** yaşadım da **gördüm** ki, Pek kısaymış **ömür.** Bir **lahza** döndüm de **baktım** ki, Bir **arp**a boyu **yol** gitmişim. 
 

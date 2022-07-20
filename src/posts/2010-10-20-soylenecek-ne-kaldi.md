@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-[![sus.jpg](/uploads/2010/10/sus.jpg)](/uploads/2010/10/sus.jpg "sus.jpg")
+[![sus.jpg](../uploads/2010/10/sus.jpg)](../uploads/2010/10/sus.jpg "sus.jpg")
 
 Ben mi **bıraktım** söylemeyi Sen mi **kestin** dinlemeyi Ben miyim **susan** söylemeyen Sen misin **kesen** dinlemeyen
 

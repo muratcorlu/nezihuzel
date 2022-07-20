@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![mehmet_nazim_pasa.jpg](/uploads/2008/12/mehmet_nazim_pasa.jpg)](/uploads/2008/12/mehmet_nazim_pasa.jpg "mehmet_nazim_pasa.jpg")
+[![mehmet_nazim_pasa.jpg](../uploads/2008/12/mehmet_nazim_pasa.jpg)](../uploads/2008/12/mehmet_nazim_pasa.jpg "mehmet_nazim_pasa.jpg")
 
 Remz-i nükât-i **nâyi** duyan **Mevlevîleriz** 
 

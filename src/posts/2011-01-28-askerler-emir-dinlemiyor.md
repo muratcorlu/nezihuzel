@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![askerler.jpg](/uploads/2011/01/askerler.jpg)](/uploads/2011/01/askerler.jpg "askerler.jpg")
+[![askerler.jpg](../uploads/2011/01/askerler.jpg)](../uploads/2011/01/askerler.jpg "askerler.jpg")
 
 **Fransız** devriminde **Bastil kalesin**i basan halka karşı **silah** kullanmayı reddeden **askeri** birliğin kumandanı **Devrimin** önde gelen isimlerinden çok **daha değerli** bir **insanlık** hizmeti yapmıştı. O **tarihi** an yaşanmasaydı, **Devrimin** başarılı olması **ihtimali** yoktu.
 

@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-  **![](/uploads/image/Bilgisaya.jpg)  Villeurbanne**, France - A l'occasion de la fête de la **science**, l'espace **Double Mixte** de **Villeurbanne** présente un nouveau **concept** : un logiciel permettant d'**écrire** par sa simple **pensée.**
+  **![](../uploads/image/Bilgisaya.jpg)  Villeurbanne**, France - A l'occasion de la fête de la **science**, l'espace **Double Mixte** de **Villeurbanne** présente un nouveau **concept** : un logiciel permettant d'**écrire** par sa simple **pensée.**
 
 Ce **système** permet à la personne, équipée de **32 diodes**, d'écrire en **fixant** une lettre exposée **devant** elle : en attendant 6 à 24 **secondes**, elle apparaît sur l'**écran** de l**'ordinateur**. Il a été **créé** il y a **10 ans** par l'Institut national de la **santé** et de la **recherche médicale** (Inserm) et par **l'Institut national** de recherche en **informatique** et en automatique (**Inria).  
 **   

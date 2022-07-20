@@ -5,9 +5,9 @@ categories:
   - Destur
 ---
 
-[![usame.jpg](/uploads/2012/02/usame.jpg)](/uploads/2012/02/usame.jpg "usame.jpg")
+[![usame.jpg](../uploads/2012/02/usame.jpg)](../uploads/2012/02/usame.jpg "usame.jpg")
 
-[](/uploads/2012/02/usame.jpg "usame.jpg")(Arşiv’den)
+[](../uploads/2012/02/usame.jpg "usame.jpg")(Arşiv’den)
 
 Suudî Arabistan Dış İşleri Bakanı prens Suud el- Faysal’a göre “Suudî toprağında bulunan Amerikan üslerinden hareketle Irak’a yapılacak her türlü saldırı, bu üslerin savunmaya yönelik niteliğini bozmamak için uluslar arası toplumun onayından geçmelidir” Kuveyt KUNA Ajansına açıklama yapan Bakan, Irak’ın BM denetçilerine kapıları açmış olmasına rağmen bölgede savaş tehdidinin henüz sona ermediğini söyledi.
 

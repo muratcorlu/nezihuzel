@@ -5,7 +5,7 @@ categories:
   - Kargadan Haberler
 ---
 
-[![kazan.jpg](/uploads/2007/11/kazan.jpg)](/uploads/2007/11/kazan.jpg "kazan.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+[![kazan.jpg](../uploads/2007/11/kazan.jpg)](../uploads/2007/11/kazan.jpg "kazan.jpg")Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 
 \-Ne oldu ne **surat** asıyorsun ?\-Canım sıkılıyor**, gaaak.**
 

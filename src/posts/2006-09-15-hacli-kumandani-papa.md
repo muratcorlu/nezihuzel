@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![sovalyeler.jpg](/uploads/2006/09/sovalyeler.kucukresim.jpg)
+![sovalyeler.jpg](../uploads/2006/09/sovalyeler.kucukresim.jpg)
 
   
 

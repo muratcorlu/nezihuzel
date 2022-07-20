@@ -5,7 +5,7 @@ categories:
   - Kalender Çekirge
 ---
 
-[![yusufcuk.jpg](/uploads/2008/11/yusufcuk.jpg)](/uploads/2008/11/yusufcuk.jpg "yusufcuk.jpg")
+[![yusufcuk.jpg](../uploads/2008/11/yusufcuk.jpg)](../uploads/2008/11/yusufcuk.jpg "yusufcuk.jpg")
 
 Biri dedi ki :-**Yusufçuk,** Gün akşam oldu, **hava** kararıyor **Kalender** sana kötü örnek oluyor, **Yusufçuk** titredi, sandılar ki **yürekten** soluyor   Hemen cevap vermedi, **silkindi** bekledi bir an **Başı** kuyruğundan geniş, **karnı** da kocaman Kardeş dedi, **Yusufçuk** az duyulan bir **sesle** -Örneğin **iyisi kötüsü** olmaz, yeter ki sen **ümit besle**
 

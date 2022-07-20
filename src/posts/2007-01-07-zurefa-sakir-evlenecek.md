@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-                                     **![000024-girafe.jpg](/uploads/2007/01/000024-girafe.jpg)**
+                                     **![000024-girafe.jpg](../uploads/2007/01/000024-girafe.jpg)**
 
 **Türkiye**'nin en büyük, Avrupa'nın **4'üncü** büyük hayvanat bahçesi olan **Gaziantep Hayvanat Bahçesi'**ndeki beş yaşındaki **'Şakir'** adı verilen zürafaya, Almanya'dan  gelin getirilecek.
 

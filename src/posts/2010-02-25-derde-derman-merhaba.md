@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/muhammed6se.jpg)
+![](../uploads/image/muhammed6se.jpg)
 
 Yaradılmış cümle alem oldu şâdıman  
 Gam gidüp âlem yeniden buldu can  

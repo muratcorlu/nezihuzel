@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-_![](/uploads/image/eser.jpg)_
+_![](../uploads/image/eser.jpg)_
 
 _Tanburî rahmetli **Dürri Turan** üstad hakkında yayılanacak bir kitap  için telefonda **nazik bir ses** benden katkıda bulunmamı **rıca** ettiğinde bir **makale** yazacak kadar **bilgi sahibi** olmadığımı ileri sürerek **itiraz** etmiştim. Sonra **nazik** sesîn sahibini  kırmayarak **görevi** üstlendim. Böylece yıllar önce **küllenmiş** eski bir hatıra, **zamanı** aralayarak sabah gün **doğmadan** önce doğdu._
 

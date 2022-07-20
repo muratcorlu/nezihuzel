@@ -5,7 +5,7 @@ categories:
   - Kaptanın Seyir Defteri
 ---
 
-![](/uploads/image/paris.jpg)
+![](../uploads/image/paris.jpg)
 
 Bir haftadır **Paristeyim**. Aziz dostum **Karavaj**’ı görmeye geldim. **Karavaj**’la tanışalı üç yıl oldu. İlk defa yine **Paris**’te karşılaşmıştık. Bir **sabah** vakti eskiden **Fransız** krallarının  oturduğu bir sarayın bahçesi olan **Bagatelle** parkında bir araya gelmiştik. **O zaman** henüz tanışmıyorduk.
 
@@ -13,7 +13,7 @@ Vakit sabahın **körüydü** ortalık daha aydınlanmamıştı. **Karavaj** o s
 
 **Binicisi** geldiğinde sabahın ilk **ışıkları** belirmek üzereydi, yine de **Karavaj**’ın bakıcısı ve **binicisi** zorlukla seçiliyordu. Sonunda **suvari** bir hamlede uzun boylu, güçlü kuvvetli **hayvanın** üzerine çıktı. **Dizgini**, üzengiyi, **seleyi** düzeltti, yoluna koydu, eteğini **başlığını** yokladı. Bakıcı uzaklaşırken adam ve **Karavaj** tek bir **bedene** benziyordu. Sanki **birlikte** yaratılmışlardı. Nitekim az sonra da hep birlikte **hareket** edeceklerdi. Hiç ayrılmayacaklardı.
 
-**![](/uploads/image/karavaj.jpg)**
+**![](../uploads/image/karavaj.jpg)**
 
 **O bir  delikanlı  
 **  
@@ -23,7 +23,7 @@ Bu **Karavaj** onbir yaşında bir **at**… Pek güzel **gözleri,** lepiska **
 
 Şimdi  bu gösteri **Parisli**’lere canlı olarak sunuluyor. Adı “**Levé du soleil: Güneşin Doğuşu**” Sabah güneş doğmadan önce karanlıkta başlıyor ve **bir buçuk saat** kadar sürüyor. O sırada biz değerli **Kutsi Erguner**’le birlikte müzik icra ediyoruz. O **ney** üflüyor, ben **bendir** vurup ilahi, nefes, **türkü** okuyorum. Bizim kaset **nihavent** ağırlıklı eserlerden oluştuğu için bana başından beri “**nihavent**” makamından ayrılma dediler. At **nihavend**’e alışkınmış… **Ritm’l**eri de tanıyor.
 
-**![](/uploads/image/karavaj2.jpg)  
+**![](../uploads/image/karavaj2.jpg)  
 **
 
 **Dört kişi olduk**

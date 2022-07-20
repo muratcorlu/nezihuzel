@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![mevl.jpg](/uploads/2011/11/mevl.jpg)](/uploads/2011/11/mevl.jpg "mevl.jpg")(Arşiv'den) Ölüm yıldönümü kutlanmaz. İslam yaşam biçiminde ölüm yıldönümü diye bir şey yoktur. Bir insan öldüğünde onun arkasından tören yapmak, “ah …vah…” etmek matem tutmak müslümana yakışmaz böyle şey İslam’da yoktur.. Her yıl doğum günü veya   ölüm yılı kutlamak da yoktur. Kitaba bağlı İslam geleneği Ölüm konusunda tarihler boyunca denenmiş herşeyi sollayarak “Kur’an okuma geleneği” getirmiştir. Ölünün ruhuna Kur’an okunur ve bu devamlı tekrarlanır…
+[![mevl.jpg](../uploads/2011/11/mevl.jpg)](../uploads/2011/11/mevl.jpg "mevl.jpg")(Arşiv'den) Ölüm yıldönümü kutlanmaz. İslam yaşam biçiminde ölüm yıldönümü diye bir şey yoktur. Bir insan öldüğünde onun arkasından tören yapmak, “ah …vah…” etmek matem tutmak müslümana yakışmaz böyle şey İslam’da yoktur.. Her yıl doğum günü veya   ölüm yılı kutlamak da yoktur. Kitaba bağlı İslam geleneği Ölüm konusunda tarihler boyunca denenmiş herşeyi sollayarak “Kur’an okuma geleneği” getirmiştir. Ölünün ruhuna Kur’an okunur ve bu devamlı tekrarlanır…
 
 Fırsat aranmaz. Tarihleri karıştırıp “bu adam hangi gün öldüydü” demek en azında terbiye dışıdır. Ölüye rüşvet vermek gibi… Doğaya aykırıdır. Bir Müslüman öldüyse hayırla yad edilir, şerle yad edilenleri de vardır, onlar için de “Allah günahlarını affetsin…” denir o kadar. Şimdi Mevlânâ‘yı anacaklar… Mevlânâ‘nın   anılmadığı gün var mıdır ?
 

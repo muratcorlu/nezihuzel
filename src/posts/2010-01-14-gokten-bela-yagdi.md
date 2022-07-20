@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-**![](/uploads/image/yunusss.jpg)**
+**![](../uploads/image/yunusss.jpg)**
 
 **Yunus Peygamber**’in kavmine bir bela gelip çattı.  
 **Gökten** ateş dolu bir bulut ayrıldı. Yıldırımlar saçıyor,  

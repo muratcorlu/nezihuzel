@@ -5,7 +5,7 @@ categories:
   - Günün Çilesi
 ---
 
-[![post-12136-1211467710.jpg](/uploads/2008/12/post-12136-1211467710.jpg)](/uploads/2008/12/post-12136-1211467710.jpg "post-12136-1211467710.jpg")
+[![post-12136-1211467710.jpg](../uploads/2008/12/post-12136-1211467710.jpg)](../uploads/2008/12/post-12136-1211467710.jpg "post-12136-1211467710.jpg")
 
 Cümleye mutlu ve **hayırlı** seneler Gelen yılda **bitsin** bu dertler, çileler Arda kalsın şu **belalar** gaileler Kapansın **tez vakitte** mel'un  çeneler
 

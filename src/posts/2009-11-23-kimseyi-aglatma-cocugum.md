@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**![](/uploads/image/aglayan-cocuk.jpg)**
+**![](../uploads/image/aglayan-cocuk.jpg)**
 
 **Geceyi** öğrendin ya  
 Gündüzü de **öğren**  

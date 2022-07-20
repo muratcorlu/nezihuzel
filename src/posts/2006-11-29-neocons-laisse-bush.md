@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-[![adsiz.bmp](/uploads/2006/11/adsiz.bmp)](http://nezihuzel.net/2006/11/29/neocons-laisse-bush/adsizbmp/ "adsiz.bmp")
+[![adsiz.bmp](../uploads/2006/11/adsiz.bmp)](http://nezihuzel.net/2006/11/29/neocons-laisse-bush/adsizbmp/ "adsiz.bmp")
 
 **David Frum, Kenneth Adelman et Richard Perle**
 
@@ -23,6 +23,6 @@ Un des ennuis pour l'entourage de **Bush** est le fait que les **trusts** et les
 
 Ainsi, il n'est pas **étonnant** que quelques-uns des **néoconservateurs** qui avaient, en 2003, **approuvé** les justifications politiques de la campagne contre **Saddam Hussein**, aient déjÃƒÂ  **quitté** (par précaution) début novembre 2006 le **navire de guerre Bush**, qui est en train de sombrer. **Richard Perle,** le porte-parole le plus important de la **guerre contre l'Irak**, a déclaré hypocritement ÃƒÂ  la revue **_Vanity Fair_,** qu' «  _il n'aurait pas soutenu la guerre contre **Saddam Hussein** s'il avait su ÃƒÂ  quel point le **gouvernement Bush** la mènerait mal. Après tout c'est le **Président** qui est responsable de cette **débâcle**_   **»**  . **Kenneth Adelman,** conseiller politique en matière de **sécurité du gouvernement**, a même jugé que le gouvernement **Bush** s'est avéré être  «  _d'une **incompétence manifeste**  ; du jamais vu depuis la Seconde **Guerre mondiale**_   ». **David Frum**, l'ancien auteur des **discours de Bush,** qui avait participé ÃƒÂ  la mise au point du discours sur  «  **l'Axe du mal**   », a commencé ÃƒÂ  critiquer **ouvertement** l'ancien **boss** pour lequel il avait travaillé auparavant avec **dévouement.** Il a déclaré que  :  «  _Même si le **Président** a prononcé ses discours, il semble qu'il n'ait pas saisi le **sens des mots**_   ».
 
-**[![norman.jpg](/uploads/2006/11/norman.kucukresim.jpg)](http://nezihuzel.net/2006/11/29/neocons-laisse-bush/adsizbmp/ "adsiz.bmp")Norman Podhoretz** (né en 1930), légende vivante du **néoconservatisme**, un des **pères** fondateurs de ce **mouvement,** ne veut absolument rien **savoir** de tout cela. Il affirme dans son article du mois de septembre dans le _**Commentary**_ que la doctrine de **Bush** vivrait encore longtemps  ; tout n'est qu'un **malentendu**, une appréciation **incorrecte** de la personne du **Président.** Le **néo conservatisme** vit  ; même si de plus en plus de **collaborateurs** disparaissent dans la **nature.**  
+**[![norman.jpg](../uploads/2006/11/norman.kucukresim.jpg)](http://nezihuzel.net/2006/11/29/neocons-laisse-bush/adsizbmp/ "adsiz.bmp")Norman Podhoretz** (né en 1930), légende vivante du **néoconservatisme**, un des **pères** fondateurs de ce **mouvement,** ne veut absolument rien **savoir** de tout cela. Il affirme dans son article du mois de septembre dans le _**Commentary**_ que la doctrine de **Bush** vivrait encore longtemps  ; tout n'est qu'un **malentendu**, une appréciation **incorrecte** de la personne du **Président.** Le **néo conservatisme** vit  ; même si de plus en plus de **collaborateurs** disparaissent dans la **nature.**  
 
 (Courtoisie: **Jürgen Cain Külbel-Reseau** **Voltaire**)

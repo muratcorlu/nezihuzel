@@ -5,7 +5,7 @@ categories:
   - Baş Yazı
 ---
 
-![tali-bush.jpg](/uploads/2006/10/tali-bush.kucukresim.jpg)  
+![tali-bush.jpg](../uploads/2006/10/tali-bush.kucukresim.jpg)  
 
 Birleşik Amerika Cumhurbaşkanı **George Bush** Beyaz Sarayda **iftar çadırı** kurdu. **Oval Ofis'te** düzenlenen İftar Çadırında **Müslüman Ülkelerin** temsilcilerini ağırladı ve kendilerine çorba, balık, **domates** salatası, ve **armut** suflesi ikram eti. Masada **iftariyelik** bulunup bulunmadığı **belirtilmiyor**... Aslında **Yemen** hurması, **Ayvalık** zeytini, **Ezine** peyniri, **Erzincan** tulumu, **Tekirdağ** kaşarı, **Kayseri** pastırması, **turşu,** tükenmez, envai çeşit **reçel** ve tereyağı, Künafe, **Baklava**, **Şam** tatlısı ve güllaç da **sofrada** bulunmalıydı... İnşallah gelecek **ramazana...**
 
@@ -17,7 +17,7 @@ Birleşik Amerika Cumhurbaşkanı **George Bush** Beyaz Sarayda **iftar çadır�
 
 İftar sona erdiğinde **Müslüman** ülkelerinin temsilcileri **cadillac'larına**, **limuısin**'lerine binerek **Beyaz Saray'dan** uzaklaştılar. Hiç biri o gece **uzaklarda** atılan bombaların, sokaklarda **kan içinde** yerlerde çırpınan **kadınların**, **çocukların** seslerini duymadılar. Çok **yemek** yemişlerdi...
 
-**![richard.jpg](/uploads/2006/10/richard.jpg)**
+**![richard.jpg](../uploads/2006/10/richard.jpg)**
 
 **Haçlı Seferlerinin** ünlü İngiliz Kralı "**Richard"**a çağdaşları "**Arslan yürekli Richard**" demişlerdi. Bu **"Arslan yürekli Richard**"   11 temmuz 1191'de **Akka kalesinin** önünde esir düşen ve **vatanını savunmaktan** başka **suçu** olmayan ikibin yediyüz **Müslüman askerini, aile ve çocukları ile** birlikte iplerle bağlatarak **şovalyelerine** kargı, mızrak, **topuz**, ok, yay, **şiş** ve yatağanla öldürttü... **Katliam,** son iniltiler kesilinceye kadar **saatlerce** sürdü. **Batı** tarihçileri Bu krala neden "**Arslan** **yürekli**" demişler, merak eder dururum. Çizilen **tablonun** **vahşetinden** mi acaba... ?   " **Arslan Yürekli"**   bu savaştan sonra çevresine topladığı **insanlıktan çıkmış** köpek suratlı **Arap emirlerine** o zaman iftar yemeği verdi miydi **acaba** ? onu da merak ediyorum.
 

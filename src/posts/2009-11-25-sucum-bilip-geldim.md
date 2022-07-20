@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-![](/uploads/image/mescidi_nebevi_.jpg)  
+![](../uploads/image/mescidi_nebevi_.jpg)  
 Kapına geldi **âsîler,**  
 Şefâat Yâ **Resûlallah!  
 Suçunu** bildi kâsîler,  

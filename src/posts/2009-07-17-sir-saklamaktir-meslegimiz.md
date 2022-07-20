@@ -5,7 +5,7 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/800px-Sympetrum_flaveolum_-_side_(aka)(1).jpg)
+![](../uploads/image/800px-Sympetrum_flaveolum_-_side_(aka)(1).jpg)
 
 Aşkına âşıktı ya **Yusufçuk**  
 Aklı f**ikrinden** bir karış uçuk  

@@ -5,5 +5,5 @@ categories:
   - Destur
 ---
 
-![](/uploads/image/tarikat.jpg)  
+![](../uploads/image/tarikat.jpg)  
 No Comments: Ankara 2009

@@ -5,7 +5,7 @@ categories:
   - Planéte
 ---
 
-![](/uploads/image/8249.jpg)
+![](../uploads/image/8249.jpg)
 
 Le président israélien Shimon Peres a adressé un message audio de voeux au peuple iranien à l'occasion de la fête de Nowruz, le nouvel an iranien, exhortant "la noble nation iranienne" à "retrouver sa juste place parmi les nations développées". Dans cet enregistrement, diffusé vendredi sur les ondes de la radio en farsi de la Voix d'Israël, qui émet vers l'Iran, le président israélien loue la culture persane. Ce message coïncide avec la vidéo adressée par le président américain Barack Obama à l'Iran à l'occasion de Nowruz.  
 "Je me tourne vers la noble nation iranienne, au nom de l'ancienne nation juive, et je souhaite qu'elle retrouve sa juste place parmi les pays développés", déclare-t-il dans ce message de voeux.  

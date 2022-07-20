@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-**[![galata_mevlevihanesi_1.jpg](/uploads/2007/10/galata_mevlevihanesi_1.jpg)](/uploads/2007/10/galata_mevlevihanesi_1.jpg "galata_mevlevihanesi_1.jpg")**Â  Resim: Galata MevlevîhÃ¢nesi, İstanbul Sema Grubu,Â 80'li yıllar.
+**[![galata_mevlevihanesi_1.jpg](../uploads/2007/10/galata_mevlevihanesi_1.jpg)](../uploads/2007/10/galata_mevlevihanesi_1.jpg "galata_mevlevihanesi_1.jpg")**Â  Resim: Galata MevlevîhÃ¢nesi, İstanbul Sema Grubu,Â 80'li yıllar.
 
 **İstanbul**’un beş **MevlevihÃ¢ne**’sinden üçü kapılarını açtı, kaldı iki **Mevlevîhane**... Açılanlar sırası ile **Galata MevlevîhÃ¢nesi, ÃsküdarÂ  MevlevîhÃ¢nesi, Yenikapı MevlevîhÃ¢nesi...** Geriye kalan iki **Mevlevîhane** de **Kasımpaşa** ve **Bahariye**...
 

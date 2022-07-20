@@ -5,7 +5,7 @@ categories:
   - Dervish
 ---
 
-[![melankoli_m58.jpg](/uploads/2007/10/melankoli_m58.jpg)](/uploads/2007/10/melankoli_m58.jpg "melankoli_m58.jpg")
+[![melankoli_m58.jpg](../uploads/2007/10/melankoli_m58.jpg)](../uploads/2007/10/melankoli_m58.jpg "melankoli_m58.jpg")
 
 **Gam** da ne oluyor ki adını analım,
 
